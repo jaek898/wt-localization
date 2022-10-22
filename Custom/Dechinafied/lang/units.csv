@@ -2168,7 +2168,7 @@ uk_centurion_mk_10_0;Centurion Mk 10
 uk_centurion_mk_10_1;Centurion Mk 10
 uk_centurion_mk_10_2;Centurion Mk 10
 uk_charioteer_mk_7_shop;Charioteer Mk VII
-uk_charioteer_mk_7_0;Tank Medium Gun Charioteer Mk VII
+uk_charioteer_mk_7_0;Tank, Medium Gun, Charioteer Mk VII
 uk_charioteer_mk_7_1;Charioteer Mk VII
 uk_charioteer_mk_7_2;Charioteer Mk VII
 uk_crusader_mk_2_the_saint_shop;Crusader "The Saint"
@@ -3034,10 +3034,10 @@ i-15_1935_shop;I-15 M-22
 i-15_1935_0;I-15 M-22
 i-15_1935_2;I-15 M-22
 i-15_1935_1;I-15 M-22
-i-15_1935_moscow_shop;I-15R
-i-15_1935_moscow_0;I-15R
-i-15_1935_moscow_1;I-15R
-i-15_1935_moscow_2;I-15R
+i-15_1935_moscow_shop;I-15 M-25
+i-15_1935_moscow_0;I-15 M-25
+i-15_1935_moscow_1;I-15 M-25
+i-15_1935_moscow_2;I-15 M-25
 shop/group/i-15_group;I-15
 shop/group/i-15_china_group;I-15
 i-16_type18_shop;I-16 type 18
@@ -3488,18 +3488,18 @@ hs-129b-2_shop;Hs 129 B-2
 hs-129b-2_0;Hs 129 B-2
 hs-129b-2_1;Hs 129 B-2
 hs-129b-2_2;Hs 129 B-2
-hurricane_mk1_shop;Hurricane Mk I [L]
-hurricane_mk1_0;Hurricane Mk I Late
-hurricane_mk1_1;Hurricane Mk I [L]
-hurricane_mk1_2;Hurricane Mk I [L]
+hurricane_mk1_shop;Hurricane Mk I
+hurricane_mk1_0;Hurricane Mk I
+hurricane_mk1_1;Hurricane Mk I
+hurricane_mk1_2;Hurricane Mk I
 hurricane_mk1_late_shop;Hurricane Mk I [L]
 hurricane_mk1_late_0;Hurricane Mk I Late
 hurricane_mk1_late_1;Hurricane Mk I [L]
 hurricane_mk1_late_2;Hurricane Mk I [L]
-hurricane_mk1_late_ep_shop;Hurricane Mk.I [L] FAA M
-hurricane_mk1_late_ep_0;Hurricane Mk.I Late FAA M
-hurricane_mk1_late_ep_1;Hurricane Mk.I [L] FAA M
-hurricane_mk1_late_ep_2;Hurricane Mk.I [L] FAA M
+hurricane_mk1_late_ep_shop;Hurricane Mk I FAA M
+hurricane_mk1_late_ep_0;Hurricane Mk I FAA M
+hurricane_mk1_late_ep_1;Hurricane Mk I FAA M
+hurricane_mk1_late_ep_2;Hurricane Mk I FAA M
 ki_43_3_otsu_shop;Ki-43-III Otsu
 ki_43_3_otsu_0;Ki-43-III Otsu Hayabusa
 ki_43_3_otsu_1;Ki-43-III Otsu
@@ -5220,10 +5220,10 @@ f-86f-40_japan_blue_impulse_shop;▅F-86F-40 JASDF
 f-86f-40_japan_blue_impulse_0;▅F-86F-40 JASDF Sabre
 f-86f-40_japan_blue_impulse_1;▅F-86F-40 JASDF
 f-86f-40_japan_blue_impulse_2;▅F-86F-40
-t2_shop;T-2
-t2_0;Mitsubishi T-2
-t2_1;T-2
-t2_2;T-2
+t2_shop;T-2 [L]
+t2_0;Mitsubishi T-2 Late
+t2_1;T-2 [L]
+t2_2;T-2 [L]
 f1_shop;F-1
 f1_0;Mitsubishi F-1
 f1_1;F-1
@@ -11231,3 +11231,159 @@ germ_battleship_ostfriesland_shop;SMS Ostfriesland
 germ_battleship_ostfriesland_0;Helgoland-class, SMS Ostfriesland, 1911
 germ_battleship_ostfriesland_1;SMS Ostfriesland
 germ_battleship_ostfriesland_2;SMS Ostfriesland
+germ_sdkfz_251_9_shop;Sd.Kfz.251/9
+germ_sdkfz_251_9_0;m.Schütz.Pz.Wg. (Sd.Kfz.251/9)
+germ_sdkfz_251_9_1;Sd.Kfz.251/9
+germ_sdkfz_251_9_2;Sd.Kfz.251/9
+uk_a_22f_mk_7_churchill_crocodile_shop;Churchill Crocodile
+uk_a_22f_mk_7_churchill_crocodile_0;Tank, Infantry, Mk IV, Churchill VII (A22F) Crocodile
+uk_a_22f_mk_7_churchill_crocodile_1;Churchill Crocodile
+uk_a_22f_mk_7_churchill_crocodile_2;Churchill Crocodile
+uk_bosvark_shop;Bosvark
+uk_bosvark_0;Bosvark
+uk_bosvark_1;Bosvark
+uk_bosvark_2;Bosvark
+fr_vab_santal_shop;SANTAL
+fr_vab_santal_0;Véhicule de l'Avant Blindé, SANTAL
+fr_vab_santal_1;SANTAL
+fr_vab_santal_2;SANTAL
+a_20g_30_ussr_shop;▂A-20G-30
+a_20g_30_ussr_0;▂A-20G-30 Havoc
+a_20g_30_ussr_1;▂A-20G-30
+a_20g_30_ussr_2;▂A-20G-30
+fw_190a_5_u14_shop;Fw 190 A-5/U14
+fw_190a_5_u14_0;Fw 190 A-5/U14
+fw_190a_5_u14_1;Fw 190 A-5/U14
+fw_190a_5_u14_2;Fw 190 A-5/U14
+q_5l_shop;Q-5L
+q_5l_0;Q-5L "Fantan"
+q_5l_1;Q-5L
+q_5l_2;Q-5L
+t2_early_shop;T-2 [E]
+t2_early_0;T-2 Early
+t2_early_1;T-2 [E]
+t2_early_2;T-2 [E]
+a_6e_tram_shop;A-6E TRAM
+a_6e_tram_0;A-6E TRAM Intruder
+a_6e_tram_1;A-6E TRAM
+a_6e_tram_2;A-6E TRAM
+douglas_a_1h_shop;A-1H
+douglas_a_1h_0;A-1H Skyraider
+douglas_a_1h_1;A-1H
+douglas_a_1h_2;A-1H
+fokker_d21_serie3_finland_shop;▄Fokker D.XXI
+fokker_d21_serie3_finland_0;▄Fokker D.XXI Series 3
+fokker_d21_serie3_finland_1;▄Fokker D.XXI
+fokker_d21_serie3_finland_2;▄Fokker D.XXI
+b_239_finland_shop;▄B-239
+b_239_finland_0;▄Brewster Model 239
+b_239_finland_1;▄B-239
+b_239_finland_2;▄B-239
+hurricane_mk1_late_finland_shop;▄Hurricane Mk I
+hurricane_mk1_late_finland_0;▄Hurricane Mk I
+hurricane_mk1_late_finland_1;▄Hurricane Mk I
+hurricane_mk1_late_finland_2;▄Hurricane Mk I
+bf-109g-2_finland_shop;▄Bf 109 G-2
+bf-109g-2_finland_0;▄Bf 109 G-2
+bf-109g-2_finland_1;▄Bf 109 G-2
+bf-109g-2_finland_2;▄Bf 109 G-2
+bf-109g-6_erla_finland_shop;▄Bf 109 G-6 [Erla]
+bf-109g-6_erla_finland_0;▄Bf 109 G-6 [Erla Canopy]
+bf-109g-6_erla_finland_1;▄Bf 109 G-6 [Erla]
+bf-109g-6_erla_finland_2;▄Bf 109 G-6 [Erla]
+vampire_fb52_finland_shop;▄Vampire FB.52A
+vampire_fb52_finland_0;▄Vampire FB.52A
+vampire_fb52_finland_1;▄Vampire FB.52A
+vampire_fb52_finland_2;▄Vampire FB.52A
+ju-88a-4_finland_shop;▄Ju 88 A-4
+ju-88a-4_finland_0;▄Ju 88 A-4
+ju-88a-4_finland_1;▄Ju 88 A-4
+ju-88a-4_finland_2;▄Ju 88 A-4
+hunter_f50_sweden_shop;J34
+hunter_f50_sweden_0;J34 Hunter
+hunter_f50_sweden_1;J34
+hunter_f50_sweden_2;J34
+mig_21_bis_finland_shop;▄MiG-21bis
+mig_21_bis_finland_0;▄MiG-21bis "Fishbed-N"
+mig_21_bis_finland_1;▄MiG-21bis
+mig_21_bis_finland_2;▄MiG-21bis
+us_m1a2_sep_abrams_shop;M1A2 SEP
+us_m1a2_sep_abrams_0;Tank, Combat, Full Tracked, 120mm Gun M1A2 System Enhancement Package (Tank Urban Survival Kit)
+us_m1a2_sep_abrams_1;Tank, Combat, Full Tracked, 120mm Gun M1A2 System Enhancement Package (Tank Urban Survival Kit)
+us_m1a2_sep_abrams_2;M1A2 SEP
+il_zsu_57_2_shop;ZSU-57-2
+il_zsu_57_2_0;ZSU-57-2
+il_zsu_57_2_1;ZSU-57-2
+il_zsu_57_2_2;ZSU-57-2
+il_tcm_20_shop;TCM-20
+il_tcm_20_0;TCM-20
+il_tcm_20_1;TCM-20
+il_tcm_20_2;TCM-20
+it_as_42_47_shop;AS 42/47
+it_as_42_47_0;Camionetta AS 42 Tipo II ""Metropolitana"" 47/32
+it_as_42_47_1;AS 42/47
+it_as_42_47_2;AS 42/47
+sw_a_34_comet_shop;▄Comet I
+sw_a_34_comet_0;▄Tank, Cruiser, Comet I (A34)
+sw_a_34_comet_1;▄Comet I
+sw_a_34_comet_2;▄Comet I
+sw_charioteer_mk_7_shop;▄Charioteer Mk VII
+sw_charioteer_mk_7_0;▄Tank, Medium Gun, Charioteer Mk VII
+sw_charioteer_mk_7_1;▄Charioteer Mk VII
+sw_charioteer_mk_7_2;▄Charioteer Mk VII
+sw_pzkpfw_IV_ausf_J_shop;▄Pz.IV J
+sw_pzkpfw_IV_ausf_J_0;▄Pz.Kpfw. IV Ausf. J
+sw_pzkpfw_IV_ausf_J_1;▄Pz.IV J
+sw_pzkpfw_IV_ausf_J_2;▄Pz.IV J
+sw_t_28_shop;▄T-28
+sw_t_28_0;▄T-28
+sw_t_28_1;▄T-28
+sw_t_28_2;▄T-28
+sw_t_34_1941_shop;▄T-34 (1941)
+sw_t_34_1941_0;▄T-34 (1941)
+sw_t_34_1941_1;▄T-34 (1941)
+sw_t_34_1941_2;▄T-34 (1941)
+sw_t_34_85_zis_53_shop;▄T-34-85
+sw_t_34_85_zis_53_0;▄T-34-85
+sw_t_34_85_zis_53_1;▄T-34-85
+sw_t_34_85_zis_53_2;▄T-34-85
+sw_leopard_2a4_fin_shop;▄Leopard 2A4
+sw_leopard_2a4_fin_0;▄Leopard 2A4
+sw_leopard_2a4_fin_1;▄Leopard 2A4
+sw_leopard_2a4_fin_2;▄Leopard 2A4
+sw_t_72m1_shop;▄T-72M1
+sw_t_72m1_0;▄T-72M1
+sw_t_72m1_1;▄T-72M1
+sw_t_72m1_2;▄T-72M1
+sw_t_54_1951_shop;▄T-54 (1951)
+sw_t_54_1951_0;▄T-54 (1951)
+sw_t_54_1951_1;▄T-54 (1951)
+sw_t_54_1951_2;▄T-54 (1951)
+sw_pt_76b_shop;▄PT-76B
+sw_pt_76b_0;▄PT-76B
+sw_pt_76b_1;▄PT-76B
+sw_pt_76b_2;▄PT-76B
+jp_battleship_fuso_shop;IJN Fuso
+jp_battleship_fuso_0;Fuso-class, IJN Fuso, 1944
+jp_battleship_fuso_1;IJN Fuso
+jp_battleship_fuso_2;IJN Fuso
+uk_battlecruiser_glorious_shop;HMS Glorious
+uk_battlecruiser_glorious_0;Courageous-class, HMS Glorious, 1919
+uk_battlecruiser_glorious_1;HMS Glorious
+uk_battlecruiser_glorious_2;HMS Glorious
+ger_type152_hugin_shop;Hugin
+ger_type152_hugin_0;152-class, Hugin (P6191)
+ger_type152_hugin_1;Hugin
+ger_type152_hugin_2;Hugin
+us_cruiser_fargo_class_shop;USS Fargo
+us_cruiser_fargo_class_0;
+us_cruiser_fargo_class_1;USS Fargo
+us_cruiser_fargo_class_2;USS Fargo
+us_destroyer_gearing_frank_knox_shop;USS Frank Knox
+us_destroyer_gearing_frank_knox_0;Gearing-class, Frank Knox (DD-742), 1944
+us_destroyer_gearing_frank_knox_1;USS Frank Knox
+us_destroyer_gearing_frank_knox_2;USS Frank Knox
+it_gabbiano_class_c16_shop;RN Folaga
+it_gabbiano_class_c16_0;Gabbiano-class, RN Folaga, 1953
+it_gabbiano_class_c16_1;RN Folaga
+it_gabbiano_class_c16_2;RN Folaga
