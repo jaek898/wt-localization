@@ -3168,17 +3168,17 @@ thunderbolt_mk1_0;▄Thunderbolt Mk I
 thunderbolt_mk1_1;▄Thunderbolt Mk I
 thunderbolt_mk1_2;▄Thunderbolt Mk I
 p-47d_23_re_shop;▄P-47D-23
-p-47d_23_re_0;▄P-47D-23 RE Thunderbolt
+p-47d_23_re_0;▄P-47D-23-RE Thunderbolt
 p-47d_23_re_1;▄P-47D-23
 p-47d_23_re_2;▄P-47D-23
 p-47d_16_re_germany_shop;▀P-47D-16
 p-47d_16_re_germany_0;▀P-47D-16-RE Thunderbolt
 p-47d_16_re_germany_1;▀P-47D-16
 p-47d_16_re_germany_2;▀P-47D-16
-p-47d_luftwaffe_shop;▀P-47D
-p-47d_luftwaffe_0;▀P-47D Thunderbolt
-p-47d_luftwaffe_1;▀P-47D
-p-47d_luftwaffe_2;▀P-47D
+p-47d_luftwaffe_shop;▀P-47D-25
+p-47d_luftwaffe_0;▀P-47D-25 Thunderbolt
+p-47d_luftwaffe_1;▀P-47D-25
+p-47d_luftwaffe_2;▀P-47D-25
 f-84f_germany_shop;▀F-84F
 f-84f_germany_0;▀F-84F Thunderstreak
 f-84f_germany_1;▀F-84F
@@ -3380,10 +3380,10 @@ b6n2a_shop;B6N2a mod. 12 Ko
 b6n2a_0;B6N2a mod. 12 Ko
 b6n2a_1;B6N2a mod. 12 Ko
 b6n2a_2;B6N2a mod. 12 Ko
-beaufighter_mk1_40mm_shop;Beaufighter Mk I (40mm)
-beaufighter_mk1_40mm_0;Beaufighter Mk I Prototype (40mm)
-beaufighter_mk1_40mm_1;Beaufighter Mk I (40mm)
-beaufighter_mk1_40mm_2;Beaufighter Mk I (40mm)
+beaufighter_mk1_40mm_shop;Beaufighter Mk I [40]
+beaufighter_mk1_40mm_0;Beaufighter Mk I [40mm Prototype]
+beaufighter_mk1_40mm_1;Beaufighter Mk I [40]
+beaufighter_mk1_40mm_2;Beaufighter Mk I [40]
 beaufighter_mk21_shop;Beaufighter Mk XXI
 beaufighter_mk21_0;Beaufighter Mk XXI
 beaufighter_mk21_1;Beaufighter Mk XXI
@@ -5669,10 +5669,10 @@ sb2c_1c_shop;SB2C-1C
 sb2c_1c_0;SB2C-1C Helldiver
 sb2c_1c_1;SB2C-1C
 sb2c_1c_2;SB2C-1C
-j2m5_30mm_shop;J2M5 [Type 5]
-j2m5_30mm_0;J2M5 Raiden [Type 5]
-j2m5_30mm_1;J2M5 [Type 5]
-j2m5_30mm_2;J2M5 [Type 5]
+j2m5_30mm_shop;J2M5 [30]
+j2m5_30mm_0;J2M5 Raiden [30mm Type 5]
+j2m5_30mm_1;J2M5 [30]
+j2m5_30mm_2;J2M5 [30]
 do_17e_1_shop;Do 17 E-1
 do_17e_1_0;Do 17 E-1
 do_17e_1_1;Do 17 E-1
@@ -8225,14 +8225,14 @@ saab_b18b_shop;B18B
 saab_b18b_0;B18B
 saab_b18b_1;B18B
 saab_b18b_2;B18B
-saab_t18b_1_shop;T18B
-saab_t18b_1_0;T18B
-saab_t18b_1_1;T18B
-saab_t18b_1_2;T18B
-saab_t18b_2_shop;T18B [57]
-saab_t18b_2_0;T18B [57]
-saab_t18b_2_1;T18B [57]
-saab_t18b_2_2;T18B [57]
+saab_t18b_1_shop;T18B-1
+saab_t18b_1_0;T18B-1
+saab_t18b_1_1;T18B-1
+saab_t18b_1_2;T18B-1
+saab_t18b_2_shop;T18B-2
+saab_t18b_2_0;T18B-2
+saab_t18b_2_1;T18B-2
+saab_t18b_2_2;T18B-2
 saab_j35d_shop;J35D
 saab_j35d_0;J35D Draken
 saab_j35d_1;J35D
