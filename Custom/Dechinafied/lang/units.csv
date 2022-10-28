@@ -10586,7 +10586,7 @@ hkp9a_cb3_fc_2;HKP9A (FC)
 us_lav_ad_shop;LAV-AD
 us_lav_ad_0;LAV-AD
 us_lav_ad_1;LAV-AD
-us_lav_ad_2;SPAA
+us_lav_ad_2;LAV-AD
 mig_23mla_shop;▀MiG-23MLA
 mig_23mla_0;▀MiG-23MLA "Flogger-G"
 mig_23mla_1;▀MiG-23MLA
@@ -11310,7 +11310,7 @@ mig_21_bis_finland_2;▄MiG-21bis
 us_m1a2_sep_abrams_shop;M1A2 SEP
 us_m1a2_sep_abrams_0;Tank, Combat, Full Tracked, 120mm Gun M1A2 System Enhancement Package (Tank Urban Survival Kit)
 us_m1a2_sep_abrams_1;M1A2 SEP
-us_m1a2_sep_abrams_2;Tank, Combat, Full Tracked, 120mm Gun M1A2 System Enhancement Package (Tank Urban Survival Kit)
+us_m1a2_sep_abrams_2;M1A2 SEP
 il_zsu_57_2_shop;ZSU-57-2
 il_zsu_57_2_0;ZSU-57-2
 il_zsu_57_2_1;ZSU-57-2
@@ -11320,7 +11320,7 @@ il_tcm_20_0;TCM-20
 il_tcm_20_1;TCM-20
 il_tcm_20_2;TCM-20
 it_as_42_47_shop;AS 42/47
-it_as_42_47_0;Camionetta AS 42 Tipo II ""Metropolitana"" 47/32
+it_as_42_47_0;"Camionetta AS 42 Tipo II ""Metropolitana"" 47/32"
 it_as_42_47_1;AS 42/47
 it_as_42_47_2;AS 42/47
 sw_a_34_comet_shop;▄Comet I
