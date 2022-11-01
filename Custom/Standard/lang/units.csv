@@ -1,7 +1,7 @@
-<ID|readonly|noverify>;<English>▃USA▀GER▂USSR▄UK▅JP☀ROC␗PRC▄IT☨FRISR⚜FR
-ships/uss_cv_immortal_0;▄
-ships/uss_cv_immortal_1;▄
-ships/uss_cv_immortal_2;▄
+<ID|readonly|noverify>;<English>▃USA▀GER▂USSR▄UK▅JP☀ROC␗PRC▄IT▄FRISR⚜FR
+ships/uss_cv_immortal_0;Carrier
+ships/uss_cv_immortal_1;Carrier
+ships/uss_cv_immortal_2;Carrier
 ships/uss_lcvp_light_0;Landing craft
 ships/uss_lcvp_light_1;Landing craft
 ships/uss_lcvp_light_2;Landing craft
@@ -62,59 +62,59 @@ structures/tank_target_9_char_2;Target №9
 unic_hornet;USS Hornet CV-8
 unic_hornet_0;USS Hornet CV-8
 unic_hornet_1;USS Hornet
-unic_hornet_2;▄
+unic_hornet_2;Carrier
 unic_enterprise;USS Enterprise CV-6
 unic_enterprise_0;USS Enterprise CV-6
 unic_enterprise_1;USS Enterprise
-unic_enterprise_2;▄
+unic_enterprise_2;Carrier
 unic_yorktown;USS Yorktown CV-5
 unic_yorktown_0;USS Yorktown CV-5
 unic_yorktown_1;USS Yorktown
-unic_yorktown_2;▄
+unic_yorktown_2;Carrier
 unic_soryu;IJN Sōryū
 unic_soryu_0;IJN Sōryū
 unic_soryu_1;IJN Sōryū
-unic_soryu_2;▄
+unic_soryu_2;Carrier
 unic_hiryu;IJN Hiryū
 unic_hiryu_0;IJN Hiryū
 unic_hiryu_1;IJN Hiryū
-unic_hiryu_2;▄
+unic_hiryu_2;Carrier
 unic_kaga;IJN Kaga
 unic_kaga_0;IJN Kaga
 unic_kaga_1;IJN Kaga
-unic_kaga_2;▄
+unic_kaga_2;Carrier
 unic_akagi;IJN Akagi
 unic_akagi_0;IJN Akagi
 unic_akagi_1;IJN Akagi
-unic_akagi_2;▄
+unic_akagi_2;Carrier
 unic_shokaku;IJN Shōkaku
 unic_shokaku_0;IJN Shōkaku
 unic_shokaku_1;IJN Shōkaku
-unic_shokaku_2;▄
+unic_shokaku_2;Carrier
 unic_zuikaku;IJN Zuikaku
 unic_zuikaku_0;IJN Zuikaku
 unic_zuikaku_1;IJN Zuikaku
-unic_zuikaku_2;▄
+unic_zuikaku_2;Carrier
 unic_saratoga;USS Saratoga CV-3
 unic_saratoga_0;USS Saratoga CV-3
 unic_saratoga_1;USS Saratoga
-unic_saratoga_2;▄
+unic_saratoga_2;Carrier
 unic_zuiho;IJN Zuiho
 unic_zuiho_0;IJN Zuiho
 unic_zuiho_1;IJN Zuiho
-unic_zuiho_2;▄
+unic_zuiho_2;Carrier
 unic_wasp;USS Wasp CV-7
 unic_wasp_0;USS Wasp CV-7
 unic_wasp_1;USS Wasp
-unic_wasp_2;▄
+unic_wasp_2;Carrier
 unic_lexington;USS Lexington CV-2
 unic_lexington_0;USS Lexington CV-2
 unic_lexington_1;USS Lexington
-unic_lexington_2;▄
+unic_lexington_2;Carrier
 unic_shoho;IJN Shoho
 unic_shoho_0;IJN Shoho
 unic_shoho_1;IJN Shoho
-unic_shoho_2;▄
+unic_shoho_2;Carrier
 unic_wheeler_hangar;Hangar
 unic_wheeler_hangar_0;Hangar
 unic_wheeler_hangar_1;Hangar
@@ -146,24 +146,24 @@ ships/germ_bb_tirpitz_2;Battleship
 ships/germ_dd_z28_0;Destroyer
 ships/germ_dd_z28_1;Destroyer
 ships/germ_dd_z28_2;Destroyer
-ships/hms_cv_illustrious_0;▄
-ships/hms_cv_illustrious_1;▄
-ships/hms_cv_illustrious_2;▄
+ships/hms_cv_illustrious_0;Carrier
+ships/hms_cv_illustrious_1;Carrier
+ships/hms_cv_illustrious_2;Carrier
 ships/hms_leander_0;Light Cruiser
 ships/hms_leander_1;Light Cruiser
 ships/hms_leander_2;Light Cruiser
 ships/ijn_ca_nagara_0;Light Cruiser
 ships/ijn_ca_nagara_1;Light Cruiser
 ships/ijn_ca_nagara_2;Light Cruiser
-ships/ijn_cv_zuikaku_story_0;▄
-ships/ijn_cv_zuikaku_story_1;▄
-ships/ijn_cv_zuikaku_story_2;▄
-ships/ijn_cv_zuikaku_0;▄
-ships/ijn_cv_zuikaku_1;▄
-ships/ijn_cv_zuikaku_2;▄
-ships/ijn_cvl_ryujo_0;Light ▄
-ships/ijn_cvl_ryujo_1;Light ▄
-ships/ijn_cvl_ryujo_2;Light ▄
+ships/ijn_cv_zuikaku_story_0;Carrier
+ships/ijn_cv_zuikaku_story_1;Carrier
+ships/ijn_cv_zuikaku_story_2;Carrier
+ships/ijn_cv_zuikaku_0;Carrier
+ships/ijn_cv_zuikaku_1;Carrier
+ships/ijn_cv_zuikaku_2;Carrier
+ships/ijn_cvl_ryujo_0;Light carrier
+ships/ijn_cvl_ryujo_1;Light carrier
+ships/ijn_cvl_ryujo_2;Light carrier
 ships/ijn_dd_shiratsuyu_light_0;Destroyer
 ships/ijn_dd_shiratsuyu_light_1;Destroyer
 ships/ijn_dd_shiratsuyu_light_2;Destroyer
@@ -182,18 +182,18 @@ ships/ijn_patrol_boat_lite_2;Patrol boat
 ships/ijn_brander_0;Fire boat
 ships/ijn_brander_1;Fire boat
 ships/ijn_brander_2;Fire boat
-ships/ital_cv_aquila_0;▄
-ships/ital_cv_aquila_1;▄
-ships/ital_cv_aquila_2;▄
+ships/ital_cv_aquila_0;Carrier
+ships/ital_cv_aquila_1;Carrier
+ships/ital_cv_aquila_2;Carrier
 ships/uss_brooklyn_0;Light Cruiser
 ships/uss_brooklyn_1;Light Cruiser
 ships/uss_brooklyn_2;Light Cruiser
-ships/uss_cv_wasp_story_0;▄
-ships/uss_cv_wasp_story_1;▄
-ships/uss_cv_wasp_story_2;▄
-ships/uss_cv_wasp_0;▄
-ships/uss_cv_wasp_1;▄
-ships/uss_cv_wasp_2;▄
+ships/uss_cv_wasp_story_0;Carrier
+ships/uss_cv_wasp_story_1;Carrier
+ships/uss_cv_wasp_story_2;Carrier
+ships/uss_cv_wasp_0;Carrier
+ships/uss_cv_wasp_1;Carrier
+ships/uss_cv_wasp_2;Carrier
 ships/uss_dd_georgetown_0;Destroyer
 ships/uss_dd_georgetown_1;Destroyer
 ships/uss_dd_georgetown_2;Destroyer
@@ -269,30 +269,30 @@ ships/ijn_bb_nagato_2;Battleship
 ships/ijn_bb_yamato_0;Battleship
 ships/ijn_bb_yamato_1;Battleship
 ships/ijn_bb_yamato_2;Battleship
-ships/ijn_cv_soryu_story_0;▄
-ships/ijn_cv_soryu_story_1;▄
-ships/ijn_cv_soryu_story_2;▄
-ships/ijn_cv_akagi_story_0;▄
-ships/ijn_cv_akagi_story_1;▄
-ships/ijn_cv_akagi_story_2;▄
-ships/uss_cv_enterprise_story_0;▄
-ships/uss_cv_enterprise_story_1;▄
-ships/uss_cv_enterprise_story_2;▄
-ships/uss_cv_lexington_story_0;▄
-ships/uss_cv_lexington_story_1;▄
-ships/uss_cv_lexington_story_2;▄
-ships/ijn_cv_soryu_0;▄
-ships/ijn_cv_soryu_1;▄
-ships/ijn_cv_soryu_2;▄
-ships/ijn_cv_akagi_0;▄
-ships/ijn_cv_akagi_1;▄
-ships/ijn_cv_akagi_2;▄
-ships/uss_cv_enterprise_0;▄
-ships/uss_cv_enterprise_1;▄
-ships/uss_cv_enterprise_2;▄
-ships/uss_cv_lexington_0;▄
-ships/uss_cv_lexington_1;▄
-ships/uss_cv_lexington_2;▄
+ships/ijn_cv_soryu_story_0;Carrier
+ships/ijn_cv_soryu_story_1;Carrier
+ships/ijn_cv_soryu_story_2;Carrier
+ships/ijn_cv_akagi_story_0;Carrier
+ships/ijn_cv_akagi_story_1;Carrier
+ships/ijn_cv_akagi_story_2;Carrier
+ships/uss_cv_enterprise_story_0;Carrier
+ships/uss_cv_enterprise_story_1;Carrier
+ships/uss_cv_enterprise_story_2;Carrier
+ships/uss_cv_lexington_story_0;Carrier
+ships/uss_cv_lexington_story_1;Carrier
+ships/uss_cv_lexington_story_2;Carrier
+ships/ijn_cv_soryu_0;Carrier
+ships/ijn_cv_soryu_1;Carrier
+ships/ijn_cv_soryu_2;Carrier
+ships/ijn_cv_akagi_0;Carrier
+ships/ijn_cv_akagi_1;Carrier
+ships/ijn_cv_akagi_2;Carrier
+ships/uss_cv_enterprise_0;Carrier
+ships/uss_cv_enterprise_1;Carrier
+ships/uss_cv_enterprise_2;Carrier
+ships/uss_cv_lexington_0;Carrier
+ships/uss_cv_lexington_1;Carrier
+ships/uss_cv_lexington_2;Carrier
 ships/hms_cargo_ship_0;Cargo ship
 ships/hms_cargo_ship_1;Cargo ship
 ships/hms_cargo_ship_2;Cargo ship
@@ -2043,10 +2043,10 @@ germ_panzerjager_1_shop;Panzerjäger I
 germ_panzerjager_1_0;4,7 cm Pak(t) auf Pz.I Ausf.B
 germ_panzerjager_1_1;Panzerjäger I
 germ_panzerjager_1_2;Panzerjäger I
-uk_3_inch_gun_▄_shop;Gun ▄ (3-in)
-uk_3_inch_gun_▄_0;Gun ▄, 3-inch, Mk I, Churchill (A22D)
-uk_3_inch_gun_▄_1;Gun ▄ (3-in)
-uk_3_inch_gun_▄_2;Gun ▄ (3-in)
+uk_3_inch_gun_carrier_shop;Gun Carrier (3-in)
+uk_3_inch_gun_carrier_0;Gun Carrier, 3-inch, Mk I, Churchill (A22D)
+uk_3_inch_gun_carrier_1;Gun Carrier (3-in)
+uk_3_inch_gun_carrier_2;Gun Carrier (3-in)
 uk_matilda_hedgehog_shop;Matilda Hedgehog
 uk_matilda_hedgehog_0;Matilda Hedgehog
 uk_matilda_hedgehog_1;Matilda Hedgehog
@@ -2387,26 +2387,26 @@ germ_pzsflk40_sturer_emil_shop;Sturer Emil
 germ_pzsflk40_sturer_emil_0;Pz.Sfl. für 12,8 cm K40 "Sturer Emil"
 germ_pzsflk40_sturer_emil_1;Sturer Emil
 germ_pzsflk40_sturer_emil_2;Sturer Emil
-fr_m4a3_105_sherman_shop;☨M4A3 (105)
-fr_m4a3_105_sherman_0;☨Medium Tank M4A3 (105) HVSS Sherman
-fr_m4a3_105_sherman_1;☨M4A3 (105)
-fr_m4a3_105_sherman_2;☨M4A3 (105)
-fr_m3a3_stuart_shop;☨M3A3 Stuart
-fr_m3a3_stuart_0;☨Light Tank M3A3 Stuart
-fr_m3a3_stuart_1;☨M3A3
-fr_m3a3_stuart_2;☨M3A3
-fr_m4a4_sherman_shop;☨M4A4
-fr_m4a4_sherman_0;☨M4A4 Sherman
-fr_m4a4_sherman_1;☨M4A4
-fr_m4a4_sherman_2;☨M4A4
-fr_m4a1_sherman_shop;☨M4A1
-fr_m4a1_sherman_0;☨M4A1 Sherman
-fr_m4a1_sherman_1;☨M4A1
-fr_m4a1_sherman_2;☨M4A1
-fr_crusader_mk_2_shop;☨Crusader Mk.II
-fr_crusader_mk_2_0;☨Crusader Mk.II
-fr_crusader_mk_2_1;☨Crusader Mk.II
-fr_crusader_mk_2_2;☨Crusader Mk.II
+fr_m4a3_105_sherman_shop;▄M4A3 (105)
+fr_m4a3_105_sherman_0;▄Medium Tank M4A3 (105) HVSS Sherman
+fr_m4a3_105_sherman_1;▄M4A3 (105)
+fr_m4a3_105_sherman_2;▄M4A3 (105)
+fr_m3a3_stuart_shop;▄M3A3 Stuart
+fr_m3a3_stuart_0;▄Light Tank M3A3 Stuart
+fr_m3a3_stuart_1;▄M3A3
+fr_m3a3_stuart_2;▄M3A3
+fr_m4a4_sherman_shop;▄M4A4
+fr_m4a4_sherman_0;▄M4A4 Sherman
+fr_m4a4_sherman_1;▄M4A4
+fr_m4a4_sherman_2;▄M4A4
+fr_m4a1_sherman_shop;▄M4A1
+fr_m4a1_sherman_0;▄M4A1 Sherman
+fr_m4a1_sherman_1;▄M4A1
+fr_m4a1_sherman_2;▄M4A1
+fr_crusader_mk_2_shop;▄Crusader Mk.II
+fr_crusader_mk_2_0;▄Crusader Mk.II
+fr_crusader_mk_2_1;▄Crusader Mk.II
+fr_crusader_mk_2_2;▄Crusader Mk.II
 fr_m4a1_sherman_fl_10_shop;M4A1 (FL10)
 fr_m4a1_sherman_fl_10_0;Sherman M4A1 tourelle FL10
 fr_m4a1_sherman_fl_10_1;M4A1 (FL10)
@@ -2459,10 +2459,10 @@ germ_flarakpz_1_shop;FlaRakPz 1
 germ_flarakpz_1_0;FlaRakPz 1 Roland 2
 germ_flarakpz_1_1;FlaRakPz 1
 germ_flarakpz_1_2;FlaRakPz 1
-fr_crotale_ng_shop;☨ItO 90M
-fr_crotale_ng_0;☨Ilmatorjuntaohjus 90M
-fr_crotale_ng_1;☨ItO 90M
-fr_crotale_ng_2;☨ItO 90M
+fr_crotale_ng_shop;▄ItO 90M
+fr_crotale_ng_0;▄Ilmatorjuntaohjus 90M
+fr_crotale_ng_1;▄ItO 90M
+fr_crotale_ng_2;▄ItO 90M
 fr_amx_30_roland_shop;Roland 1
 fr_amx_30_roland_0;AMX-30 Roland 1
 fr_amx_30_roland_1;Roland 1
@@ -2575,14 +2575,14 @@ fr_somua_sau40_shop;SAu 40
 fr_somua_sau40_0;Canon Automoteur DE 75 mm SAu 40
 fr_somua_sau40_1;SAu 40
 fr_somua_sau40_2;SAu 40
-fr_m10_shop;☨M10 GMC
-fr_m10_0;☨3-inch Gun Motor Carriage M10
-fr_m10_1;☨M10
-fr_m10_2;☨M10
-fr_m4a3e2_sherman_jumbo_shop;☨M4A3E2
-fr_m4a3e2_sherman_jumbo_0;☨Assault Tank M4A3E2 Jumbo
-fr_m4a3e2_sherman_jumbo_1;☨M4A3E2
-fr_m4a3e2_sherman_jumbo_2;☨M4A3E2
+fr_m10_shop;▄M10 GMC
+fr_m10_0;▄3-inch Gun Motor Carriage M10
+fr_m10_1;▄M10
+fr_m10_2;▄M10
+fr_m4a3e2_sherman_jumbo_shop;▄M4A3E2
+fr_m4a3e2_sherman_jumbo_0;▄Assault Tank M4A3E2 Jumbo
+fr_m4a3e2_sherman_jumbo_1;▄M4A3E2
+fr_m4a3e2_sherman_jumbo_2;▄M4A3E2
 fr_amd_35_shop;AMD.35
 fr_amd_35_0;AMD.35
 fr_amd_35_1;AMD.35
@@ -2715,9 +2715,9 @@ wheeled_vehicles/uk_ford_fat2_2;Vehicle
 wheeled_vehicles/uk_t17e1_0;Vehicle
 wheeled_vehicles/uk_t17e1_1;Vehicle
 wheeled_vehicles/uk_t17e1_2;Vehicle
-wheeled_vehicles/uk_universal_▄_mkI_0;Vehicle
-wheeled_vehicles/uk_universal_▄_mkI_1;Vehicle
-wheeled_vehicles/uk_universal_▄_mkI_2;Vehicle
+wheeled_vehicles/uk_universal_carrier_mkI_0;Vehicle
+wheeled_vehicles/uk_universal_carrier_mkI_1;Vehicle
+wheeled_vehicles/uk_universal_carrier_mkI_2;Vehicle
 wheeled_vehicles/us_ambulance_0;Vehicle
 wheeled_vehicles/us_ambulance_1;Vehicle
 wheeled_vehicles/us_ambulance_2;Vehicle
@@ -3281,14 +3281,14 @@ yak-9t_shop;Yak-9T
 yak-9t_0;Yak-9T
 yak-9t_1;Yak-9T
 yak-9t_2;Yak-9T
-yak-9t_france_shop;☨Challe's Yak-9T
-yak-9t_france_0;☨Challe's Yak-9T
-yak-9t_france_1;☨Yak-9T
-yak-9t_france_2;☨Yak-9T
-p-47d_22_re_france_shop;☨P-47D-22
-p-47d_22_re_france_0;☨P-47D-22-RE Thunderbolt
-p-47d_22_re_france_1;☨P-47D-22
-p-47d_22_re_france_2;☨P-47D-22
+yak-9t_france_shop;▄Challe's Yak-9T
+yak-9t_france_0;▄Challe's Yak-9T
+yak-9t_france_1;▄Yak-9T
+yak-9t_france_2;▄Yak-9T
+p-47d_22_re_france_shop;▄P-47D-22
+p-47d_22_re_france_0;▄P-47D-22-RE Thunderbolt
+p-47d_22_re_france_1;▄P-47D-22
+p-47d_22_re_france_2;▄P-47D-22
 yak-3u_shop;Yak-3U
 yak-3u_0;Yak-3U
 yak-3u_1;Yak-3U
@@ -3422,7 +3422,7 @@ f4f-4_martlet_mk4_1;▄Martlet Mk IV
 f4f-4_martlet_mk4_2;▄Martlet Mk IV
 shop/group/f4f_group;F4F
 shop/group/f6f_group;F6F
-shop/group/f6f_france_group;☨F6F
+shop/group/f6f_france_group;▄F6F
 f2g-1_shop;F2G-1
 f2g-1_0;F2G-1 Corsair
 f2g-1_1;F2G-1
@@ -3580,10 +3580,10 @@ p-39q_5_shop;P-39Q-5
 p-39q_5_0;P-39Q-5 Airacobra
 p-39q_5_1;P-39Q-5
 p-39q_5_2;P-39Q-5
-p-39q_25_france_shop;☨P-39Q-25
-p-39q_25_france_0;☨P-39Q-25 Airacobra
-p-39q_25_france_1;☨P-39Q-25
-p-39q_25_france_2;☨P-39Q-25
+p-39q_25_france_shop;▄P-39Q-25
+p-39q_25_france_0;▄P-39Q-25 Airacobra
+p-39q_25_france_1;▄P-39Q-25
+p-39q_25_france_2;▄P-39Q-25
 sbd-3_shop;SBD-3
 sbd-3_0;SBD-3 Dauntless
 sbd-3_1;SBD-3
@@ -4047,10 +4047,10 @@ saab_aj37_shop;AJ37
 saab_aj37_0;AJ37 Viggen
 saab_aj37_1;AJ37
 saab_aj37_2;AJ37
-f-8e_fn_shop;☨F-8E(FN)
-f-8e_fn_0;☨F-8E(FN) Crusader II
-f-8e_fn_1;☨F-8E(FN)
-f-8e_fn_2;☨F-8E(FN)
+f-8e_fn_shop;▄F-8E(FN)
+f-8e_fn_0;▄F-8E(FN) Crusader II
+f-8e_fn_1;▄F-8E(FN)
+f-8e_fn_2;▄F-8E(FN)
 mig_27m_shop;MiG-27M
 mig_27m_0;MiG-27M "Flogger-J"
 mig_27m_1;MiG-27M
@@ -4721,22 +4721,22 @@ ki_32_shop;Ki-32
 ki_32_0;Ki-32
 ki_32_1;Ki-32
 ki_32_2;Ki-32
-f-84g_france_shop;☨F-84G-26
-f-84g_france_0;☨F-84G-26-RE Thunderjet
-f-84g_france_1;☨F-84G-26
-f-84g_france_2;☨F-84G-26
-f-84f_france_shop;☨F-84F
-f-84f_france_0;☨F-84F Thunderstreak
-f-84f_france_1;☨F-84F
-f-84f_france_2;☨F-84F
+f-84g_france_shop;▄F-84G-26
+f-84g_france_0;▄F-84G-26-RE Thunderjet
+f-84g_france_1;▄F-84G-26
+f-84g_france_2;▄F-84G-26
+f-84f_france_shop;▄F-84F
+f-84f_france_0;▄F-84F Thunderstreak
+f-84f_france_1;▄F-84F
+f-84f_france_2;▄F-84F
 iar_81c_shop;IAR-81C
 iar_81c_0;IAR-81C
 iar_81c_1;IAR-81C
 iar_81c_2;IAR-81C
-p-40f-5_france_ep_shop;☨P-40F-5 Lafayette
-p-40f-5_france_ep_0;☨P-40F-5 Lafayette
-p-40f-5_france_ep_1;☨P-40F-5
-p-40f-5_france_ep_2;☨P-40F-5
+p-40f-5_france_ep_shop;▄P-40F-5 Lafayette
+p-40f-5_france_ep_0;▄P-40F-5 Lafayette
+p-40f-5_france_ep_1;▄P-40F-5
+p-40f-5_france_ep_2;▄P-40F-5
 p-40f_10_shop;P-40F-10
 p-40f_10_0;P-40F-10 Warhawk
 p-40f_10_1;P-40F-10
@@ -5523,10 +5523,10 @@ seafire_mk3_shop;Seafire LF Mk III
 seafire_mk3_0;Seafire LF Mk III
 seafire_mk3_1;Seafire LF Mk III
 seafire_mk3_2;Seafire LF Mk III
-seafire_mk3_france_shop;☨Seafire LF Mk III
-seafire_mk3_france_0;☨Seafire LF Mk III
-seafire_mk3_france_1;☨Seafire LF Mk III
-seafire_mk3_france_2;☨Seafire LF Mk III
+seafire_mk3_france_shop;▄Seafire LF Mk III
+seafire_mk3_france_0;▄Seafire LF Mk III
+seafire_mk3_france_1;▄Seafire LF Mk III
+seafire_mk3_france_2;▄Seafire LF Mk III
 attaker_fb1_shop;Attacker FB.1
 attaker_fb1_0;Attacker FB.1
 attaker_fb1_1;Attacker FB.1
@@ -6517,10 +6517,10 @@ ussr_su_100p_shop;SU-100P
 ussr_su_100p_0;SU-100P
 ussr_su_100p_1;SU-100P
 ussr_su_100p_2;SU-100P
-a-35b_shop;☨A-35B
-a-35b_0;☨A-35B
-a-35b_1;☨A-35B
-a-35b_2;☨A-35B
+a-35b_shop;▄A-35B
+a-35b_0;▄A-35B
+a-35b_1;▄A-35B
+a-35b_2;▄A-35B
 so_4050_vautour_2a_shop;Vautour IIA
 so_4050_vautour_2a_0;S.O.4050 Vautour IIA
 so_4050_vautour_2a_1;Vautour IIA
@@ -6541,10 +6541,10 @@ so_4050_vautour_2n_iaf_shop;Vautour IIN
 so_4050_vautour_2n_iaf_0;S.O.4050 Vautour IIN
 so_4050_vautour_2n_iaf_1;Vautour IIN
 so_4050_vautour_2n_iaf_2;Vautour IIN
-f-84f_iaf_shop;☨F-84F IAF
-f-84f_iaf_0;☨F-84F Thunderstreak IAF
-f-84f_iaf_1;☨F-84F IAF
-f-84f_iaf_2;☨F-84F IAF
+f-84f_iaf_shop;▄F-84F IAF
+f-84f_iaf_0;▄F-84F Thunderstreak IAF
+f-84f_iaf_1;▄F-84F IAF
+f-84f_iaf_2;▄F-84F IAF
 so_4050_vautour_2b_shop;Vautour IIB
 so_4050_vautour_2b_0;S.O.4050 Vautour IIB
 so_4050_vautour_2b_1;Vautour IIB
@@ -6553,47 +6553,47 @@ d_520_france_shop;D.520
 d_520_france_0;D.520
 d_520_france_1;D.520
 d_520_france_2;D.520
-p-63c-5_france_shop;☨P-63C-5
-p-63c-5_france_0;☨P-63C-5 Kingcobra
-p-63c-5_france_1;☨P-63C-5
-p-63c-5_france_2;☨P-63C-5
-douglas_ad_4_france_shop;☨AD-4
-douglas_ad_4_france_0;☨AD-4 Skyraider
-douglas_ad_4_france_1;☨AD-4
-douglas_ad_4_france_2;☨AD-4
-douglas_ad_4na_france_shop;☨AD-4NA
-douglas_ad_4na_france_0;☨AD-4NA Skyraider
-douglas_ad_4na_france_1;☨AD-4NA
-douglas_ad_4na_france_2;☨AD-4NA
-f8f1b_france_shop;☨F8F-1B
-f8f1b_france_0;☨F8F-1B Bearcat
-f8f1b_france_1;☨F8F-1B
-f8f1b_france_2;☨F8F-1B
+p-63c-5_france_shop;▄P-63C-5
+p-63c-5_france_0;▄P-63C-5 Kingcobra
+p-63c-5_france_1;▄P-63C-5
+p-63c-5_france_2;▄P-63C-5
+douglas_ad_4_france_shop;▄AD-4
+douglas_ad_4_france_0;▄AD-4 Skyraider
+douglas_ad_4_france_1;▄AD-4
+douglas_ad_4_france_2;▄AD-4
+douglas_ad_4na_france_shop;▄AD-4NA
+douglas_ad_4na_france_0;▄AD-4NA Skyraider
+douglas_ad_4na_france_1;▄AD-4NA
+douglas_ad_4na_france_2;▄AD-4NA
+f8f1b_france_shop;▄F8F-1B
+f8f1b_france_0;▄F8F-1B Bearcat
+f8f1b_france_1;▄F8F-1B
+f8f1b_france_2;▄F8F-1B
 so_8000_narval_shop;S.O.8000
 so_8000_narval_0;S.O.8000 Narval
 so_8000_narval_1;S.O.8000
 so_8000_narval_2;S.O.8000
 shop/group/d_371_group;D.371
-pb4y-2_france_shop;☨PB4Y-2
-pb4y-2_france_0;☨PB4Y-2 Privateer
-pb4y-2_france_1;☨PB4Y-2
-pb4y-2_france_2;☨PB4Y-2
-sbd-5_france_shop;☨SBD-5
-sbd-5_france_0;☨SBD-5 Dauntless
-sbd-5_france_1;☨SBD-5
-sbd-5_france_2;☨SBD-5
-sb2c_5_france_shop;☨SB2C-5
-sb2c_5_france_0;☨SB2C-5 Helldiver
-sb2c_5_france_1;☨SB2C-5
-sb2c_5_france_2;☨SB2C-5
-f6f-5_france_shop;☨F6F-5
-f6f-5_france_0;☨F6F-5 Hellcat
-f6f-5_france_1;☨F6F-5
-f6f-5_france_2;☨F6F-5
-f6f-5n_france_shop;☨F6F-5N
-f6f-5n_france_0;☨F6F-5N Hellcat
-f6f-5n_france_1;☨F6F-5N
-f6f-5n_france_2;☨F6F-5N
+pb4y-2_france_shop;▄PB4Y-2
+pb4y-2_france_0;▄PB4Y-2 Privateer
+pb4y-2_france_1;▄PB4Y-2
+pb4y-2_france_2;▄PB4Y-2
+sbd-5_france_shop;▄SBD-5
+sbd-5_france_0;▄SBD-5 Dauntless
+sbd-5_france_1;▄SBD-5
+sbd-5_france_2;▄SBD-5
+sb2c_5_france_shop;▄SB2C-5
+sb2c_5_france_0;▄SB2C-5 Helldiver
+sb2c_5_france_1;▄SB2C-5
+sb2c_5_france_2;▄SB2C-5
+f6f-5_france_shop;▄F6F-5
+f6f-5_france_0;▄F6F-5 Hellcat
+f6f-5_france_1;▄F6F-5
+f6f-5_france_2;▄F6F-5
+f6f-5n_france_shop;▄F6F-5N
+f6f-5n_france_0;▄F6F-5N Hellcat
+f6f-5n_france_1;▄F6F-5N
+f6f-5n_france_2;▄F6F-5N
 d_371_shop;D.371
 d_371_0;D.371
 d_371_1;D.371
@@ -6869,10 +6869,10 @@ maryland_mk1_france_shop;Martin 167-A3
 maryland_mk1_france_0;Martin 167-A3
 maryland_mk1_france_1;Martin 167-A3
 maryland_mk1_france_2;Martin 167-A3
-yak-3_france_shop;☨Yak-3
-yak-3_france_0;☨Yak-3
-yak-3_france_1;☨Yak-3
-yak-3_france_2;☨Yak-3
+yak-3_france_shop;▄Yak-3
+yak-3_france_0;▄Yak-3
+yak-3_france_1;▄Yak-3
+yak-3_france_2;▄Yak-3
 md_452_mystere_2c_preproduction_shop;Mystere IIC
 md_452_mystere_2c_preproduction_0;M.D.452 Mystere IIC Pre-production
 md_452_mystere_2c_preproduction_1;Mystere IIC
@@ -7628,10 +7628,10 @@ f-100d_shop;F-100D
 f-100d_0;F-100D Super Sabre
 f-100d_1;F-100D
 f-100d_2;F-100D
-f-100d_france_shop;☨F-100D
-f-100d_france_0;☨F-100D Super Sabre
-f-100d_france_1;☨F-100D
-f-100d_france_2;☨F-100D
+f-100d_france_shop;▄F-100D
+f-100d_france_0;▄F-100D Super Sabre
+f-100d_france_1;▄F-100D
+f-100d_france_2;▄F-100D
 mb_152c1_shop;M.B.152C1
 mb_152c1_0;M.B.152C1
 mb_152c1_1;M.B.152C1
@@ -7716,10 +7716,10 @@ sa_342m_shop;SA 342M Gazelle
 sa_342m_0;SA 342M Gazelle
 sa_342m_1;SA 342M
 sa_342m_2;SA 342M
-h_34_france_shop;☨H-34
-h_34_france_0;☨H-34
-h_34_france_1;☨H-34
-h_34_france_2;☨H-34
+h_34_france_shop;▄H-34
+h_34_france_0;▄H-34
+h_34_france_1;▄H-34
+h_34_france_2;▄H-34
 h_34_shop;H-34
 h_34_0;H-34
 h_34_1;H-34
@@ -7864,10 +7864,10 @@ me_264_shop;Me 264
 me_264_0;Me 264
 me_264_1;Me 264
 me_264_2;Me 264
-f-86k_late_shop;☨F-86K
-f-86k_late_0;☨F-86K Sabre
-f-86k_late_1;☨F-86K
-f-86k_late_2;☨F-86K
+f-86k_late_shop;▄F-86K
+f-86k_late_0;▄F-86K Sabre
+f-86k_late_1;▄F-86K
+f-86k_late_2;▄F-86K
 f-86k_late_italy_shop;▄F-86K
 f-86k_late_italy_0;▄F-86K Sabre
 f-86k_late_italy_1;▄F-86K
@@ -10081,14 +10081,14 @@ uk_battleship_dreadnought_shop;HMS Dreadnought
 uk_battleship_dreadnought_0;Dreadnought-class, HMS Dreadnought, 1917
 uk_battleship_dreadnought_1;HMS Dreadnought
 uk_battleship_dreadnought_2;HMS Dreadnought
-us_aircraft▄_forrestal_shop;USS Forrestal
-us_aircraft▄_forrestal_0;USS Forrestal, CVA-59
-us_aircraft▄_forrestal_1;USS Forrestal
-us_aircraft▄_forrestal_2;▄
-uk_aircraft▄_ark_royal_shop;HMS Ark Royal
-uk_aircraft▄_ark_royal_0;HMS Ark Royal (R09)
-uk_aircraft▄_ark_royal_1;HMS Ark Royal
-uk_aircraft▄_ark_royal_2;▄
+us_aircraftcarrier_forrestal_shop;USS Forrestal
+us_aircraftcarrier_forrestal_0;USS Forrestal, CVA-59
+us_aircraftcarrier_forrestal_1;USS Forrestal
+us_aircraftcarrier_forrestal_2;Carrier
+uk_aircraftcarrier_ark_royal_shop;HMS Ark Royal
+uk_aircraftcarrier_ark_royal_0;HMS Ark Royal (R09)
+uk_aircraftcarrier_ark_royal_1;HMS Ark Royal
+uk_aircraftcarrier_ark_royal_2;Carrier
 us_cruiser_new_orleans_class_shop;USS New Orleans
 us_cruiser_new_orleans_class_0;New Orleans-class, USS New Orleans (CA-32), 1945
 us_cruiser_new_orleans_class_1;USS New Orleans
@@ -10105,10 +10105,10 @@ jp_battleship_settsu_shop;IJN Settsu
 jp_battleship_settsu_0;Kawachi-class, IJN Settsu, 1920
 jp_battleship_settsu_1;IJN Settsu
 jp_battleship_settsu_2;IJN Settsu
-ussr_aircraft▄_baku_shop;Baku
-ussr_aircraft▄_baku_0;Baku, project 11434
-ussr_aircraft▄_baku_1;Baku
-ussr_aircraft▄_baku_2;▄
+ussr_aircraftcarrier_baku_shop;Baku
+ussr_aircraftcarrier_baku_0;Baku, project 11434
+ussr_aircraftcarrier_baku_1;Baku
+ussr_aircraftcarrier_baku_2;Carrier
 germ_battleship_helgoland_shop;SMS Helgoland
 germ_battleship_helgoland_0;Helgoland-class, SMS Helgoland, 1911
 germ_battleship_helgoland_1;SMS Helgoland
@@ -10659,7 +10659,7 @@ mirage_f1c_shop;Mirage F1C
 mirage_f1c_0;Mirage F1C
 mirage_f1c_1;Mirage F1C
 mirage_f1c_2;Mirage F1C
-structures/heavy_lasgun_▄_shop;Orbital lasgun
+structures/heavy_lasgun_carrier_shop;Orbital lasgun
 dragonfly_a_shop;TOPTER
 dragonfly_a_0;TOPTER
 dragonfly_a_1;TOPTER
@@ -11006,10 +11006,10 @@ uk_skink_aa_shop;Skink
 uk_skink_aa_0;Skink, Tank, Anti-Aircraft, 20mm, Quad
 uk_skink_aa_1;Skink
 uk_skink_aa_2;Skink
-fr_m36b2_cefeo_shop;☨M36B2
-fr_m36b2_cefeo_0;☨90 mm Gun Motor Carriage M36B2
-fr_m36b2_cefeo_1;☨M36B2
-fr_m36b2_cefeo_2;☨M36B2
+fr_m36b2_cefeo_shop;▄M36B2
+fr_m36b2_cefeo_0;▄90 mm Gun Motor Carriage M36B2
+fr_m36b2_cefeo_1;▄M36B2
+fr_m36b2_cefeo_2;▄M36B2
 ucav_recon_micro_shop;Recon Micro
 ucav_recon_micro_0;Recon Micro
 ucav_recon_micro_1;Recon Micro
