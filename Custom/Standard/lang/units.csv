@@ -3380,10 +3380,10 @@ b6n2a_shop;B6N2a mod. 12 Ko
 b6n2a_0;B6N2a mod. 12 Ko
 b6n2a_1;B6N2a mod. 12 Ko
 b6n2a_2;B6N2a mod. 12 Ko
-beaufighter_mk1_40mm_shop;Beaufighter Mk I [40]
-beaufighter_mk1_40mm_0;Beaufighter Mk I [40mm Prototype]
-beaufighter_mk1_40mm_1;Beaufighter Mk I [40]
-beaufighter_mk1_40mm_2;Beaufighter Mk I [40]
+beaufighter_mk1_40mm_shop;Beaufighter Mk I (40mm)
+beaufighter_mk1_40mm_0;Beaufighter Mk I (40mm Prototype)
+beaufighter_mk1_40mm_1;Beaufighter Mk I (40mm)
+beaufighter_mk1_40mm_2;Beaufighter Mk I (40mm)
 beaufighter_mk21_shop;Beaufighter Mk XXI
 beaufighter_mk21_0;Beaufighter Mk XXI
 beaufighter_mk21_1;Beaufighter Mk XXI
@@ -5669,10 +5669,10 @@ sb2c_1c_shop;SB2C-1C
 sb2c_1c_0;SB2C-1C Helldiver
 sb2c_1c_1;SB2C-1C
 sb2c_1c_2;SB2C-1C
-j2m5_30mm_shop;J2M5 [30]
+j2m5_30mm_shop;J2M5 [Type 5]
 j2m5_30mm_0;J2M5 Raiden [30mm Type 5]
-j2m5_30mm_1;J2M5 [30]
-j2m5_30mm_2;J2M5 [30]
+j2m5_30mm_1;J2M5 [Type 5]
+j2m5_30mm_2;J2M5 [Type 5]
 do_17e_1_shop;Do 17 E-1
 do_17e_1_0;Do 17 E-1
 do_17e_1_1;Do 17 E-1
@@ -10591,10 +10591,10 @@ mig_23mla_shop;▀MiG-23MLA
 mig_23mla_0;▀MiG-23MLA "Flogger-G"
 mig_23mla_1;▀MiG-23MLA
 mig_23mla_2;▀MiG-23MLA
-mi_28a_sweden_shop;Mi-28A
-mi_28a_sweden_0;Mi-28A "Havoc-A"
-mi_28a_sweden_1;Mi-28A
-mi_28a_sweden_2;Mi-28A
+mi_28a_sweden_shop;▄Mi-28A
+mi_28a_sweden_0;▄Mi-28A "Havoc-A"
+mi_28a_sweden_1;▄Mi-28A
+mi_28a_sweden_2;▄Mi-28A
 ah_64a_peten_iaf_shop;AH-64A Peten
 ah_64a_peten_iaf_0;AH-64A Peten
 ah_64a_peten_iaf_1;AH-64A Peten
