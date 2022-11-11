@@ -6372,7 +6372,6 @@ sagittario_2_0;Sagittario 2
 sagittario_2_1;Sagittario 2
 sagittario_2_2;Sagittario 2
 shop/group/cr_32_group;CR.32
-shop/group/cr_42_g_50_group;CR.42
 shop/group/mc_200_italy_group;C.200
 shop/group/sm_79_italy_group;S.M.79 [E]
 p_108a_serie2_shop;P.108A Serie 2
@@ -9143,6 +9142,7 @@ germ_at_gun_pak36_2;Anti-tank gun
 germ_at_gun_pak38_0;5 cm anti-tank gun PaK38
 germ_at_gun_pak38_1;5 cm AT PaK38
 germ_at_gun_pak38_2;Anti-tank gun
+germ_at_gun_pak40_shop;7.5 cm PaK 40
 germ_at_gun_pak40_0;7.5 cm anti-tank gun PaK40
 germ_at_gun_pak40_1;7.5 cm AT PaK40
 germ_at_gun_pak40_2;Anti-tank gun
@@ -9888,9 +9888,6 @@ uk_cruiser_london_shop;HMS London
 uk_cruiser_london_0;County-class, HMS London (69), 1945
 uk_cruiser_london_1;HMS London
 uk_cruiser_london_2;HMS London
-structures/asteroid_0;Asteroid
-structures/asteroid_1;Asteroid
-structures/asteroid_2;Asteroid
 it_ms74_2a_shop;MS-74
 it_ms74_2a_0;CRDA 60t (2a), MS-74
 it_ms74_2a_1;MS-74
@@ -10660,46 +10657,6 @@ mirage_f1c_0;Mirage F1C
 mirage_f1c_1;Mirage F1C
 mirage_f1c_2;Mirage F1C
 structures/heavy_lasgun_carrier_shop;Orbital lasgun
-dragonfly_a_shop;TOPTER
-dragonfly_a_0;TOPTER
-dragonfly_a_1;TOPTER
-dragonfly_a_2;TOPTER
-dragonfly_h_shop;TOPTER
-dragonfly_h_0;TOPTER
-dragonfly_h_1;TOPTER
-dragonfly_h_2;TOPTER
-combat_track_a_shop;Q-AD
-combat_track_a_0;Four Wheeled Vehicle, Q-AD
-combat_track_a_1;Q-AD
-combat_track_a_2;FWV
-combat_track_h_shop;Q-AD
-combat_track_h_0;Four Wheeled Vehicle, Q-AD
-combat_track_h_1;Q-AD
-combat_track_h_2;FWV
-mlrs_tank_a_shop;R-LAU
-mlrs_tank_a_0;Tank, Long Range, Support R-LAU
-mlrs_tank_a_1;R-LAU
-mlrs_tank_a_2;TLRS
-mlrs_tank_h_shop;R-LAU
-mlrs_tank_h_0;Tank, Long Range, Support R-LAU
-mlrs_tank_h_1;R-LAU
-mlrs_tank_h_2;TLRS
-combat_tank_a_shop;CT-T
-combat_tank_a_0;Tank, Combat CT-T
-combat_tank_a_1;CT-T
-combat_tank_a_2;TC
-combat_tank_h_shop;CT-T
-combat_tank_h_0;Tank, Combat CT-T
-combat_tank_h_1;CT-T
-combat_tank_h_2;TC
-acoustic_heavy_tank_a_shop;S-0NC
-acoustic_heavy_tank_a_0;Tank, Sonic Waves S-0NC
-acoustic_heavy_tank_a_1;S-0NC
-acoustic_heavy_tank_a_2;SPEC
-destroyer_heavy_tank_h_shop;D-0TR
-destroyer_heavy_tank_h_0;Tank, Nuclear Power D-0TR
-destroyer_heavy_tank_h_1;D-0TR
-destroyer_heavy_tank_h_2;SPEC
 uk_alecto_mk_1_shop;Alecto I
 uk_alecto_mk_1_0;Alecto I
 uk_alecto_mk_1_1;Alecto I
@@ -11423,10 +11380,6 @@ sw_t_80u_shop;▄T-80U
 sw_t_80u_0;▄T-80U
 sw_t_80u_1;▄T-80U
 sw_t_80u_2;▄T-80U
-sw_t_72m1_shop;▄T-72M1
-sw_t_72m1_0;▄T-72M1
-sw_t_72m1_1;▄T-72M1
-sw_t_72m1_2;▄T-72M1
 sw_zsu_57_2_shop;▄ZSU-57-2
 sw_zsu_57_2_0;▄ZSU-57-2
 sw_zsu_57_2_1;▄ZSU-57-2
@@ -11467,3 +11420,22 @@ germ_sturmmorser_sturmtiger_event_shop;38 cm Sturmmörser
 germ_sturmmorser_sturmtiger_event_0;38 cm Sturmmörser
 germ_sturmmorser_sturmtiger_event_1;38 cm Sturmmörser
 germ_sturmmorser_sturmtiger_event_2;38 cm Sturmmörser
+germ_at_gun_flak36_shop;3.7 cm FlaK 36
+germ_at_gun_flak36_0;3.7 cm anti-aircraft gun FlaK 36
+germ_at_gun_flak36_1;3.7 cm FlaK 36
+germ_at_gun_flak36_2;Anti-aircraft gun
+po_2op_event_shop;"Po-2 ""Overpowered"""
+po_2op_event_0;Po-2OP
+po_2op_event_1;Po-2OP
+po_2op_event_2;Po-2OP
+structures/ussr_122mm_m30_event_0;Artillery
+structures/ussr_122mm_m30_event_1;Artillery
+structures/ussr_122mm_m30_event_2;Artillery
+ucav_orion_shop;Orion
+ucav_orion_0;Orion
+ucav_orion_1;Orion
+ucav_orion_2;Orion
+ucav_wing_loong_i_shop;Wing Loong I
+ucav_wing_loong_i_0;Wing Loong I
+ucav_wing_loong_i_1;Wing Loong I
+ucav_wing_loong_i_2;Wing Loong I
