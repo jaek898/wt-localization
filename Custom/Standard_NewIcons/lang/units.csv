@@ -7928,10 +7928,10 @@ mig-21_pfm_shop;MiG-21PFM
 mig-21_pfm_0;MiG-21PFM "Fishbed-F"
 mig-21_pfm_1;MiG-21PFM
 mig-21_pfm_2;MiG-21PFM
-mig-21_sps_k_shop;▀MiG-21 SPS-K
-mig-21_sps_k_0;▀MiG-21 SPS-K "Fishbed-F"
-mig-21_sps_k_1;▀MiG-21 SPS-K
-mig-21_sps_k_2;▀MiG-21 SPS-K
+mig-21_sps_k_shop;▀MiG-21SPS-K
+mig-21_sps_k_0;▀MiG-21SPS-K "Fishbed-F"
+mig-21_sps_k_1;▀MiG-21SPS-K
+mig-21_sps_k_2;▀MiG-21SPS-K
 mig-21_bis_sau_shop;▀MiG-21bis-SAU
 mig-21_bis_sau_0;▀MiG-21bis-SAU "Fishbed-N"
 mig-21_bis_sau_1;▀MiG-21bis-SAU
@@ -11399,3 +11399,135 @@ ucav_wing_loong_i_shop;Wing Loong I
 ucav_wing_loong_i_0;Wing Loong I
 ucav_wing_loong_i_1;Wing Loong I
 ucav_wing_loong_i_2;Wing Loong I
+us_m728_shop;M728
+us_m728_0;Full tracked combat engineer vehicle M728
+us_m728_1;M728
+us_m728_2;M728
+ussr_9a35_m2_shop;Strela-10M2
+ussr_9a35_m2_0;"ZRK 9A35M2 ""Strela-10M2"""
+ussr_9a35_m2_1;Strela-10M2
+ussr_9a35_m2_2;Strela-10M2
+uk_khalid_shop;Khalid
+uk_khalid_0;Khalid
+uk_khalid_1;Khalid
+uk_khalid_2;Khalid
+j_7d_shop;J-7D
+j_7d_0;J-7D "Fishcan"
+j_7d_1;J-7D
+j_7d_2;J-7D
+f-104s_cb_shop;F-104S TAF
+f-104s_cb_0;F-104S Starfighter TAF
+f-104s_cb_1;F-104S TAF
+f-104s_cb_2;F-104S TAF
+kfir_canard_shop;Kfir Gderot
+kfir_canard_0;Kfir Gderot
+kfir_canard_1;Kfir Gderot
+kfir_canard_2;Kfir Gderot
+mirage_f1c_200_shop;Mirage F1C-200
+mirage_f1c_200_0;Mirage F1C-200
+mirage_f1c_200_1;Mirage F1C-200
+mirage_f1c_200_2;Mirage F1C-200
+fr_amx_32_105_shop;AMX-32 (105)
+fr_amx_32_105_0;AMX-32 (105)
+fr_amx_32_105_1;AMX-32 (105)
+fr_amx_32_105_2;AMX-32 (105)
+il_magach_7c_shop;Magach 7C
+il_magach_7c_0;Magach 7C
+il_magach_7c_1;Magach 7C
+il_magach_7c_2;Magach 7C
+it_fiat_cm52_shop;CM52
+it_fiat_cm52_0;Complesso da 12.7mm su CM 52
+it_fiat_cm52_1;CM52
+it_fiat_cm52_2;CM52
+ussr_t_80um2_shop;T-80UM2
+ussr_t_80um2_0;T-80UM2
+ussr_t_80um2_1;T-80UM2
+ussr_t_80um2_2;T-80UM2
+mig-21_bis_lazur_shop;▀MiG-21bis Lazur-M
+mig-21_bis_lazur_0;▀MiG-21bis Lazur-M "Fishbed-L"
+mig-21_bis_lazur_1;▀MiG-21bis Lazur-M
+mig-21_bis_lazur_2;▀MiG-21bis Lazur-M
+mig_23ml_shop;MiG-23ML
+mig_23ml_0;MiG-23ML "Flogger-G"
+mig_23ml_1;MiG-23ML
+mig_23ml_2;MiG-23ML
+mig_29_9_13_shop;MiG-29
+mig_29_9_13_0;MiG-29 Izdeliye 9.13 "Fulcrum-C"
+mig_29_9_13_1;MiG-29
+mig_29_9_13_2;MiG-29
+f-4ej_adtw_shop;F-4EJ ADTW
+f-4ej_adtw_0;F-4EJ Phantom II ADTW
+f-4ej_adtw_1;F-4EJ ADTW
+f-4ej_adtw_2;F-4EJ ADTW
+f-4jk_shop;F-4J(UK)
+f-4jk_0;F-4J(UK) Phantom II
+f-4jk_1;F-4J(UK)
+f-4jk_2;F-4J(UK)
+f_16a_block_10_shop;F-16A
+f_16a_block_10_0;F-16A Fighting Falcon
+f_16a_block_10_1;F-16A
+f_16a_block_10_2;F-16A
+f_16a_block_10_iaf_shop;F-16A
+f_16a_block_10_iaf_0;F-16A Netz
+f_16a_block_10_iaf_1;F-16A
+f_16a_block_10_iaf_2;F-16A
+tornado_gr1_shop;Tornado GR.1
+tornado_gr1_0;Tornado GR.1
+tornado_gr1_1;Tornado GR.1
+tornado_gr1_2;Tornado GR.1
+harrier_frs1_shop;Sea Harrier FRS.1
+harrier_frs1_0;Sea Harrier FRS.1
+harrier_frs1_1;Sea Harrier FRS.1
+harrier_frs1_2;Sea Harrier FRS.1
+saab_j35j_shop;J35J
+saab_j35j_0;J35J Draken
+saab_j35j_1;J35J
+saab_j35j_2;J35J
+cn_wz_1001_shop;WZ1001
+cn_wz_1001_0;WZ1001
+cn_wz_1001_1;WZ1001
+cn_wz_1001_2;WZ1001
+jp_sub_i_ii_20mm_shop;SUB-I-II
+jp_sub_i_ii_20mm_0;Mitsubishi SUB-I-II
+jp_sub_i_ii_20mm_1;SUB-I-II
+jp_sub_i_ii_20mm_2;SUB-I-II
+sw_t_55m_shop;▄T-55M
+sw_t_55m_0;▄T-55M
+sw_t_55m_1;▄T-55M
+sw_t_55m_2;▄T-55M
+it_cruiser_garibaldi_class_abruzzi_shop;RN Duca degli Abruzzi
+it_cruiser_garibaldi_class_abruzzi_0;Duca degli Abruzzi-class, RN Duca degli Abruzzi, 1944
+it_cruiser_garibaldi_class_abruzzi_1;RN Duca degli Abruzzi
+it_cruiser_garibaldi_class_abruzzi_2;RN Duca degli Abruzzi
+us_cruiser_des_moines_class_newport_news_shop;USS Newport News
+us_cruiser_des_moines_class_newport_news_0;Des Moines-class, USS Newport News (CA-148), 1962
+us_cruiser_des_moines_class_newport_news_1;USS Newport News
+us_cruiser_des_moines_class_newport_news_2;USS Newport News
+germ_destroyer_class1936c_z47_shop;Z47
+germ_destroyer_class1936c_z47_0;Type 1936C, Z47, 1945
+germ_destroyer_class1936c_z47_1;Z47
+germ_destroyer_class1936c_z47_2;Z47
+us_pt812_shop;PT-812
+us_pt812_0;105 ft PT-812
+us_pt812_1;PT-812
+us_pt812_2;PT-812
+ussr_destroyer_7_ryany_shop;Ryany
+ussr_destroyer_7_ryany_0;Pr.7, Ryany, 1945
+ussr_destroyer_7_ryany_1;Ryany
+ussr_destroyer_7_ryany_2;Ryany
+germ_pr_131_shop;V-990
+germ_pr_131_0;Pr.131.400 Libelle, V-990
+germ_pr_131_1;V-990
+germ_pr_131_2;V-990
+uk_aircraftcarrier_illustrious_shop;HMS Illustrious
+uk_aircraftcarrier_illustrious_0;Illustrious-class, HMS Illustrious (87)
+uk_aircraftcarrier_illustrious_1;HMS Illustrious
+uk_aircraftcarrier_illustrious_2;HMS Illustrious
+us_aircraftcarrier_lexington_shop;USS Lexington
+us_aircraftcarrier_lexington_0;Lexington-class, USS Lexington (CV-2), 1942
+us_aircraftcarrier_lexington_1;USS Lexington
+us_aircraftcarrier_lexington_2;USS Lexington
+ussr_destroyer_regele_ferdinand_class_letuchiy_shop;Letuchiy
+ussr_destroyer_regele_ferdinand_class_letuchiy_0;Regele Ferdinand-class, Letuchiy, 1945
+ussr_destroyer_regele_ferdinand_class_letuchiy_1;Letuchiy
+ussr_destroyer_regele_ferdinand_class_letuchiy_2;Letuchiy

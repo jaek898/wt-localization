@@ -652,8 +652,8 @@ A rendszerek igény esetén keverhetőek.";"단위계를 설정합니다. 미터
 "measureUnits/celsius_temperature";"°C";"°C";"°C";"°C";"°C";"°C";"°C";"°C";"°C";"°C";"°C";"°C";"°C";"°C";"°C";"°C";"°C";"°C";"°C";"°C";;
 "measureUnits/fahrenheit_temperature";"°F";"°F";"°F";"°F";"°F";"°F";"°F";"°F";"°F";"°F";"°F";"°F";"°F";"°F";"°F";"°F";"°F";"°F";"°F";"°F";;
 "measureUnits/kgPerSec";"kg/s";"kg/s";"kg/s";"kg/sek";"kg/s";"кг/с";"kg/s";"kg/s";"kg/s";"千\t克\t/\t秒";"kg/秒";"kg/s";"кг/с";"kg/s";"kg/s";"kg/s";"кг/с";"kg/s";"公\t斤\t/\t秒";"千\t克\t/\t秒";;
-"measureUnits/deg_per_sec";"°/s";"°/s";"gradi/sec";"°/s";"grados/seg";"°/с";"°/s";"°/s";"°/s";"°/s";"°/秒";"grau/sec";"°/сек";"°/s";"°/s";"°/초";"°/с";"°/s";" 度\t/\t秒";" 度\t/\t秒";;
-"measureUnits/deg";"°";"°";"gradi";"°";"°";"°";"°";"°";"°";"°";"°";"grau";"°";"°";"°";"°";"°";"°";" 度";" 度";;
+"measureUnits/deg_per_sec";"°/s";"°/s";"°/s";"°/s";"grados/seg";"°/с";"°/s";"°/s";"°/s";"°/s";"°/秒";"°/s";"°/сек";"°/s";"°/s";"°/초";"°/с";"°/s";" 度\t/\t秒";" 度\t/\t秒";;
+"measureUnits/deg";"°";"°";"°";"°";"°";"°";"°";"°";"°";"°";"°";"°";"°";"°";"°";"°";"°";"°";" 度";" 度";;
 "measureUnits/degMinutes";"ʹ";"ʹ";"ʹ";"ʹ";"ʹ";"ʹ";"ʹ";"ʹ";"ʹ";"ʹ";"ʹ";"ʹ";"ʹ";"ʹ";"ʹ";"ʹ";"ʹ";"ʹ";"ʹ";"ʹ";;
 "measureUnits/degSeconds";"ʺ";"ʺ";"ʺ";"ʺ";"ʺ";"ʺ";"ʺ";"ʺ";"ʺ";"ʺ";"ʺ";"ʺ";"ʺ";"ʺ";"ʺ";"ʺ";"ʺ";"ʺ";"ʺ";"ʺ";;
 "measureUnits/rpm";"rpm";"tr/min";"giri/min";"U/Min";"rpm";"об/мин";"obr. / min";"ot/min";"rpm";"转";"rpm";"rpm";"об/хв";"o/min";"f/p";"RPM";"аб/хв";"rpm";"轉";"转";;
