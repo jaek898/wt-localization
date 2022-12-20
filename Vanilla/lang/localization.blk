@@ -253,7 +253,6 @@ text_translation{
 }
 
 abbreviation_languages_table{
-
   ps4{
     en:t="English"
     ru:t="Russian"

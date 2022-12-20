@@ -1,4 +1,4 @@
-<ID|readonly|noverify>;<English>▃USA▀GER▂USSR▄UK▅JP☀ROC␗PRC╏IT☨FRISR⚜FR
+<ID|readonly|noverify>;<English>▃USA▀GER▂USSR▄UK▅JP☀ROC␗PRC╏IT☨FRISR⚜FR◊GDR◄FRG
 ships/uss_cv_immortal_0;Carrier
 ships/uss_cv_immortal_1;Carrier
 ships/uss_cv_immortal_2;Carrier
@@ -3179,10 +3179,10 @@ p-47d_luftwaffe_shop;▀P-47D-25
 p-47d_luftwaffe_0;▀P-47D-25 Thunderbolt
 p-47d_luftwaffe_1;▀P-47D-25
 p-47d_luftwaffe_2;▀P-47D-25
-f-84f_germany_shop;▀F-84F
-f-84f_germany_0;▀F-84F Thunderstreak
-f-84f_germany_1;▀F-84F
-f-84f_germany_2;▀F-84F
+f-84f_germany_shop;◄F-84F
+f-84f_germany_0;◄F-84F Thunderstreak
+f-84f_germany_1;◄F-84F
+f-84f_germany_2;◄F-84F
 shop/group/p-51_group;P-51 [L]
 p-51b_shop;▄Mustang Mk IA
 p-51b_0;▄Mustang Mk IA
@@ -5171,14 +5171,14 @@ fw-190a-1_shop;Fw 190 A-1
 fw-190a-1_0;Fw 190 A-1
 fw-190a-1_1;Fw 190 A-1
 fw-190a-1_2;Fw 190 A-1
-mig-15bis_nr23_german_shop;▀MiG-15bis
-mig-15bis_nr23_german_0;▀MiG-15bis "Fagot-B"
-mig-15bis_nr23_german_1;▀MiG-15bis
-mig-15bis_nr23_german_2;▀MiG-15bis
-il_28_german_shop;▀IL-28
-il_28_german_0;▀IL-28 "Beagle"
-il_28_german_1;▀IL-28
-il_28_german_2;▀IL-28
+mig-15bis_nr23_german_shop;◊MiG-15bis
+mig-15bis_nr23_german_0;◊MiG-15bis "Fagot-B"
+mig-15bis_nr23_german_1;◊MiG-15bis
+mig-15bis_nr23_german_2;◊MiG-15bis
+il_28_german_shop;◊IL-28
+il_28_german_0;◊IL-28 "Beagle"
+il_28_german_1;◊IL-28
+il_28_german_2;◊IL-28
 la_174_shop;La-174
 la_174_0;La-174
 la_174_1;La-174
@@ -5789,10 +5789,10 @@ mig-19pt_shop;MiG-19PT
 mig-19pt_0;MiG-19PT "Farmer-B"
 mig-19pt_1;MiG-19PT
 mig-19pt_2;MiG-19PT
-mig-19s_shop;▀MiG-19S
-mig-19s_0;▀MiG-19S "Farmer-C"
-mig-19s_1;▀MiG-19S
-mig-19s_2;▀MiG-19S
+mig-19s_shop;◊MiG-19S
+mig-19s_0;◊MiG-19S "Farmer-C"
+mig-19s_1;◊MiG-19S
+mig-19s_2;◊MiG-19S
 stirling_mk1_shop;Stirling B Mk I
 stirling_mk1_0;Stirling B Mk I
 stirling_mk1_1;Stirling B Mk I
@@ -6728,10 +6728,10 @@ f-104j_shop;F-104J
 f-104j_0;F-104J Starfighter
 f-104j_1;F-104J
 f-104j_2;F-104J
-f-104g_shop;▀F-104G
-f-104g_0;▀F-104G Starfighter
-f-104g_1;▀F-104G
-f-104g_2;▀F-104G
+f-104g_shop;◄F-104G
+f-104g_0;◄F-104G Starfighter
+f-104g_1;◄F-104G
+f-104g_2;◄F-104G
 f-5a_china_shop;☀F-5A
 f-5a_china_0;☀F-5A Freedom Fighter
 f-5a_china_1;☀F-5A
@@ -7871,10 +7871,10 @@ f-86k_late_italy_shop;╏F-86K
 f-86k_late_italy_0;╏F-86K Sabre
 f-86k_late_italy_1;╏F-86K
 f-86k_late_italy_2;╏F-86K
-f-86k_late_german_shop;▀F-86K
-f-86k_late_german_0;▀F-86K Sabre
-f-86k_late_german_1;▀F-86K
-f-86k_late_german_2;▀F-86K
+f-86k_late_german_shop;◄F-86K
+f-86k_late_german_0;◄F-86K Sabre
+f-86k_late_german_1;◄F-86K
+f-86k_late_german_2;◄F-86K
 j5n1_shop;J5N1
 j5n1_0;J5N1
 j5n1_1;J5N1
@@ -7895,22 +7895,22 @@ p-59a_shop;P-59A
 p-59a_0;P-59A Airacomet
 p-59a_1;P-59A
 p-59a_2;P-59A
-fiat_g91_r3_shop;▀G.91 R/3
-fiat_g91_r3_0;▀G.91 R/3
-fiat_g91_r3_1;▀G.91 R/3
-fiat_g91_r3_2;▀G.91 R/3
-fiat_g91_r4_german_shop;▀G.91 R/4
-fiat_g91_r4_german_0;▀G.91 R/4
-fiat_g91_r4_german_1;▀G.91 R/4
-fiat_g91_r4_german_2;▀G.91 R/4
+fiat_g91_r3_shop;◄G.91 R/3
+fiat_g91_r3_0;◄G.91 R/3
+fiat_g91_r3_1;◄G.91 R/3
+fiat_g91_r3_2;◄G.91 R/3
+fiat_g91_r4_german_shop;◄G.91 R/4
+fiat_g91_r4_german_0;◄G.91 R/4
+fiat_g91_r4_german_1;◄G.91 R/4
+fiat_g91_r4_german_2;◄G.91 R/4
 mig-21_f13_shop;MiG-21F-13
 mig-21_f13_0;MiG-21F-13 "Fishbed-C"
 mig-21_f13_1;MiG-21F-13
 mig-21_f13_2;MiG-21F-13
-mig-21_mf_shop;▀MiG-21MF
-mig-21_mf_0;▀MiG-21MF "Fishbed-J"
-mig-21_mf_1;▀MiG-21MF
-mig-21_mf_2;▀MiG-21MF
+mig-21_mf_shop;◊MiG-21MF
+mig-21_mf_0;◊MiG-21MF "Fishbed-J"
+mig-21_mf_1;◊MiG-21MF
+mig-21_mf_2;◊MiG-21MF
 mig-21_smt_shop;MiG-21SMT
 mig-21_smt_0;MiG-21SMT "Fishbed-K"
 mig-21_smt_1;MiG-21SMT
@@ -7928,22 +7928,22 @@ mig-21_pfm_shop;MiG-21PFM
 mig-21_pfm_0;MiG-21PFM "Fishbed-F"
 mig-21_pfm_1;MiG-21PFM
 mig-21_pfm_2;MiG-21PFM
-mig-21_sps_k_shop;▀MiG-21SPS-K
-mig-21_sps_k_0;▀MiG-21SPS-K "Fishbed-F"
-mig-21_sps_k_1;▀MiG-21SPS-K
-mig-21_sps_k_2;▀MiG-21SPS-K
-mig-21_bis_sau_shop;▀MiG-21bis-SAU
-mig-21_bis_sau_0;▀MiG-21bis-SAU "Fishbed-N"
-mig-21_bis_sau_1;▀MiG-21bis-SAU
-mig-21_bis_sau_2;▀MiG-21bis-SAU
+mig-21_sps_k_shop;◊MiG-21SPS-K
+mig-21_sps_k_0;◊MiG-21SPS-K "Fishbed-F"
+mig-21_sps_k_1;◊MiG-21SPS-K
+mig-21_sps_k_2;◊MiG-21SPS-K
+mig-21_bis_sau_shop;◊MiG-21bis-SAU
+mig-21_bis_sau_0;◊MiG-21bis-SAU "Fishbed-N"
+mig-21_bis_sau_1;◊MiG-21bis-SAU
+mig-21_bis_sau_2;◊MiG-21bis-SAU
 mig_23m_shop;MiG-23M
 mig_23m_0;MiG-23M "Flogger-B"
 mig_23m_1;MiG-23M
 mig_23m_2;MiG-23M
-mig_23mf_germany_shop;▀MiG-23MF
-mig_23mf_germany_0;▀MiG-23MF "Flogger-B"
-mig_23mf_germany_1;▀MiG-23MF
-mig_23mf_germany_2;▀MiG-23MF
+mig_23mf_germany_shop;◊MiG-23MF
+mig_23mf_germany_0;◊MiG-23MF "Flogger-B"
+mig_23mf_germany_1;◊MiG-23MF
+mig_23mf_germany_2;◊MiG-23MF
 mig_23mld_shop;MiG-23MLD
 mig_23mld_0;MiG-23MLD "Flogger-K"
 mig_23mld_1;MiG-23MLD
@@ -7960,14 +7960,14 @@ f-4e_iaf_shop;F-4E
 f-4e_iaf_0;F-4E Kurnass
 f-4e_iaf_1;F-4E
 f-4e_iaf_2;F-4E
-f-4f_shop;F-4F [E]
-f-4f_0;F-4F Phantom II Early
-f-4f_1;F-4F [E]
-f-4f_2;F-4F [E]
-f-4f_late_shop;F-4F [L]
-f-4f_late_0;F-4F Phantom II Late
-f-4f_late_1;F-4F [L]
-f-4f_late_2;F-4F [L]
+f-4f_shop;◄F-4F [E]
+f-4f_0;◄F-4F Phantom II Early
+f-4f_1;◄F-4F [E]
+f-4f_2;◄F-4F [E]
+f-4f_late_shop;◄F-4F [L]
+f-4f_late_0;◄F-4F Phantom II Late
+f-4f_late_1;◄F-4F [L]
+f-4f_late_2;◄F-4F [L]
 f-4ej_shop;F-4EJ
 f-4ej_0;F-4EJ Phantom II
 f-4ej_1;F-4EJ
@@ -10460,10 +10460,10 @@ b_26c_france_shop;B-26C
 b_26c_france_0;B-26C Marauder
 b_26c_france_1;B-26C
 b_26c_france_2;B-26C
-su_22um3k_shop;▀Su-22UM3K
-su_22um3k_0;▀Su-22UM3K "Fitter-G"
-su_22um3k_1;▀Su-22UM3K
-su_22um3k_2;▀Su-22UM3K
+su_22um3k_shop;◊Su-22UM3K
+su_22um3k_0;◊Su-22UM3K "Fitter-G"
+su_22um3k_1;◊Su-22UM3K
+su_22um3k_2;◊Su-22UM3K
 ahs_shop;AHS
 ahs_0;Attack Helicopter System
 ahs_1;AHS
@@ -10584,10 +10584,10 @@ us_lav_ad_shop;LAV-AD
 us_lav_ad_0;LAV-AD
 us_lav_ad_1;LAV-AD
 us_lav_ad_2;LAV-AD
-mig_23mla_shop;▀MiG-23MLA
-mig_23mla_0;▀MiG-23MLA "Flogger-G"
-mig_23mla_1;▀MiG-23MLA
-mig_23mla_2;▀MiG-23MLA
+mig_23mla_shop;◊MiG-23MLA
+mig_23mla_0;◊MiG-23MLA "Flogger-G"
+mig_23mla_1;◊MiG-23MLA
+mig_23mla_2;◊MiG-23MLA
 mi_28a_sweden_shop;▄Mi-28A
 mi_28a_sweden_0;▄Mi-28A "Havoc-A"
 mi_28a_sweden_1;▄Mi-28A
@@ -10730,10 +10730,10 @@ su_17m4_shop;Su-17M4
 su_17m4_0;Su-17M4 "Fitter-K"
 su_17m4_1;Su-17M4
 su_17m4_2;Su-17M4
-mig-17p_lim_5p_shop;Lim-5P
-mig-17p_lim_5p_0;Lim-5P "Fresco-D"
-mig-17p_lim_5p_1;Lim-5P
-mig-17p_lim_5p_2;Lim-5P
+mig-17p_lim_5p_shop;◊Lim-5P
+mig-17p_lim_5p_0;◊Lim-5P "Fresco-D"
+mig-17p_lim_5p_1;◊Lim-5P
+mig-17p_lim_5p_2;◊Lim-5P
 ussr_btr_zd_shop;BTR-ZD
 ussr_btr_zd_0;BTR-ZD
 ussr_btr_zd_1;BTR-ZD
@@ -11003,10 +11003,10 @@ jp_type_16_mcv_prot_shop;Type 16 (P)
 jp_type_16_mcv_prot_0;Type 16, Prototype
 jp_type_16_mcv_prot_1;Type 16 (P)
 jp_type_16_mcv_prot_2;Type 16 (P)
-mig_23bn_shop;▀MiG-23BN
-mig_23bn_0;▀MiG-23BN "Flogger-D"
-mig_23bn_1;▀MiG-23BN
-mig_23bn_2;▀MiG-23BN
+mig_23bn_shop;◊MiG-23BN
+mig_23bn_0;◊MiG-23BN "Flogger-D"
+mig_23bn_1;◊MiG-23BN
+mig_23bn_2;◊MiG-23BN
 harrier_gr7_shop;Harrier GR.7
 harrier_gr7_0;Harrier GR.7
 harrier_gr7_1;Harrier GR.7
@@ -11443,10 +11443,10 @@ ussr_t_80um2_shop;T-80UM2
 ussr_t_80um2_0;T-80UM2
 ussr_t_80um2_1;T-80UM2
 ussr_t_80um2_2;T-80UM2
-mig-21_bis_lazur_shop;▀MiG-21bis Lazur-M
-mig-21_bis_lazur_0;▀MiG-21bis Lazur-M "Fishbed-L"
-mig-21_bis_lazur_1;▀MiG-21bis Lazur-M
-mig-21_bis_lazur_2;▀MiG-21bis Lazur-M
+mig-21_bis_lazur_shop;◊MiG-21bis Lazur-M
+mig-21_bis_lazur_0;◊MiG-21bis Lazur-M "Fishbed-L"
+mig-21_bis_lazur_1;◊MiG-21bis Lazur-M
+mig-21_bis_lazur_2;◊MiG-21bis Lazur-M
 mig_23ml_shop;MiG-23ML
 mig_23ml_0;MiG-23ML "Flogger-G"
 mig_23ml_1;MiG-23ML
@@ -11463,14 +11463,14 @@ f-4jk_shop;F-4J(UK)
 f-4jk_0;F-4J(UK) Phantom II
 f-4jk_1;F-4J(UK)
 f-4jk_2;F-4J(UK)
-f_16a_block_10_shop;F-16A
-f_16a_block_10_0;F-16A Fighting Falcon
-f_16a_block_10_1;F-16A
-f_16a_block_10_2;F-16A
-f_16a_block_10_iaf_shop;F-16A
-f_16a_block_10_iaf_0;F-16A Netz
-f_16a_block_10_iaf_1;F-16A
-f_16a_block_10_iaf_2;F-16A
+f_16a_block_10_shop;F-16A-10
+f_16a_block_10_0;F-16A-10 Fighting Falcon
+f_16a_block_10_1;F-16A-10
+f_16a_block_10_2;F-16A-10
+f_16a_block_10_iaf_shop;F-16A-10
+f_16a_block_10_iaf_0;F-16A-10 Netz
+f_16a_block_10_iaf_1;F-16A-10
+f_16a_block_10_iaf_2;F-16A-10
 tornado_gr1_shop;Tornado GR.1
 tornado_gr1_0;Tornado GR.1
 tornado_gr1_1;Tornado GR.1
@@ -11479,10 +11479,6 @@ harrier_frs1_shop;Sea Harrier FRS.1
 harrier_frs1_0;Sea Harrier FRS.1
 harrier_frs1_1;Sea Harrier FRS.1
 harrier_frs1_2;Sea Harrier FRS.1
-saab_j35j_shop;J35J
-saab_j35j_0;J35J Draken
-saab_j35j_1;J35J
-saab_j35j_2;J35J
 cn_wz_1001_shop;WZ1001
 cn_wz_1001_0;WZ1001
 cn_wz_1001_1;WZ1001
@@ -11535,11 +11531,71 @@ saab_ja37d_shop;JA37D
 saab_ja37d_0;JA37D Jaktviggen
 saab_ja37d_1;JA37D
 saab_ja37d_2;JA37D
-f_16a_block_20_mlu_shop;☀F-16A
-f_16a_block_20_mlu_0;☀F-16A Fighting Falcon
-f_16a_block_20_mlu_1;☀F-16A
-f_16a_block_20_mlu_2;☀F-16A
+f_16a_block_20_mlu_shop;☀F-16A-20
+f_16a_block_20_mlu_0;☀F-16A-20 MLU Fighting Falcon
+f_16a_block_20_mlu_1;☀F-16A-20
+f_16a_block_20_mlu_2;☀F-16A-20
 uk_minelayer_abdiel_class_abdiel_shop;HMS Abdiel
 uk_minelayer_abdiel_class_abdiel_0;Abdiel-class, HMS Abdiel, 1941
 uk_minelayer_abdiel_class_abdiel_1;HMS Abdiel
 uk_minelayer_abdiel_class_abdiel_2;HMS Abdiel
+us_m1128_wolfpack_shop;M1128 Wolfpack
+us_m1128_wolfpack_0;M1128 Wolfpack
+us_m1128_wolfpack_1;M1128 Wolfpack
+us_m1128_wolfpack_2;M1128 Wolfpack
+germ_flakpz_1a2_Gepard_shop;Gepard 1A2
+germ_flakpz_1a2_Gepard_0;Flakpanzer I Gepard 1A2
+germ_flakpz_1a2_Gepard_1;Gepard 1A2
+germ_flakpz_1a2_Gepard_2;Gepard 1A2
+germ_sdkfz_222_shop_shop;Sd.Kfz.222
+germ_sdkfz_222_shop_0;le.Pz.Sp.Wg. Sd.Kfz. 222
+germ_sdkfz_222_shop_1;Sd.Kfz.222
+germ_sdkfz_222_shop_2;Sd.Kfz.222
+fr_char_2c_bis_shop;2C bis
+fr_char_2c_bis_0;Char FCM 2C bis
+fr_char_2c_bis_1;2C bis
+fr_char_2c_bis_2;2C bis
+mirage_2000d_r1_shop;Mirage 2000D
+mirage_2000d_r1_0;Mirage 2000D-R1
+mirage_2000d_r1_1;Mirage 2000D
+mirage_2000d_r1_2;Mirage 2000D
+late_298d_shop;Late 298D
+late_298d_0;Late 298D
+late_298d_1;Late 298D
+late_298d_2;Late 298D
+f_16a_block_15_adf_shop;F-16A-15 ADF
+f_16a_block_15_adf_0;F-16A-15 ADF Fighting Falcon
+f_16a_block_15_adf_1;F-16A-15 ADF
+f_16a_block_15_adf_2;F-16A-15 ADF
+f_16a_block_15_adf_italy_shop;╏F-16A ADF
+f_16a_block_15_adf_italy_0;╏F-16A ADF Fighting Falcon
+f_16a_block_15_adf_italy_1;╏F-16A ADF
+f_16a_block_15_adf_italy_2;╏F-16A ADF
+tornado_ids_de_mfg_shop;◄Tornado Marineflieger
+tornado_ids_de_mfg_0;◄Tornado IDS Marineflieger
+tornado_ids_de_mfg_1;◄Tornado Marineflieger
+tornado_ids_de_mfg_2;◄Tornado Marineflieger
+tornado_ids_it_mod95_shop;╏Tornado IDS
+tornado_ids_it_mod95_0;╏Tornado IDS (1995)
+tornado_ids_it_mod95_1;╏Tornado IDS
+tornado_ids_it_mod95_2;╏Tornado IDS
+tornado_ids_de_assta1_shop;◄Tornado IDS
+tornado_ids_de_assta1_0;◄Tornado IDS ASSTA1
+tornado_ids_de_assta1_1;◄Tornado IDS
+tornado_ids_de_assta1_2;◄Tornado IDS
+saab_j35xs_shop;J35XS
+saab_j35xs_0;J35XS Draken
+saab_j35xs_1;J35XS
+saab_j35xs_2;J35XS
+us_aircraftcarrier_saratoga_shop;USS Saratoga
+us_aircraftcarrier_saratoga_0;Lexington-class, USS Saratoga (CV-3), 1942
+us_aircraftcarrier_saratoga_1;USS Saratoga
+us_aircraftcarrier_saratoga_2;USS Saratoga
+us_aircraftcarrier_enterprise_shop;USS Enterprise
+us_aircraftcarrier_enterprise_0;Yorktown-class, USS Enterprise (CV-6), 1942
+us_aircraftcarrier_enterprise_1;USS Enterprise
+us_aircraftcarrier_enterprise_2;USS Enterprise
+jp_cruiser_myoko_shop;IJN Myoko
+jp_cruiser_myoko_0;Myoko-class, IJN Myoko, 1944
+jp_cruiser_myoko_1;IJN Myoko
+jp_cruiser_myoko_2;IJN Myoko
