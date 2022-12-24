@@ -7587,18 +7587,18 @@ mb_175t_shop;M.B.175T
 mb_175t_0;M.B.175T
 mb_175t_1;M.B.175T
 mb_175t_2;M.B.175T
-uh_1d_shop;▀UH-1D
-uh_1d_0;▀UH-1D
-uh_1d_1;▀UH-1D
-uh_1d_2;▀UH-1D
-mi_24p_german_shop;▀Mi-24P
-mi_24p_german_0;▀Mi-24P "Hind-F"
-mi_24p_german_1;▀Mi-24P
-mi_24p_german_2;▀Mi-24P
-sa_313b_shop;▀SA 313B Alouette II
-sa_313b_0;▀SA 313B Alouette II
-sa_313b_1;▀SA 313B Alouette II
-sa_313b_2;▀SA 313B Alouette II
+uh_1d_shop;◄UH-1D
+uh_1d_0;◄UH-1D
+uh_1d_1;◄UH-1D
+uh_1d_2;◄UH-1D
+mi_24p_german_shop;◊Mi-24P
+mi_24p_german_0;◊Mi-24P "Hind-F"
+mi_24p_german_1;◊Mi-24P
+mi_24p_german_2;◊Mi-24P
+sa_313b_shop;◄SA 313B Alouette II
+sa_313b_0;◄SA 313B Alouette II
+sa_313b_1;◄SA 313B Alouette II
+sa_313b_2;◄SA 313B Alouette II
 bo_105cb2_shop;BO 105 CB-2
 bo_105cb2_0;BO 105 CB-2
 bo_105cb2_1;BO 105 CB-2
@@ -7988,10 +7988,10 @@ f-4k_shop;Phantom FG.1
 f-4k_0;Phantom FG.1
 f-4k_1;Phantom FG.1
 f-4k_2;Phantom FG.1
-mi_24p_german_hfs80_shop;▀Mi-24P HFS 80
-mi_24p_german_hfs80_0;▀Mi-24P HFS 80 "Hind-F"
-mi_24p_german_hfs80_1;▀Mi-24P HFS 80
-mi_24p_german_hfs80_2;▀Mi-24P HFS 80
+mi_24p_german_hfs80_shop;◊Mi-24P HFS 80
+mi_24p_german_hfs80_0;◊Mi-24P HFS 80 "Hind-F"
+mi_24p_german_hfs80_1;◊Mi-24P HFS 80
+mi_24p_german_hfs80_2;◊Mi-24P HFS 80
 g_lynx_shop;G-LYNX
 g_lynx_0;G-LYNX
 g_lynx_1;G-LYNX
@@ -11463,13 +11463,13 @@ f-4jk_shop;F-4J(UK)
 f-4jk_0;F-4J(UK) Phantom II
 f-4jk_1;F-4J(UK)
 f-4jk_2;F-4J(UK)
-f_16a_block_10_shop;F-16A-10
-f_16a_block_10_0;F-16A-10 Fighting Falcon
-f_16a_block_10_1;F-16A-10
-f_16a_block_10_2;F-16A-10
-f_16a_block_10_iaf_shop;F-16A-10
-f_16a_block_10_iaf_0;F-16A-10 Netz
-f_16a_block_10_iaf_1;F-16A-10
+f_16a_block_10_shop;F-16A
+f_16a_block_10_0;F-16A Block 10 Fighting Falcon
+f_16a_block_10_1;F-16A
+f_16a_block_10_2;F-16A
+f_16a_block_10_iaf_shop;F-16A
+f_16a_block_10_iaf_0;F-16A Block 10 Netz
+f_16a_block_10_iaf_1;F-16A
 f_16a_block_10_iaf_2;F-16A
 tornado_gr1_shop;Tornado GR.1
 tornado_gr1_0;Tornado GR.1
@@ -11531,10 +11531,10 @@ saab_ja37d_shop;JA37D
 saab_ja37d_0;JA37D Jaktviggen
 saab_ja37d_1;JA37D
 saab_ja37d_2;JA37D
-f_16a_block_20_mlu_shop;☀F-16A
-f_16a_block_20_mlu_0;☀F-16A Fighting Falcon
-f_16a_block_20_mlu_1;☀F-16A
-f_16a_block_20_mlu_2;☀F-16A
+f_16a_block_20_mlu_shop;☀F-16A MLU
+f_16a_block_20_mlu_0;☀F-16A Block 20 MLU Fighting Falcon
+f_16a_block_20_mlu_1;☀F-16A MLU
+f_16a_block_20_mlu_2;☀F-16A MLU
 uk_minelayer_abdiel_class_abdiel_shop;HMS Abdiel
 uk_minelayer_abdiel_class_abdiel_0;Abdiel-class, HMS Abdiel, 1941
 uk_minelayer_abdiel_class_abdiel_1;HMS Abdiel
@@ -11563,14 +11563,14 @@ late_298d_shop;Late 298D
 late_298d_0;Late 298D
 late_298d_1;Late 298D
 late_298d_2;Late 298D
-f_16a_block_15_adf_shop;F-16A-15 ADF
-f_16a_block_15_adf_0;F-16A-15 ADF Fighting Falcon
-f_16a_block_15_adf_1;F-16A-15 ADF
-f_16a_block_15_adf_2;F-16A-15 ADF
-f_16a_block_15_adf_italy_shop;╏F-16A-15 ADF
-f_16a_block_15_adf_italy_0;╏F-16A-15 ADF Fighting Falcon
-f_16a_block_15_adf_italy_1;╏F-16A-15 ADF
-f_16a_block_15_adf_italy_2;╏F-16A-15 ADF
+f_16a_block_15_adf_shop;F-16A ADF
+f_16a_block_15_adf_0;F-16A Block 15 ADF Fighting Falcon
+f_16a_block_15_adf_1;F-16A ADF
+f_16a_block_15_adf_2;F-16A ADF
+f_16a_block_15_adf_italy_shop;╏F-16A ADF
+f_16a_block_15_adf_italy_0;╏F-16A Block 15 ADF Fighting Falcon
+f_16a_block_15_adf_italy_1;╏F-16A ADF
+f_16a_block_15_adf_italy_2;╏F-16A ADF
 tornado_ids_de_mfg_shop;◄Tornado Marineflieger
 tornado_ids_de_mfg_0;◄Tornado IDS Marineflieger
 tornado_ids_de_mfg_1;◄Tornado Marineflieger
