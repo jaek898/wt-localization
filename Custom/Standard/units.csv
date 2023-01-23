@@ -2503,10 +2503,10 @@ fr_amx_30_b2_brenus_shop;AMX-30B2 BRENUS
 fr_amx_30_b2_brenus_0;AMX-30B2 BRENUS
 fr_amx_30_b2_brenus_1;AMX-30B2 BRENUS
 fr_amx_30_b2_brenus_2;AMX-30B2 BRENUS
-fr_amx_50_1950_shop;AMX-50 (1950)
-fr_amx_50_1950_0;AMX-50 (1950)
-fr_amx_50_1950_1;AMX-50 (1950)
-fr_amx_50_1950_2;AMX-50 (1950)
+fr_amx_50_1950_shop;AMX-50 (TO90/930)
+fr_amx_50_1950_0;AMX Char Moyen de 50 tonnes (TO90/930)
+fr_amx_50_1950_1;AMX-50 (TO90/930)
+fr_amx_50_1950_2;AMX-50 (TO90/930)
 fr_somua_sm_shop;Somua SM
 fr_somua_sm_0;Somua SM
 fr_somua_sm_1;Somua SM
@@ -2676,6 +2676,7 @@ wheeled_vehicles/germ_opelBlitz_fuel_2;Vehicle
 wheeled_vehicles/germ_opelBlitz_fuel_tutorial_0;Vehicle
 wheeled_vehicles/germ_opelBlitz_fuel_tutorial_1;Vehicle
 wheeled_vehicles/germ_opelBlitz_fuel_tutorial_2;Vehicle
+wheeled_vehicles/germ_opelBlitz_med;Vehicle
 wheeled_vehicles/germ_opelBlitz_radio_0;Vehicle
 wheeled_vehicles/germ_opelBlitz_radio_1;Vehicle
 wheeled_vehicles/germ_opelBlitz_radio_2;Vehicle
@@ -3248,10 +3249,10 @@ spitfire_xvi_shop;Spitfire F Mk XVI
 spitfire_xvi_0;Spitfire F Mk XVI
 spitfire_xvi_1;Spitfire F Mk XVI
 spitfire_xvi_2;Spitfire F Mk XVI
-spitfire_lf_mk9e_weisman_shop;Spitfire LF Mk IX
-spitfire_lf_mk9e_weisman_0;Ezer Weizman's Spitfire LF Mk IX
-spitfire_lf_mk9e_weisman_1;Spitfire LF Mk IX
-spitfire_lf_mk9e_weisman_2;Spitfire LF Mk IX
+spitfire_lf_mk9e_weisman_shop;Spitfire LF Mk IXe
+spitfire_lf_mk9e_weisman_0;Ezer Weizman's Spitfire LF Mk IXe
+spitfire_lf_mk9e_weisman_1;Spitfire LF Mk IXe
+spitfire_lf_mk9e_weisman_2;Spitfire LF Mk IXe
 spitfire_lf_mk9e_iaf_shop;Spitfire LF Mk IX (CW)
 spitfire_lf_mk9e_iaf_0;Spitfire LF Mk IX (Clipped Wings)
 spitfire_lf_mk9e_iaf_1;Spitfire LF Mk IX (CW)
@@ -8100,26 +8101,26 @@ mi_28nm_shop;Mi-28NM
 mi_28nm_0;Mi-28NM "Havoc-B"
 mi_28nm_1;Mi-28NM
 mi_28nm_2;Mi-28NM
-a_129_a_shop;A-129 International (P)
-a_129_a_0;A-129 International Prototype
-a_129_a_1;A-129 International (P)
-a_129_a_2;A-129 International (P)
+a_129_a_shop;A129 International (P)
+a_129_a_0;A129 International Prototype
+a_129_a_1;A129 International (P)
+a_129_a_2;A129 International (P)
 a_129_cbt_shop;A129CBT
 a_129_cbt_0;A129CBT Mangusta
 a_129_cbt_1;A129CBT
 a_129_cbt_2;A129CBT
-a_109_eoa2_shop;A.109EOA-2
-a_109_eoa2_0;A.109EOA-2
-a_109_eoa2_1;A.109EOA-2
-a_109_eoa2_2;A.109EOA-2
-ab_205a_1_shop;AB 205 A-1
-ab_205a_1_0;AB 205 A-1
-ab_205a_1_1;AB 205 A-1
-ab_205a_1_2;AB 205 A-1
-pyorremyrsky_shop;Pyörremyrsky
-pyorremyrsky_0;Pyörremyrsky
-pyorremyrsky_1;Pyörremyrsky
-pyorremyrsky_2;Pyörremyrsky
+a_109_eoa2_shop;A109EOA-2
+a_109_eoa2_0;A109EOA-2
+a_109_eoa2_1;A109EOA-2
+a_109_eoa2_2;A109EOA-2
+ab_205a_1_shop;AB205A-1
+ab_205a_1_0;AB205A-1
+ab_205a_1_1;AB205A-1
+ab_205a_1_2;AB205A-1
+pyorremyrsky_shop;VL Pyörremyrsky
+pyorremyrsky_0;VL Pyörremyrsky
+pyorremyrsky_1;VL Pyörremyrsky
+pyorremyrsky_2;VL Pyörremyrsky
 saab_j29d_shop;J29D
 saab_j29d_0;J29D Tunnan
 saab_j29d_1;J29D
@@ -9038,7 +9039,7 @@ sw_sav_fm48_0;Stormartillerivagn 20.12.48
 sw_sav_fm48_1;SAV 20.12.48
 sw_sav_fm48_2;SAV 20.12.48
 sw_stormpjas_fm43_44_shop;Spj fm/43-44
-sw_stormpjas_fm43_44_0;Stormpjas fm/43-44
+sw_stormpjas_fm43_44_0;Stormpjäs fm/43-44
 sw_stormpjas_fm43_44_1;Spj fm/43-44
 sw_stormpjas_fm43_44_2;Spj fm/43-44
 sw_pvkv_II_shop;Pvkv II
@@ -10980,7 +10981,7 @@ il_magach_6m_0;Magach 6M
 il_magach_6m_1;Magach 6M
 il_magach_6m_2;Magach 6M
 it_vrcc_centauro_shop;VRCC
-it_vrcc_centauro_0;Vehículos de Reconocimiento y Combate de Caballería Centauro
+it_vrcc_centauro_0;Vehículo de Reconocimiento y Combate de Caballería Centauro
 it_vrcc_centauro_1;VRCC
 it_vrcc_centauro_2;VRCC
 z_11wa_shop;Z-11WA
@@ -11011,10 +11012,10 @@ harrier_gr7_shop;Harrier GR.7
 harrier_gr7_0;Harrier GR.7
 harrier_gr7_1;Harrier GR.7
 harrier_gr7_2;Harrier GR.7
-t_129_atak_shop;T129
+t_129_atak_shop;T129 ATAK
 t_129_atak_0;T129 ATAK
-t_129_atak_1;T129
-t_129_atak_2;T129
+t_129_atak_1;T129 ATAK
+t_129_atak_2;T129 ATAK
 cn_hj_9_shop;AFT-9
 cn_hj_9_0;AFT-9
 cn_hj_9_1;AFT-9
@@ -11599,3 +11600,11 @@ jp_cruiser_myoko_shop;IJN Myoko
 jp_cruiser_myoko_0;Myoko-class, IJN Myoko, 1944
 jp_cruiser_myoko_1;IJN Myoko
 jp_cruiser_myoko_2;IJN Myoko
+ussr_pr_183_egypt_bm_21_shop;Pr.183 BM-21
+ussr_pr_183_egypt_bm_21_0;Pr.183 BM-21
+ussr_pr_183_egypt_bm_21_1;Pr.183 BM-21
+ussr_pr_183_egypt_bm_21_2;Pr.183 BM-21
+bf-109f-4_hungary_shop;▄Bf 109 F-4
+bf-109f-4_hungary_0;▄Bf 109 F-4
+bf-109f-4_hungary_1;▄Bf 109 F-4
+bf-109f-4_hungary_2;▄Bf 109 F-4
