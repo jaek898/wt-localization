@@ -151,6 +151,7 @@ full_translation{
     lang:t="Portuguese"
     lang:t="Swedish"
     lang:t="Hebrew"
+    lang:t="Hungarian"
   }
 
   xboxScarlett{
@@ -170,6 +171,7 @@ full_translation{
     lang:t="Portuguese"
     lang:t="Swedish"
     lang:t="Hebrew"
+    lang:t="Hungarian"
   }
 }
 

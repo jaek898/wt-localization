@@ -2911,7 +2911,7 @@ bf-109k-4_0;Bf 109 K-4
 bf-109k-4_1;Bf 109 K-4
 bf-109k-4_2;Bf 109 K-4
 s_199_shop;S-199
-s_199_0;S-199
+s_199_0;S-199 Sakeen
 s_199_1;S-199
 s_199_2;S-199
 bf-110c-4_shop;Bf 110 C-7
@@ -11548,10 +11548,10 @@ germ_flakpz_1a2_Gepard_shop;Gepard 1A2
 germ_flakpz_1a2_Gepard_0;Flakpanzer I Gepard 1A2
 germ_flakpz_1a2_Gepard_1;Gepard 1A2
 germ_flakpz_1a2_Gepard_2;Gepard 1A2
-germ_sdkfz_222_shop_shop;Sd.Kfz.222
-germ_sdkfz_222_shop_0;le.Pz.Sp.Wg. Sd.Kfz. 222
-germ_sdkfz_222_shop_1;Sd.Kfz.222
-germ_sdkfz_222_shop_2;Sd.Kfz.222
+germ_sdkfz_222_shop;Sd.Kfz.222
+germ_sdkfz_222__0;le.Pz.Sp.Wg. Sd.Kfz. 222
+germ_sdkfz_222_1;Sd.Kfz.222
+germ_sdkfz_222_2;Sd.Kfz.222
 fr_char_2c_bis_shop;2C bis
 fr_char_2c_bis_0;Char FCM 2C bis
 fr_char_2c_bis_1;2C bis
@@ -11608,3 +11608,166 @@ bf-109f-4_hungary_shop;▄Bf 109 F-4
 bf-109f-4_hungary_0;▄Bf 109 F-4
 bf-109f-4_hungary_1;▄Bf 109 F-4
 bf-109f-4_hungary_2;▄Bf 109 F-4
+p-47d_30_italy_shop;▄▄P-47D-30
+p-47d_30_italy_0;▄▄P-47D-30 Thunderbolt
+p-47d_30_italy_1;▄▄P-47D-30
+p-47d_30_italy_2;▄▄P-47D-30
+lancaster_mr7_france_shop;▄Lancaster MR.7
+lancaster_mr7_france_0;▄Lancaster MR.7
+lancaster_mr7_france_1;▄Lancaster MR.7
+lancaster_mr7_france_2;▄Lancaster MR.7
+o3u_1_shop;O3U-1
+o3u_1_0;O3U-1 Corsair
+o3u_1_1;O3U-1
+o3u_1_2;O3U-1
+fairey_3f_mk3b_shop;Fairey IIIF Mk.IIIB
+fairey_3f_mk3b_0;Fairey IIIF Mk.IIIB
+fairey_3f_mk3b_1;Fairey IIIF Mk.IIIB
+fairey_3f_mk3b_2;Fairey IIIF Mk.IIIB
+i-15bis_krasnolutsky_shop;Krasnolutsky's I-15bis
+i-15bis_krasnolutsky_0;Krasnolutsky's I-15bis
+i-15bis_krasnolutsky_1;I-15bis
+i-15bis_krasnolutsky_2;I-15bis
+p-36c_rb_shop;P-36C RB
+p-36c_rb_0;P-36C Hawk
+p-36c_rb_1;P-36C RB
+p-36c_rb_2;P-36C RB
+yak_141_shop;Yak-41M
+yak_141_0;Yak-41M "Freestyle"
+yak_141_1;Yak-41M
+yak_141_2;Yak-41M
+ussr_m53_59_shop;M53/59
+ussr_m53_59_0;M53/59
+ussr_m53_59_1;M53/59
+ussr_m53_59_2;M53/59
+germ_kpz_t72m1_shop;T-72M1
+germ_kpz_t72m1_0;KPz T-72M1
+germ_kpz_t72m1_1;T-72M1
+germ_kpz_t72m1_2;T-72M1
+il_merkava_mk_4_lic_shop;Merkava Mk.4 LIC
+il_merkava_mk_4_lic_0;Merkava Siman 4 LIC
+il_merkava_mk_4_lic_1;Merkava Mk.4 LIC
+il_merkava_mk_4_lic_2;Merkava Mk.4 LIC
+uk_challenger_2e_shop;Challenger 2E
+uk_challenger_2e_0;Challenger 2E
+uk_challenger_2e_1;Challenger 2E
+uk_challenger_2e_2;Challenger 2E
+it_ariete_amv_pt1_shop;Ariete AMV
+it_ariete_amv_pt1_0;Ariete AMV PT1
+it_ariete_amv_pt1_1;Ariete AMV
+it_ariete_amv_pt1_2;Ariete AMV
+jp_type_16_mod_shop;Type 16 (FPS)
+jp_type_16_mod_0;Type 16, First Production Series
+jp_type_16_mod_1;Type 16 (FPS)
+jp_type_16_mod_2;Type 16 (FPS)
+mig_29_9_12_germany_shop;◊MiG-29
+mig_29_9_12_germany_0;◊MiG-29 Izdeliye 9.12A "Fulcrum-A"
+mig_29_9_12_germany_1;◊MiG-29
+mig_29_9_12_germany_2;◊MiG-29
+f-4s_shop;F-4S
+f-4s_0;F-4S Phantom II
+f-4s_1;F-4S
+f-4s_2;F-4S
+f_16aj_shop;F-16AJ
+f_16aj_0;F-16AJ Fighting Falcon
+f_16aj_1;F-16AJ
+f_16aj_2;F-16AJ
+tornado_f3_shop;Tornado F.3
+tornado_f3_0;Tornado F.3
+tornado_f3_1;Tornado F.3
+tornado_f3_2;Tornado F.3
+ah_6m_shop;AH-6M
+ah_6m_0;AH-6M Little Bird
+ah_6m_1;AH-6M
+ah_6m_2;AH-6M
+cn_zts_63_1980_shop;ZTS63
+cn_zts_63_1980_0;ZTS63
+cn_zts_63_1980_1;ZTS63
+cn_zts_63_1980_2;ZTS63
+cn_sdkfz_222_early_shop;Sd.Kfz.222
+cn_sdkfz_222_early_0;le.Pz.Sp.Wg. (2 cm) Ausf.A 1.Serie
+cn_sdkfz_222_early_1;Sd.Kfz.222
+cn_sdkfz_222_early_2;Sd.Kfz.222
+sw_itpsv_90_shop;ItPsV 90
+sw_itpsv_90_0;Ilmatorjuntapanssarivaunu 90 Leopard
+sw_itpsv_90_1;ItPsV 90
+sw_itpsv_90_2;ItPsV 90
+fr_destroyer_aigle_class_aigle_shop;Aigle
+fr_destroyer_aigle_class_aigle_0;Aigle-class, Aigle, 1942
+fr_destroyer_aigle_class_aigle_1;Aigle
+fr_destroyer_aigle_class_aigle_2;Aigle
+jp_destroyer_nenohi_shop;IJN Nenohi
+jp_destroyer_nenohi_0;Hatsuharu-class, IJN Nenohi, 1942
+jp_destroyer_nenohi_1;IJN Nenohi
+jp_destroyer_nenohi_2;IJN Nenohi
+us_cruiser_des_moines_class_shop;USS Des Moines
+us_cruiser_des_moines_class_0;Des Moines-class, USS Des Moines (CA-134), 1948
+us_cruiser_des_moines_class_1;USS Des Moines
+us_cruiser_des_moines_class_2;USS Des Moines
+uk_frigate_whitby_shop;HMS Whitby
+uk_frigate_whitby_0;Whitby-class, HMS Whitby (F36)
+uk_frigate_whitby_1;HMS Whitby
+uk_frigate_whitby_2;HMS Whitby
+uk_destroyer_restigouche_class_terranova_shop;HMCS Terra Nova
+uk_destroyer_restigouche_class_terranova_0;Restigouche-class, HMCS Terra Nova (DDE 229)
+uk_destroyer_restigouche_class_terranova_1;HMCS Terra Nova
+uk_destroyer_restigouche_class_terranova_2;HMCS Terra Nova
+ussr_mpk_204_shop;MPK Pr.204
+ussr_mpk_204_0;MPK Pr.204
+ussr_mpk_204_1;MPK Pr.204
+ussr_mpk_204_2;MPK Pr.204
+germ_type153_pfeil_shop;Pfeil
+germ_type153_pfeil_0;153-class, Pfeil (P6193)
+germ_type153_pfeil_1;Pfeil
+germ_type153_pfeil_2;Pfeil
+us_battleship_nevada_shop;USS Nevada
+us_battleship_nevada_0;Nevada-class, USS Nevada (BB-36), 1944
+us_battleship_nevada_1;USS Nevada
+us_battleship_nevada_2;USS Nevada
+us_t1e1_shop;T1E1
+us_t1e1_0;Heavy Tank T1E1
+us_t1e1_1;T1E1
+us_t1e1_2;T1E1
+us_lvt_a_1_trb_shop;○LVT(A)(1)
+us_lvt_a_1_trb_0;○LVT(A)(1)
+us_lvt_a_1_trb_1;○LVT(A)(1)
+us_lvt_a_1_trb_2;○LVT(A)(1)
+hunter_f58_switzerland_shop;◌Hunter F.58
+hunter_f58_switzerland_0;◌Hunter F.58
+hunter_f58_switzerland_1;◌Hunter F.58
+hunter_f58_switzerland_2;◌Hunter F.58
+ro_44_shop;Ro.44
+ro_44_0;Ro.44
+ro_44_1;Ro.44
+ro_44_2;Ro.44
+f-84g-31-re_china_shop;☀F-84G-31
+f-84g-31-re_china_0;☀F-84G-31-RE Thunderjet
+f-84g-31-re_china_1;☀F-84G-31
+f-84g-31-re_china_2;☀F-84G-31
+f-4e_kurnass_2000_shop;Kurnass 2000
+f-4e_kurnass_2000_0;F-4E Kurnass 2000
+f-4e_kurnass_2000_1;Kurnass 2000
+f-4e_kurnass_2000_2;Kurnass 2000
+it_battleship_caio_duilio_shop;RN Duilio
+it_battleship_caio_duilio_0;Duilio-class, RN Duilio, 1942
+it_battleship_caio_duilio_1;RN Duilio
+it_battleship_caio_duilio_2;RN Duilio
+fr_char_2c_shop;2C
+fr_char_2c_0;Char FCM 2C
+fr_char_2c_1;2C
+fr_char_2c_2;2C
+fr_cruiser_dugauy_class_dugauy_trouin_shop;Duguay-Trouin
+fr_cruiser_dugauy_class_dugauy_trouin_0;Duguay-Trouin-class, Duguay-Trouin, 1944
+fr_cruiser_dugauy_class_dugauy_trouin_1;Duguay-Trouin
+fr_cruiser_dugauy_class_dugauy_trouin_2;Duguay-Trouin
+germ_destroyer_class1936_z20_EC_0;Destroyer
+germ_destroyer_class1936_z20_EC_1;Destroyer
+germ_destroyer_class1936_z20_EC_2;Destroyer
+uk_churchill_na75_shop;Churchill NA75
+uk_churchill_na75_0;Tank, Infantry, Mk IV, Churchill NA75
+uk_churchill_na75_1;Churchill NA75
+uk_churchill_na75_2;Churchill NA75
+ussr_pantsyr_s1_shop;Pantsir-S1
+ussr_pantsyr_s1_0;96K6 Pantsir-S1
+ussr_pantsyr_s1_1;Pantsir-S1
+ussr_pantsyr_s1_2;Pantsir-S1
