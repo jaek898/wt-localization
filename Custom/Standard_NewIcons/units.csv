@@ -11549,7 +11549,7 @@ germ_flakpz_1a2_Gepard_0;Flakpanzer I Gepard 1A2
 germ_flakpz_1a2_Gepard_1;Gepard 1A2
 germ_flakpz_1a2_Gepard_2;Gepard 1A2
 germ_sdkfz_222_shop;Sd.Kfz.222
-germ_sdkfz_222__0;le.Pz.Sp.Wg. Sd.Kfz. 222
+germ_sdkfz_222_0;le.Pz.Sp.Wg. Sd.Kfz. 222
 germ_sdkfz_222_1;Sd.Kfz.222
 germ_sdkfz_222_2;Sd.Kfz.222
 fr_char_2c_bis_shop;2C bis
@@ -11608,10 +11608,10 @@ bf-109f-4_hungary_shop;╏Bf 109 F-4
 bf-109f-4_hungary_0;╏Bf 109 F-4
 bf-109f-4_hungary_1;╏Bf 109 F-4
 bf-109f-4_hungary_2;╏Bf 109 F-4
-p-47d_30_italy_shop;╏▄P-47D-30
-p-47d_30_italy_0;╏▄P-47D-30 Thunderbolt
-p-47d_30_italy_1;╏▄P-47D-30
-p-47d_30_italy_2;╏▄P-47D-30
+p-47d_30_italy_shop;╏P-47D-30
+p-47d_30_italy_0;╏P-47D-30 Thunderbolt
+p-47d_30_italy_1;╏P-47D-30
+p-47d_30_italy_2;╏P-47D-30
 lancaster_mr7_france_shop;☨Lancaster MR.7
 lancaster_mr7_france_0;☨Lancaster MR.7
 lancaster_mr7_france_1;☨Lancaster MR.7
