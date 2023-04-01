@@ -1,4 +1,4 @@
-<ID|readonly|noverify>;<English>▃USA▀GER▂USSR▄UK▅JP☀ROC␗PRC▄IT▄FRISR⚜FR◊GDR◄FRG
+<ID|readonly|noverify>;<English>▃USA▀GER▂USSR▄UK▅JP☀ROC␗PRC▄IT▄FRISR⚜FR◊GDR◄FRG◐HUN
 ships/uss_cv_immortal_0;Carrier
 ships/uss_cv_immortal_1;Carrier
 ships/uss_cv_immortal_2;Carrier
@@ -2930,10 +2930,10 @@ bf-110g-2_shop;Bf 110 G-2
 bf-110g-2_0;Bf 110 G-2
 bf-110g-2_1;Bf 110 G-2
 bf-110g-2_2;Bf 110 G-2
-bf_110g_4_hungary_shop;▄Bf 110 G-4
-bf_110g_4_hungary_0;▄Bf 110 G-4
-bf_110g_4_hungary_1;▄Bf 110 G-4
-bf_110g_4_hungary_2;▄Bf 110 G-4
+bf_110g_4_hungary_shop;◐Bf 110 G-4
+bf_110g_4_hungary_0;◐Bf 110 G-4
+bf_110g_4_hungary_1;◐Bf 110 G-4
+bf_110g_4_hungary_2;◐Bf 110 G-4
 bf_110g_4_shop;Bf 110 G-4
 bf_110g_4_0;Bf 110 G-4
 bf_110g_4_1;Bf 110 G-4
@@ -5303,10 +5303,10 @@ bf-109g-2_romania_shop;Bf 109 G-2
 bf-109g-2_romania_0;Bf 109 G-2
 bf-109g-2_romania_1;Bf 109 G-2
 bf-109g-2_romania_2;Bf 109 G-2
-bf-109g-2_hungary_shop;▄Bf 109 G-2
-bf-109g-2_hungary_0;▄Bf 109 G-2
-bf-109g-2_hungary_1;▄Bf 109 G-2
-bf-109g-2_hungary_2;▄Bf 109 G-2
+bf-109g-2_hungary_shop;◐Bf 109 G-2
+bf-109g-2_hungary_0;◐Bf 109 G-2
+bf-109g-2_hungary_1;◐Bf 109 G-2
+bf-109g-2_hungary_2;◐Bf 109 G-2
 ki-27_otsu_shop;Ki-27 Otsu
 ki-27_otsu_0;Ki-27 Otsu
 ki-27_otsu_1;Ki-27 Otsu
@@ -7411,10 +7411,10 @@ it_m11_39_shop;M11/39
 it_m11_39_0;Fiat-Ansaldo M11/39
 it_m11_39_1;M11/39
 it_m11_39_2;M11/39
-it_toldi_II_a_shop;Toldi IIA
-it_toldi_II_a_0;Toldi IIA
-it_toldi_II_a_1;Toldi IIA
-it_toldi_II_a_2;Toldi IIA
+it_toldi_II_a_shop;◐Toldi IIA
+it_toldi_II_a_0;◐Toldi IIA
+it_toldi_II_a_1;◐Toldi IIA
+it_toldi_II_a_2;◐Toldi IIA
 it_m14_41_47_40_shop;M14/41 (47/40)
 it_m14_41_47_40_0;Fiat-Ansaldo M14/41 (47/40)
 it_m14_41_47_40_1;M14/41 (47/40)
@@ -9432,13 +9432,13 @@ uk_destroyer_k_class_shop;HMS Kelvin
 uk_destroyer_k_class_0;K-class, HMS Kelvin (F37), 1939
 uk_destroyer_k_class_1;HMS Kelvin
 uk_destroyer_k_class_2;HMS Kelvin
-uk_destroyer_n_class_shop;HMS Nepal
-uk_destroyer_n_class_0;N-class, HMS Nepal (G25), 1942
-uk_destroyer_n_class_1;HMS Nepal
-uk_destroyer_n_class_2;HMS Nepal
-uk_destroyer_n_class_EC_0;N-class, HMS Nepal (G25), 1942
-uk_destroyer_n_class_EC_1;HMS Nepal
-uk_destroyer_n_class_EC_2;HMS Nepal
+uk_destroyer_n_class_shop;HMAS Nepal
+uk_destroyer_n_class_0;N-class, HMAS Nepal (G25), 1942
+uk_destroyer_n_class_1;HMAS Nepal
+uk_destroyer_n_class_2;HMAS Nepal
+uk_destroyer_n_class_EC_0;N-class, HMAS Nepal (G25), 1942
+uk_destroyer_n_class_EC_1;HMAS Nepal
+uk_destroyer_n_class_EC_2;HMAS Nepal
 uk_destroyer_hunt_2series_shop;HMS Calpe
 uk_destroyer_hunt_2series_0;Hunt-class, HMS Calpe (L71), 1942
 uk_destroyer_hunt_2series_1;HMS Calpe
@@ -10427,10 +10427,10 @@ su-8_shop;Su-8
 su-8_0;Su-8
 su-8_1;Su-8
 su-8_2;Su-8
-it_41m_turan_2_shop;Turan II
-it_41m_turan_2_0;41.M Turan II
-it_41m_turan_2_1;Turan II
-it_41m_turan_2_2;Turan II
+it_41m_turan_2_shop;◐Turan II
+it_41m_turan_2_0;◐41.M Turan II
+it_41m_turan_2_1;◐Turan II
+it_41m_turan_2_2;◐Turan II
 shop/group/pzkpfw_iv_fg_group;Pz.IV F2/G
 shop/group/bf_110cf_group;Bf 110 C/F
 ussr_t_55_amd_1_shop;T-55AMD-1
@@ -10904,10 +10904,10 @@ germ_leopard_2av_shop;Leopard 2AV
 germ_leopard_2av_0;KPz Leopard 2AV, PT-19/T19-AV
 germ_leopard_2av_1;Leopard 2AV
 germ_leopard_2av_2;Leopard 2AV
-it_44m_zrinyi_1_shop;Zrinyi I
-it_44m_zrinyi_1_0;44M.Zrinyi I
-it_44m_zrinyi_1_1;Zrinyi I
-it_44m_zrinyi_1_2;Zrinyi I
+it_44m_zrinyi_1_shop;◐Zrinyi I
+it_44m_zrinyi_1_0;◐44M.Zrinyi I
+it_44m_zrinyi_1_1;◐Zrinyi I
+it_44m_zrinyi_1_2;◐Zrinyi I
 cn_object_122tm_shop;Object 122TM
 cn_object_122tm_0;Object 122TM
 cn_object_122tm_1;Object 122TM
@@ -11604,10 +11604,10 @@ ussr_pr_183_egypt_bm_21_shop;Pr.183 BM-21
 ussr_pr_183_egypt_bm_21_0;Pr.183 BM-21
 ussr_pr_183_egypt_bm_21_1;Pr.183 BM-21
 ussr_pr_183_egypt_bm_21_2;Pr.183 BM-21
-bf-109f-4_hungary_shop;▄Bf 109 F-4
-bf-109f-4_hungary_0;▄Bf 109 F-4
-bf-109f-4_hungary_1;▄Bf 109 F-4
-bf-109f-4_hungary_2;▄Bf 109 F-4
+bf-109f-4_hungary_shop;◐Bf 109 F-4
+bf-109f-4_hungary_0;◐Bf 109 F-4
+bf-109f-4_hungary_1;◐Bf 109 F-4
+bf-109f-4_hungary_2;◐Bf 109 F-4
 p-47d_30_italy_shop;▄P-47D-30
 p-47d_30_italy_0;▄P-47D-30 Thunderbolt
 p-47d_30_italy_1;▄P-47D-30
@@ -11771,3 +11771,39 @@ ussr_pantsyr_s1_shop;Pantsir-S1
 ussr_pantsyr_s1_0;96K6 Pantsir-S1
 ussr_pantsyr_s1_1;Pantsir-S1
 ussr_pantsyr_s1_2;Pantsir-S1
+uav_quadcopter_shop;UAV Raven's Eye
+uav_quadcopter_0;UAV Raven's Eye
+uav_quadcopter_1;UAV Raven's Eye
+uav_quadcopter_2;UAV Raven's Eye
+ussr_mk_5_aa_combat_exoskeleton_shop;AA Gunner
+ussr_mk_5_aa_combat_exoskeleton_0;AA Gunner
+ussr_mk_5_aa_combat_exoskeleton_1;AA Gunner
+ussr_mk_5_aa_combat_exoskeleton_2;AA Gunner
+ussr_mk_5_assault_combat_exoskeleton_shop;Assault
+ussr_mk_5_assault_combat_exoskeleton_0;Assault
+ussr_mk_5_assault_combat_exoskeleton_1;Assault
+ussr_mk_5_assault_combat_exoskeleton_2;Assault
+ussr_mk_5_at_combat_exoskeleton_shop;Antitank
+ussr_mk_5_at_combat_exoskeleton_0;Antitank
+ussr_mk_5_at_combat_exoskeleton_1;Antitank
+ussr_mk_5_at_combat_exoskeleton_2;Antitank
+ussr_mk_5_sniper_combat_exoskeleton_shop;Sniper
+ussr_mk_5_sniper_combat_exoskeleton_0;Sniper
+ussr_mk_5_sniper_combat_exoskeleton_1;Sniper
+ussr_mk_5_sniper_combat_exoskeleton_2;Sniper
+us_mk_5_aa_combat_exoskeleton_shop;AA Gunner
+us_mk_5_aa_combat_exoskeleton_0;AA Gunner
+us_mk_5_aa_combat_exoskeleton_1;AA Gunner
+us_mk_5_aa_combat_exoskeleton_2;AA Gunner
+us_mk_5_assault_combat_exoskeleton_shop;Assault
+us_mk_5_assault_combat_exoskeleton_0;Assault
+us_mk_5_assault_combat_exoskeleton_1;Assault
+us_mk_5_assault_combat_exoskeleton_2;Assault
+us_mk_5_at_combat_exoskeleton_shop;Antitank
+us_mk_5_at_combat_exoskeleton_0;Antitank
+us_mk_5_at_combat_exoskeleton_1;Antitank
+us_mk_5_at_combat_exoskeleton_2;Antitank
+us_mk_5_sniper_combat_exoskeleton_shop;Sniper
+us_mk_5_sniper_combat_exoskeleton_0;Sniper
+us_mk_5_sniper_combat_exoskeleton_1;Sniper
+us_mk_5_sniper_combat_exoskeleton_2;Sniper
