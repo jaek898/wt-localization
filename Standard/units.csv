@@ -7884,14 +7884,14 @@ ah_1s_shop;AH-1S Kisarazu
 ah_1s_0;AH-1S Kisarazu
 ah_1s_1;AH-1S Kisarazu
 ah_1s_2;AH-1S Kisarazu
-ah_1s_early_shop;AH-1S [E]
-ah_1s_early_0;AH-1S Early
-ah_1s_early_1;AH-1S [E]
-ah_1s_early_2;AH-1S [E]
-ah_1s_late_shop;AH-1S [L]
-ah_1s_late_0;AH-1S Late
-ah_1s_late_1;AH-1S [L]
-ah_1s_late_2;AH-1S [L]
+ah_1s_early_shop;AH-1E
+ah_1s_early_0;AH-1E
+ah_1s_early_1;AH-1E
+ah_1s_early_2;AH-1E
+ah_1s_late_shop;AH-1S
+ah_1s_late_0;AH-1S
+ah_1s_late_1;AH-1S
+ah_1s_late_2;AH-1S
 p-59a_shop;P-59A
 p-59a_0;P-59A Airacomet
 p-59a_1;P-59A
@@ -7929,10 +7929,10 @@ mig-21_pfm_shop;MiG-21PFM
 mig-21_pfm_0;MiG-21PFM "Fishbed-F"
 mig-21_pfm_1;MiG-21PFM
 mig-21_pfm_2;MiG-21PFM
-mig-21_sps_k_shop;◊MiG-21SPS-K
-mig-21_sps_k_0;◊MiG-21SPS-K "Fishbed-F"
-mig-21_sps_k_1;◊MiG-21SPS-K
-mig-21_sps_k_2;◊MiG-21SPS-K
+mig-21_sps_k_shop;◄MiG-21SPS-K
+mig-21_sps_k_0;◄MiG-21SPS-K "Fishbed-F"
+mig-21_sps_k_1;◄MiG-21SPS-K
+mig-21_sps_k_2;◄MiG-21SPS-K
 mig-21_bis_sau_shop;◊MiG-21bis-SAU
 mig-21_bis_sau_0;◊MiG-21bis-SAU "Fishbed-N"
 mig-21_bis_sau_1;◊MiG-21bis-SAU
@@ -8466,10 +8466,10 @@ cn_type_62_shop;Type 62
 cn_type_62_0;Type 62
 cn_type_62_1;Type 62
 cn_type_62_2;Type 62
-cn_is_2_1944_shop;␗IS-2 mod.1944
-cn_is_2_1944_0;␗IS-2 mod.1944
-cn_is_2_1944_1;␗IS-2 mod.1944
-cn_is_2_1944_2;␗IS-2 mod.1944
+cn_is_2_1944_shop;␗IS-2 (1944)
+cn_is_2_1944_0;␗IS-2 (1944)
+cn_is_2_1944_1;␗IS-2 (1944)
+cn_is_2_1944_2;␗IS-2 (1944)
 cn_is_2_1943_shop;␗IS-2
 cn_is_2_1943_0;␗IS-2
 cn_is_2_1943_1;␗IS-2
@@ -9564,7 +9564,7 @@ germ_destroyer_class1936a_mob_z32_0;Type 1936A (Mob)-classe, Z32, 1942
 germ_destroyer_class1936a_mob_z32_1;Type 1936A
 germ_destroyer_class1936a_mob_z32_2;Type 1936A
 uk_cruiser_leander_shop;HMNZS Leander
-uk_cruiser_leander_0;Leander-class, HMNZS Leander, 1942
+uk_cruiser_leander_0;Leander-class, HMNZS Leander (75), 1942
 uk_cruiser_leander_1;Leander
 uk_cruiser_leander_2;Leander
 uk_cruiser_leander_EC_0;Leander-class, HMNZS Leander, 1942
@@ -10076,7 +10076,7 @@ ussr_battleship_poltava_0;Sevastopol-class, Poltava, 1914
 ussr_battleship_poltava_1;Poltava
 ussr_battleship_poltava_2;Poltava
 uk_battleship_dreadnought_shop;HMS Dreadnought
-uk_battleship_dreadnought_0;Dreadnought-class, HMS Dreadnought, 1917
+uk_battleship_dreadnought_0;Dreadnought-class, HMS Dreadnought (00), 1917
 uk_battleship_dreadnought_1;HMS Dreadnought
 uk_battleship_dreadnought_2;HMS Dreadnought
 us_aircraftcarrier_forrestal_shop;USS Forrestal
@@ -10132,7 +10132,7 @@ us_destroyer_clemson_welborn_c_wood_0;Clemson-class, USS Welborn C. Wood (DD-195
 us_destroyer_clemson_welborn_c_wood_1;USS Welborn C. Wood
 us_destroyer_clemson_welborn_c_wood_2;USS Welborn C. Wood
 uk_battleship_colossus_shop;HMS Colossus
-uk_battleship_colossus_0;Colossus-class, HMS Colossus, 1918
+uk_battleship_colossus_0;Colossus-class, HMS Colossus (24), 1918
 uk_battleship_colossus_1;HMS Colossus
 uk_battleship_colossus_2;HMS Colossus
 jp_armoredcruiser_ikoma_shop;IJN Ikoma
@@ -10168,7 +10168,7 @@ us_cruiser_baltimore_class_0;Baltimore-class,USS Baltimore (CA-68), 1943
 us_cruiser_baltimore_class_1;USS Baltimore
 us_cruiser_baltimore_class_2;USS Baltimore
 uk_battlecruiser_invincible_shop;HMS Invincible
-uk_battlecruiser_invincible_0;Invincible-class, HMS Invincible, 1916
+uk_battlecruiser_invincible_0;Invincible-class (85), HMS Invincible, 1916
 uk_battlecruiser_invincible_1;HMS Invincible
 uk_battlecruiser_invincible_2;HMS Invincible
 it_cruiser_zara_class_pola_shop;RN Pola
@@ -10380,7 +10380,7 @@ us_destroyer_mitscher_0;Mitscher-class, USS Mitscher (DL-2), 1954
 us_destroyer_mitscher_1;USS Mitscher
 us_destroyer_mitscher_2;USS Mitscher
 uk_battleship_marlborough_shop;HMS Marlborough
-uk_battleship_marlborough_0;Iron Duke-class, HMS Marlborough, 1927
+uk_battleship_marlborough_0;Iron Duke-class, HMS Marlborough (66), 1927
 uk_battleship_marlborough_1;HMS Marlborough
 uk_battleship_marlborough_2;HMS Marlborough
 jp_destroyer_hayanami_shop;IJN Hayanami
@@ -10780,7 +10780,7 @@ sw_pvkv_III_0;Pansarvärnskanonvagn III
 sw_pvkv_III_1;Pvkv III
 sw_pvkv_III_2;Pvkv III
 uk_battlecruiser_hood_shop;HMS Hood
-uk_battlecruiser_hood_0;Admiral-class, HMS Hood, 1941
+uk_battlecruiser_hood_0;Admiral-class, HMS Hood (51), 1941
 uk_battlecruiser_hood_1;HMS Hood
 uk_battlecruiser_hood_2;HMS Hood
 germ_battleship_bayern_shop;SMS Bayern
@@ -11286,7 +11286,7 @@ jp_battleship_fuso_0;Fuso-class, IJN Fuso, 1944
 jp_battleship_fuso_1;IJN Fuso
 jp_battleship_fuso_2;IJN Fuso
 uk_battlecruiser_glorious_shop;HMS Glorious
-uk_battlecruiser_glorious_0;Courageous-class, HMS Glorious, 1919
+uk_battlecruiser_glorious_0;Courageous-class, HMS Glorious (56), 1919
 uk_battlecruiser_glorious_1;HMS Glorious
 uk_battlecruiser_glorious_2;HMS Glorious
 germ_type152_hugin_shop;Hugin
@@ -11350,7 +11350,7 @@ ussr_destroyer_7_besposhchadny_0;Pr.7, Besposhchadny
 ussr_destroyer_7_besposhchadny_1;Besposhchadny
 ussr_destroyer_7_besposhchadny_2;Besposhchadny
 uk_destroyer_daring_class_diana_shop;HMS Diana
-uk_destroyer_daring_class_diana_0;Daring-class, HMS Diana, 1958
+uk_destroyer_daring_class_diana_0;Daring-class, HMS Diana (D126), 1958
 uk_destroyer_daring_class_diana_1;HMS Diana
 uk_destroyer_daring_class_diana_2;HMS Diana
 it_destroyer_vifor_class_aquila_shop;RN Aquila
@@ -11693,7 +11693,7 @@ sw_itpsv_90_0;Ilmatorjuntapanssarivaunu 90 Leopard
 sw_itpsv_90_1;ItPsV 90
 sw_itpsv_90_2;ItPsV 90
 fr_destroyer_aigle_class_aigle_shop;Aigle
-fr_destroyer_aigle_class_aigle_0;Aigle-class, Aigle, 1942
+fr_destroyer_aigle_class_aigle_0;Aigle-class (C), Aigle, 1942
 fr_destroyer_aigle_class_aigle_1;Aigle
 fr_destroyer_aigle_class_aigle_2;Aigle
 jp_destroyer_nenohi_shop;IJN Nenohi
@@ -11819,10 +11819,10 @@ cn_qn506_shop;QN506
 cn_qn506_0;QN506
 cn_qn506_1;QN506
 cn_qn506_2;QN506
-ussr_cruiser_shcherbakov_shop;Scherbakov
-ussr_cruiser_shcherbakov_0;Pr.68-bis-ZiF, Scherbakov, project
-ussr_cruiser_shcherbakov_1;Scherbakov
-ussr_cruiser_shcherbakov_2;Scherbakov
+ussr_cruiser_shcherbakov_shop;Shcherbakov
+ussr_cruiser_shcherbakov_0;Pr.68-bis-ZiF, Shcherbakov, project
+ussr_cruiser_shcherbakov_1;Shcherbakov
+ussr_cruiser_shcherbakov_2;Shcherbakov
 p-51b_7_sweden_shop;J26 David
 p-51b_7_sweden_0;J26 David
 p-51b_7_sweden_1;J26 David
@@ -11839,3 +11839,152 @@ ussr_bm_31_12_shop;BM-31-12
 ussr_bm_31_12_0;BM-31-12
 ussr_bm_31_12_1;BM-31-12
 ussr_bm_31_12_2;BM-31-12
+shop/group/il_magach_6_group;Magach 6R/6R
+us_m4_t26_shop;M4/T26
+us_m4_t26_0;M4/T26
+us_m4_t26_1;M4/T26
+us_m4_t26_2;M4/T26
+germ_pzkpfw_38t_na_shop;Pz.38(t) n.A.
+germ_pzkpfw_38t_na_0;Pz.38(t) n.A.
+germ_pzkpfw_38t_na_1;Pz.38(t) n.A.
+germ_pzkpfw_38t_na_2;Pz.38(t) n.A.
+germ_spz_oerlikon_raketenautomat_shop;Raketenautomat
+germ_spz_oerlikon_raketenautomat_0;Raketenautomat
+germ_spz_oerlikon_raketenautomat_1;Raketenautomat
+germ_spz_oerlikon_raketenautomat_2;Raketenautomat
+uk_sarc_mk4_a_shop;SARC MkIVa
+uk_sarc_mk4_a_0;SARC MkIVa
+uk_sarc_mk4_a_1;SARC MkIVa
+uk_sarc_mk4_a_2;SARC MkIVa
+us_m1_abrams_kvt_shop;M1 KVT
+us_m1_abrams_kvt_0;M1 Krasnovian Variant Tank
+us_m1_abrams_kvt_1;M1 KVT
+us_m1_abrams_kvt_2;M1 KVT
+fr_amx_30_auf_1_shop;AuF1
+fr_amx_30_auf_1_0;Canon de 155 Automoteur Modèle F1
+fr_amx_30_auf_1_1;AuF1
+fr_amx_30_auf_1_2;AuF1
+su_22m4_shop;◊Su-22M4
+su_22m4_0;◊Su-22M4 "Fitter-K"
+su_22m4_1;◊Su-22M4
+su_22m4_2;◊Su-22M4
+su_25t_shop;Su-25T
+su_25t_0;Su-25T "Frogfoot"
+su_25t_1;Su-25T
+su_25t_2;Su-25T
+su_25tm_shop;Su-39
+su_25tm_0;Su-39 "Frogfoot"
+su_25tm_1;Su-39
+su_25tm_2;Su-39
+saab_ajs37_shop;AJS37
+saab_ajs37_0;AJS37 Viggen
+saab_ajs37_1;AJS37
+saab_ajs37_2;AJS37
+j_8f_shop;J-8F
+j_8f_0;J-8F "Finback"
+j_8f_1;J-8F
+j_8f_2;J-8F
+bf2c_1_shop;BF2C-1
+bf2c_1_0;BF2C-1 Goshawk
+bf2c_1_1;BF2C-1
+bf2c_1_2;BF2C-1
+ussr_btr_80a_shop;BTR-80A
+ussr_btr_80a_0;BTR-80A
+ussr_btr_80a_1;BTR-80A
+ussr_btr_80a_2;BTR-80A
+mirage_2000_5f_shop;Mirage 2000-5F
+mirage_2000_5f_0;Mirage 2000-5F
+mirage_2000_5f_1;Mirage 2000-5F
+mirage_2000_5f_2;Mirage 2000-5F
+il_magach_6_rocket_shop;Magach Hydra
+il_magach_6_rocket_0;Magach 6R Hydra
+il_magach_6_rocket_1;Magach Hydra
+il_magach_6_rocket_2;Magach Hydra
+it_freccia_shop;Freccia
+it_freccia_0;Veicolo Blindato Medio 8x8 Freccia, Combat c/c Spike
+it_freccia_1;Freccia
+it_freccia_2;Freccia
+jp_type_87_rcv_prot_shop;Type 87 RCV (P)
+jp_type_87_rcv_prot_0;Type 87 RCV (P)
+jp_type_87_rcv_prot_1;Type 87 RCV (P)
+jp_type_87_rcv_prot_2;Type 87 RCV (P)
+f_14b_shop;F-14B
+f_14b_0;F-14B Tomcat
+f_14b_1;F-14B
+f_14b_2;F-14B
+tornado_adv_shop;Tornado ADV
+tornado_adv_0;Tornado ADV
+tornado_adv_1;Tornado ADV
+tornado_adv_2;Tornado ADV
+ussr_object_435_shop;Object 435
+ussr_object_435_0;Object 435
+ussr_object_435_1;Object 435
+ussr_object_435_2;Object 435
+cn_ztz_88b_shop;ZTZ88B
+cn_ztz_88b_0;ZTZ88B
+cn_ztz_88b_1;ZTZ88B
+cn_ztz_88b_2;ZTZ88B
+cn_object_211_shop;Object 211
+cn_object_211_0;Object 211
+cn_object_211_1;Object 211
+cn_object_211_2;Object 211
+sw_cv_9030_fin_shop;CV9030FIN
+sw_cv_9030_fin_0;Combat Vehicle 9030 Finland
+sw_cv_9030_fin_1;CV9030FIN
+sw_cv_9030_fin_2;CV9030FIN
+sw_sherman_3_4_shop;Sherman III/IV
+sw_sherman_3_4_0;Stridsvagn Sherman III/IV
+sw_sherman_3_4_1;Sherman III/IV
+sw_sherman_3_4_2;Sherman III/IV
+fr_destroyer_jaguar_class_chacal_shop;Chacal
+fr_destroyer_jaguar_class_chacal_0;Chacal-class, Chacal, 1938
+fr_destroyer_jaguar_class_chacal_1;Chacal
+fr_destroyer_jaguar_class_chacal_2;Chacal
+germ_destroyer_class1936c_z46_shop;Z46
+germ_destroyer_class1936c_z46_0;Type 1936C, Z46, project
+germ_destroyer_class1936c_z46_1;Z46
+germ_destroyer_class1936c_z46_2;Z46
+ussr_destroyer_pr56_bravy_shop;Bravy
+ussr_destroyer_pr56_bravy_0;Pr.56-K, Bravy, 1967
+ussr_destroyer_pr56_bravy_1;Bravy
+ussr_destroyer_pr56_bravy_2;Bravy
+jp_battleship_ise_shop;IJN Ise
+jp_battleship_ise_0;Ise-class, IJN Ise, 1941
+jp_battleship_ise_1;IJN Ise
+jp_battleship_ise_2;IJN Ise
+uk_destroyer_daring_class_daring_shop;HMS Daring
+uk_destroyer_daring_class_daring_0;Daring-class, HMS Daring (D05), 1956
+uk_destroyer_daring_class_daring_1;HMS Daring
+uk_destroyer_daring_class_daring_2;HMS Daring
+fr_cruiser_dugauy_class_primaguet_shop;Primaguet
+fr_cruiser_dugauy_class_primaguet_0;Duguay-Trouin-class, Primaguet, 1940
+fr_cruiser_dugauy_class_primaguet_1;Primaguet
+fr_cruiser_dugauy_class_primaguet_2;Primaguet
+fr_cruiser_jeanne_darc_shop;Jeanne d'Arc
+fr_cruiser_jeanne_darc_0;Jeanne d'Arc-class, Jeanne d'Arc, 1944
+fr_cruiser_jeanne_darc_1;Jeanne d'Arc
+fr_cruiser_jeanne_darc_2;Jeanne d'Arc
+fr_cruiser_suffren_class_colbert_shop;Colbert
+fr_cruiser_suffren_class_colbert_0;Suffren-class, Colbert, 1942
+fr_cruiser_suffren_class_colbert_1;Colbert
+fr_cruiser_suffren_class_colbert_2;Colbert
+fr_destroyer_le_fantasque_class_le_malin_shop;Le Malin
+fr_destroyer_le_fantasque_class_le_malin_0;Fantasque-class, Le Malin, 1943
+fr_destroyer_le_fantasque_class_le_malin_1;Le Malin
+fr_destroyer_le_fantasque_class_le_malin_2;Le Malin
+fr_destroyer_jaguar_class_panthere_shop;Panthere
+fr_destroyer_jaguar_class_panthere_0;Chacal-class, Panthere, 1940
+fr_destroyer_jaguar_class_panthere_1;Panthere
+fr_destroyer_jaguar_class_panthere_2;Panthere
+fr_destroyer_aigle_class_vautour_shop;Vautour
+fr_destroyer_aigle_class_vautour_0;Aigle-class (C), Vautour, 1931
+fr_destroyer_aigle_class_vautour_1;Vautour
+fr_destroyer_aigle_class_vautour_2;Vautour
+fr_destroyer_bourrasque_class_bourrasque_shop;Bourrasque
+fr_destroyer_bourrasque_class_bourrasque_0;Bourrasque-class, Bourrasque, 1939
+fr_destroyer_bourrasque_class_bourrasque_1;Bourrasque
+fr_destroyer_bourrasque_class_bourrasque_2;Bourrasque
+fr_destroyer_aigle_class_milan_shop;Milan
+fr_destroyer_aigle_class_milan_0;Aigle-class (D), Milan, 1942
+fr_destroyer_aigle_class_milan_1;Milan
+fr_destroyer_aigle_class_milan_2;Milan
