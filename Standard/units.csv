@@ -11420,10 +11420,10 @@ f-104s_cb_shop;F-104S TAF
 f-104s_cb_0;F-104S Starfighter TAF
 f-104s_cb_1;F-104S TAF
 f-104s_cb_2;F-104S TAF
-kfir_canard_shop;Kfir Gderot
-kfir_canard_0;Kfir Gderot
-kfir_canard_1;Kfir Gderot
-kfir_canard_2;Kfir Gderot
+kfir_canard_shop;Kfir Canard
+kfir_canard_0;Kfir Canard
+kfir_canard_1;Kfir Canard
+kfir_canard_2;Kfir Canard
 mirage_f1c_200_shop;Mirage F1C-200
 mirage_f1c_200_0;Mirage F1C-200
 mirage_f1c_200_1;Mirage F1C-200
@@ -11988,3 +11988,31 @@ fr_destroyer_aigle_class_milan_shop;Milan
 fr_destroyer_aigle_class_milan_0;Aigle-class (D), Milan, 1942
 fr_destroyer_aigle_class_milan_1;Milan
 fr_destroyer_aigle_class_milan_2;Milan
+uk_vijayanta_shop;Vijayanta
+uk_vijayanta_0;Vijayanta
+uk_vijayanta_1;Vijayanta
+uk_vijayanta_2;Vijayanta
+fr_vbci2_mct30_shop;VBCI-2 (MCT30)
+fr_vbci2_mct30_0;VBCI-2 (MCT30)
+fr_vbci2_mct30_1;VBCI-2 (MCT30)
+fr_vbci2_mct30_2;VBCI-2 (MCT30)
+pby-5a_late_france_shop;▄PBY-5A
+pby-5a_late_france_0;▄PBY-5A Catalina
+pby-5a_late_france_1;▄PBY-5A
+pby-5a_late_france_2;▄PBY-5A
+gl_832_shop;GL.832HY
+gl_832_0;GL.832HY
+gl_832_1;GL.832HY
+gl_832_2;GL.832HY
+il_magach_6b_gal_shop;Magach 6B Gal
+il_magach_6b_gal_0;Magach 6B Gal
+il_magach_6b_gal_1;Magach 6B Gal
+il_magach_6b_gal_2;Magach 6B Gal
+fr_battleship_courbet_class_paris_shop;Paris
+fr_battleship_courbet_class_paris_0;Courbet-class, Paris, 1939
+fr_battleship_courbet_class_paris_1;Paris
+fr_battleship_courbet_class_paris_2;Paris
+fr_battleship_bretagne_class_lorraine_shop;Lorraine
+fr_battleship_bretagne_class_lorraine_0;Bretagne-class, Lorraine, 1944
+fr_battleship_bretagne_class_lorraine_1;Lorraine
+fr_battleship_bretagne_class_lorraine_2;Lorraine
