@@ -8,9 +8,9 @@ IMPORTANT NOTE: when using custom localization, your lang folder is frozen and n
 
 The version of the commit reflects the version of the game at the time I last updated the mod. I try to keep this repository as up to date as possible. If you need to nudge me to update it or if you have any other problems/concerns, feel free to reach out to me  with a DM on discord: Jæk#5326
 
-## Instructions
+# Instructions
 
-### To install
+## To install
 
 - Navigate to your War Thunder files. The easiest way to do this is to look for aces.exe in task manager while the game is running, right click it and go to file location, and then go back one level to see your root files
 
@@ -31,7 +31,7 @@ debug{
   - If for whatever reason that method didn't work, try using the other method where you save the units.csv file from github. Drag it into your lang folder. Choose to replace if prompted. 
 - Restart the game
 
-### To update
+## To update
 
 When you start seeing broken texts, you will need to update your lang folder manually. This is particularly importnat when Gaijin releases a major update as major updates bring lots of new vehicles and lots of new texts.
 - With the game running, go to your War Thunder files and delete the lang folder entirely
@@ -41,7 +41,7 @@ When you start seeing broken texts, you will need to update your lang folder man
 
 Switching languages is faster and more convenient than restarting the game. It also updates/fixes the hidden langRegional folder, so if you see broken texts for titles or challenges, cycling your language will usually fix it. 
 
-### To Uninstall
+## To Uninstall
 
 - Delete the lang folder entirely
 - Remove the `testLocalization:b=yes` line from config.blk
