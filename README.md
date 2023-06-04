@@ -26,19 +26,20 @@ debug{
 - Save the file
 - Launch the game
 - A new folder called "lang" should have appeared. Open the folder, inside it there should be multiple CSV files.
-- units.csv is the file responsible for vehicle names. Your goal is to replace the default units.csv with the custom one from this discord.
-  - The easiest way to do this is to use the "Copy raw contents" button as described in the third paragraph. Open units.csv with a text editor like notepad or notepad++, select all and delete everything, and paste in what you just copied. If it pasted successfully, save the file and close it. 
+- units.csv is the file responsible for vehicle names. Your goal is to replace the default units.csv with the custom one from this GitHub.
+  - The easiest way to do this is to use the "Copy raw contents" button as described in the third paragraph. Open units.csv with a text editor like notepad or notepad++, use ctrl+A to select all, delete everything, then paste in what you just copied. If it pasted successfully, save the file and close it. 
   - If for whatever reason that method didn't work, try using the other method where you save the units.csv file from github. Drag it into your lang folder. Choose to replace if prompted. 
 - Restart the game
 
 ### To update
 
+When you start seeing broken texts, you will need to update your lang folder manually. This is particularly importnat when Gaijin releases a major update as major updates bring lots of new vehicles and lots of new texts.
 - With the game running, go to your War Thunder files and delete the lang folder entirely
 - In the hangar, go to options, and change your language to Russian. Apply the setting and make sure your language actually changes. Hit esc if a popup comes up prompting you to download additional content.
 - A fresh lang folder should have generated. Refresh file explorer if you do not see it. Replace units.csv with the new one in the same way you did before. 
 - Tab back into War Thunder and switch the language back to English (or whatever language you were using). 
 
-Switching languages is faster and more convenient than restarting. It also updates/fixes the hidden langRegional folder, so if you see broken texts for titles or challenges, cycling your language will usually fix it. 
+Switching languages is faster and more convenient than restarting the game. It also updates/fixes the hidden langRegional folder, so if you see broken texts for titles or challenges, cycling your language will usually fix it. 
 
 ### To Uninstall
 
@@ -48,14 +49,18 @@ Switching languages is faster and more convenient than restarting. It also updat
 ### Troubleshooting
 
 > Vehicle names are broken and show up as codes (for example, mig-17p_lim_5p instead of Lim-5P)
+
 If this only happens to recently added vehicles, update your localization.
 If this happens to all vehicles, the game is not reading units.csv correctly. Make sure units.csv is in the lang folder, that there is only one, and the contents look correct.
 
 > Vehicle names are loading properly, but the national symbols are not
+
 War Thunder uses some interesting unicode characters which it "converts" to the national symbols you see in game. If these symbols are not loading correctly, it is likely that the file did not save correctly from github. Try saving the contents using a different method. 
 
 > Lang folder is not appearing
-Check to make sure you put testLocalization:b=yes in the correct section, spacing and formatting is correct, you saved the file, you restarted the game, and you're looking in the right directory.
+
+Check to make sure you put `testLocalization:b=yes` in the correct section, spacing and formatting is correct, you saved the file, you restarted the game, and you're looking in the right directory.
 
 > Text for titles or challenges is broken
+
 Cycle to any other language (make sure the language in the hangar actually changes) and then back to the language you were using. 
