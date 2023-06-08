@@ -11881,7 +11881,7 @@ saab_ajs37_0;AJS37 Viggen
 saab_ajs37_1;AJS37
 saab_ajs37_2;AJS37
 j_8f_shop;J-8F
-j_8f_0;J-8F "Finback"
+j_8f_0;J-8F "Finback-B"
 j_8f_1;J-8F
 j_8f_2;J-8F
 bf2c_1_shop;BF2C-1
@@ -12016,3 +12016,11 @@ fr_battleship_bretagne_class_lorraine_shop;Lorraine
 fr_battleship_bretagne_class_lorraine_0;Bretagne-class, Lorraine, 1944
 fr_battleship_bretagne_class_lorraine_1;Lorraine
 fr_battleship_bretagne_class_lorraine_2;Lorraine
+fr_cruiser_emile_bertin_shop;Emile Bertin
+fr_cruiser_emile_bertin_0;Emile Bertin-class, Emile Bertin, 1942
+fr_cruiser_emile_bertin_1;Emile Bertin
+fr_cruiser_emile_bertin_2;Emile Bertin
+fr_destroyer_marceau_class_marceau_shop;Marceau
+fr_destroyer_marceau_class_marceau_0;Type 1936A (Mob)-class, Marceau, 1950
+fr_destroyer_marceau_class_marceau_1;Marceau
+fr_destroyer_marceau_class_marceau_2;Marceau
