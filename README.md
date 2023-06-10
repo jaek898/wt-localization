@@ -2,7 +2,7 @@ The primary goal of this localization mod is to completely remove ambiguity from
 
 The Standard version uses default French/Italian roundels. The New Icons version replaces the default roundel icon on French and Italian vehicles with alternative symbols. If you don't like the symbols I used, you can easily change them for all vehicles of a given nation at the same time by using the "replace all" tool in a software like Notepad++. The Dechinafied version, requested by [General Lee](https://www.youtube.com/@GeneralLee2000), gives soviet names to chinese copy-paste vehicles in addition to the new French/Italian roundels.
 
-There are two ways to save the contents from github. Start by selecting the version you want and then clicking on units.csv. The first and most convenient method is to use the "copy raw contents" button (two overlapping squares icon near "Raw") which will copy the contents of the entire file to your clipboard. The second method is to click "Raw" and then right click → save as. Make sure it saves as a .csv file and remember where you saved it to.
+The easiest way to save the contents from github is to use the "copy raw contents" button, which saves the contents of the entire file to your clipboard. If this method does not work you can view the raw files, right click, and use "save as" to save them wherever you want. 
 
 IMPORTANT NOTE: when using custom localization, your lang folder is frozen and no longer auto-updates. When Gaijin adds new texts, they will appear broken until you update the lang folder manually. Once you are familiar with the process of updating your lang folder it only takes about a minute to do. 
 
@@ -12,9 +12,13 @@ The version of the commit reflects the version of the game at the time I last up
 
 ## To install
 
-- Navigate to your War Thunder files. The easiest way to do this is to look for aces.exe in task manager while the game is running, right click it and go to file location, and then go back one level to see your root files
+[Video example](https://youtu.be/KknlZ8sc3xA)
 
-- Open config.blk with any text editing software such as Notepad or Notepad++. Scroll down to the debug section. Add a new line `testLocalization:b=yes`, checking to make sure spelling and spacing are correct. It should look like this:
+- Open your War Thunder files
+
+  - *If you don't know where your files are located, the easiest way to find them is to run the launcher, then use "open file location" in task manager
+
+- Open config.blk with any text editing software such as Notepad or Notepad++. Scroll down to the debug section. Add a new line `  testLocalization:b=yes`, checking to make sure spelling and spacing are correct. It should look like this:
 ```
 debug{
   enableNvHighlights:t="auto"
@@ -29,14 +33,16 @@ debug{
 - units.csv is the file responsible for vehicle names. Your goal is to replace the default units.csv with the custom one from this GitHub.
   - The easiest way to do this is to use the "Copy raw contents" button as described in the third paragraph. Open units.csv with a text editor like notepad or notepad++, use ctrl+A to select all, delete everything, then paste in what you just copied. If it pasted successfully, save the file and close it. 
   - If for whatever reason that method didn't work, try using the other method where you save the units.csv file from github. Drag it into your lang folder. Choose to replace if prompted. 
-- Restart the game
+- Restart the game OR switch your language in the hangar to Russian and back to English
 
 ## To update
 
-When you start seeing broken texts, you will need to update your lang folder manually. This is particularly importnat when Gaijin releases a major update as major updates bring lots of new vehicles and lots of new texts.
+[Video example](https://youtu.be/0tRrfIAt1o8)
+
+When you start seeing broken texts, you will need to update your lang folder manually. This is particularly important when Gaijin releases a major update as major updates bring numerous new vehicle and menu texts. 
 - With the game running, go to your War Thunder files and delete the lang folder entirely
 - In the hangar, go to options, and change your language to Russian. Apply the setting and make sure your language actually changes. Hit esc if a popup comes up prompting you to download additional content.
-- A fresh lang folder should have generated. Refresh file explorer if you do not see it. Replace units.csv with the new one in the same way you did before. 
+- A fresh lang folder should have generated. Refresh file explorer if you do not see it. Replace the contents of units.csv as you have done before. 
 - Tab back into War Thunder and switch the language back to English (or whatever language you were using). 
 
 Switching languages is faster and more convenient than restarting the game. It also updates/fixes the hidden langRegional folder, so if you see broken texts for titles or challenges, cycling your language will usually fix it. 
@@ -50,7 +56,7 @@ Switching languages is faster and more convenient than restarting the game. It a
 
 > Vehicle names are broken and show up as codes (for example, mig-17p_lim_5p instead of Lim-5P)
 
-If this only happens to recently added vehicles, update your localization.
+If this only appears on recently added vehicles, update your localization.
 If this happens to all vehicles, the game is not reading units.csv correctly. Make sure units.csv is in the lang folder, that there is only one, and the contents look correct.
 
 > Vehicle names are loading properly, but the national symbols are not
