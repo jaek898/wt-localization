@@ -11881,7 +11881,7 @@ saab_ajs37_0;AJS37 Viggen
 saab_ajs37_1;AJS37
 saab_ajs37_2;AJS37
 j_8f_shop;J-8F
-j_8f_0;J-8F "Finback-B"
+j_8f_0;J-8F "Finback-C"
 j_8f_1;J-8F
 j_8f_2;J-8F
 bf2c_1_shop;BF2C-1
@@ -12024,3 +12024,8 @@ fr_destroyer_marceau_class_marceau_shop;Marceau
 fr_destroyer_marceau_class_marceau_0;Type 1936A (Mob)-class, Marceau, 1950
 fr_destroyer_marceau_class_marceau_1;Marceau
 fr_destroyer_marceau_class_marceau_2;Marceau
+germ_opelBlitz_med;Vehicle
+fr_destroyer_jaguar_class_leopard_shop;Leopard
+fr_destroyer_jaguar_class_leopard_0;Jaguar-class, Leopard, 1942
+fr_destroyer_jaguar_class_leopard_1;Leopard
+fr_destroyer_jaguar_class_leopard_2;Leopard
