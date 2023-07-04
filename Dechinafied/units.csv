@@ -4670,10 +4670,10 @@ mig-19j_6a_shop;␗MiG-19PF
 mig-19j_6a_0;␗MiG-19PF "Farmer-B"
 mig-19j_6a_1;␗MiG-19PF
 mig-19j_6a_2;␗MiG-19PF
-j_7_mk2_shop;␗MiG-21F-13
-j_7_mk2_0;␗MiG-21F-13 "Fishcan"
-j_7_mk2_1;␗MiG-21F-13
-j_7_mk2_2;␗MiG-21F-13
+j_7_mk2_shop;J-7II
+j_7_mk2_0;J-7II "Fishcan"
+j_7_mk2_1;J-7II
+j_7_mk2_2;J-7II
 j_7e_shop;J-7E
 j_7e_0;J-7E "Fishcan"
 j_7e_1;J-7E
@@ -9274,7 +9274,7 @@ ussr_d3_2;D-3
 ussr_g5_mtb_shop;G-5
 ussr_g5_mtb_0;G-5 Type
 ussr_g5_mtb_1;G-5
-ussr_g5_mtb_2;Motor Torpedo Boat
+ussr_g5_mtb_2;G-5
 ussr_mo_4_shop;MO-4
 ussr_mo_4_0;MO-4 Type
 ussr_mo_4_1;MO-4
