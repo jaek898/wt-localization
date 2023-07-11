@@ -10168,7 +10168,7 @@ us_cruiser_baltimore_class_0;Baltimore-class,USS Baltimore (CA-68), 1943
 us_cruiser_baltimore_class_1;USS Baltimore
 us_cruiser_baltimore_class_2;USS Baltimore
 uk_battlecruiser_invincible_shop;HMS Invincible
-uk_battlecruiser_invincible_0;Invincible-class (85), HMS Invincible, 1916
+uk_battlecruiser_invincible_0;Invincible-class, HMS Invincible (85), 1916
 uk_battlecruiser_invincible_1;HMS Invincible
 uk_battlecruiser_invincible_2;HMS Invincible
 it_cruiser_zara_class_pola_shop;RN Pola
@@ -12029,3 +12029,31 @@ fr_destroyer_jaguar_class_leopard_shop;Leopard
 fr_destroyer_jaguar_class_leopard_0;Jaguar-class, Leopard, 1942
 fr_destroyer_jaguar_class_leopard_1;Leopard
 fr_destroyer_jaguar_class_leopard_2;Leopard
+atomic_pchela_ussr_shop;Repair Pchela
+atomic_pchela_ussr_0;WSP-9 Repair Pchela
+atomic_pchela_ussr_1;Repair Pchela
+atomic_pchela_ussr_2;Repair Pchela
+atomic_pchela_lazer_ussr_shop;Laser Pchela
+atomic_pchela_lazer_ussr_0;WSP-9 Laser Pchela
+atomic_pchela_lazer_ussr_1;Laser Pchela
+atomic_pchela_lazer_ussr_2;Laser Pchela
+atomic_pchela_usa_shop;Repair Pchela
+atomic_pchela_usa_0;WSP-9 Repair Pchela
+atomic_pchela_usa_1;Repair Pchela
+atomic_pchela_usa_2;Repair Pchela
+atomic_pchela_lazer_usa_shop;Laser Pchela
+atomic_pchela_lazer_usa_0;WSP-9 Laser Pchela
+atomic_pchela_lazer_usa_1;Laser Pchela
+atomic_pchela_lazer_usa_2;Laser Pchela
+ussr_atomic_hedgie_shop;Hedgie
+ussr_atomic_hedgie_0;HOG-7 Hedgie
+ussr_atomic_hedgie_1;Hedgie
+ussr_atomic_hedgie_2;Hedgie
+us_atomic_hedgie_shop;Hedgie
+us_atomic_hedgie_0;HOG-7 Hedgie
+us_atomic_hedgie_1;Hedgie
+us_atomic_hedgie_2;Hedgie
+unit_grif_char_shop;Hawk
+unit_grif_char_0;Hawk
+unit_grif_char_1;Hawk
+unit_grif_char_2;Hawk
