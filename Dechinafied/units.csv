@@ -1104,18 +1104,12 @@ shop/group/germ_leopard_1_late_group;Leopard A1A1/1A5
 shop/group/germ_prewar_pz_III_group;Pz.III B/E
 shop/group/germ_Marder_III_group;Marder III/III H
 shop/group/us_m46_m47_group;M46/M47
-shop/group/us_t32_group;T32/T32E1
 shop/group/us_mbt_xm_group;MBT/XM
-shop/group/uk_crusader_group;Crusader
-shop/group/uk_cromwell_group;Cromwell
-shop/group/uk_valentine_mk_11_9_group;Valentine XI/IX
+shop/group/uk_crusader_group;Crusader II/III
+shop/group/uk_cromwell_group;Cromwell V/I
 shop/group/uk_valentine_group;Valentine
 shop/group/uk_chieftain_mk_3_5_group;Chieftain 3/5
 shop/group/us_m48_m60_group;M48/M60
-shop/group/it_semovente_m41_group;M41 (75/18 75/32)
-shop/group/it_semovente_m43_group;M43 (75/34 75/46)
-shop/group/it_semovente_m43_105_75_group;M43 (105/25 75/34)
-shop/group/it_m13_40_group;M13/40 I/III
 us_m47_patton_II_shop;M47
 us_m47_patton_II_0;90 mm Gun Tank M47 Patton II
 us_m47_patton_II_1;M47
@@ -1261,7 +1255,6 @@ us_amx_13_90_0;AMX-13-90
 us_amx_13_90_1;AMX-13-90
 us_amx_13_90_2;AMX-13-90
 shop/group/ussr_t_28_t_28e_group;T-28/T-28E
-shop/group/ussr_su_isu_152_group;SU-152/ISU-152
 shop/group/m3_light_group;M3/M3A1 Stuart
 shop/group/st_a_group;ST-A
 ussr_rbt_5_shop;RBT-5
@@ -1376,7 +1369,6 @@ ussr_t_44_100_shop;T-44-100
 ussr_t_44_100_0;T-44-100
 ussr_t_44_100_1;T-44-100
 ussr_t_44_100_2;T-44-100
-shop/group/ussr_t_54_group;T-54
 ussr_t_54_1949_shop;T-54 (1949)
 ussr_t_54_1949_0;T-54 (1949)
 ussr_t_54_1949_1;T-54 (1949)
@@ -1461,14 +1453,9 @@ ussr_su_85m_2;SU-85M
 shop/group/ussr_su_85_group;SU-85
 shop/group/kv_1_2_group;KV-1/KV-2
 shop/group/pzkpfw_iv_late_group;Pz.IV H/J
-shop/group/germ_pzkpfw_V_a_g_group;Panther A/G
-shop/group/germ_pzkpfw_V_a_f_group;Panther A/F
-shop/group/germ_pzkpfw_III_late_group;Pz.III L/M
 shop/group/germ_pzkpfw_II_early_group;Pz.II C/F
-shop/group/germ_pzkpfw_38t_group;Pz.38(t) A/F
 shop/group/ussr_su_85_85m_group;SU-85/85M
 shop/group/ussr_kv_2_85_group;KV-2/KV-85
-shop/group/ussr_t_34_40_41_group;T-34
 shop/group/isu_122_group;ISU-122/122S
 ussr_isu_122s_shop;ISU-122S
 ussr_isu_122s_0;ISU-122S
@@ -7097,7 +7084,6 @@ ussr_t_62m1_shop;T-62M-1
 ussr_t_62m1_0;T-62M-1
 ussr_t_62m1_1;T-62M-1
 ussr_t_62m1_2;T-62M-1
-shop/group/ussr_t_62_group;T-62
 us_ags_teledyne_shop;AGS
 us_ags_teledyne_0;TCM AGS
 us_ags_teledyne_1;AGS
@@ -7162,7 +7148,6 @@ germ_mkpz_m48a2ga2_shop;M48A2 G A2
 germ_mkpz_m48a2ga2_0;M48A2 G A2
 germ_mkpz_m48a2ga2_1;M48A2 G A2
 germ_mkpz_m48a2ga2_2;M48A2 G A2
-shop/group/ussr_bmp_2_group;BMP-2/BMP-2D
 ussr_bmp_2m_shop;BMP-2M
 ussr_bmp_2m_0;BMP-2M
 ussr_bmp_2m_1;BMP-2M
@@ -7495,7 +7480,6 @@ ussr_t_72b_shop;T-72B
 ussr_t_72b_0;T-72B
 ussr_t_72b_1;T-72B
 ussr_t_72b_2;T-72B
-shop/group/ussr_t_72b_group;T-72B
 ussr_t_90a_shop;Т-90А
 ussr_t_90a_0;Т-90А
 ussr_t_90a_1;Т-90А
@@ -8490,10 +8474,10 @@ cn_su_100_1945_shop;␗SU-100
 cn_su_100_1945_0;␗SU-100
 cn_su_100_1945_1;␗SU-100
 cn_su_100_1945_2;␗SU-100
-cn_type_63_I_shop;Type 63-I
-cn_type_63_I_0;Type 63-I
-cn_type_63_I_1;Type 63-I
-cn_type_63_I_2;Type 63-I
+cn_type_63_I_shop;Type 63
+cn_type_63_I_0;Type 63
+cn_type_63_I_1;Type 63
+cn_type_63_I_2;Type 63
 cn_ztz_59a_shop;ZTZ59A
 cn_ztz_59a_0;ZTZ59A
 cn_ztz_59a_1;ZTZ59A
@@ -11839,7 +11823,7 @@ ussr_bm_31_12_shop;BM-31-12
 ussr_bm_31_12_0;BM-31-12
 ussr_bm_31_12_1;BM-31-12
 ussr_bm_31_12_2;BM-31-12
-shop/group/il_magach_6_group;Magach 6R/6R
+shop/group/il_magach_6_group;Magach 6 B/R/Hydra
 us_m4_t26_shop;M4/T26
 us_m4_t26_0;M4/T26
 us_m4_t26_1;M4/T26
@@ -12029,22 +12013,6 @@ fr_destroyer_jaguar_class_leopard_shop;Leopard
 fr_destroyer_jaguar_class_leopard_0;Jaguar-class, Leopard, 1942
 fr_destroyer_jaguar_class_leopard_1;Leopard
 fr_destroyer_jaguar_class_leopard_2;Leopard
-atomic_pchela_ussr_shop;Repair Pchela
-atomic_pchela_ussr_0;WSP-9 Repair Pchela
-atomic_pchela_ussr_1;Repair Pchela
-atomic_pchela_ussr_2;Repair Pchela
-atomic_pchela_lazer_ussr_shop;Laser Pchela
-atomic_pchela_lazer_ussr_0;WSP-9 Laser Pchela
-atomic_pchela_lazer_ussr_1;Laser Pchela
-atomic_pchela_lazer_ussr_2;Laser Pchela
-atomic_pchela_usa_shop;Repair Pchela
-atomic_pchela_usa_0;WSP-9 Repair Pchela
-atomic_pchela_usa_1;Repair Pchela
-atomic_pchela_usa_2;Repair Pchela
-atomic_pchela_lazer_usa_shop;Laser Pchela
-atomic_pchela_lazer_usa_0;WSP-9 Laser Pchela
-atomic_pchela_lazer_usa_1;Laser Pchela
-atomic_pchela_lazer_usa_2;Laser Pchela
 ussr_atomic_hedgie_shop;Hedgie
 ussr_atomic_hedgie_0;HOG-7 Hedgie
 ussr_atomic_hedgie_1;Hedgie
@@ -12077,10 +12045,6 @@ su_25_558arz_shop;Su-25BM
 su_25_558arz_0;Su-25BM 558 ARZ "Frogfoot-A"
 su_25_558arz_1;Su-25BM
 su_25_558arz_2;Su-25BM
-yak-1_litvyak_shop;Yak-1
-yak-1_litvyak_0;Yak-1
-yak-1_litvyak_1;Yak-1
-yak-1_litvyak_2;Yak-1
 sw_patria_amv_ctcv_105_shop;CT-CV 105HP
 sw_patria_amv_ctcv_105_0;Patria CT-CV 105HP
 sw_patria_amv_ctcv_105_1;CT-CV 105HP
@@ -12093,3 +12057,294 @@ fr_cruiser_suffren_class_dupleix_shop;Dupleix
 fr_cruiser_suffren_class_dupleix_0;Suffren-class, Dupleix, 1942
 fr_cruiser_suffren_class_dupleix_1;Dupleix
 fr_cruiser_suffren_class_dupleix_2;Dupleix
+shop/group/us_sherman_group;M4A1/M4/M4A2
+shop/group/us_sherman_76w_group;M4 76(W) A2/A3
+shop/group/us_t26_t25_group;M4 T26/T25
+shop/group/us_m47_48_group;M47/M48
+shop/group/us_m60_group;M60A1 AOS/RISE
+shop/group/us_m6_group;M6A1/T1E1
+shop/group/us_t26_group;T26 E5/E1-1
+shop/group/us_t32_group;T32/T32E1
+shop/group/us_abrams_group;M1A1/IPM1
+shop/group/us_abrams_a2_group;M1 A2/A2 SEP
+shop/group/us_m36_group;M36/M36B2
+shop/group/germ_pzkpfw_38t_group;Pz.38(t) F/n.A.
+shop/group/germ_sturer_flak_group;Sturer Emil/Flak Sfl.
+shop/group/germ_waffentrager_group;Nashorn/Waffenträger
+shop/group/germ_marder_bmp_group;Marder A1/BMP-1
+shop/group/germ_marder_group;Marder A3/DF105
+shop/group/germ_tam_sk_group;TAM/JaPz.K
+shop/group/germ_radpanzer_tam_group;R.Kpfw.90/TAM 2C
+shop/group/germ_pzkpfw_III_late_group;Pz.III L/M
+shop/group/germ_kpz_super_group;KPz-70/M48 Super
+shop/group/germ_pzkpfw_4_early_group;Pz.IV E/F
+shop/group/germ_pz_4_fg_group;Pz.IV F2/G
+shop/group/germ_pz_4_late_group;Pz.IV H/J
+shop/group/germ_pzkpfw_V_a_f_group;Panther A/G/F
+shop/group/germ_leopard_2_group;Leopard 2 A5/A6
+shop/group/germ_flakpanzer_1_group;FlakPz I/38(t)
+shop/group/germ_wiesel_gepard_group;Ozelot/Gepard 1A2
+shop/group/germ_sturmpanzer_221_group;sIG Sfl./Sd.Kfz.221
+shop/group/germ_panzerjager_251_group;Panzerjager I/Sd.Kfz.251/9
+shop/group/germ_marder_stug_a_group;Marder III/StuG III
+shop/group/germ_marder_stuh_group;Marder/StuH/StuG
+shop/group/germ_jagdpanzer_group;Jagdpanzer IV/38(t)
+shop/group/germ_jagdpanther_group;Jagdpanther/JPz 4-5
+shop/group/germ_panzerjager_tiger_group;Ferdinand/Jagdtiger
+shop/group/ussr_t_34_40_41_group;T-34 (40/41)
+shop/group/ussr_t_34_42_group;T-34 (42/E)
+shop/group/ussr_t_54_group;T-54 (47/49/51)
+shop/group/ussr_t_55_group;T-55 (A/AMD-1)
+shop/group/ussr_t_62_group;T-62/62М-1
+shop/group/ussr_t_72b_group;T-72B/72B(89)
+shop/group/ussr_kv_1_2_group;KV-1/2(39)
+shop/group/ussr_kv_1_85_group;KV-1/85
+shop/group/ussr_t_64_group;T-64A/B
+shop/group/ussr_bmp_1_group;BMP-1/Ob.906
+shop/group/ussr_bmp_2_group;BMP-2/Ob.685
+shop/group/ussr_bmp_3_group;BMP-3/2С25
+shop/group/ussr_zis_su_group;ZiS-30/SU-57B
+shop/group/ussr_su_isu_152_group;SU/ISU
+shop/group/ussr_su_isu_122_group;SU-85M/ISU-122
+shop/group/ussr_isu_su_group;ISU-122S/SU-100
+shop/group/ussr_zis_group;ZiS-12/43
+shop/group/uk_challenger_comet_group;Challenger/Comet
+shop/group/uk_caernarvon_conqueror_group;Caernarvon/Conqueror
+shop/group/uk_challenger_group;Challenger Mk.2/Mk.3
+shop/group/uk_challenger_2_group;Challenger 2/2F/TES
+shop/group/uk_challenger_bn_e_group;Challenger 2BN/2E
+shop/group/uk_churchill_group;Churchill III/NA75
+shop/group/uk_tortoise_conway_group;Tortoise/Conway
+shop/group/uk_fv510_zt3_group;Warrior/ZT3A2
+shop/group/uk_ystervark_crusader_group;Ystervark/Crusader AA
+shop/group/uk_marksman_za_group;Marksman/ZA-35
+shop/group/uk_ratel_group;Ratel 90/20
+shop/group/uk_g6_eland_group;G6/Eland
+shop/group/uk_rooikat_olifant_group;Rooikat/Olifant Mk.1
+shop/group/uk_mttd_olifant_group;MTTD/Olifant Mk.2
+shop/group/jp_type_60_group;Type 60 SPRG/ATM
+shop/group/jp_type_87_89_group;Type 87/89
+shop/group/jp_chi_to_group;Chi-To/Chi-To Late
+shop/group/jp_type_61_sta_group;Type 61/ST-A3
+shop/group/jp_type_74_stb_group;STB-1/Type 74
+shop/group/jp_type_74_group;Type 74 E/F
+shop/group/jp_type_90_group;Type 90/90B
+shop/group/jp_type_10_group;Type 10/TKX
+shop/group/jp_ho_ni_group;Ho-Ni I/III
+shop/group/cn_type_63_62_group;Type 63/62
+shop/group/cn_zts_type_group;ZTS/ZBD
+shop/group/cn_t_34_m4_group;T-34/M4A1
+shop/group/cn_t_34_85_group;T-34-85/85Gai
+shop/group/cn_is_2_group;IS-2 1943/1944
+shop/group/cn_type_59_69_group;Type 59/69
+shop/group/cn_ztz_88_group;ZTZ88 B/A
+shop/group/cn_ztz_99_group;ZTZ99-II/III
+shop/group/cn_m36_isu_group;M36/ISU-122
+shop/group/cn_cm_ptz_group;CM25/PTZ89
+shop/group/n_ptl_aft_group;PTL02/AFT09
+shop/group/it_fiat_group;AUBL/FIAT
+shop/group/it_centauro_105_group;Centauro 105/105R
+shop/group/it_m15_pz_3_group;M15/Pz.III
+shop/group/it_ariete_group;Ariete PSO/WAR
+shop/group/it_semovente_stug_group;M41M/StuG
+shop/group/it_semovente_m41_group;M41/M42
+shop/group/it_semovente_m43_105_75_group;M43 105/75
+shop/group/it_m13_40_group;M13/40 I/III
+shop/group/it_dardo_group;Dardo/VCC
+shop/group/fr_mars_hot_group;MARS/AMX
+shop/group/fr_amx_sk_group;AMX/SK
+shop/group/fr_lorraine_bat_group;Lorraine/Char
+shop/group/fr_amx_30_group;AMX-30 B2/BRENUS
+shop/group/fr_leclerc_group;Leclerc S1/S2
+shop/group/fr_b1_2c_group;B1/C2
+shop/group/fr_amx_32_group;AMX-32 105/120
+shop/group/fr_lorraine_elc_group;Lorraine/ELC
+shop/group/sw_pvkv_ikv_group;Pvkv/Ikv
+shop/group/sw_udes_pbv_group;UDES/Pbv
+shop/group/sw_t_34_pz_4_group;T-34/Pz.IV
+shop/group/sw_pt_76_comet_group;PT/Comet
+shop/group/sw_cv_90_ifv_group;CV30FIN/Strf 40B
+shop/group/sw_strv_101_103a_group;Strv 101/103A
+shop/group/sw_strv_104_103c_group;Strv 104/103C
+shop/group/sw_strv_122_group;Strv 122/122 PLSS
+shop/group/sw_lvkv_asrad_group;Lvkv/ASRAD
+shop/group/il_magach_1_2_group;Magach 1/2
+shop/group/il_magach_3_6_group;Magach 3/6
+shop/group/il_magach_6a_5_group;Magach 6A/5
+shop/group/il_magach_6m_c_group;Magach 6 M/C
+shop/group/il_magach_batash_7_group;Gal Batash/7C
+shop/group/il_tiran_4_group;Tiran 4/4S
+shop/group/il_merkava_1_2_group;Merkava 1B/2B
+shop/group/il_merkava_3_group;Merkava 3 B/C
+shop/group/il_merkava_4_group;Merkava 4 B/LIC
+us_m4_sherman_promo_shop;M4
+us_m4_sherman_promo_0;Medium Tank M4 Sherman
+us_m4_sherman_promo_1;M4
+us_m4_sherman_promo_2;M4
+ussr_to_55_shop;TO-55
+ussr_to_55_0;TO-55
+ussr_to_55_1;TO-55
+ussr_to_55_2;TO-55
+uk_t_90s_bheeshma_shop;Bhishma
+uk_t_90s_bheeshma_0;T-90S Bhishma
+uk_t_90s_bheeshma_1;Bhishma
+uk_t_90s_bheeshma_2;Bhishma
+fr_amx_10m_acra_shop;AMX-10M
+fr_amx_10m_acra_0;Chasseur de char AMX-10M
+fr_amx_10m_acra_1;AMX-10M
+fr_amx_10m_acra_2;AMX-10M
+fr_leclerc_azur_shop;Leclerc AZUR
+fr_leclerc_azur_0;Leclerc AZUR
+fr_leclerc_azur_1;Leclerc AZUR
+fr_leclerc_azur_2;Leclerc AZUR
+loire_130_shop;Loire 130С
+loire_130_0;Loire 130С
+loire_130_1;Loire 130С
+loire_130_2;Loire 130С
+it_btr_80a_hungary_shop;◐BTR-80A
+it_btr_80a_hungary_0;◐BTR-80A
+it_btr_80a_hungary_1;◐BTR-80A
+it_btr_80a_hungary_2;◐BTR-80A
+it_t_72m1_shop;◐T-72M1
+it_t_72m1_0;◐T-72M1
+it_t_72m1_1;◐T-72M1
+it_t_72m1_2;◐T-72M1
+it_zsu_57_2_shop;◐ZSU-57-2
+it_zsu_57_2_0;◐ZSU-57-2
+it_zsu_57_2_1;◐ZSU-57-2
+it_zsu_57_2_2;◐ZSU-57-2
+it_zsu_23_4_shop;◐ZSU-23-4
+it_zsu_23_4_0;◐ZSU-23-4
+it_zsu_23_4_1;◐ZSU-23-4
+it_zsu_23_4_2;◐ZSU-23-4
+it_2s1_shop;◐2S1
+it_2s1_0;◐2S1
+it_2s1_1;◐2S1
+it_2s1_2;◐2S1
+ussr_2s1_shop;2S1
+ussr_2s1_0;2S1
+ussr_2s1_1;2S1
+ussr_2s1_2;2S1
+super_etendard_97_shop;Super Etendard
+super_etendard_97_0;Super Etendard
+super_etendard_97_1;Super Etendard
+super_etendard_97_2;Super Etendard
+germ_leopard_2a5_pso_shop;Leopard 2 PSO
+germ_leopard_2a5_pso_0;Leopard 2 PSO
+germ_leopard_2a5_pso_1;Leopard 2 PSO
+germ_leopard_2a5_pso_2;Leopard 2 PSO
+it_kf_41_shop;◐KF41
+it_kf_41_0;◐KF41
+it_kf_41_1;◐KF41
+it_kf_41_2;◐KF41
+it_leopard_2a4_shop;◐Leopard 2A4
+it_leopard_2a4_0;◐Leopard 2A4
+it_leopard_2a4_1;◐Leopard 2A4
+it_leopard_2a4_2;◐Leopard 2A4
+it_40_43m_zrinyi_2_shop;Zrinyi II
+it_40_43m_zrinyi_2_0;40/43.M Zrinyi II
+it_40_43m_zrinyi_2_1;Zrinyi II
+it_40_43m_zrinyi_2_2;Zrinyi II
+it_39m_csaba_shop;Csaba
+it_39m_csaba_0;39.M Csaba
+it_39m_csaba_1;Csaba
+it_39m_csaba_2;Csaba
+it_40m_turan_1_shop;Turan I
+it_40m_turan_1_0;40.M Turan I
+it_40m_turan_1_1;Turan I
+it_40m_turan_1_2;Turan I
+it_43m_turan_3_shop;Turan III
+it_43m_turan_3_0;43.M Turan III
+it_43m_turan_3_1;Turan III
+it_43m_turan_3_2;Turan III
+mi_8tv_shop;Mi-8TV
+mi_8tv_0;Mi-8TV "Hip-C"
+mi_8tv_1;Mi-8TV
+mi_8tv_2;Mi-8TV
+mi_8tb_shop;◊Mi-8TB
+mi_8tb_0;◊Mi-8TB "Hip-E"
+mi_8tb_1;◊Mi-8TB
+mi_8tb_2;◊Mi-8TB
+us_mim_72_chaparral_shop;Imp.Chaparral
+us_mim_72_chaparral_0;Improved Chaparral
+us_mim_72_chaparral_1;Imp.Chaparral
+us_mim_72_chaparral_2;Imp.Chaparral
+il_mim_72_chaparral_shop;Imp.Chaparral
+il_mim_72_chaparral_0;Improved Chaparral
+il_mim_72_chaparral_1;Imp.Chaparral
+il_mim_72_chaparral_2;Imp.Chaparral
+mig_29smt_9_19_shop;MiG-29SMT
+mig_29smt_9_19_0;MiG-29SMT Izdeliye 9.19 "Fulcrum-C"
+mig_29smt_9_19_1;MiG-29SMT
+mig_29smt_9_19_2;MiG-29SMT
+f_16d_block_40_barak_2_shop;F-16D
+f_16d_block_40_barak_2_0;F-16D Block 40 Barak II
+f_16d_block_40_barak_2_1;F-16D
+f_16d_block_40_barak_2_2;F-16D
+f_16c_block_50_shop;F-16C
+f_16c_block_50_0;F-16C Block 50 Fighting Falcon
+f_16c_block_50_1;F-16C
+f_16c_block_50_2;F-16C
+harrier_frs1_early_shop;Sea Harrier FRS.1 [E]
+harrier_frs1_early_0;Sea Harrier FRS.1 [Early]
+harrier_frs1_early_1;Sea Harrier FRS.1 [E]
+harrier_frs1_early_2;Sea Harrier FRS.1 [E]
+av_8b_plus_italy_shop;▄AV-8B Plus
+av_8b_plus_italy_0;▄AV-8B Plus Harrier
+av_8b_plus_italy_1;▄AV-8B Plus
+av_8b_plus_italy_2;▄AV-8B Plus
+oh_58d_shop;OH-58D
+oh_58d_0;OH-58D Kiowa Warrior
+oh_58d_1;OH-58D
+oh_58d_2;OH-58D
+oh_58d_china_shop;␗OH-58D
+oh_58d_china_0;␗OH-58D Kiowa Warrior
+oh_58d_china_1;␗OH-58D
+oh_58d_china_2;␗OH-58D
+cn_m41_a3_walker_bulldog_shop;␗M41A3
+cn_m41_a3_walker_bulldog_0;␗M41A3
+cn_m41_a3_walker_bulldog_1;␗M41A3
+cn_m41_a3_walker_bulldog_2;␗M41A3
+cn_mbt2000_shop;MBT2000
+cn_mbt2000_0;MBT2000
+cn_mbt2000_1;MBT2000
+cn_mbt2000_2;MBT2000
+sw_k9_vidar_shop;VIDAR
+sw_k9_vidar_0;Versatile InDirect ARTillery
+sw_k9_vidar_1;VIDAR
+sw_k9_vidar_2;VIDAR
+sw_pvkv_iv_shop;Pvkv IV
+sw_pvkv_iv_0;Pansarvärnskanonvagn IV
+sw_pvkv_iv_1;Pvkv IV
+sw_pvkv_iv_2;Pvkv IV
+jp_destroyer_hatsuzuki_shop;IJN Hatsuzuki
+jp_destroyer_hatsuzuki_0;Akizuki-class, IJN Hatsuzuki, 1942
+jp_destroyer_hatsuzuki_1;IJN Hatsuzuki
+jp_destroyer_hatsuzuki_2;IJN Hatsuzuki
+us_battleship_texas_shop;USS Texas
+us_battleship_texas_0;New York-class, USS Texas (BB-35), 1945
+us_battleship_texas_1;USS Texas
+us_battleship_texas_2;USS Texas
+jp_type7_pt808_shop;PT-808
+jp_type7_pt808_0;Type 7, PT-808
+jp_type7_pt808_1;PT-808
+jp_type7_pt808_2;PT-808
+us_battleship_arkansas_shop;USS Arkansas
+us_battleship_arkansas_0;Wyoming-class, USS Arkansas (BB-33), 1942
+us_battleship_arkansas_1;USS Arkansas
+us_battleship_arkansas_2;USS Arkansas
+germ_battleship_nassau_shop;SMS Nassau
+germ_battleship_nassau_0;Nassau-class, SMS Nassau, 1910
+germ_battleship_nassau_1;SMS Nassau
+germ_battleship_nassau_2;SMS Nassau
+ussr_battleship_marat_shop;Marat
+ussr_battleship_marat_0;Sevastopol-class, Marat, 1941
+ussr_battleship_marat_1;Marat
+ussr_battleship_marat_2;Marat
+germ_minelayer_drache_shop;Drache
+germ_minelayer_drache_0;R-1-class, Drache
+germ_minelayer_drache_1;Drache
+germ_minelayer_drache_2;Drache
+cargo_ship_norbris;Cargo ship
+shop/group/cn_76_211_group;Object 211
+tanker_nicolaos;Tanker
