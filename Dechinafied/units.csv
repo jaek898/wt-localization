@@ -12186,7 +12186,7 @@ ussr_to_55_0;TO-55
 ussr_to_55_1;TO-55
 ussr_to_55_2;TO-55
 uk_t_90s_bheeshma_shop;Bhishma
-uk_t_90s_bheeshma_0;T-90S Bhishma
+uk_t_90s_bheeshma_0;T-90S Bhishma TWMP
 uk_t_90s_bheeshma_1;Bhishma
 uk_t_90s_bheeshma_2;Bhishma
 fr_amx_10m_acra_shop;AMX-10M
@@ -12201,26 +12201,26 @@ loire_130_shop;Loire 130С
 loire_130_0;Loire 130С
 loire_130_1;Loire 130С
 loire_130_2;Loire 130С
-it_btr_80a_hungary_shop;◐BTR-80A
-it_btr_80a_hungary_0;◐BTR-80A
-it_btr_80a_hungary_1;◐BTR-80A
-it_btr_80a_hungary_2;◐BTR-80A
-it_t_72m1_shop;◐T-72M1
-it_t_72m1_0;◐T-72M1
-it_t_72m1_1;◐T-72M1
-it_t_72m1_2;◐T-72M1
-it_zsu_57_2_shop;◐ZSU-57-2
-it_zsu_57_2_0;◐ZSU-57-2
-it_zsu_57_2_1;◐ZSU-57-2
-it_zsu_57_2_2;◐ZSU-57-2
-it_zsu_23_4_shop;◐ZSU-23-4
-it_zsu_23_4_0;◐ZSU-23-4
-it_zsu_23_4_1;◐ZSU-23-4
-it_zsu_23_4_2;◐ZSU-23-4
-it_2s1_shop;◐2S1
-it_2s1_0;◐2S1
-it_2s1_1;◐2S1
-it_2s1_2;◐2S1
+it_btr_80a_hungary_shop;◔BTR-80A
+it_btr_80a_hungary_0;◔BTR-80A
+it_btr_80a_hungary_1;◔BTR-80A
+it_btr_80a_hungary_2;◔BTR-80A
+it_t_72m1_shop;◔T-72M1
+it_t_72m1_0;◔T-72M1
+it_t_72m1_1;◔T-72M1
+it_t_72m1_2;◔T-72M1
+it_zsu_57_2_shop;◔ZSU-57-2
+it_zsu_57_2_0;◔ZSU-57-2
+it_zsu_57_2_1;◔ZSU-57-2
+it_zsu_57_2_2;◔ZSU-57-2
+it_zsu_23_4_shop;◔ZSU-23-4
+it_zsu_23_4_0;◔ZSU-23-4
+it_zsu_23_4_1;◔ZSU-23-4
+it_zsu_23_4_2;◔ZSU-23-4
+it_2s1_shop;◔2S1
+it_2s1_0;◔2S1
+it_2s1_1;◔2S1
+it_2s1_2;◔2S1
 ussr_2s1_shop;2S1
 ussr_2s1_0;2S1
 ussr_2s1_1;2S1
@@ -12265,14 +12265,14 @@ mi_8tb_shop;◊Mi-8TB
 mi_8tb_0;◊Mi-8TB "Hip-E"
 mi_8tb_1;◊Mi-8TB
 mi_8tb_2;◊Mi-8TB
-us_mim_72_chaparral_shop;Imp.Chaparral
+us_mim_72_chaparral_shop;Chaparral
 us_mim_72_chaparral_0;Improved Chaparral
-us_mim_72_chaparral_1;Imp.Chaparral
-us_mim_72_chaparral_2;Imp.Chaparral
-il_mim_72_chaparral_shop;Imp.Chaparral
+us_mim_72_chaparral_1;Chaparral
+us_mim_72_chaparral_2;Chaparral
+il_mim_72_chaparral_shop;Chaparral
 il_mim_72_chaparral_0;Improved Chaparral
-il_mim_72_chaparral_1;Imp.Chaparral
-il_mim_72_chaparral_2;Imp.Chaparral
+il_mim_72_chaparral_1;.Chaparral
+il_mim_72_chaparral_2;Chaparral
 mig_29smt_9_19_shop;MiG-29SMT
 mig_29smt_9_19_0;MiG-29SMT Izdeliye 9.19 "Fulcrum-C"
 mig_29smt_9_19_1;MiG-29SMT
@@ -12352,3 +12352,111 @@ saab_a32a_red_adam_shop;A32A Röd Adam
 saab_a32a_red_adam_0;A32A Lansen "Röd Adam"
 saab_a32a_red_adam_1;A32A Röd Adam
 saab_a32a_red_adam_2;A32A Röd Adam
+shop/group/tbf_group;TBF/SBD
+shop/group/tbd_group;TBD/B-18
+shop/group/p-51_early_group;P-51 [E]
+shop/group/p-47_ealy_group;P-47 [E]
+shop/group/f4u_late_group;F4U [L]
+shop/group/b-17_late_group;B-17 [L]
+shop/group/b_57_group;B-57
+shop/group/f-104_group;F-104
+shop/group/a_4b_group;A-4B/FJ-4B
+shop/group/a_7_group;A-7
+shop/group/f_16_group;F-16A
+shop/group/hs-129_group;Hs 129
+shop/group/fw-190a-4_group;Fw 190 A4/A5
+shop/group/me-410a_u2_group;Me 410 (U2)
+shop/group/bf-109g_2_group;Bf 109G [E]
+shop/group/arado_234_group;Ar 234
+shop/group/mig_21_germany_group;◊MiG-21
+shop/group/ar_group;Ar-2/SB 2
+shop/group/db_3_group;DB-3/IL-4
+shop/group/il-2i_group;IL-2
+shop/group/la_5_group;La-5 (e)
+shop/group/yak-9tk_group;Yak-9T/K
+shop/group/yak-3up_group;Yak-3U/UT
+shop/group/il_28_group;IL-28
+shop/group/la_200_group;La-200/La-15
+shop/group/su-7_group;Su-7
+shop/group/mig-19_group;MiG-19/MiG-21
+shop/group/mig_27_group;MiG-27
+shop/group/mig-23m_group;MiG-23
+shop/group/blenheim_group;Blenheim
+shop/group/spitfire_mk1_group;Spitfire [E]
+shop/group/sunderland_group;Sunderland
+shop/group/beaufighter_group;Beaufighter
+shop/group/spitfire_mk5b_group;Spitfire Mk Vb
+shop/group/wellington_late_group;Wellington [L]
+shop/group/spitfire_mk5c_group;Spitfire Mk Vc
+shop/group/brigand_group;Brigand
+shop/group/stirling_group;Stirling
+shop/group/spitfire_mk9e_group;Spitfire F
+shop/group/lincoln_group;Lincoln
+shop/group/canberra_group;Canberra B
+shop/group/sea_hawk_group;Sea Hawk/Sea Venom
+shop/group/ki-45_eraly_group;Ki-45 [E]
+shop/group/ki_49_1_group;Ki-49 [E]
+shop/group/ki_49_2_group;Ki-49 [L]
+shop/group/ki_84_group;Ki-84 [E]
+shop/group/r2y2_group;R2Y2
+shop/group/f-86_japan_group;▅F-86F
+shop/group/db_3_china_group;␗DB-3/SB 2
+shop/group/p_40_china_group;☀P-40
+shop/group/p_47_china_group;☀P-47D
+shop/group/p_51_china_group;☀P-51
+shop/group/f_86_china_group;☀F-86F
+shop/group/mig-15_china_group;J-2/J-4
+shop/group/mig-19_china_group;J-6/J-7
+shop/group/f_5a_china_group;☀F-5
+shop/group/ba_65_group;Ba.65/╏Ju 87
+shop/group/breda_group;Breda 88/P.108
+shop/group/br_20_dr_group;B.R.20
+shop/group/mc_202_italy_group;C.202/C.205 [E]
+shop/group/z_1007_group;Z.1007
+shop/group/p_108_group;P.108B
+shop/group/g_55_serie_group;G.55/Re.2005
+shop/group/fiat_g91_group;G.91
+shop/group/fiat_g91y_group;G.91 Y
+shop/group/potez_group;Potez
+shop/group/md_454_group;M.D.454/M.D.460
+shop/group/so_4050_vautour_group;S.O.4050
+shop/group/mirage_3_group;Mirage III
+shop/group/saab_b17a_group;B17
+shop/group/saab_j21a_group;J21A
+shop/group/bf_109g_sweden_group;▄Bf 109G
+shop/group/vampire_fb_group;Vampire
+shop/group/a_4_iaf_group;A-4
+shop/group/so_4050_vautour_iaf_group;S.O.4050
+shop/group/md_460_iaf_group;Super Mystere
+jp_type_10_prototype_shop;TKX (P)
+jp_type_10_prototype_0;TKX (P)
+jp_type_10_prototype_1;TKX (P)
+jp_type_10_prototype_2;TKX (P)
+mi_24d_hungary_shop;◔Mi-24D
+mi_24d_hungary_0;◔Mi-24D "Hind-D"
+mi_24d_hungary_1;◔Mi-24D
+mi_24d_hungary_2;◔Mi-24D
+mi_24p_hungary_shop;◔Mi-24P
+mi_24p_hungary_0;◔Mi-24P "Hind-F"
+mi_24p_hungary_1;◔Mi-24P
+mi_24p_hungary_2;◔Mi-24P
+mi_24v_hungary_shop;◔Mi-24V
+mi_24v_hungary_0;◔Mi-24V "Hind-E"
+mi_24v_hungary_1;◔Mi-24V
+mi_24v_hungary_2;◔Mi-24V
+he_115c_1_shop;He 115 C-1
+he_115c_1_0;He 115 C-1
+he_115c_1_1;He 115 C-1
+he_115c_1_2;He 115 C-1
+he_115a_2_sweden_shop;T 2
+he_115a_2_sweden_0;T 2
+he_115a_2_sweden_1;T 2
+he_115a_2_sweden_2;T 2
+jp_destroyer_momi_shop;IJN Momi
+jp_destroyer_momi_0;Momi class, IJN Momi, 1930
+jp_destroyer_momi_1;IJN Momi
+jp_destroyer_momi_2;IJN Momi
+it_destroyer_impetuoso_class_impetuoso_shop;Impetuoso
+it_destroyer_impetuoso_class_impetuoso_0;Indomito class, Impetuoso (D 558), 1958
+it_destroyer_impetuoso_class_impetuoso_1;Impetuoso
+it_destroyer_impetuoso_class_impetuoso_2;Impetuoso
