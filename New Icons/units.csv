@@ -12289,10 +12289,10 @@ harrier_frs1_early_shop;Sea Harrier FRS.1 [E]
 harrier_frs1_early_0;Sea Harrier FRS.1 [Early]
 harrier_frs1_early_1;Sea Harrier FRS.1 [E]
 harrier_frs1_early_2;Sea Harrier FRS.1 [E]
-av_8b_plus_italy_shop;▄AV-8B Plus
-av_8b_plus_italy_0;▄AV-8B Plus Harrier
-av_8b_plus_italy_1;▄AV-8B Plus
-av_8b_plus_italy_2;▄AV-8B Plus
+av_8b_plus_italy_shop;╏AV-8B Plus
+av_8b_plus_italy_0;╏AV-8B Plus Harrier
+av_8b_plus_italy_1;╏AV-8B Plus
+av_8b_plus_italy_2;╏AV-8B Plus
 oh_58d_shop;OH-58D
 oh_58d_0;OH-58D Kiowa Warrior
 oh_58d_1;OH-58D
@@ -12460,3 +12460,8 @@ it_destroyer_impetuoso_class_impetuoso_shop;Impetuoso
 it_destroyer_impetuoso_class_impetuoso_0;Indomito class, Impetuoso (D 558), 1958
 it_destroyer_impetuoso_class_impetuoso_1;Impetuoso
 it_destroyer_impetuoso_class_impetuoso_2;Impetuoso
+shop/group/gladiator_j8a_group;J8A/J6B
+shop/group/vg_33_group;V.G.33C/D.520
+shop/group/maryland_group;Martin 167/M.B.174A
+shop/group/ki_27_group;Ki-27/Ki-43
+shop/group/i-153_group;I-15bis/I-153 M-62
