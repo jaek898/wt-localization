@@ -9486,9 +9486,6 @@ germ_destroyer_class1936_z20_tutorial_shop;Destroyer
 germ_destroyer_class1936_z20_tutorial_0;Destroyer
 germ_destroyer_class1936_z20_tutorial_1;Destroyer
 germ_destroyer_class1936_z20_tutorial_2;Destroyer
-germ_destroyer_class1936_z20_tutorial_EC_0;Destroyer
-germ_destroyer_class1936_z20_tutorial_EC_1;Destroyer
-germ_destroyer_class1936_z20_tutorial_EC_2;Destroyer
 uk_mtb_2series_shop;MTB-1(2)
 uk_mtb_2series_0;MTB-1 2 series
 uk_mtb_2series_1;MTB-1(2)
@@ -12141,7 +12138,7 @@ shop/group/cn_ztz_88_group;ZTZ88 B/A
 shop/group/cn_ztz_99_group;ZTZ99-II/III
 shop/group/cn_m36_isu_group;M36/ISU-122
 shop/group/cn_cm_ptz_group;CM25/PTZ89
-shop/group/n_ptl_aft_group;PTL02/AFT09
+shop/group/cn_ptl_aft_group;PTL02/AFT09
 shop/group/it_fiat_group;AUBL/FIAT
 shop/group/it_centauro_105_group;Centauro 105/105R
 shop/group/it_m15_pz_3_group;M15/Pz.III
@@ -12233,14 +12230,14 @@ germ_leopard_2a5_pso_shop;Leopard 2 PSO
 germ_leopard_2a5_pso_0;Leopard 2 PSO
 germ_leopard_2a5_pso_1;Leopard 2 PSO
 germ_leopard_2a5_pso_2;Leopard 2 PSO
-it_kf_41_shop;◐KF41
-it_kf_41_0;◐KF41
-it_kf_41_1;◐KF41
-it_kf_41_2;◐KF41
-it_leopard_2a4_shop;◐Leopard 2A4
-it_leopard_2a4_0;◐Leopard 2A4
-it_leopard_2a4_1;◐Leopard 2A4
-it_leopard_2a4_2;◐Leopard 2A4
+it_kf_41_shop;◔KF41
+it_kf_41_0;◔KF41
+it_kf_41_1;◔KF41
+it_kf_41_2;◔KF41
+it_leopard_2a4_shop;◔Leopard 2A4
+it_leopard_2a4_0;◔Leopard 2A4
+it_leopard_2a4_1;◔Leopard 2A4
+it_leopard_2a4_2;◔Leopard 2A4
 it_40_43m_zrinyi_2_shop;Zrinyi II
 it_40_43m_zrinyi_2_0;40/43.M Zrinyi II
 it_40_43m_zrinyi_2_1;Zrinyi II
@@ -12271,7 +12268,7 @@ us_mim_72_chaparral_1;Chaparral
 us_mim_72_chaparral_2;Chaparral
 il_mim_72_chaparral_shop;Chaparral
 il_mim_72_chaparral_0;Improved Chaparral
-il_mim_72_chaparral_1;.Chaparral
+il_mim_72_chaparral_1;Chaparral
 il_mim_72_chaparral_2;Chaparral
 mig_29smt_9_19_shop;MiG-29SMT
 mig_29smt_9_19_0;MiG-29SMT Izdeliye 9.19 "Fulcrum-C"
@@ -12345,9 +12342,7 @@ germ_minelayer_drache_shop;Drache
 germ_minelayer_drache_0;R-1-class, Drache
 germ_minelayer_drache_1;Drache
 germ_minelayer_drache_2;Drache
-cargo_ship_norbris;Cargo ship
 shop/group/cn_76_211_group;Object 211
-tanker_nicolaos;Tanker
 saab_a32a_red_adam_shop;A32A Röd Adam
 saab_a32a_red_adam_0;A32A Lansen "Röd Adam"
 saab_a32a_red_adam_1;A32A Röd Adam
@@ -12465,3 +12460,26 @@ shop/group/vg_33_group;V.G.33C/D.520
 shop/group/maryland_group;Martin 167/M.B.174A
 shop/group/ki_27_group;Ki-27/Ki-43
 shop/group/i-153_group;I-15bis/I-153 M-62
+ships/cargo_ship_norbris;Cargo ship
+ships/tanker_nicolaos;Tanker
+shop/group/saab_t18b_group;T18B
+shop/group/uk_cruiser_kent_norfolk_group;HMS Kent/HMS Norfolk
+shop/group/uk_destroyer_daring_group;HMS Diana/HMS Daring
+shop/group/uk_destroyer_battle_group;HMAS Tobruk/HMS Armada
+shop/group/us_cruiser_fargo_brooklyn_group;USS Fargo/USS Brooklyn
+ki_48_2_otsu_shop;Ki-48-II Otsu
+ki_48_2_otsu_0;Ki-48-II Otsu
+ki_48_2_otsu_1;Ki-48-II Otsu
+ki_48_2_otsu_2;Ki-48-II Otsu
+us_losat_ccv_shop;LOSAT
+us_losat_ccv_0;LOSAT-CCVL
+us_losat_ccv_1;LOSAT
+us_losat_ccv_2;LOSAT
+f_100f_china_shop;☀F-100F
+f_100f_china_0;☀F-100F Super Sabre
+f_100f_china_1;☀F-100F
+f_100f_china_2;☀F-100F
+jp_armoredcruiser_kurama_shop;IJN Kurama
+jp_armoredcruiser_kurama_0;Ibuki-class, IJN Kurama, 1920
+jp_armoredcruiser_kurama_1;IJN Kurama
+jp_armoredcruiser_kurama_2;IJN Kurama
