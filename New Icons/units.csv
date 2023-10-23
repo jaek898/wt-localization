@@ -3408,7 +3408,7 @@ f4f-4_martlet_mk4_shop;▄Martlet Mk IV
 f4f-4_martlet_mk4_0;▄Martlet Mk IV
 f4f-4_martlet_mk4_1;▄Martlet Mk IV
 f4f-4_martlet_mk4_2;▄Martlet Mk IV
-shop/group/f4f_group;F4F
+shop/group/f4f_group;F4F/F6F
 shop/group/f6f_group;F6F
 shop/group/f6f_france_group;☨F6F
 f2g-1_shop;F2G-1
@@ -12483,3 +12483,98 @@ jp_armoredcruiser_kurama_shop;IJN Kurama
 jp_armoredcruiser_kurama_0;Ibuki-class, IJN Kurama, 1920
 jp_armoredcruiser_kurama_1;IJN Kurama
 jp_armoredcruiser_kurama_2;IJN Kurama
+structures/dummy_naval_base_0;Coastal artillery
+structures/dummy_naval_base_1;Coastal artillery
+structures/dummy_naval_base_2;Coastal artillery
+jp_type_81_tansam_shop;Tan-SAM-1C
+jp_type_81_tansam_0;Tan-SAM-1C
+jp_type_81_tansam_1;Tan-SAM-1C
+jp_type_81_tansam_2;Tan-SAM-1C
+uk_m109a1_shop;▄M109A1
+uk_m109a1_0;▄M109A1
+uk_m109a1_1;▄M109A1
+uk_m109a1_2;▄M109A1
+uk_vickers_mk_11_shop;Vickers Mk.11
+uk_vickers_mk_11_0;Vickers Mk.11
+uk_vickers_mk_11_1;Vickers Mk.11
+uk_vickers_mk_11_2;Vickers Mk.11
+fr_m26_pershing_shop;☨M26
+fr_m26_pershing_0;"☨Char Moyen Type ""Pershing"" M 26"
+fr_m26_pershing_1;☨M26
+fr_m26_pershing_2;☨M26
+fr_amx_10p_shop;AMX-10P
+fr_amx_10p_0;AMX-10P
+fr_amx_10p_1;AMX-10P
+fr_amx_10p_2;AMX-10P
+f_111a_shop;F-111A
+f_111a_0;F-111A Aardvark
+f_111a_1;F-111A
+f_111a_2;F-111A
+strikemaster_mk88_shop;Strikemaster Mk.88
+strikemaster_mk88_0;Strikemaster Mk.88
+strikemaster_mk88_1;Strikemaster Mk.88
+strikemaster_mk88_2;Strikemaster Mk.88
+ussr_btr_152d_shop;BTR-152D
+ussr_btr_152d_0;BTR-152D
+ussr_btr_152d_1;BTR-152D
+ussr_btr_152d_2;BTR-152D
+il_m109_shop;M109
+il_m109_0;M109
+il_m109_1;M109
+il_m109_2;M109
+it_m109g_shop;╏M109G
+it_m109g_0;╏M109G
+it_m109g_1;╏M109G
+it_m109g_2;╏M109G
+it_leopard_bofors_shop;Leopard 40/70
+it_leopard_bofors_0;Semovente contraereo da 40/70 su scafo Leopard 1A2
+it_leopard_bofors_1;Leopard 40/70
+it_leopard_bofors_2;Leopard 40/70
+it_breda_52_autocannone_shop;Breda 90/53
+it_breda_52_autocannone_0;Autocannone da 90/53 su Breda 52
+it_breda_52_autocannone_1;Breda 90/53
+it_breda_52_autocannone_2;Breda 90/53
+us_t54e2_shop;T54E2
+us_t54e2_0;T54E2
+us_t54e2_1;T54E2
+us_t54e2_2;T54E2
+mig_29_9_12g_shop;◄MiG-29G
+mig_29_9_12g_0;◄MiG-29G Fulcrum
+mig_29_9_12g_1;◄MiG-29G
+mig_29_9_12g_2;◄MiG-29G
+tiger_had_block2_france_shop;Tiger HAD Block 2
+tiger_had_block2_france_0;EC-665 Tiger HAD Block 2
+tiger_had_block2_france_1;Tiger HAD Block 2
+tiger_had_block2_france_2;Tiger HAD Block 2
+a_129_d_shop;AH-129D
+a_129_d_0;AH-129D Mangusta
+a_129_d_1;AH-129D
+a_129_d_2;AH-129D
+mh_60l_dap_shop;MH-60L DAP
+mh_60l_dap_0;MH-60L DAP Black Hawk
+mh_60l_dap_1;MH-60L DAP
+mh_60l_dap_2;MH-60L DAP
+ussr_object_775_shop;Object 775
+ussr_object_775_0;Object 775
+ussr_object_775_1;Object 775
+ussr_object_775_2;Object 775
+cn_plz_83_shop;PLZ83
+cn_plz_83_0;PLZ83
+cn_plz_83_1;PLZ83
+cn_plz_83_2;PLZ83
+germ_m109g_shop;◄M109G
+germ_m109g_0;◄M109G
+germ_m109g_1;◄M109G
+germ_m109g_2;◄M109G
+sw_pbv_501_shop;Pbv 501
+sw_pbv_501_0;Pansarbandvagn 501
+sw_pbv_501_1;Pbv 501
+sw_pbv_501_2;Pbv 501
+jp_battleship_yamashiro_shop;IJN Yamashiro
+jp_battleship_yamashiro_0;Fuso-class, IJN Yamashiro, 1920
+jp_battleship_yamashiro_1;IJN Yamashiro
+jp_battleship_yamashiro_2;IJN Yamashiro
+uk_battleship_iron_duke_shop;HMS Iron Duke
+uk_battleship_iron_duke_0;Iron Duke-class, HMS Iron Duke (18), 1928
+uk_battleship_iron_duke_1;HMS Iron Duke
+uk_battleship_iron_duke_2;HMS Iron Duke
