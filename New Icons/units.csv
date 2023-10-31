@@ -12486,10 +12486,10 @@ jp_armoredcruiser_kurama_2;IJN Kurama
 structures/dummy_naval_base_0;Coastal artillery
 structures/dummy_naval_base_1;Coastal artillery
 structures/dummy_naval_base_2;Coastal artillery
-jp_type_81_tansam_shop;Tan-SAM-1C
-jp_type_81_tansam_0;Tan-SAM-1C
-jp_type_81_tansam_1;Tan-SAM-1C
-jp_type_81_tansam_2;Tan-SAM-1C
+jp_type_81_tansam_shop;Type 81 (C)
+jp_type_81_tansam_0;Type 81 (C) Tan-SAM Kai
+jp_type_81_tansam_1;Type 81 (C)
+jp_type_81_tansam_2;Type 81 (C)
 uk_m109a1_shop;▄M109A1
 uk_m109a1_0;▄M109A1
 uk_m109a1_1;▄M109A1
@@ -12586,3 +12586,27 @@ mi_8amtsh_shop;Mi-8AMTSh
 mi_8amtsh_0;Mi-8AMTSh "Hip"
 mi_8amtsh_1;Mi-8AMTSh
 mi_8amtsh_2;Mi-8AMTSh
+fr_destroyer_hunt_3series_shop;La Combattante
+fr_destroyer_hunt_3series_0;Hunt-class, La Combattante, 1944
+fr_destroyer_hunt_3series_1;La Combattante
+fr_destroyer_hunt_3series_2;La Combattante
+germ_battleship_sachsen_shop;SMS Sachsen
+germ_battleship_sachsen_0;Bayern-class, SMS Sachsen, Project
+germ_battleship_sachsen_1;SMS Sachsen
+germ_battleship_sachsen_2;SMS Sachsen
+ussr_destroyer_pr45_shop;Opytny
+ussr_destroyer_pr45_0;Pr.45, Opytny, 1942
+ussr_destroyer_pr45_1;Opytny
+ussr_destroyer_pr45_2;Opytny
+it_battleship_conte_di_cavour_shop;RN Conte di Cavour
+it_battleship_conte_di_cavour_0;Conte di Cavour-class, RN Conte di Cavour, Project
+it_battleship_conte_di_cavour_1;RN Conte di Cavour
+it_battleship_conte_di_cavour_2;RN Conte di Cavour
+uk_gay_class_archer_shop;HMS Gay Archer
+uk_gay_class_archer_0;Gay-class, HMS Gay Archer (1041)
+uk_gay_class_archer_1;HMS Gay Archer
+uk_gay_class_archer_2;HMS Gay Archer
+us_m109a1_shop;M109A1
+us_m109a1_0;M109A1
+us_m109a1_1;M109A1
+us_m109a1_2;M109A1
