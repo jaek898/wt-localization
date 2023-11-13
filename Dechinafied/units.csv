@@ -11299,7 +11299,7 @@ ah_64a_greece_usa_0;AH-64A (GR)
 ah_64a_greece_usa_1;AH-64A (GR)
 ah_64a_greece_usa_2;AH-64A (GR)
 cn_tor_m1_shop;␗TOR-M1
-cn_tor_m1_0;␗TOR-M1
+cn_tor_m1_0;␗9K331 TOR-M1
 cn_tor_m1_1;␗TOR-M1
 cn_tor_m1_2;␗TOR-M1
 sw_bt_42_shop;BT-42
@@ -12622,3 +12622,7 @@ us_frigate_tacoma_sub_event_shop;USS Tacoma
 us_frigate_tacoma_sub_event_0;USS Tacoma
 us_frigate_tacoma_sub_event_1;USS Tacoma
 us_frigate_tacoma_sub_event_2;USS Tacoma
+uk_tog_2_shop;TOG II
+uk_tog_2_0;TOG II
+uk_tog_2_1;TOG II
+uk_tog_2_2;TOG II
