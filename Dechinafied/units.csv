@@ -8658,10 +8658,10 @@ jp_type_97_chi_ha_12cm_shop;Chi-Ha Short Gun
 jp_type_97_chi_ha_12cm_0;Type 97 Chi-Ha Short Gun
 jp_type_97_chi_ha_12cm_1;Chi-Ha Short Gun
 jp_type_97_chi_ha_12cm_2;Chi-Ha Short Gun
-jp_st_b1_shop;STB-1
-jp_st_b1_0;STB-1
-jp_st_b1_1;STB-1
-jp_st_b1_2;STB-1
+jp_st_b1_shop;STB-2
+jp_st_b1_0;STB-2
+jp_st_b1_1;STB-2
+jp_st_b1_2;STB-2
 jp_m47_patton_II_shop;▅M47
 jp_m47_patton_II_0;90 mm Gun Tank M47 Patton II
 jp_m47_patton_II_1;▅M47
@@ -12123,7 +12123,7 @@ shop/group/jp_type_60_group;Type 60 SPRG/ATM
 shop/group/jp_type_87_89_group;Type 87/89
 shop/group/jp_chi_to_group;Chi-To/Chi-To Late
 shop/group/jp_type_61_sta_group;Type 61/ST-A3
-shop/group/jp_type_74_stb_group;STB-1/Type 74
+shop/group/jp_type_74_stb_group;STB-2/Type 74
 shop/group/jp_type_74_group;Type 74 E/F
 shop/group/jp_type_90_group;Type 90/90B
 shop/group/jp_type_10_group;Type 10/TKX
@@ -12523,7 +12523,7 @@ il_m109_0;M109
 il_m109_1;M109
 il_m109_2;M109
 it_m109g_shop;╏M109G
-it_m109g_0;╏M109G
+it_m109g_0;╏Obice da 155/23 Semovente M109G
 it_m109g_1;╏M109G
 it_m109g_2;╏M109G
 it_leopard_bofors_shop;Leopard 40/70
@@ -12626,3 +12626,71 @@ uk_tog_2_shop;TOG II
 uk_tog_2_0;TOG II
 uk_tog_2_1;TOG II
 uk_tog_2_2;TOG II
+fr_tpk_641_vpc_shop;TPK 6.41
+fr_tpk_641_vpc_0;ACMAT TPK 6.41 VPC
+fr_tpk_641_vpc_1;TPK 6.41
+fr_tpk_641_vpc_2;TPK 6.41
+saab_jas39a_shop;JAS39A
+saab_jas39a_0;JAS39A Gripen
+saab_jas39a_1;JAS39A
+saab_jas39a_2;JAS39A
+j_11_shop;J-11
+j_11_0;J-11 "Flanker-B"
+j_11_1;J-11
+j_11_2;J-11
+mirage_4000_shop;Mirage 4000
+mirage_4000_0;Mirage 4000
+mirage_4000_1;Mirage 4000
+mirage_4000_2;Mirage 4000
+germ_leopard_2a7v_shop;Leopard 2A7V
+germ_leopard_2a7v_0;Leopard 2A7V
+germ_leopard_2a7v_1;Leopard 2A7V
+germ_leopard_2a7v_2;Leopard 2A7V
+us_m1a2_sep2_abrams_shop;M1A2 SEP V2
+us_m1a2_sep2_abrams_0;Tank, Combat, Full Tracked, 120-mm Gun M1A2 SEP V2
+us_m1a2_sep2_abrams_1;M1A2 SEP V2
+us_m1a2_sep2_abrams_2;M1A2 SEP V2
+il_m109a1_shop;M109A1
+il_m109a1_0;M109A1 Rochev
+il_m109a1_1;M109A1
+il_m109a1_2;M109A1
+ussr_t_90m_2020_shop;T-90M
+ussr_t_90m_2020_0;T-90M
+ussr_t_90m_2020_1;T-90M
+ussr_t_90m_2020_2;T-90M
+uk_challenger_2_lep_shop;Challenger 3 (P)
+uk_challenger_2_lep_0;Challenger 3 Prototype
+uk_challenger_2_lep_1;Challenger 3 (P)
+uk_challenger_2_lep_2;Challenger 3 (P)
+uk_challenger_2_megatron_shop;Challenger 2 OES
+uk_challenger_2_megatron_0;Challenger 2 TES (OES)
+uk_challenger_2_megatron_1;Challenger 2 OES
+uk_challenger_2_megatron_2;Challenger 2 OES
+su_27_shop;Su-27S
+su_27_0;Su-27S "Flanker-B"
+su_27_1;Su-27S
+su_27_2;Su-27S
+f_15a_shop;F-15A
+f_15a_0;F-15A Eagle
+f_15a_1;F-15A
+f_15a_2;F-15A
+f_15a_iaf_shop;F-15A
+f_15a_iaf_0;F-15A Baz
+f_15a_iaf_1;F-15A
+f_15a_iaf_2;F-15A
+f_15j_shop;F-15J
+f_15j_0;F-15J
+f_15j_1;F-15J
+f_15j_2;F-15J
+tornado_ids_de_wtd61_shop;◄Tornado IDS WTD61
+tornado_ids_de_wtd61_0;◄Tornado IDS WTD61
+tornado_ids_de_wtd61_1;◄Tornado IDS WTD61
+tornado_ids_de_wtd61_2;◄Tornado IDS WTD61
+cn_vt_4b_shop;VT-4B
+cn_vt_4b_0;VT-4B
+cn_vt_4b_1;VT-4B
+cn_vt_4b_2;VT-4B
+sw_strv_122b_plus_shop;Strv 122B+
+sw_strv_122b_plus_0;Stridsvagn 122B+
+sw_strv_122b_plus_1;Strv 122B+
+sw_strv_122b_plus_2;Strv 122B+
