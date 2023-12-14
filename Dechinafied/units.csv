@@ -12063,7 +12063,7 @@ shop/group/us_m6_group;M6A1/T1E1
 shop/group/us_t26_group;T26 E5/E1-1
 shop/group/us_t32_group;T32/T32E1
 shop/group/us_abrams_group;M1A1/IPM1
-shop/group/us_abrams_a2_group;M1 A2/A2 SEP
+shop/group/us_abrams_a2_group;M1A2/A2 SEP
 shop/group/us_m36_group;M36/M36B2
 shop/group/germ_pzkpfw_38t_group;Pz.38(t) F/n.A.
 shop/group/germ_sturer_flak_group;Sturer Emil/Flak Sfl.
@@ -12738,3 +12738,27 @@ us_battleship_mississippi_shop;USS Mississippi
 us_battleship_mississippi_0;"New Mexico-class, USS Mississippi (BB-41), 1945"
 us_battleship_mississippi_1;USS Mississippi
 us_battleship_mississippi_2;USS Mississippi
+fr_battleship_courbet_class_courbet_shop;Courbet
+fr_battleship_courbet_class_courbet_0;Courbet-class, Courbet, 1920
+fr_battleship_courbet_class_courbet_1;Courbet
+fr_battleship_courbet_class_courbet_2;Courbet
+jp_type_99_shop;Type 99
+jp_type_99_0;Type 99
+jp_type_99_1;Type 99
+jp_type_99_2;Type 99
+jp_yuri_class_asagao_shop;Asago (YTE-01)
+jp_yuri_class_asagao_0;Yuri-class, Asago (YTE-01)
+jp_yuri_class_asagao_1;Asago (YTE-01)
+jp_yuri_class_asagao_2;Asago (YTE-01)
+uk_battleship_orion_shop;HMS Orion
+uk_battleship_orion_0;Orion-class, HMS Orion (52), 1914
+uk_battleship_orion_1;HMS Orion
+uk_battleship_orion_2;HMS Orion
+us_cruiser_worcester_class_roanoke_shop;USS Roanoke
+us_cruiser_worcester_class_roanoke_0;Worcester-class, USS Roanoke (CL-145), 1949
+us_cruiser_worcester_class_roanoke_1;USS Roanoke
+us_cruiser_worcester_class_roanoke_2;USS Roanoke
+us_m1a1_hc_usmc_shop;M1A1 HC USMC
+us_m1a1_hc_usmc_0;"Tank, Combat, Full Tracked, 120-mm Gun M1A1 HC ""Click-Bait"""
+us_m1a1_hc_usmc_1;M1A1 HC USMC
+us_m1a1_hc_usmc_2;M1A1 HC USMC
