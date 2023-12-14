@@ -10937,10 +10937,10 @@ so_4050_vautour_2n_late_shop;Vautour IIN [L]
 so_4050_vautour_2n_late_0;S.O.4050 Vautour IIN Late
 so_4050_vautour_2n_late_1;Vautour IIN [L]
 so_4050_vautour_2n_late_2;Vautour IIN [L]
-mirage_2000c_s5_shop;Mirage 2000C
+mirage_2000c_s5_shop;Mirage 2000C-S5
 mirage_2000c_s5_0;Mirage 2000C-S5
-mirage_2000c_s5_1;Mirage 2000C
-mirage_2000c_s5_2;Mirage 2000C
+mirage_2000c_s5_1;Mirage 2000C-S5
+mirage_2000c_s5_2;Mirage 2000C-S5
 il_merkava_mk_3c_shop;Merkava Mk.3C
 il_merkava_mk_3c_0;Merkava Siman 3 Bet Baz
 il_merkava_mk_3c_1;Merkava Mk.3C
@@ -12658,10 +12658,10 @@ ussr_t_90m_2020_shop;T-90M
 ussr_t_90m_2020_0;T-90M
 ussr_t_90m_2020_1;T-90M
 ussr_t_90m_2020_2;T-90M
-uk_challenger_2_lep_shop;Challenger 3 (P)
-uk_challenger_2_lep_0;Challenger 3 Prototype
-uk_challenger_2_lep_1;Challenger 3 (P)
-uk_challenger_2_lep_2;Challenger 3 (P)
+uk_challenger_2_lep_shop;Challenger 3 TD
+uk_challenger_2_lep_0;Challenger 3 Technology Demonstrator
+uk_challenger_2_lep_1;Challenger 3 TD
+uk_challenger_2_lep_2;Challenger 3 TD
 uk_challenger_2_megatron_shop;Challenger 2 OES
 uk_challenger_2_megatron_0;Challenger 2 TES (OES)
 uk_challenger_2_megatron_1;Challenger 2 OES
@@ -12710,3 +12710,31 @@ fr_destroyer_vauquelin_class_vauquelin_shop;Vauquelin
 fr_destroyer_vauquelin_class_vauquelin_0;Vauquelin-class, Vauquelin, 1941
 fr_destroyer_vauquelin_class_vauquelin_1;Vauquelin
 fr_destroyer_vauquelin_class_vauquelin_2;Vauquelin
+saab_jas39c_south_africa_shop;▄JAS39C
+saab_jas39c_south_africa_0;▄JAS39C Gripen
+saab_jas39c_south_africa_1;▄JAS39C
+saab_jas39c_south_africa_2;▄JAS39C
+mirage_2000c_s4_shop;Mirage 2000C-S4
+mirage_2000c_s4_0;Mirage 2000C-S4
+mirage_2000c_s4_1;Mirage 2000C-S4
+mirage_2000c_s4_2;Mirage 2000C-S4
+j9_early_shop;J9
+j9_early_0;J9 Early
+j9_early_1;J9
+j9_early_2;J9
+it_pzkpfw_VI_ausf_e_tiger_shop;Tigris
+it_pzkpfw_VI_ausf_e_tiger_0;Tigris
+it_pzkpfw_VI_ausf_e_tiger_1;Tigris
+it_pzkpfw_VI_ausf_e_tiger_2;Tigris
+germ_vilkas_shop;Vilkas
+germ_vilkas_0;Pėstininkų kovos mašina Vilkas
+germ_vilkas_1;Vilkas
+germ_vilkas_2;Vilkas
+ussr_battleship_novorossiysk_shop;Novorossiysk
+ussr_battleship_novorossiysk_0;"Conte di Cavour-class, Novorossiysk, 1953"
+ussr_battleship_novorossiysk_1;Novorossiysk
+ussr_battleship_novorossiysk_2;Novorossiysk
+us_battleship_mississippi_shop;USS Mississippi
+us_battleship_mississippi_0;"New Mexico-class, USS Mississippi (BB-41), 1945"
+us_battleship_mississippi_1;USS Mississippi
+us_battleship_mississippi_2;USS Mississippi
