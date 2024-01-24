@@ -12746,10 +12746,10 @@ jp_type_99_shop;Type 99
 jp_type_99_0;Type 99
 jp_type_99_1;Type 99
 jp_type_99_2;Type 99
-jp_yuri_class_asagao_shop;Asago (YTE-01)
-jp_yuri_class_asagao_0;Yuri-class, Asago (YTE-01)
-jp_yuri_class_asagao_1;Asago (YTE-01)
-jp_yuri_class_asagao_2;Asago (YTE-01)
+jp_yuri_class_asagao_shop;Asagao (YTE-01)
+jp_yuri_class_asagao_0;Yuri-class, Asagao (YTE-01)
+jp_yuri_class_asagao_1;Asagao (YTE-01)
+jp_yuri_class_asagao_2;Asagao (YTE-01)
 uk_battleship_orion_shop;HMS Orion
 uk_battleship_orion_0;Orion-class, HMS Orion (52), 1914
 uk_battleship_orion_1;HMS Orion
@@ -12762,3 +12762,15 @@ us_m1a1_hc_usmc_shop;M1A1 HC USMC
 us_m1a1_hc_usmc_0;"Tank, Combat, Full Tracked, 120-mm Gun M1A1 HC ""Click-Bait"""
 us_m1a1_hc_usmc_1;M1A1 HC USMC
 us_m1a1_hc_usmc_2;M1A1 HC USMC
+fr_destroyer_le_fantasque_class_le_triomphant_shop;Le Triomphant
+fr_destroyer_le_fantasque_class_le_triomphant_0;Le Fantasque-class, Le Triomphant, 1942
+fr_destroyer_le_fantasque_class_le_triomphant_1;Le Triomphant
+fr_destroyer_le_fantasque_class_le_triomphant_2;Le Triomphant
+il_8_1944_shop;IL-8
+il_8_1944_0;IL-8 (1944)
+il_8_1944_1;IL-8
+il_8_1944_2;IL-8
+us_m551_76_shop;M551(76)
+us_m551_76_0;M551(76)
+us_m551_76_1;M551(76)
+us_m551_76_2;M551(76)
