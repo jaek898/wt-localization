@@ -12060,7 +12060,7 @@ shop/group/us_t26_t25_group;M4 T26/T25
 shop/group/us_m47_48_group;M47/M48
 shop/group/us_m60_group;M60A1 AOS/RISE
 shop/group/us_m6_group;M6A1/T1E1
-shop/group/us_t26_group;T26 E5/E1-1
+shop/group/us_t26_group;T26E5/E1-1
 shop/group/us_t32_group;T32/T32E1
 shop/group/us_abrams_group;M1A1/IPM1
 shop/group/us_abrams_a2_group;M1A2/A2 SEP
@@ -12099,7 +12099,7 @@ shop/group/ussr_kv_1_85_group;KV-1/85
 shop/group/ussr_t_64_group;T-64A/B
 shop/group/ussr_bmp_1_group;BMP-1/Ob.906
 shop/group/ussr_bmp_2_group;BMP-2/Ob.685
-shop/group/ussr_bmp_3_group;BMP-3/2С25
+shop/group/ussr_bmp_3_group;BMP-3/2S25
 shop/group/ussr_zis_su_group;ZiS-30/SU-57B
 shop/group/ussr_su_isu_152_group;SU/ISU
 shop/group/ussr_su_isu_122_group;SU-85M/ISU-122
@@ -12784,3 +12784,180 @@ jaguar_is_shop;Jaguar IS
 jaguar_is_0;Jaguar IS
 jaguar_is_1;Jaguar IS
 jaguar_is_2;Jaguar IS
+ah_1w_china_shop;☀AH-1W
+ah_1w_china_0;☀AH-1W
+ah_1w_china_1;☀AH-1W
+ah_1w_china_2;☀AH-1W
+ah_1w_0_shop;AH-1W
+ah_1w_0_0;AH-1W
+ah_1w_0_1;AH-1W
+ah_1w_0_2;AH-1W
+ah_60_iaf_shop;AH-60
+ah_60_iaf_0;AH-60 Battle Hawk
+ah_60_iaf_1;AH-60
+ah_60_iaf_2;AH-60
+alpha_jet_a_shop;Alpha Jet A
+alpha_jet_a_0;Alpha Jet A
+alpha_jet_a_1;Alpha Jet A
+alpha_jet_a_2;Alpha Jet A
+alpha_jet_e_shop;Alpha Jet E
+alpha_jet_e_0;Alpha Jet E
+alpha_jet_e_1;Alpha Jet E
+alpha_jet_e_2;Alpha Jet E
+bf-109c_1_shop;Bf 109 C-1
+bf-109c_1_0;Bf 109 C-1
+bf-109c_1_1;Bf 109 C-1
+bf-109c_1_2;Bf 109 C-1
+buccaneer_s2b_shop;Buccaneer S.2B
+buccaneer_s2b_0;Buccaneer S.2B
+buccaneer_s2b_1;Buccaneer S.2B
+buccaneer_s2b_2;Buccaneer S.2B
+cn_zbd_04a_shop;ZBD04A
+cn_zbd_04a_0;ZBD04A
+cn_zbd_04a_1;ZBD04A
+cn_zbd_04a_2;ZBD04A
+f_20a_shop;F-20A
+f_20a_0;F-20A Tigershark
+f_20a_1;F-20A
+f_20a_2;F-20A
+fr_amx_vtt_dca_shop;VTT DCA
+fr_amx_vtt_dca_0;AMX-13 VTT DCA
+fr_amx_vtt_dca_1;VTT DCA
+fr_amx_vtt_dca_2;VTT DCA
+fr_battleship_bretagne_class_bretagne_shop;Bretagne
+fr_battleship_bretagne_class_bretagne_0;Bretagne-class, Bretagne, 1925
+fr_battleship_bretagne_class_bretagne_1;Bretagne
+fr_battleship_bretagne_class_bretagne_2;Bretagne
+fr_destroyer_desaix_class_kleber_shop;Kleber
+fr_destroyer_desaix_class_kleber_0;Desaix-class, Kleber (D603), 1952
+fr_destroyer_desaix_class_kleber_1;Kleber
+fr_destroyer_desaix_class_kleber_2;Kleber
+germ_flakpanzer_zerstorer_45_shop;Zerstörer 45
+germ_flakpanzer_zerstorer_45_0;Zerstörer 45
+germ_flakpanzer_zerstorer_45_1;Zerstörer 45
+germ_flakpanzer_zerstorer_45_2;Zerstörer 45
+il_28_hungary_shop;◔IL-28
+il_28_hungary_0;◔IL-28
+il_28_hungary_1;◔IL-28
+il_28_hungary_2;◔IL-28
+il-10_1946_hungary_shop;◔IL-10
+il-10_1946_hungary_0;◔IL-10 Párduc
+il-10_1946_hungary_1;◔IL-10
+il-10_1946_hungary_2;◔IL-10
+it_centauro_rgo_120_shop;Centauro RGO
+it_centauro_rgo_120_0;Blindo pesante Centauro, Serie 3, HITFACT 120 RGO
+it_centauro_rgo_120_1;Centauro RGO
+it_centauro_rgo_120_2;Centauro RGO
+it_cruiser_bolzano_shop;RN Bolzano
+it_cruiser_bolzano_0;Trento-class, RN Bolzano, 1937
+it_cruiser_bolzano_1;RN Bolzano
+it_cruiser_bolzano_2;RN Bolzano
+jp_battleship_mutsu_shop;IJN Mutsu
+jp_battleship_mutsu_0;Nagato-class, IJN Mutsu, 1922
+jp_battleship_mutsu_1;IJN Mutsu
+jp_battleship_mutsu_2;IJN Mutsu
+jp_type_90b_camo_shop;Type 90B Fuji
+jp_type_90b_camo_0;Type 90B Fuji School Brigade, Tank School Unit, 3rd Co.
+jp_type_90b_camo_1;Type 90B "Fuji"
+jp_type_90b_camo_2;Type 90B "Fuji"
+mig_23mf_hungary_shop;◔MiG-23MF
+mig_23mf_hungary_0;◔MiG-23MF "Flogger-B"
+mig_23mf_hungary_1;◔MiG-23MF
+mig_23mf_hungary_2;◔MiG-23MF
+mig_29_9_12b_hungary_shop;◔MiG-29
+mig_29_9_12b_hungary_0;◔MiG-29 Izdeliye 9.12B "Fulcrum-A"
+mig_29_9_12b_hungary_1;◔MiG-29
+mig_29_9_12b_hungary_2;◔MiG-29
+mig-15bis_nr23_hungary_shop;◔MiG-15bis
+mig-15bis_nr23_hungary_0;◔MiG-15bis "Fagot-B"
+mig-15bis_nr23_hungary_1;◔MiG-15bis
+mig-15bis_nr23_hungary_2;◔MiG-15bis
+mig-17pf_hungary_shop;◔MiG-17PF
+mig-17pf_hungary_0;◔MiG-17PF "Fresco-D"
+mig-17pf_hungary_1;◔MiG-17PF
+mig-17pf_hungary_2;◔MiG-17PF
+mig-21_bis_sau_hungary_shop;◔MiG-21bis-SAU
+mig-21_bis_sau_hungary_0;◔MiG-21bis-SAU "Fishbed-N"
+mig-21_bis_sau_hungary_1;◔MiG-21bis-SAU
+mig-21_bis_sau_hungary_2;◔MiG-21bis-SAU
+mig-21_mf_hungary_shop;◔MiG-21MF
+mig-21_mf_hungary_0;◔MiG-21MF "Fishbed-J"
+mig-21_mf_hungary_1;◔MiG-21MF
+mig-21_mf_hungary_2;◔MiG-21MF
+saab_jas39c_hungary_shop;◔JAS39C
+saab_jas39c_hungary_0;◔JAS39EBS HU C Gripen
+saab_jas39c_hungary_1;◔JAS39C
+saab_jas39c_hungary_2;◔JAS39C
+su_22m3_hungary_shop;◔Su-22M3
+su_22m3_hungary_0;◔Su-22M3 "Fitter-H"
+su_22m3_hungary_1;◔Su-22M3
+su_22m3_hungary_2;◔Su-22M3
+sw_strv121b_christian2_shop;Christian II
+sw_strv121b_christian2_0;Stridsvagn 121B Christian II
+sw_strv121b_christian2_1;Christian II
+sw_strv121b_christian2_2;Christian II
+tu-2_postwar_late_hungary_shop;◔Tu-2S-59
+tu-2_postwar_late_hungary_0;◔Tu-2S-59
+tu-2_postwar_late_hungary_1;◔Tu-2S-59
+tu-2_postwar_late_hungary_2;◔Tu-2S-59
+uk_destroyer_daring_class_diamond_shop;HMS Diamond
+uk_destroyer_daring_class_diamond_0;Daring-class, HMS Diamond (D35), 1958
+uk_destroyer_daring_class_diamond_1;HMS Diamond
+uk_destroyer_daring_class_diamond_2;HMS Diamond
+uk_fv721_fox_shop;Fox
+uk_fv721_fox_0;FV721 Fox
+uk_fv721_fox_1;Fox
+uk_fv721_fox_2;Fox
+us_m60_120s_shop;M60 120S
+us_m60_120s_0;M60 120S
+us_m60_120s_1;M60 120S
+us_m60_120s_2;M60 120S
+ussr_t_80ud_shop;T-80UD
+ussr_t_80ud_0;T-80UD
+ussr_t_80ud_1;T-80UD
+ussr_t_80ud_2;T-80UD
+ussr_zsu_23_4m4_shop;ZSU-23-4M4
+ussr_zsu_23_4m4_0;ZSU-23-4M4 "Shilka-M4"
+ussr_zsu_23_4m4_1;ZSU-23-4M4
+ussr_zsu_23_4m4_2;ZSU-23-4M4
+wessex_mk5_shop;Wessex HU.5
+wessex_mk5_0;Wessex HU.5
+wessex_mk5_1;Wessex HU.5
+wessex_mk5_2;Wessex HU.5
+yak-9p_hungary_shop;◔Yak-9P
+yak-9p_hungary_0;◔Yak-9P
+yak-9p_hungary_1;◔Yak-9P
+yak-9p_hungary_2;◔Yak-9P
+us_frigate_dealey_shop;USS Dealey
+us_frigate_dealey_0;Dealey-class, USS Dealey (DE-1006)
+us_frigate_dealey_1;USS Dealey
+us_frigate_dealey_2;USS Dealey
+
+j_8f_missile_test_shop;J-8F
+j_8f_missile_test_0;J-8F
+j_8f_missile_test_1;J-8F
+j_8f_missile_test_2;J-8F
+f_16c_block_50_missile_test_shop;F-16C
+f_16c_block_50_missile_test_0;F-16C Block 50 Fighting Falcon
+f_16c_block_50_missile_test_1;F-16C
+f_16c_block_50_missile_test_2;F-16C
+f_16d_block_40_barak_2_missile_test_shop;F-16D
+f_16d_block_40_barak_2_missile_test_0;F-16D Block 40 Barak II
+f_16d_block_40_barak_2_missile_test_1;F-16D
+f_16d_block_40_barak_2_missile_test_2;F-16D
+mirage_2000_5f_missile_test_shop;Mirage 2000-5
+mirage_2000_5f_missile_test_0;Mirage 2000-5
+mirage_2000_5f_missile_test_1;Mirage 2000-5
+mirage_2000_5f_missile_test_2;Mirage 2000-5
+j_8f_missile_test_shop;J-8F
+j_8f_missile_test_0;J-8F
+j_8f_missile_test_1;J-8F
+j_8f_missile_test_2;J-8F
+saab_jas39c_south_africa__missile_test_shop;JAS39C
+saab_jas39c_south_africa__missile_test_0;JAS39C
+saab_jas39c_south_africa__missile_test_1;JAS39C
+saab_jas39c_south_africa__missile_test_2;JAS39C
+mig_29smt_9_19_missile_test_shop;MiG-29SMT
+mig_29smt_9_19_missile_test_0;MiG-29SMT
+mig_29smt_9_19_missile_test_1;MiG-29SMT
+mig_29smt_9_19_missile_test_2;MiG-29SMT
