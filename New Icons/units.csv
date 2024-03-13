@@ -12788,10 +12788,10 @@ ah_1w_china_shop;☀AH-1W
 ah_1w_china_0;☀AH-1W
 ah_1w_china_1;☀AH-1W
 ah_1w_china_2;☀AH-1W
-ah_1w_0_shop;AH-1W
-ah_1w_0_0;AH-1W
-ah_1w_0_1;AH-1W
-ah_1w_0_2;AH-1W
+ah_1w_shop;AH-1W
+ah_1w_0;AH-1W
+ah_1w_1;AH-1W
+ah_1w_2;AH-1W
 ah_60_iaf_shop;AH-60
 ah_60_iaf_0;AH-60 Battle Hawk
 ah_60_iaf_1;AH-60
@@ -12932,6 +12932,14 @@ us_frigate_dealey_shop;USS Dealey
 us_frigate_dealey_0;Dealey-class, USS Dealey (DE-1006)
 us_frigate_dealey_1;USS Dealey
 us_frigate_dealey_2;USS Dealey
+f-5e_fcu_thailand_shop;▄F-5E
+f-5e_fcu_thailand_0;▄F-5E FCU
+f-5e_fcu_thailand_1;▄F-5E
+f-5e_fcu_thailand_2;▄F-5E
+germ_battleship_baden_shop;SMS Baden
+germ_battleship_baden_0;Bayern-class, SMS Baden, 1918
+germ_battleship_baden_1;SMS Baden
+germ_battleship_baden_2;SMS Baden
 
 j_8f_missile_test_shop;J-8F
 j_8f_missile_test_0;J-8F
