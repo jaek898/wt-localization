@@ -21,9 +21,9 @@ The version of the commit reflects the version of the game at the time I last up
 - Open config.blk with any text editing software such as Notepad or Notepad++. Scroll down to the debug section. Add a new line `  testLocalization:b=yes`, checking to make sure spelling and spacing are correct. It should look like this:
 ```
 debug{
-  enableNvHighlights:t="auto"
   screenshotAsJpeg:b=yes
-  512mboughttobeenoughforanybody:b=yes
+  512mboughttobeenoughforanybody:b=no
+  enableNvHighlights:t="auto"
   testLocalization:b=yes
 }
 ```
