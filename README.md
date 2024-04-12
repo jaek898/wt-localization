@@ -1,10 +1,10 @@
-The primary goal of this localization mod is to completely remove ambiguity from all vehicle names in all cases while at the same time keeping names as close to Gaijin's default names as possible. In most cases, the only name that has been changed is the one that appears at long range (>1.2km) which now matches the close and medium range name. The majority of the name changes are mostly minor syntax changes for the sake of consistency. Early and Late have been stylized as [E] and [L]. NATO names have been added to the stat cards of aircraft that had them. Taiwanese vehicles have been given a sun icon. This mod works with any language selected, however the names of vehicles will always be in English. Yak-141 has been renamed to Yak-41M as this name is more accurate to the version we have in War Thunder.
+The primary goal of this localisation mod is to completely remove ambiguity from all vehicle names in all cases while at the same time keeping names as close to Gaijin's default names as possible. In most cases, the only name that has been changed is the one that appears at long range (>1.2km) which now matches the close and medium range name. The majority of the name changes are mostly minor syntax changes for the sake of consistency. Early and Late have been stylized as [E] and [L]. NATO names have been added to the stat cards of aircraft that had them. Taiwanese vehicles have been given a sun icon. This mod works with any language selected, however the names of vehicles will always be in English. Yak-141 has been renamed to Yak-41M as this name is more accurate to the version we have in War Thunder.
 
 The Standard version uses default French/Italian roundels. The New Icons version replaces the default roundel icon on French and Italian vehicles with alternative symbols. If you don't like the symbols I used, you can easily change them for all vehicles of a given nation at the same time by using the "replace all" tool in software like Notepad++. The Dechinafied version, requested by [General Lee](https://www.youtube.com/@GeneralLee2000), gives Soviet names to Chinese copy-paste vehicles in addition to the new French/Italian roundels.
 
 The easiest way to save the contents from GitHub is to use the "copy raw contents" button, which saves the contents of the entire file to your clipboard. If this method does not work you can view the raw files, right-click, and use "save as" to save them wherever you want. 
 
-IMPORTANT NOTE: when using custom localization, your lang folder is frozen and no longer auto-updates. When Gaijin adds new texts, they will appear broken until you update the lang folder manually. Once you are familiar with the process of updating your lang folder it only takes about a minute to do. 
+IMPORTANT NOTE: when using custom localisation, your lang folder is frozen and no longer auto-updates. When Gaijin adds new texts, they will appear broken until you update the lang folder manually. Once you are familiar with the process of updating your lang folder it only takes about a minute to do. 
 
 The version of the commit reflects the version of the game at the time I last updated the mod. I try to keep this repository as up-to-date as possible. If you need to nudge me to update it or if you have any other problems/concerns, feel free to reach out to me  with a DM on discord: Jæk#5326
 
@@ -18,13 +18,13 @@ The version of the commit reflects the version of the game at the time I last up
 
   - *If you don't know where your files are located, the easiest way to find them is to run the launcher, and then use "open file location" in Task Manager.
 
-- Open config.blk with any text editing software such as Notepad or Notepad++. Scroll down to the debug section. Add a new line `  testLocalization:b=yes`, checking to make sure spelling and spacing are correct. It should look like this:
+- Open config.blk with any text editing software such as Notepad or Notepad++. Scroll down to the debug section. Add a new line `  testlocalisation:b=yes`, checking to make sure spelling and spacing are correct. It should look like this:
 ```
 debug{
   screenshotAsJpeg:b=yes
   512mboughttobeenoughforanybody:b=no
   enableNvHighlights:t="auto"
-  testLocalization:b=yes
+  testlocalisation:b=yes
 }
 ```
 - Save the file
@@ -50,13 +50,13 @@ Switching languages is faster and more convenient than restarting the game. It a
 ## To Uninstall
 
 - Delete the lang folder entirely
-- Remove the `testLocalization:b=yes` line from config.blk
+- Remove the `testlocalisation:b=yes` line from config.blk
 
 ### Troubleshooting
 
 > Vehicle names are broken and show up as codes (for example, mig-17p_lim_5p instead of Lim-5P)
 
-If this only appears on recently added vehicles, update your localization.
+If this only appears on recently added vehicles, update your localisation.
 If this happens to all vehicles, the game is not reading units.csv correctly. Make sure units.csv is in the lang folder, that there is only one, and the contents look correct.
 
 > Vehicle names are loading properly, but the national symbols are not
@@ -65,7 +65,7 @@ War Thunder uses some interesting Unicode characters which it "converts" to the 
 
 > Lang folder is not appearing
 
-Check to make sure you put `testLocalization:b=yes` in the correct section, spacing and formatting are correct, you saved the file, you restarted the game, and you're looking in the right directory.
+Check to make sure you put `testlocalisation:b=yes` in the correct section, spacing and formatting are correct, you saved the file, you restarted the game, and you're looking in the right directory.
 
 > Text for titles or challenges is broken
 
