@@ -16,9 +16,9 @@ The version of the commit reflects the version of the game at the time I last up
 
 - Open your War Thunder files
 
-  - *If you don't know where your files are located, the easiest way to find them is to run the launcher, and then use "open file location" in Task Manager.
+  - If you don't know where your files are located, the easiest way to find them is to run the launcher, and then use "open file location" in Task Manager.
 
-- Open config.blk with any text editing software such as Notepad or Notepad++. Scroll down to the debug section. Add a new line `  testlocalisation:b=yes`, checking to make sure spelling and spacing are correct. It should look like this:
+- Open config.blk with any text editing software such as Notepad or Notepad++. Scroll down to the debug section. Add a new line `  testlocalization:b=yes`, checking to make sure spelling and spacing are correct. It should look like this:
 ```
 debug{
   screenshotAsJpeg:b=yes
@@ -50,7 +50,7 @@ Switching languages is faster and more convenient than restarting the game. It a
 ## To Uninstall
 
 - Delete the lang folder entirely
-- Remove the `testlocalisation:b=yes` line from config.blk
+- Remove the `testlocalization:b=yes` line from config.blk
 
 ### Troubleshooting
 
@@ -65,7 +65,7 @@ War Thunder uses some interesting Unicode characters which it "converts" to the 
 
 > Lang folder is not appearing
 
-Check to make sure you put `testlocalisation:b=yes` in the correct section, spacing and formatting are correct, you saved the file, you restarted the game, and you're looking in the right directory.
+Check to make sure you put `testlocalization:b=yes` in the correct section, spacing and formatting are correct, you saved the file, you restarted the game, and you're looking in the right directory.
 
 > Text for titles or challenges is broken
 
