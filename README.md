@@ -24,7 +24,7 @@ debug{
   screenshotAsJpeg:b=yes
   512mboughttobeenoughforanybody:b=no
   enableNvHighlights:t="auto"
-  testlocalisation:b=yes
+  testlocalization:b=yes
 }
 ```
 - Save the file
