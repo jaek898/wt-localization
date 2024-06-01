@@ -5084,7 +5084,7 @@ shop/group/f2a_group;F2A
 shop/group/os2u_group;OS2U
 shop/group/pby_group;PBY-5
 shop/group/b-17_group;B-17
-shop/group/fiat_group;▀CR.42/C.202
+shop/group/fiat_group;▀CR.42/G.50
 shop/group/mc200_group;▀C.200
 shop/group/bf-109e_group;Bf 109 E
 shop/group/bf-109f_early_group;Bf 109 F [E]
@@ -6952,10 +6952,10 @@ germ_type140_jaguar_shop;Jaguar
 germ_type140_jaguar_0;Jaguar-class, Jaguar (140)
 germ_type140_jaguar_1;Jaguar
 germ_type140_jaguar_2;Jaguar
-germ_s_100_s_174_class_shop;S-100 (1944)
-germ_s_100_s_174_class_0;S-100-class, S-147
-germ_s_100_s_174_class_1;S-100
-germ_s_100_s_174_class_2;S-100
+germ_s_100_s_174_class_shop;S-174 (1944)
+germ_s_100_s_174_class_0;S-100-class, S-174
+germ_s_100_s_174_class_1;S-174
+germ_s_100_s_174_class_2;S-174
 germ_mz_1_shop;MZ1
 germ_mz_1_0;MZ1
 germ_mz_1_1;MZ1
@@ -9847,7 +9847,7 @@ jp_cruiser_mogami_mikuma_0;Mogami-class, IJN Mikuma, 1939
 jp_cruiser_mogami_mikuma_1;IJN Mikuma
 jp_cruiser_mogami_mikuma_2;IJN Mikuma
 jp_escort_ikazuchi_class_shop;Ikazuchi
-jp_escort_ikazuchi_class_0;Ikazuchi-class, Ikazuchi (DE-203)
+jp_escort_ikazuchi_class_0;Ikazuchi-class, Ikazuchi (DE-202)
 jp_escort_ikazuchi_class_1;Ikazuchi
 jp_escort_ikazuchi_class_2;Ikazuchi
 uk_cruiser_kent_shop;HMS Kent
@@ -12998,3 +12998,195 @@ yak-3_eremin_shop;Yak-3
 yak-3_eremin_0;Eremin's Yak-3
 yak-3_eremin_1;Yak-3
 yak-3_eremin_2;Yak-3
+amx_a_1a_brazil_shop;AMX A-1A
+amx_a_1a_brazil_0;AMX A-1A Ghibli
+amx_a_1a_brazil_1;AMX A-1A
+amx_a_1a_brazil_2;AMX A-1A
+cn_zsl_92_shop;ZSL92
+cn_zsl_92_0;ZSL92
+cn_zsl_92_1;ZSL92
+cn_zsl_92_2;ZSL92
+f_15c_baz_shop;F-15C
+f_15c_baz_0;F-15C Baz Meshupar
+f_15c_baz_1;F-15C
+f_15c_baz_2;F-15C
+f_15c_msip2_shop;F-15C
+f_15c_msip2_0;F-15C MSIP II Eagle
+f_15c_msip2_1;F-15C
+f_15c_msip2_2;F-15C
+f_15j_kai_shop;F-15J Kai
+f_15j_kai_0;F-15J Kai Eagle
+f_15j_kai_1;F-15J Kai
+f_15j_kai_2;F-15J Kai
+f_16a_block_15_belgium_shop;▄F-16A
+f_16a_block_15_belgium_0;▄F-16A Block 15 Fighting Falcon
+f_16a_block_15_belgium_1;▄F-16A
+f_16a_block_15_belgium_2;▄F-16A
+f_16am_block_15_mlu_belgium_shop;▄F-16AM MLU
+f_16am_block_15_mlu_belgium_0;▄F-16AM Block 15 MLU Fighting Falcon
+f_16am_block_15_mlu_belgium_1;▄F-16AM MLU
+f_16am_block_15_mlu_belgium_2;▄F-16AM MLU
+f-104g_belgium_shop;▄F-104G
+f-104g_belgium_0;▄F-104G Starfighter
+f-104g_belgium_1;▄F-104G
+f-104g_belgium_2;▄F-104G
+f-4f_kws_lv_shop;◄F-4F ICE
+f-4f_kws_lv_0;◄F-4F KWS LV (ICE) Phantom II
+f-4f_kws_lv_1;◄F-4F ICE
+f-4f_kws_lv_2;◄F-4F ICE
+firefly_mk4_netherlands_shop;◘Firefly F Mk IV
+firefly_mk4_netherlands_0;◘Firefly F Mk IV
+firefly_mk4_netherlands_1;◘Firefly F Mk IV
+firefly_mk4_netherlands_2;◘Firefly F Mk IV
+fokker_g1a_shop;◗Fokker G.IA
+fokker_g1a_0;◗Fokker G.I Mercury
+fokker_g1a_1;◗Fokker G.IA
+fokker_g1a_2;◗Fokker G.IA
+fr_cruiser_chateaurenault_class_guichen_shop;Guichen
+fr_cruiser_chateaurenault_class_guichen_0;Chateaurenault-class, Guichen (D607), 1957
+fr_cruiser_chateaurenault_class_guichen_1;Guichen
+fr_cruiser_chateaurenault_class_guichen_2;Guichen
+fr_destroyer_bourrasque_class_tornade_shop;Tornade
+fr_destroyer_bourrasque_class_tornade_0;Bourrasque-class, Tornade, 1939
+fr_destroyer_bourrasque_class_tornade_1;Tornade
+fr_destroyer_bourrasque_class_tornade_2;Tornade
+fr_vextra_105_shop;VEXTRA 105
+fr_vextra_105_0;Vehicule EXTRAordinaire 105
+fr_vextra_105_1;VEXTRA 105
+fr_vextra_105_2;VEXTRA 105
+germ_kondor2_class_shop;Bernau
+germ_kondor2_class_0;Project 89.2, Bernau
+germ_kondor2_class_1;Bernau
+germ_kondor2_class_2;Bernau
+germ_leopard_2a4m_can_shop;Leopard 2A4M CAN
+germ_leopard_2a4m_can_0;Leopard 2A4M CAN
+germ_leopard_2a4m_can_1;Leopard 2A4M CAN
+germ_leopard_2a4m_can_2;Leopard 2A4M CAN
+gladiator_mk1_belgium_shop;▄Gladiator Mk I
+gladiator_mk1_belgium_0;▄Gladiator Mk I
+gladiator_mk1_belgium_1;▄Gladiator Mk I
+gladiator_mk1_belgium_2;▄Gladiator Mk I
+hunter_f6_holland_shop;◘Hunter F.6
+hunter_f6_holland_0;◘Hunter F.6
+hunter_f6_holland_1;◘Hunter F.6
+hunter_f6_holland_2;◘Hunter F.6
+il_namer_rcws_30_shop;Namer 30
+il_namer_rcws_30_0;Namer RCWS-30
+il_namer_rcws_30_1;Namer 30
+il_namer_rcws_30_2;Namer 30
+it_alano_9851_shop;Alano
+it_alano_9851_0;Alan-class, Alano (L9851)
+it_alano_9851_1;Alano
+it_alano_9851_2;Alano
+it_leopard_2a7_hungary_shop;Leopard 2A7HU
+it_leopard_2a7_hungary_0;Leopard 2A7HU
+it_leopard_2a7_hungary_1;Leopard 2A7HU
+it_leopard_2a7_hungary_2;Leopard 2A7HU
+j_11a_shop;J-11A
+j_11a_0;J-11A "Flanker B+"
+j_11a_1;J-11A 
+j_11a_2;J-11A
+jp_cruiser_haguro_shop;IJN Haguro
+jp_cruiser_haguro_0;Myoko-class, IJN Haguro, 1944
+jp_cruiser_haguro_1;IJN Haguro
+jp_cruiser_haguro_2;IJN Haguro
+meteor_fmk8_belgium_shop;▄Meteor F.8
+meteor_fmk8_belgium_0;▄Meteor F.8
+meteor_fmk8_belgium_1;▄Meteor F.8
+meteor_fmk8_belgium_2;▄Meteor F.8
+mig-21_bison_shop;▄MiG-21 Bison
+mig-21_bison_0;▄MiG-21 Bison
+mig-21_bison_1;▄MiG-21 Bison
+mig-21_bison_2;▄MiG-21 Bison
+mirage_5ba_shop;▄Mirage 5BA
+mirage_5ba_0;▄Mirage 5BA
+mirage_5ba_1;▄Mirage 5BA
+mirage_5ba_2;▄Mirage 5BA
+radars/us_an_tps_43_radar_0;AN/TPS-43
+radars/us_an_tps_43_radar_1;AN/TPS-43
+radars/us_an_tps_43_radar_2;AN/TPS-43
+radars/ussr_p_37_radar_0;P-37 "Bar Lock"
+radars/ussr_p_37_radar_1;P-37
+radars/ussr_p_37_radar_2;P-37
+saab_jas39c_shop;JAS39C
+saab_jas39c_0;JAS39C Gripen
+saab_jas39c_1;JAS39C
+saab_jas39c_2;JAS39C
+sea_harrier_fa2_shop;Sea Harrier FA.2
+sea_harrier_fa2_0;Sea Harrier FA.2
+sea_harrier_fa2_1;Sea Harrier FA.2
+sea_harrier_fa2_2;Sea Harrier FA.2
+spitfire_fr_mk14e_belgium_shop;▄Spitfire FR Mk XIVe
+spitfire_fr_mk14e_belgium_0;▄Spitfire FR Mk XIVe
+spitfire_fr_mk14e_belgium_1;▄Spitfire FR Mk XIVe
+spitfire_fr_mk14e_belgium_2;▄Spitfire FR Mk XIVe
+structures/us_m198_0;M198
+structures/us_m198_1;M198
+structures/us_m198_2;M198
+structures/ussr_2a36_giatsint_b_0;2A36
+structures/ussr_2a36_giatsint_b_1;2A36
+structures/ussr_2a36_giatsint_b_2;2A36
+su_27sm_shop;Su-27SM
+su_27sm_0;Su-27SM "Flanker-E"
+su_27sm_1;Su-27SM
+su_27sm_2;Su-27SM
+sw_cv_9035_dk_shop;CV9035DK
+sw_cv_9035_dk_0;Combat Vehicle 9035 Denmark
+sw_cv_9035_dk_1;CV9035DK
+sw_cv_9035_dk_2;CV9035DK
+sw_landsverk_ush_204_gk_shop;U-SH 204 GK
+sw_landsverk_ush_204_gk_0;Landsverk U-SH 204 GK
+sw_landsverk_ush_204_gk_1;U-SH 204 GK
+sw_landsverk_ush_204_gk_2;U-SH 204 GK
+tornado_f3_late_shop;Tornado F.3 CSP
+tornado_f3_late_0;Tornado F.3 Capability Sustainment Programme
+tornado_f3_late_1;Tornado F.3 CSP
+tornado_f3_late_2;Tornado F.3 CSP
+uk_battlecruiser_queen_mary_shop;HMS Queen Mary
+uk_battlecruiser_queen_mary_0;Queen Mary-class, HMS Queen Mary (14), 1915
+uk_battlecruiser_queen_mary_1;HMS Queen Mary
+uk_battlecruiser_queen_mary_2;HMS Queen Mary
+uk_churchill_avre_shop;Churchill AVRE
+uk_churchill_avre_0;Churchill Mk.III AVRE Petard
+uk_churchill_avre_1;Churchill AVRE
+uk_churchill_avre_2;Churchill AVRE
+uk_desert_warrior_shop;Desert Warrior
+uk_desert_warrior_0;Desert Warrior / Fahris Infantry Fighting Vehicle
+uk_desert_warrior_1;Desert Warrior
+uk_desert_warrior_2;Desert Warrior
+us_xm_800t_shop;XM800T
+us_xm_800t_0;Armored Reconnaisance Scout Vehicle XM800T
+us_xm_800t_1;XM800T
+us_xm_800t_2;XM800T
+ussr_mpk_pr11451_shop;MPK Pr.11451
+ussr_mpk_pr11451_0;MPK Pr.11451
+ussr_mpk_pr11451_1;MPK Pr.11451
+ussr_mpk_pr11451_2;MPK Pr.11451
+ussr_t_80ue1_shop;T-80UE-1
+ussr_t_80ue1_0;T-80UE-1
+ussr_t_80ue1_1;T-80UE-1
+ussr_t_80ue1_2;T-80UE-1
+wheeled_vehicles/us_m_270_mlrs_0;M270 MLRS
+wheeled_vehicles/us_m_270_mlrs_1;M270 MLRS
+wheeled_vehicles/us_m_270_mlrs_2;M270 MLRS
+wheeled_vehicles/us_m_752_launcher_0;MGM-52 Lance
+wheeled_vehicles/us_m_752_launcher_1;MGM-52
+wheeled_vehicles/us_m_752_launcher_2;MGM-52
+wheeled_vehicles/us_m939_awning_0;M939
+wheeled_vehicles/us_m939_awning_1;Vehicle
+wheeled_vehicles/us_m939_awning_2;Vehicle
+wheeled_vehicles/us_m939_fuel_carrier_0;M939
+wheeled_vehicles/us_m939_fuel_carrier_1;Vehicle
+wheeled_vehicles/us_m939_fuel_carrier_2;Vehicle
+wheeled_vehicles/ussr_9k_72_launcher_0;9K72 Elbrus
+wheeled_vehicles/ussr_9k_72_launcher_1;9K72
+wheeled_vehicles/ussr_9k_72_launcher_2;9K72
+wheeled_vehicles/ussr_bm_21_grad_0;BM-21 MLRS
+wheeled_vehicles/ussr_bm_21_grad_1;BM-21
+wheeled_vehicles/ussr_bm_21_grad_2;BM-21
+wheeled_vehicles/ussr_kamaz_4310_awning_0;KAMAZ-4310
+wheeled_vehicles/ussr_kamaz_4310_awning_1;Vehicle
+wheeled_vehicles/ussr_kamaz_4310_awning_2;Vehicle
+wheeled_vehicles/ussr_kamaz_4310_fuel_carrier_0;KAMAZ-4310
+wheeled_vehicles/ussr_kamaz_4310_fuel_carrier_1;Vehicle
+wheeled_vehicles/ussr_kamaz_4310_fuel_carrier_2;Vehicle
