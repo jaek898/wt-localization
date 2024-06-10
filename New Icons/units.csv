@@ -13006,18 +13006,18 @@ cn_zsl_92_shop;ZSL92
 cn_zsl_92_0;ZSL92
 cn_zsl_92_1;ZSL92
 cn_zsl_92_2;ZSL92
-f_15c_baz_shop;F-15C
-f_15c_baz_0;F-15C Baz Meshupar
-f_15c_baz_1;F-15C
-f_15c_baz_2;F-15C
+f_15c_baz_msip_shop;F-15C
+f_15c_baz_msip_0;F-15C Baz Meshupar
+f_15c_baz_msip_1;F-15C
+f_15c_baz_msip_2;F-15C
 f_15c_msip2_shop;F-15C
 f_15c_msip2_0;F-15C MSIP II Eagle
 f_15c_msip2_1;F-15C
 f_15c_msip2_2;F-15C
-f_15j_kai_shop;F-15J Kai
-f_15j_kai_0;F-15J Kai Eagle
-f_15j_kai_1;F-15J Kai
-f_15j_kai_2;F-15J Kai
+f_15j_kai_shop;F-15J(M)
+f_15j_kai_0;F-15J(M) Eagle
+f_15j_kai_1;F-15J(M)
+f_15j_kai_2;F-15J(M)
 f_16a_block_15_belgium_shop;▄F-16A
 f_16a_block_15_belgium_0;▄F-16A Block 15 Fighting Falcon
 f_16a_block_15_belgium_1;▄F-16A
@@ -13143,7 +13143,7 @@ tornado_f3_late_0;Tornado F.3 Capability Sustainment Programme
 tornado_f3_late_1;Tornado F.3 CSP
 tornado_f3_late_2;Tornado F.3 CSP
 uk_battlecruiser_queen_mary_shop;HMS Queen Mary
-uk_battlecruiser_queen_mary_0;Queen Mary-class, HMS Queen Mary (14), 1915
+uk_battlecruiser_queen_mary_0;Queen Mary-class, HMS Queen Mary (14), 1914
 uk_battlecruiser_queen_mary_1;HMS Queen Mary
 uk_battlecruiser_queen_mary_2;HMS Queen Mary
 uk_churchill_avre_shop;Churchill AVRE
@@ -13162,10 +13162,10 @@ ussr_mpk_pr11451_shop;MPK Pr.11451
 ussr_mpk_pr11451_0;MPK Pr.11451
 ussr_mpk_pr11451_1;MPK Pr.11451
 ussr_mpk_pr11451_2;MPK Pr.11451
-ussr_t_80ue1_shop;T-80UE-1
-ussr_t_80ue1_0;T-80UE-1
-ussr_t_80ue1_1;T-80UE-1
-ussr_t_80ue1_2;T-80UE-1
+ussr_t_80ue1_shop;T-80U-E1
+ussr_t_80ue1_0;T-80U-E1
+ussr_t_80ue1_1;T-80U-E1
+ussr_t_80ue1_2;T-80U-E1
 wheeled_vehicles/us_m_270_mlrs_0;M270 MLRS
 wheeled_vehicles/us_m_270_mlrs_1;M270 MLRS
 wheeled_vehicles/us_m_270_mlrs_2;M270 MLRS
@@ -13190,3 +13190,15 @@ wheeled_vehicles/ussr_kamaz_4310_awning_2;Vehicle
 wheeled_vehicles/ussr_kamaz_4310_fuel_carrier_0;KAMAZ-4310
 wheeled_vehicles/ussr_kamaz_4310_fuel_carrier_1;Vehicle
 wheeled_vehicles/ussr_kamaz_4310_fuel_carrier_2;Vehicle
+f_47n_25_re_china_shop;☀F-47N-25
+f_47n_25_re_china_0;☀F-47N-25-RE Thunderbolt
+f_47n_25_re_china_1;☀F-47N-25
+f_47n_25_re_china_2;☀F-47N-25
+us_frigate_buckley_class_coolbaugh_shop;USS Coolbaugh
+us_frigate_buckley_class_coolbaugh_0;Buckley-class, USS Coolbaugh (DE-217)
+us_frigate_buckley_class_coolbaugh_1;USS Coolbaugh
+us_frigate_buckley_class_coolbaugh_2;USS Coolbaugh
+fr_vlt2_shop;VLT-2
+fr_vlt2_0;40k-class, VLT-2
+fr_vlt2_1;VLT-2
+fr_vlt2_2;VLT-2
