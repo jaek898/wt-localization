@@ -12010,18 +12010,6 @@ fr_destroyer_jaguar_class_leopard_shop;Leopard
 fr_destroyer_jaguar_class_leopard_0;Jaguar-class, Leopard, 1942
 fr_destroyer_jaguar_class_leopard_1;Leopard
 fr_destroyer_jaguar_class_leopard_2;Leopard
-ussr_atomic_hedgie_shop;Hedgie
-ussr_atomic_hedgie_0;HOG-7 Hedgie
-ussr_atomic_hedgie_1;Hedgie
-ussr_atomic_hedgie_2;Hedgie
-us_atomic_hedgie_shop;Hedgie
-us_atomic_hedgie_0;HOG-7 Hedgie
-us_atomic_hedgie_1;Hedgie
-us_atomic_hedgie_2;Hedgie
-unit_grif_char_shop;Hawk
-unit_grif_char_0;Hawk
-unit_grif_char_1;Hawk
-unit_grif_char_2;Hawk
 germ_spz_12_3_shop;SPz 12-3 LGS
 germ_spz_12_3_0;Schützenpanzer 12-3 mit Leichtgeschütz
 germ_spz_12_3_1;SPz 12-3 LGS
@@ -12287,7 +12275,7 @@ harrier_frs1_early_0;Sea Harrier FRS.1 [Early]
 harrier_frs1_early_1;Sea Harrier FRS.1 [E]
 harrier_frs1_early_2;Sea Harrier FRS.1 [E]
 av_8b_plus_italy_shop;▄AV-8B Plus
-av_8b_plus_italy_0;▄AV-8B Plus Harrier
+av_8b_plus_italy_0;▄AV-8B Plus Harrier II
 av_8b_plus_italy_1;▄AV-8B Plus
 av_8b_plus_italy_2;▄AV-8B Plus
 oh_58d_shop;OH-58D
@@ -12461,7 +12449,6 @@ shop/group/maryland_group;Martin 167/M.B.174A
 shop/group/ki_27_group;Ki-27/Ki-43
 shop/group/i-153_group;I-15bis/I-153 M-62
 ships/cargo_ship_norbris;Cargo ship
-ships/tanker_nicolaos;Tanker
 shop/group/saab_t18b_group;T18B
 shop/group/uk_cruiser_kent_norfolk_group;HMS Kent/HMS Norfolk
 shop/group/uk_destroyer_daring_group;HMS Diana/HMS Daring
@@ -12949,35 +12936,6 @@ il_merkava_mk_3_raam_segol_shop;Raam Segol
 il_merkava_mk_3_raam_segol_0;Merkava Siman 3 Raam Segol
 il_merkava_mk_3_raam_segol_1;Raam Segol
 il_merkava_mk_3_raam_segol_2;Raam Segol
-
-j_8f_missile_test_shop;J-8F
-j_8f_missile_test_0;J-8F
-j_8f_missile_test_1;J-8F
-j_8f_missile_test_2;J-8F
-f_16c_block_50_missile_test_shop;F-16C
-f_16c_block_50_missile_test_0;F-16C Block 50 Fighting Falcon
-f_16c_block_50_missile_test_1;F-16C
-f_16c_block_50_missile_test_2;F-16C
-f_16d_block_40_barak_2_missile_test_shop;F-16D
-f_16d_block_40_barak_2_missile_test_0;F-16D Block 40 Barak II
-f_16d_block_40_barak_2_missile_test_1;F-16D
-f_16d_block_40_barak_2_missile_test_2;F-16D
-mirage_2000_5f_missile_test_shop;Mirage 2000-5
-mirage_2000_5f_missile_test_0;Mirage 2000-5
-mirage_2000_5f_missile_test_1;Mirage 2000-5
-mirage_2000_5f_missile_test_2;Mirage 2000-5
-j_8f_missile_test_shop;J-8F
-j_8f_missile_test_0;J-8F
-j_8f_missile_test_1;J-8F
-j_8f_missile_test_2;J-8F
-saab_jas39c_south_africa__missile_test_shop;JAS39C
-saab_jas39c_south_africa__missile_test_0;JAS39C
-saab_jas39c_south_africa__missile_test_1;JAS39C
-saab_jas39c_south_africa__missile_test_2;JAS39C
-mig_29smt_9_19_missile_test_shop;MiG-29SMT
-mig_29smt_9_19_missile_test_0;MiG-29SMT
-mig_29smt_9_19_missile_test_1;MiG-29SMT
-mig_29smt_9_19_missile_test_2;MiG-29SMT
 cn_plz_83_130_shop;PLZ83-130
 cn_plz_83_130_0;HuoPao LiuDan ZiXing 83-130
 cn_plz_83_130_1;PLZ83-130
@@ -13051,7 +13009,7 @@ fr_destroyer_bourrasque_class_tornade_0;Bourrasque-class, Tornade, 1939
 fr_destroyer_bourrasque_class_tornade_1;Tornade
 fr_destroyer_bourrasque_class_tornade_2;Tornade
 fr_vextra_105_shop;VEXTRA 105
-fr_vextra_105_0;Vehicule EXTRAordinaire 105
+fr_vextra_105_0;Véhicule d'EXperimentation de TRAnsmission 105
 fr_vextra_105_1;VEXTRA 105
 fr_vextra_105_2;VEXTRA 105
 germ_kondor2_class_shop;Bernau
@@ -13202,3 +13160,11 @@ fr_vlt2_shop;VLT-2
 fr_vlt2_0;40k-class, VLT-2
 fr_vlt2_1;VLT-2
 fr_vlt2_2;VLT-2
+cargo_ship_norbris;Cargo ship
+tanker_nicolaos;Tanker
+shop/group/us_m19_m42_group;M19/M42
+shop/group/ussr_btr_zis_group;BTR/ZiS
+av_8b_plus_shop;AV-8B Plus
+av_8b_plus_0;AV-8B Plus Harrier II
+av_8b_plus_1;AV-8B Plus
+av_8b_plus_2;AV-8B Plus
