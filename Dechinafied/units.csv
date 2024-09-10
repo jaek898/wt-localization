@@ -2015,7 +2015,7 @@ germ_sdkfz_234_4_0;s.Pz.Sp.Wg. (7,5 cm) Sd.Kfz.234/4
 germ_sdkfz_234_4_1;Sd.Kfz.234/4
 germ_sdkfz_234_4_2;Sd.Kfz.234/4
 germ_panzerbefelhswagen_jagdpanther_shop;Bfw. Jagdpanther
-germ_panzerbefelhswagen_jagdpanther_0;Befehlswagen Jagdpanther
+germ_panzerbefelhswagen_jagdpanther_0;Panzerbefehlswagen Jagdpanther Ausf.G1
 germ_panzerbefelhswagen_jagdpanther_1;Bfw. Jagdpanther
 germ_panzerbefelhswagen_jagdpanther_2;Bfw. Jagdpanther
 germ_panzerjager_panther_shop;Jagdpanther
@@ -7600,10 +7600,10 @@ us_destroyer_sumner_shop;USS Sumner
 us_destroyer_sumner_0;Allan M. Sumner-class, USS Sumner (DD-692), 1944
 us_destroyer_sumner_1;USS Sumner
 us_destroyer_sumner_2;USS Sumner
-mig-15bis_ish_shop;MiG-15bis ISH
-mig-15bis_ish_0;MiG-15bis ISH "Fagot-B"
-mig-15bis_ish_1;MiG-15bis ISH
-mig-15bis_ish_2;MiG-15bis ISH
+mig-15bis_ish_shop;MiG-15bis ISh
+mig-15bis_ish_0;MiG-15bis ISh "Fagot-B"
+mig-15bis_ish_1;MiG-15bis ISh
+mig-15bis_ish_2;MiG-15bis ISh
 f-100a_china_shop;☀F-100A
 f-100a_china_0;☀️F-100A Super Sabre
 f-100a_china_1;☀️F-100A
@@ -9658,10 +9658,10 @@ jp_destroyer_akizuki_2;IJN Akizuki
 jp_destroyer_akizuki_EC_0;Akizuki-class, IJN Akizuki, 1944
 jp_destroyer_akizuki_EC_1;IJN Akizuki
 jp_destroyer_akizuki_EC_2;IJN Akizuki
-jp_cruiser_kuma_shop;IJN Kuma
-jp_cruiser_kuma_0;Kuma-class, IJN Kuma, 1941
-jp_cruiser_kuma_1;IJN Kuma
-jp_cruiser_kuma_2;IJN Kuma
+jp_cruiser_kuma_shop;IJN Tama
+jp_cruiser_kuma_0;Kuma-class, IJN Tama, 1941
+jp_cruiser_kuma_1;IJN Tama
+jp_cruiser_kuma_2;IJN Tama
 jp_cruiser_kuma_EC_0;Kuma-class (1941)
 jp_cruiser_kuma_EC_1;Kuma
 jp_cruiser_kuma_EC_2;Kuma
@@ -9977,10 +9977,10 @@ it_mas_classe500_4_shop;MAS 569
 it_mas_classe500_4_0;Velocissimo Classe 500, MAS 569
 it_mas_classe500_4_1;MAS 569
 it_mas_classe500_4_2;MAS 569
-ussr_g5_rct_shop;TKA-106
-ussr_g5_rct_0;G-5 Type XI-bis TKA 106
-ussr_g5_rct_1;TKA-106
-ussr_g5_rct_2;TKA-106
+ussr_g5_rct_shop;TKA-412
+ussr_g5_rct_0;G-5 Type XI-bis TKA-412
+ussr_g5_rct_1;TKA-412
+ussr_g5_rct_2;TKA-412
 ussr_destroyer_pr56_spokoinyy_shop;Spokoinyy
 ussr_destroyer_pr56_spokoinyy_0;Pr.56, Spokoinyy, 1956
 ussr_destroyer_pr56_spokoinyy_1;Spokoinyy
@@ -11557,10 +11557,10 @@ tornado_ids_de_mfg_shop;◄Tornado IDS MFG
 tornado_ids_de_mfg_0;◄Tornado IDS Marineflieger
 tornado_ids_de_mfg_1;◄Tornado IDS MFG
 tornado_ids_de_mfg_2;◄Tornado IDS MFG
-tornado_ids_it_mod95_shop;╏Tornado IDS
+tornado_ids_it_mod95_shop;╏Tornado IDS (1995)
 tornado_ids_it_mod95_0;╏Tornado IDS (1995)
-tornado_ids_it_mod95_1;╏Tornado IDS
-tornado_ids_it_mod95_2;╏Tornado IDS
+tornado_ids_it_mod95_1;╏Tornado IDS (1995)
+tornado_ids_it_mod95_2;╏Tornado IDS (1995)
 tornado_ids_de_assta1_shop;◄Tornado IDS
 tornado_ids_de_assta1_0;◄Tornado IDS ASSTA1
 tornado_ids_de_assta1_1;◄Tornado IDS
@@ -13184,3 +13184,155 @@ f_14a_iriaf_shop;▄F-14A
 f_14a_iriaf_0;▄F-14A Tomcat IRIAF
 f_14a_iriaf_1;▄F-14A
 f_14a_iriaf_2;▄F-14A
+a_10c_shop;A-10C
+a_10c_0;A-10C Thunderbolt II
+a_10c_1;A-10C
+a_10c_2;A-10C
+av_8b_na_shop;AV-8B(NA)
+av_8b_na_0;AV-8B Harrier II Night Attack
+av_8b_na_1;AV-8B(NA)
+av_8b_na_2;AV-8B(NA)
+cn_antelope_tc_1l_ads_shop;Antelope
+cn_antelope_tc_1l_ads_0;Antelope Air Defense System
+cn_antelope_tc_1l_ads_1;Antelope
+cn_antelope_tc_1l_ads_2;Antelope
+f_111c_raaf_shop;F-111C
+f_111c_raaf_0;F-111C Aardvark
+f_111c_raaf_1;F-111C
+f_111c_raaf_2;F-111C
+f_16c_block_40_barak_2_shop;F-16C
+f_16c_block_40_barak_2_0;F-16C Block 40 Barak II
+f_16c_block_40_barak_2_1;F-16C
+f_16c_block_40_barak_2_2;F-16C
+ffa_p16_shop;◌P-16
+ffa_p16_0;◌FFA P-16
+ffa_p16_1;◌P-16
+ffa_p16_2;◌P-16
+fr_cv_9035_nl_shop;CV 9035NL
+fr_cv_9035_nl_0;Infanteriegevechtsvoertuig CV 9035NL
+fr_cv_9035_nl_1;CV 9035NL
+fr_cv_9035_nl_2;CV 9035NL
+fr_lcg_m_l9059_shop;L9059
+fr_lcg_m_l9059_0;Landing Craft, Gun (Medium), L9059
+fr_lcg_m_l9059_1;L9059
+fr_lcg_m_l9059_2;L9059
+fr_mtb96_vosper_shop;MTB-96
+fr_mtb96_vosper_0;MTB Vosper 3 series, MTB-96
+fr_mtb96_vosper_1;MTB-96
+fr_mtb96_vosper_2;MTB-96
+fr_p730_combattante_shop;La Combattante
+fr_p730_combattante_0;La Combattante (P730)
+fr_p730_combattante_1;La Combattante
+fr_p730_combattante_2;La Combattante
+fr_type40k_vedette_shop;VTB-19
+fr_type40k_vedette_0;Vedette 40k, VTB-19
+fr_type40k_vedette_1;VTB-19
+fr_type40k_vedette_2;VTB-19
+fr_vlt1_shop;VLT-1
+fr_vlt1_0;40k-class, VLT-1
+fr_vlt1_1;VLT-1
+fr_vlt1_2;VLT-1
+fr_vtb11_shop;VTB-11
+fr_vtb11_0;VTB-11
+fr_vtb11_1;VTB-11
+fr_vtb11_2;VTB-11
+fr_vtb13_shop;VTB-13
+fr_vtb13_0;VTB-13
+fr_vtb13_1;VTB-13
+fr_vtb13_2;VTB-13
+fr_vtb14_shop;VTB-14
+fr_vtb14_0;VTB-14
+fr_vtb14_1;VTB-14
+fr_vtb14_2;VTB-14
+fr_vtb8_shop;VTB-8
+fr_vtb8_0;VTB-8
+fr_vtb8_1;VTB-8
+fr_vtb8_2;VTB-8
+fr_vtb9_shop;VTB-9
+fr_vtb9_0;VTB-9
+fr_vtb9_1;VTB-9
+fr_vtb9_2;VTB-9
+germ_battlecruiser_derfflinger_shop;SMS Derfflinger
+germ_battlecruiser_derfflinger_0;Derfflinger-class, SMS Derfflinger, 1916
+germ_battlecruiser_derfflinger_1;SMS Derfflinger
+germ_battlecruiser_derfflinger_2;SMS Derfflinger
+il_tiran_6_shop;Tiran 6
+il_tiran_6_0;Tiran 6
+il_tiran_6_1;Tiran 6
+il_tiran_6_2;Tiran 6
+j_10a_shop;J-10A
+j_10a_0;J-10A "Firebird"
+j_10a_1;J-10A
+j_10a_2;J-10A
+jf_17_shop;JF-17
+jf_17_0;JF-17 Thunder
+jf_17_1;JF-17
+jf_17_2;JF-17
+jp_icv_prototype_shop;CTWV RCV
+jp_icv_prototype_0;CTWV RCV
+jp_icv_prototype_1;CTWV RCV
+jp_icv_prototype_2;CTWV RCV
+jp_type1_pt2_shop;PT-802
+jp_type1_pt2_0;Type 1, PT-802
+jp_type1_pt2_1;PT-802
+jp_type1_pt2_2;PT-802
+su_24m_shop;Su-24M
+su_24m_0;Su-24M "Fencer-D"
+su_24m_1;Su-24M
+su_24m_2;Su-24M
+sw_kv_1_1942_fin_shop;▄KV-1
+sw_kv_1_1942_fin_0;▄KV-1 m1942
+sw_kv_1_1942_fin_1;▄KV-1
+sw_kv_1_1942_fin_2;▄KV-1
+tornado_ids_it_shop;╏Tornado IDS
+tornado_ids_it_0;╏Tornado IDS
+tornado_ids_it_1;╏Tornado IDS
+tornado_ids_it_2;╏Tornado IDS
+uk_battleship_q_elizabet_class_barham_shop;HMS Barham
+uk_battleship_q_elizabet_class_barham_0;Queen Elizabeth-class, HMS Barham (04), 1916
+uk_battleship_q_elizabet_class_barham_1;HMS Barham
+uk_battleship_q_elizabet_class_barham_2;HMS Barham
+uk_stormer_air_defence_shop;Stormer AD
+uk_stormer_air_defence_0;Stormer Air Defence
+uk_stormer_air_defence_1;Stormer AD
+uk_stormer_air_defence_2;Stormer AD
+us_battleship_tennessee_shop;USS Tennessee
+us_battleship_tennessee_0;Tennessee-class, USS Tennessee (BB-43), 1943
+us_battleship_tennessee_1;USS Tennessee
+us_battleship_tennessee_2;USS Tennessee
+us_t1e1_90_shop;T1E1 (90)
+us_t1e1_90_0;Heavy Tank T1E1 (90)
+us_t1e1_90_1;T1E1 (90)
+us_t1e1_90_2;T1E1 (90)
+ussr_battlecruiser_izmail_shop;Izmail
+ussr_battlecruiser_izmail_0;Izmail-class, Izmail, project
+ussr_battlecruiser_izmail_1;Izmail
+ussr_battlecruiser_izmail_2;Izmail
+ussr_zsu_23_4m2_shop;ZSU-23-4M2
+ussr_zsu_23_4m2_0;ZSU-23-4M2 "Shilka-M2"
+ussr_zsu_23_4m2_1;ZSU-23-4M2
+ussr_zsu_23_4m2_2;ZSU-23-4M2
+f_111f_shop;F-111F
+f_111f_0;F-111F Aardvark
+f_111f_1;F-111F
+f_111f_2;F-111F
+fr_frigate_croix_de_lorraine_class_la_surprise_shop;La Surprise
+fr_frigate_croix_de_lorraine_class_la_surprise_0;Croix de Lorraine-class, La Suprise (F10)
+fr_frigate_croix_de_lorraine_class_la_surprise_1;La Surprise
+fr_frigate_croix_de_lorraine_class_la_surprise_2;La Surprise
+it_mas441_shop;MAS 441
+it_mas441_0;MAS 441
+it_mas441_1;MAS 441
+it_mas441_2;MAS 441
+sea_fury_fb51_shop;▄Sea Fury FB.51
+sea_fury_fb51_0;▄Sea Fury FB.51
+sea_fury_fb51_1;▄Sea Fury FB.51
+sea_fury_fb51_2;▄Sea Fury FB.51
+sea_hawk_fga50_netherlands_shop;▄Sea Hawk Mk.50
+sea_hawk_fga50_netherlands_0;▄Sea Hawk Mk.50
+sea_hawk_fga50_netherlands_1;▄Sea Hawk Mk.50
+sea_hawk_fga50_netherlands_2;▄Sea Hawk Mk.50
+uk_fremantle_class_shop;HMAS Fremantle
+uk_fremantle_class_0;Fremantle-class, HMAS Fremantle (P203)
+uk_fremantle_class_1;HMAS Fremantle
+uk_fremantle_class_2;HMAS Fremantle
