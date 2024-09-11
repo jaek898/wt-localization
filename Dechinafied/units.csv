@@ -11557,10 +11557,10 @@ tornado_ids_de_mfg_shop;◄Tornado IDS MFG
 tornado_ids_de_mfg_0;◄Tornado IDS Marineflieger
 tornado_ids_de_mfg_1;◄Tornado IDS MFG
 tornado_ids_de_mfg_2;◄Tornado IDS MFG
-tornado_ids_it_mod95_shop;╏Tornado IDS (1995)
+tornado_ids_it_mod95_shop;╏Tornado IDS [L]
 tornado_ids_it_mod95_0;╏Tornado IDS (1995)
-tornado_ids_it_mod95_1;╏Tornado IDS (1995)
-tornado_ids_it_mod95_2;╏Tornado IDS (1995)
+tornado_ids_it_mod95_1;╏Tornado IDS [L]
+tornado_ids_it_mod95_2;╏Tornado IDS [L]
 tornado_ids_de_assta1_shop;◄Tornado IDS
 tornado_ids_de_assta1_0;◄Tornado IDS ASSTA1
 tornado_ids_de_assta1_1;◄Tornado IDS
@@ -13284,10 +13284,10 @@ sw_kv_1_1942_fin_shop;▄KV-1
 sw_kv_1_1942_fin_0;▄KV-1 m1942
 sw_kv_1_1942_fin_1;▄KV-1
 sw_kv_1_1942_fin_2;▄KV-1
-tornado_ids_it_shop;╏Tornado IDS
-tornado_ids_it_0;╏Tornado IDS
-tornado_ids_it_1;╏Tornado IDS
-tornado_ids_it_2;╏Tornado IDS
+tornado_ids_it_shop;╏Tornado IDS [E]
+tornado_ids_it_0;╏Tornado IDS [Early]
+tornado_ids_it_1;╏Tornado IDS [E]
+tornado_ids_it_2;╏Tornado IDS [E]
 uk_battleship_q_elizabet_class_barham_shop;HMS Barham
 uk_battleship_q_elizabet_class_barham_0;Queen Elizabeth-class, HMS Barham (04), 1916
 uk_battleship_q_elizabet_class_barham_1;HMS Barham
@@ -13336,3 +13336,31 @@ uk_fremantle_class_shop;HMAS Fremantle
 uk_fremantle_class_0;Fremantle-class, HMAS Fremantle (P203)
 uk_fremantle_class_1;HMAS Fremantle
 uk_fremantle_class_2;HMAS Fremantle
+cn_al_khalid_1_shop;Al-Khalid-I
+cn_al_khalid_1_0;Al-Khalid-I
+cn_al_khalid_1_1;Al-Khalid-I
+cn_al_khalid_1_2;Al-Khalid-I
+fr_arras_class_arras_shop;Arras
+fr_arras_class_arras_0;Arras-class, Arras
+fr_arras_class_arras_1;Arras
+fr_arras_class_arras_2;Arras
+fr_destroyer_mogador_class_mogador_shop;Mogador
+fr_destroyer_mogador_class_mogador_0;Mogador-class, Mogador, 1940
+fr_destroyer_mogador_class_mogador_1;Mogador
+fr_destroyer_mogador_class_mogador_2;Mogador
+germ_schutzenpanzer_puma_vjtf_shop;PUMA VJTF
+germ_schutzenpanzer_puma_vjtf_0;Schützenpanzer PUMA VJTF
+germ_schutzenpanzer_puma_vjtf_1;PUMA VJTF
+germ_schutzenpanzer_puma_vjtf_2;PUMA VJTF
+jp_battlecruiser_amagi_shop;IJN Amagi
+jp_battlecruiser_amagi_0;Amagi-class, IJN Amagi, project
+jp_battlecruiser_amagi_1;IJN Amagi
+jp_battlecruiser_amagi_2;IJN Amagi
+shop/group/germ_puma_group;Puma/Puma VJTF
+shop/group/md_bosvark_group;Boar
+shop/group/md_btr_80_group;Armadillo
+shop/group/md_flarakrad_group;Mule
+shop/group/md_m53_59_group;Reptile
+shop/group/md_tgdgb_group;Echidna
+shop/group/md_vickers_group;Rhino
+shop/group/md_ystervark_group;Porcupine
