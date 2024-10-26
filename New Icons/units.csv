@@ -9474,10 +9474,10 @@ ussr_pr_191_shop;Pr.191
 ussr_pr_191_0;Pr.191
 ussr_pr_191_1;Pr.191
 ussr_pr_191_2;Pr.191
-ussr_pr_123k_hydrofoils_shop;Pr.123K (A-11)
-ussr_pr_123k_hydrofoils_0;Pr.123K (A-11)
-ussr_pr_123k_hydrofoils_1;Pr.123K (A-11)
-ussr_pr_123k_hydrofoils_2;Pr.123K (A-11)
+ussr_pr_123k_hydrofoils_shop;Pr.123K (A-10bis)
+ussr_pr_123k_hydrofoils_0;Pr.123K (A-10bis)
+ussr_pr_123k_hydrofoils_1;Pr.123K (A-10bis)
+ussr_pr_123k_hydrofoils_2;Pr.123K (A-10bis)
 uk_fairmile_d_5001_5029_shop;Fairmile D (5001)
 uk_fairmile_d_5001_5029_0;Fairmile D (5001)
 uk_fairmile_d_5001_5029_1;Fairmile D (5001)
@@ -11909,10 +11909,10 @@ cn_object_211_shop;Object 211
 cn_object_211_0;Object 211
 cn_object_211_1;Object 211
 cn_object_211_2;Object 211
-sw_cv_9030_fin_shop;CV9030FIN
+sw_cv_9030_fin_shop;CV9030 FIN
 sw_cv_9030_fin_0;Combat Vehicle 9030 Finland
-sw_cv_9030_fin_1;CV9030FIN
-sw_cv_9030_fin_2;CV9030FIN
+sw_cv_9030_fin_1;CV9030 FIN
+sw_cv_9030_fin_2;CV9030 FIN
 sw_sherman_3_4_shop;Sherman III/IV
 sw_sherman_3_4_0;Stridsvagn Sherman III/IV
 sw_sherman_3_4_1;Sherman III/IV
@@ -13036,10 +13036,10 @@ it_alano_9851_shop;Alano
 it_alano_9851_0;Alan-class, Alano (L9851)
 it_alano_9851_1;Alano
 it_alano_9851_2;Alano
-it_leopard_2a7_hungary_shop;Leopard 2A7HU
-it_leopard_2a7_hungary_0;Leopard 2A7HU
-it_leopard_2a7_hungary_1;Leopard 2A7HU
-it_leopard_2a7_hungary_2;Leopard 2A7HU
+it_leopard_2a7_hungary_shop;◔Leopard 2A7HU
+it_leopard_2a7_hungary_0;◔Leopard 2A7HU
+it_leopard_2a7_hungary_1;◔Leopard 2A7HU
+it_leopard_2a7_hungary_2;◔Leopard 2A7HU
 j_11a_shop;J-11A
 j_11a_0;J-11A "Flanker B+"
 j_11a_1;J-11A 
@@ -13088,10 +13088,10 @@ su_27sm_shop;Su-27SM
 su_27sm_0;Su-27SM "Flanker-E"
 su_27sm_1;Su-27SM
 su_27sm_2;Su-27SM
-sw_cv_9035_dk_shop;CV9035DK
+sw_cv_9035_dk_shop;CV 9035DK
 sw_cv_9035_dk_0;Combat Vehicle 9035 Denmark
-sw_cv_9035_dk_1;CV9035DK
-sw_cv_9035_dk_2;CV9035DK
+sw_cv_9035_dk_1;CV 9035DK
+sw_cv_9035_dk_2;CV 9035DK
 sw_landsverk_ush_204_gk_shop;U-SH 204 GK
 sw_landsverk_ush_204_gk_0;Landsverk U-SH 204 GK
 sw_landsverk_ush_204_gk_1;U-SH 204 GK
@@ -13368,3 +13368,123 @@ germ_boxer_3105_shop;Boxer MGS
 germ_boxer_3105_0;Boxer MGS
 germ_boxer_3105_1;Boxer MGS
 germ_boxer_3105_2;Boxer MGS
+av_8s_thailand_shop;▄AV-8S
+av_8s_thailand_0;▄AV-8S Matador
+av_8s_thailand_1;▄AV-8S
+av_8s_thailand_2;▄AV-8S
+109c_1_promo_shop;Bf 109 C-1
+109c_1_promo_0;Bf 109 C-1
+109c_1_promo_1;Bf 109 C-1
+109c_1_promo_2;Bf 109 C-1
+cn_plz_05_shop;PLZ05
+cn_plz_05_0;PLZ05
+cn_plz_05_1;PLZ05
+cn_plz_05_2;PLZ05
+f_117_shop;F-117
+f_117_0;F-117 Nighthawk
+f_117_1;F-117
+f_117_2;F-117
+f_15e_shop;F-15E
+f_15e_0;F-15E Strike Eagle
+f_15e_1;F-15E
+f_15e_2;F-15E
+f_15i_raam_shop;F-15I
+f_15i_raam_0;F-15I Ra'am
+f_15i_raam_1;F-15I
+f_15i_raam_2;F-15I
+fr_battleship_dunkerque_shop;Dunkerque
+fr_battleship_dunkerque_0;Dunkerque-class, Dunkerque, 1939
+fr_battleship_dunkerque_1;Dunkerque
+fr_battleship_dunkerque_2;Dunkerque
+fr_leopard_2a4nl_shop;☨Leopard 2A4NL
+fr_leopard_2a4nl_0;☨Leopard 2A4NL
+fr_leopard_2a4nl_1;☨Leopard 2A4NL
+fr_leopard_2a4nl_2;☨Leopard 2A4NL
+fr_leopard_2a5nl_shop;☨Leopard 2A5NL
+fr_leopard_2a5nl_0;☨Leopard 2A5NL
+fr_leopard_2a5nl_1;☨Leopard 2A5NL
+fr_leopard_2a5nl_2;☨Leopard 2A5NL
+fr_leopard_2a6nl_shop;☨Leopard 2A6NL
+fr_leopard_2a6nl_0;☨Leopard 2A6NL
+fr_leopard_2a6nl_1;☨Leopard 2A6NL
+fr_leopard_2a6nl_2;☨Leopard 2A6NL
+germ_9a33bm3_shop;◊Osa-AKM
+germ_9a33bm3_0;"◊ZRK 9A33M3 ""Osa-AKM"""
+germ_9a33bm3_1;◊Osa-AKM
+germ_9a33bm3_2;◊Osa-AKM
+germ_sppz2_luchs_a2_shop;Luchs A2
+germ_sppz2_luchs_a2_0;Spähpanzer Luchs A2
+germ_sppz2_luchs_a2_1;Luchs A2
+germ_sppz2_luchs_a2_2;Luchs A2
+he-177a-3_shop;He 177 A-3
+he-177a-3_0;He 177 A-3/R3 Greif
+he-177a-3_1;He 177 A-3
+he-177a-3_2;He 177 A-3
+il_sabra_mk1_shop;Sabra Mk.I
+il_sabra_mk1_0;Sabra Mk.I
+il_sabra_mk1_1;Sabra Mk.I
+il_sabra_mk1_2;Sabra Mk.I
+it_9a33bm3_shop;╏Osa-AKM
+it_9a33bm3_0;"╏ZRK 9A33M3 ""Osa-AKM"""
+it_9a33bm3_1;╏Osa-AKM
+it_9a33bm3_2;╏Osa-AKM
+it_ms444_shop;MS 444
+it_ms444_0;MS 444
+it_ms444_1;MS 444
+it_ms444_2;MS 444
+mi_8amtsh_vn_shop;Mi-8AMTSh-VN
+mi_8amtsh_vn_0;Mi-8AMTSh-VN "Hip"
+mi_8amtsh_vn_1;Mi-8AMTSh-VN
+mi_8amtsh_vn_2;Mi-8AMTSh-VN
+su_34_shop;Su-34
+su_34_0;Su-34 "Fullback"
+su_34_1;Su-34
+su_34_2;Su-34
+su_34_shop;Super Hind
+su_34_0;Super Hind Mk.IV
+su_34_1;Super Hind
+su_34_2;Super Hind
+tornado_gr4_shop;Tornado GR.4
+tornado_gr4_0;Tornado GR.4
+tornado_gr4_1;Tornado GR.4
+tornado_gr4_2;Tornado GR.4
+uk_battlecruiser_repulse_shop;HMS Repulse
+uk_battlecruiser_repulse_0;Renown-class, HMS Repulse (34), 1941
+uk_battlecruiser_repulse_1;HMS Repulse
+uk_battlecruiser_repulse_2;HMS Repulse
+uk_fv107_scimitar_shop;Scimitar
+uk_fv107_scimitar_0;FV107 Scimitar
+uk_fv107_scimitar_1;Scimitar
+uk_fv107_scimitar_2;Scimitar
+uk_m4a5_ram_2_shop;Ram II
+uk_m4a5_ram_2_0;Tank Cruiser Ram II
+uk_m4a5_ram_2_1;Ram II
+uk_m4a5_ram_2_2;Ram II
+us_skink_aa_shop;▃Skink
+us_skink_aa_0;▃Skink, Tank, Anti-Aircraft, 20mm, Quad
+us_skink_aa_1;▃Skink
+us_skink_aa_2;▃Skink
+us_t77e1_shop;Multiple Gun Motor Carriage T77E1
+us_t77e1_0;T77E1
+us_t77e1_1;T77E1
+us_t77e1_2;T77E1
+ussr_9a33bm3_shop;Osa-AKM
+ussr_9a33bm3_0;ZRK 9A33M3 "Osa-AKM"
+ussr_9a33bm3_1;Osa-AKM
+ussr_9a33bm3_2;Osa-AKM
+ussr_cruiser_omaha_class_murmansk_shop;Murmansk
+ussr_cruiser_omaha_class_murmansk_0;Omaha-class, Murmansk, 1945
+ussr_cruiser_omaha_class_murmansk_1;Murmansk
+ussr_cruiser_omaha_class_murmansk_2;Murmansk
+ussr_kv_7_u13_shop;KV-7 (U-13)
+ussr_kv_7_u13_0;KV-7 (U-13)
+ussr_kv_7_u13_1;KV-7 (U-13)
+ussr_kv_7_u13_2;KV-7 (U-13)
+ussr_object_140_shop;Object 140
+ussr_object_140_0;Object 140
+ussr_object_140_1;Object 140
+ussr_object_140_2;Object 140
+ussr_pr253l_shop;Pr.253L
+ussr_pr253l_0;Pr.253L
+ussr_pr253l_1;Pr.253L
+ussr_pr253l_2;Pr.253L
