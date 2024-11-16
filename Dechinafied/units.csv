@@ -7597,7 +7597,7 @@ bo_105pah1_a1_0;BO 105 PAH-1A1
 bo_105pah1_a1_1;BO 105 PAH-1A1
 bo_105pah1_a1_2;BO 105 PAH-1A1
 us_destroyer_sumner_shop;USS Sumner
-us_destroyer_sumner_0;Allan M. Sumner-class, USS Sumner (DD-692), 1944
+us_destroyer_sumner_0;Allen M. Sumner-class, USS Sumner (DD-692), 1944
 us_destroyer_sumner_1;USS Sumner
 us_destroyer_sumner_2;USS Sumner
 mig-15bis_ish_shop;MiG-15bis ISh
@@ -11386,7 +11386,7 @@ us_m728_0;Full tracked combat engineer vehicle M728
 us_m728_1;M728
 us_m728_2;M728
 ussr_9a35_m2_shop;Strela-10M2
-ussr_9a35_m2_0;"ZRK 9A35M2 ""Strela-10M2"""
+ussr_9a35_m2_0;"9A35M2 ""Strela-10M2"""
 ussr_9a35_m2_1;Strela-10M2
 ussr_9a35_m2_2;Strela-10M2
 uk_khalid_shop;Khalid
@@ -13268,10 +13268,10 @@ jf_17_shop;JF-17
 jf_17_0;JF-17 Thunder
 jf_17_1;JF-17
 jf_17_2;JF-17
-jp_icv_prototype_shop;CTWV RCV
-jp_icv_prototype_0;CTWV RCV
-jp_icv_prototype_1;CTWV RCV
-jp_icv_prototype_2;CTWV RCV
+jp_icv_prototype_shop;RCV (P)
+jp_icv_prototype_0;Common Tactical Wheeled Vehicle, RCV
+jp_icv_prototype_1;RCV (P)
+jp_icv_prototype_2;RCV (P)
 jp_type1_pt2_shop;PT-802
 jp_type1_pt2_0;Type 1, PT-802
 jp_type1_pt2_1;PT-802
@@ -13408,10 +13408,10 @@ fr_leopard_2a6nl_shop;☨Leopard 2A6NL
 fr_leopard_2a6nl_0;☨Leopard 2A6NL
 fr_leopard_2a6nl_1;☨Leopard 2A6NL
 fr_leopard_2a6nl_2;☨Leopard 2A6NL
-germ_9a33bm3_shop;◊Osa-AKM
-germ_9a33bm3_0;"◊ZRK 9A33M3 ""Osa-AKM"""
-germ_9a33bm3_1;◊Osa-AKM
-germ_9a33bm3_2;◊Osa-AKM
+germ_9a33bm3_shop;◊Osa-AK
+germ_9a33bm3_0;◊ZRK 9A33BM3 "Osa-AK"
+germ_9a33bm3_1;◊Osa-AK
+germ_9a33bm3_2;◊Osa-AK
 germ_sppz2_luchs_a2_shop;Luchs A2
 germ_sppz2_luchs_a2_0;Spähpanzer Luchs A2
 germ_sppz2_luchs_a2_1;Luchs A2
@@ -13425,7 +13425,7 @@ il_sabra_mk1_0;Sabra Mk.I
 il_sabra_mk1_1;Sabra Mk.I
 il_sabra_mk1_2;Sabra Mk.I
 it_9a33bm3_shop;╏Osa-AKM
-it_9a33bm3_0;"╏ZRK 9A33M3 ""Osa-AKM"""
+it_9a33bm3_0;╏ZRK 9A33M3 "Osa-AKM"
 it_9a33bm3_1;╏Osa-AKM
 it_9a33bm3_2;╏Osa-AKM
 it_ms444_shop;MS 444
@@ -13441,7 +13441,7 @@ su_34_0;Su-34 "Fullback"
 su_34_1;Su-34
 su_34_2;Su-34
 super_hind_mk3_shop;Super Hind
-super_hind_mk3_0;Super Hind Mk.IV
+super_hind_mk3_0;Super Hind Mk IV
 super_hind_mk3_1;Super Hind
 super_hind_mk3_2;Super Hind
 tornado_gr4_shop;Tornado GR.4
@@ -13488,3 +13488,7 @@ ussr_pr253l_shop;Pr.253L
 ussr_pr253l_0;Pr.253L
 ussr_pr253l_1;Pr.253L
 ussr_pr253l_2;Pr.253L
+bf-109c_1_promo_shop;Bf 109 C-1
+bf-109c_1_promo_0;Bf 109 C-1
+bf-109c_1_promo_1;Bf 109 C-1
+bf-109c_1_promo_2;Bf 109 C-1

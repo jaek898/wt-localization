@@ -7597,7 +7597,7 @@ bo_105pah1_a1_0;BO 105 PAH-1A1
 bo_105pah1_a1_1;BO 105 PAH-1A1
 bo_105pah1_a1_2;BO 105 PAH-1A1
 us_destroyer_sumner_shop;USS Sumner
-us_destroyer_sumner_0;Allan M. Sumner-class, USS Sumner (DD-692), 1944
+us_destroyer_sumner_0;Allen M. Sumner-class, USS Sumner (DD-692), 1944
 us_destroyer_sumner_1;USS Sumner
 us_destroyer_sumner_2;USS Sumner
 mig-15bis_ish_shop;MiG-15bis ISh
@@ -11386,7 +11386,7 @@ us_m728_0;Full tracked combat engineer vehicle M728
 us_m728_1;M728
 us_m728_2;M728
 ussr_9a35_m2_shop;Strela-10M2
-ussr_9a35_m2_0;"ZRK 9A35M2 ""Strela-10M2"""
+ussr_9a35_m2_0;"9A35M2 ""Strela-10M2"""
 ussr_9a35_m2_1;Strela-10M2
 ussr_9a35_m2_2;Strela-10M2
 uk_khalid_shop;Khalid
@@ -13268,10 +13268,10 @@ jf_17_shop;JF-17
 jf_17_0;JF-17 Thunder
 jf_17_1;JF-17
 jf_17_2;JF-17
-jp_icv_prototype_shop;CTWV RCV
-jp_icv_prototype_0;CTWV RCV
-jp_icv_prototype_1;CTWV RCV
-jp_icv_prototype_2;CTWV RCV
+jp_icv_prototype_shop;RCV (P)
+jp_icv_prototype_0;Common Tactical Wheeled Vehicle, RCV
+jp_icv_prototype_1;RCV (P)
+jp_icv_prototype_2;RCV (P)
 jp_type1_pt2_shop;PT-802
 jp_type1_pt2_0;Type 1, PT-802
 jp_type1_pt2_1;PT-802
@@ -13408,10 +13408,10 @@ fr_leopard_2a6nl_shop;▄Leopard 2A6NL
 fr_leopard_2a6nl_0;▄Leopard 2A6NL
 fr_leopard_2a6nl_1;▄Leopard 2A6NL
 fr_leopard_2a6nl_2;▄Leopard 2A6NL
-germ_9a33bm3_shop;◊Osa-AKM
-germ_9a33bm3_0;"◊ZRK 9A33M3 ""Osa-AKM"""
-germ_9a33bm3_1;◊Osa-AKM
-germ_9a33bm3_2;◊Osa-AKM
+germ_9a33bm3_shop;◊Osa-AK
+germ_9a33bm3_0;◊ZRK 9A33BM3 "Osa-AK"
+germ_9a33bm3_1;◊Osa-AK
+germ_9a33bm3_2;◊Osa-AK
 germ_sppz2_luchs_a2_shop;Luchs A2
 germ_sppz2_luchs_a2_0;Spähpanzer Luchs A2
 germ_sppz2_luchs_a2_1;Luchs A2
@@ -13425,7 +13425,7 @@ il_sabra_mk1_0;Sabra Mk.I
 il_sabra_mk1_1;Sabra Mk.I
 il_sabra_mk1_2;Sabra Mk.I
 it_9a33bm3_shop;▄Osa-AKM
-it_9a33bm3_0;"▄ZRK 9A33M3 ""Osa-AKM"""
+it_9a33bm3_0;▄ZRK 9A33M3 "Osa-AKM"
 it_9a33bm3_1;▄Osa-AKM
 it_9a33bm3_2;▄Osa-AKM
 it_ms444_shop;MS 444
@@ -13441,7 +13441,7 @@ su_34_0;Su-34 "Fullback"
 su_34_1;Su-34
 su_34_2;Su-34
 super_hind_mk3_shop;Super Hind
-super_hind_mk3_0;Super Hind Mk.IV
+super_hind_mk3_0;Super Hind Mk IV
 super_hind_mk3_1;Super Hind
 super_hind_mk3_2;Super Hind
 tornado_gr4_shop;Tornado GR.4
@@ -13488,3 +13488,72 @@ ussr_pr253l_shop;Pr.253L
 ussr_pr253l_0;Pr.253L
 ussr_pr253l_1;Pr.253L
 ussr_pr253l_2;Pr.253L
+bf-109c_1_promo_shop;Bf 109 C-1
+bf-109c_1_promo_0;Bf 109 C-1
+bf-109c_1_promo_1;Bf 109 C-1
+bf-109c_1_promo_2;Bf 109 C-1
+
+it_battleship_francesco_caracciolo_shop;RN Francesco Caracciolo
+it_battleship_francesco_caracciolo_0;RN Francesco Caracciolo, Project
+it_battleship_francesco_caracciolo_1;RN Francesco Caracciolo
+it_battleship_francesco_caracciolo_2;RN Francesco Caracciolo
+jp_destroyer_murasame_shop;JDS Murasame (DD-107)
+jp_destroyer_murasame_0;Murasame-class, JDS Murasame  (DD-107), 1976
+jp_destroyer_murasame_1;JDS Murasame (DD-107)
+jp_destroyer_murasame_2;JDS Murasame (DD-107)
+jp_icv_ifv_prototype_shop;ICV (P)
+jp_icv_ifv_prototype_0;Common Tactical Wheeled Vehicle, ICV
+jp_icv_ifv_prototype_1;ICV (P)
+jp_icv_ifv_prototype_2;ICV (P)
+mi_35m_pakistan_shop;▄Mi-35M
+mi_35m_pakistan_0;▄Mi-35M "Hind-E"
+mi_35m_pakistan_1;▄Mi-35M
+mi_35m_pakistan_2;▄Mi-35M
+mirage_2000_5ei_shop;☀Mirage 2000-5EI
+mirage_2000_5ei_0;☀Mirage 2000-5EI
+mirage_2000_5ei_1;☀Mirage 2000-5EI
+mirage_2000_5ei_2;☀Mirage 2000-5EI
+mirage_2000d_rmv_shop;Mirage 2000D-RMV
+mirage_2000d_rmv_0;Mirage 2000D-RMV
+mirage_2000d_rmv_1;Mirage 2000D-RMV
+mirage_2000d_rmv_2;Mirage 2000D-RMV
+saab_ja37di_shop;JA37DI
+saab_ja37di_0;JA37DI Jaktviggen
+saab_ja37di_1;JA37DI
+saab_ja37di_2;JA37DI
+saab_ja37di_f21_shop;JA37DI F21
+saab_ja37di_f21_0;JA37DI Jaktviggen F21
+saab_ja37di_f21_1;JA37DI F21
+saab_ja37di_f21_2;JA37DI F21
+shop/group/germ_roland_osa_group,Roland/Osa
+shop/group/saab_ja37d_group,JA37D/DI
+shop/group/uk_stormer_group,Stormer AD/HVM
+
+su_22m4_de_wtd61_shop;◄Su-22M4 WTD61
+su_22m4_de_wtd61_0;◄Su-22M4 WTD61 "Fitter-K"
+su_22m4_de_wtd61_1;◄Su-22M4 WTD61
+su_22m4_de_wtd61_2;◄Su-22M4 WTD61
+sw_bmp_2md_shop;BMP-2MD
+sw_bmp_2md_0;BMP-2MD
+sw_bmp_2md_1;BMP-2MD
+sw_bmp_2md_2;BMP-2MD
+uk_9a33bm2_shop;▄Osa-AK
+uk_9a33bm2_0;▄9A33BM2 "Osa-AK"
+uk_9a33bm2_1;▄Osa-AK
+uk_9a33bm2_2;▄Osa-AK
+us_destroyer_bagley_class_bagley_shop;USS Bagley
+us_destroyer_bagley_class_bagley_0;Bagley-class, USS Bagley (DD-386), 1941
+us_destroyer_bagley_class_bagley_1;USS Bagley
+us_destroyer_bagley_class_bagley_2;USS Bagley
+_shop;
+_0;
+_1;
+_2;
+_shop;
+_0;
+_1;
+_2;
+_shop;
+_0;
+_1;
+_2;
