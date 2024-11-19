@@ -13381,7 +13381,7 @@ cn_plz_05_0;PLZ05
 cn_plz_05_1;PLZ05
 cn_plz_05_2;PLZ05
 f_117_shop;F-117
-f_117_0;F-117 Nighthawk
+f_117_0;F-117 OCIP II Nighthawk
 f_117_1;F-117
 f_117_2;F-117
 f_15e_shop;F-15E
@@ -13464,8 +13464,8 @@ us_skink_aa_shop;▃Skink
 us_skink_aa_0;▃Skink, Tank, Anti-Aircraft, 20mm, Quad
 us_skink_aa_1;▃Skink
 us_skink_aa_2;▃Skink
-us_t77e1_shop;Multiple Gun Motor Carriage T77E1
-us_t77e1_0;T77E1
+us_t77e1_shop;T77E1
+us_t77e1_0;Multiple Gun Motor Carriage T77E1
 us_t77e1_1;T77E1
 us_t77e1_2;T77E1
 ussr_9a33bm3_shop;Osa-AKM
@@ -13520,9 +13520,9 @@ saab_ja37di_f21_shop;JA37DI F21
 saab_ja37di_f21_0;JA37DI Jaktviggen F21
 saab_ja37di_f21_1;JA37DI F21
 saab_ja37di_f21_2;JA37DI F21
-shop/group/germ_roland_osa_group,Roland/Osa
-shop/group/saab_ja37d_group,JA37D/DI
-shop/group/uk_stormer_group,Stormer AD/HVM
+shop/group/germ_roland_osa_group;Roland/Osa
+shop/group/saab_ja37d_group;JA37D/DI
+shop/group/uk_stormer_group;Stormer AD/HVM
 su_22m4_de_wtd61_shop;◄Su-22M4 WTD61
 su_22m4_de_wtd61_0;◄Su-22M4 WTD61 "Fitter-K"
 su_22m4_de_wtd61_1;◄Su-22M4 WTD61
