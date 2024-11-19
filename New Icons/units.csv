@@ -13372,10 +13372,10 @@ av_8s_thailand_shop;▄AV-8S
 av_8s_thailand_0;▄AV-8S Matador
 av_8s_thailand_1;▄AV-8S
 av_8s_thailand_2;▄AV-8S
-109c_1_promo_shop;Bf 109 C-1
-109c_1_promo_0;Bf 109 C-1
-109c_1_promo_1;Bf 109 C-1
-109c_1_promo_2;Bf 109 C-1
+bf-109c_1_promo_shop;Bf 109 C-1
+bf-109c_1_promo_0;Bf 109 C-1
+bf-109c_1_promo_1;Bf 109 C-1
+bf-109c_1_promo_2;Bf 109 C-1
 cn_plz_05_shop;PLZ05
 cn_plz_05_0;PLZ05
 cn_plz_05_1;PLZ05
@@ -13488,11 +13488,6 @@ ussr_pr253l_shop;Pr.253L
 ussr_pr253l_0;Pr.253L
 ussr_pr253l_1;Pr.253L
 ussr_pr253l_2;Pr.253L
-bf-109c_1_promo_shop;Bf 109 C-1
-bf-109c_1_promo_0;Bf 109 C-1
-bf-109c_1_promo_1;Bf 109 C-1
-bf-109c_1_promo_2;Bf 109 C-1
-
 it_battleship_francesco_caracciolo_shop;RN Francesco Caracciolo
 it_battleship_francesco_caracciolo_0;RN Francesco Caracciolo, Project
 it_battleship_francesco_caracciolo_1;RN Francesco Caracciolo
@@ -13528,7 +13523,6 @@ saab_ja37di_f21_2;JA37DI F21
 shop/group/germ_roland_osa_group,Roland/Osa
 shop/group/saab_ja37d_group,JA37D/DI
 shop/group/uk_stormer_group,Stormer AD/HVM
-
 su_22m4_de_wtd61_shop;◄Su-22M4 WTD61
 su_22m4_de_wtd61_0;◄Su-22M4 WTD61 "Fitter-K"
 su_22m4_de_wtd61_1;◄Su-22M4 WTD61
@@ -13545,15 +13539,3 @@ us_destroyer_bagley_class_bagley_shop;USS Bagley
 us_destroyer_bagley_class_bagley_0;Bagley-class, USS Bagley (DD-386), 1941
 us_destroyer_bagley_class_bagley_1;USS Bagley
 us_destroyer_bagley_class_bagley_2;USS Bagley
-_shop;
-_0;
-_1;
-_2;
-_shop;
-_0;
-_1;
-_2;
-_shop;
-_0;
-_1;
-_2;
