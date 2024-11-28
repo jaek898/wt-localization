@@ -5208,10 +5208,10 @@ f-86f-40_japan_shop;▅F-86F-40
 f-86f-40_japan_0;▅F-86F-40 Sabre
 f-86f-40_japan_1;▅F-86F-40
 f-86f-40_japan_2;▅F-86F-40
-f-86f-40_japan_blue_impulse_shop;▅F-86F-40 JASDF
-f-86f-40_japan_blue_impulse_0;▅F-86F-40 JASDF Sabre
-f-86f-40_japan_blue_impulse_1;▅F-86F-40 JASDF
-f-86f-40_japan_blue_impulse_2;▅F-86F-40 JASDF
+f-86f-40_japan_blue_impulse_shop;▅F-86F-40
+f-86f-40_japan_blue_impulse_0;▅F-86F-40 Sabre
+f-86f-40_japan_blue_impulse_1;▅F-86F-40
+f-86f-40_japan_blue_impulse_2;▅F-86F-40
 t2_shop;T-2 [L]
 t2_0;T-2 Late
 t2_1;T-2 [L]
@@ -13184,10 +13184,10 @@ pbm_5a_shop;PBM-5A
 pbm_5a_0;PBM-5A Mariner
 pbm_5a_1;PBM-5A
 pbm_5a_2;PBM-5A
-f_14a_iriaf_shop;▄F-14A
-f_14a_iriaf_0;▄F-14A Tomcat IRIAF
-f_14a_iriaf_1;▄F-14A
-f_14a_iriaf_2;▄F-14A
+f_14a_iriaf_shop;▄F-14AM
+f_14a_iriaf_0;▄F-14AM Tomcat IRIAF
+f_14a_iriaf_1;▄F-14AM
+f_14a_iriaf_2;▄F-14AM
 a_10c_shop;A-10C
 a_10c_0;A-10C Thunderbolt II
 a_10c_1;A-10C
