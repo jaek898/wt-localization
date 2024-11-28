@@ -2450,10 +2450,10 @@ fr_crotale_ng_shop;☨ItO 90M
 fr_crotale_ng_0;☨Ilmatorjuntaohjus 90M
 fr_crotale_ng_1;☨ItO 90M
 fr_crotale_ng_2;☨ItO 90M
-fr_amx_30_roland_shop;Roland 1
+fr_amx_30_roland_shop;AMX-30R
 fr_amx_30_roland_0;AMX-30 Roland 1
-fr_amx_30_roland_1;Roland 1
-fr_amx_30_roland_2;Roland 1
+fr_amx_30_roland_1;AMX-30R
+fr_amx_30_roland_2;AMX-30R
 fr_leclerc_sxxi_shop;Leclerc SXXI
 fr_leclerc_sxxi_0;Leclerc SXXI
 fr_leclerc_sxxi_1;Leclerc SXXI
@@ -4721,6 +4721,10 @@ iar_81c_shop;IAR-81C
 iar_81c_0;IAR-81C
 iar_81c_1;IAR-81C
 iar_81c_2;IAR-81C
+iar_93b_shop;IAR-93B
+iar_93b_0;IAR-93B Vulture
+iar_93b_1;IAR-93B
+iar_93b_2;IAR-93B
 p-40f-5_france_ep_shop;☨P-40F-5 Lafayette
 p-40f-5_france_ep_0;☨P-40F-5 Lafayette
 p-40f-5_france_ep_1;☨P-40F-5
