@@ -11458,7 +11458,7 @@ tornado_gr1_0;Tornado GR.1
 tornado_gr1_1;Tornado GR.1
 tornado_gr1_2;Tornado GR.1
 harrier_frs1_shop;Sea Harrier FRS.1 [L]
-harrier_frs1_0;Sea Harrier FRS.1 [Late]
+harrier_frs1_0;Sea Harrier FRS.1 Late
 harrier_frs1_1;Sea Harrier FRS.1 [L]
 harrier_frs1_2;Sea Harrier FRS.1 [L]
 cn_wz_1001_shop;WZ1001
@@ -13368,10 +13368,10 @@ germ_boxer_3105_shop;Boxer MGS
 germ_boxer_3105_0;Boxer MGS
 germ_boxer_3105_1;Boxer MGS
 germ_boxer_3105_2;Boxer MGS
-av_8s_thailand_shop;▄AV-8S
-av_8s_thailand_0;▄AV-8S Matador
-av_8s_thailand_1;▄AV-8S
-av_8s_thailand_2;▄AV-8S
+av_8s_thailand_shop;▄AV-8S [E]
+av_8s_thailand_0;▄AV-8S Matador Early
+av_8s_thailand_1;▄AV-8S [E]
+av_8s_thailand_2;▄AV-8S [E]
 bf-109c_1_promo_shop;Bf 109 C-1
 bf-109c_1_promo_0;Bf 109 C-1
 bf-109c_1_promo_1;Bf 109 C-1
@@ -13420,10 +13420,10 @@ he-177a-3_shop;He 177 A-3
 he-177a-3_0;He 177 A-3/R3 Greif
 he-177a-3_1;He 177 A-3
 he-177a-3_2;He 177 A-3
-il_sabra_mk1_shop;Sabra Mk.I
-il_sabra_mk1_0;Sabra Mk.I
-il_sabra_mk1_1;Sabra Mk.I
-il_sabra_mk1_2;Sabra Mk.I
+il_sabra_mk1_shop;Sabra Mk.1
+il_sabra_mk1_0;Sabra Mk.1
+il_sabra_mk1_1;Sabra Mk.1
+il_sabra_mk1_2;Sabra Mk.1
 it_9a33bm3_shop;▄Osa-AKM
 it_9a33bm3_0;▄ZRK 9A33M3 "Osa-AKM"
 it_9a33bm3_1;▄Osa-AKM
@@ -13543,3 +13543,143 @@ iar_93b_shop;IAR-93B
 iar_93b_0;IAR-93B Vultur
 iar_93b_1;IAR-93B
 iar_93b_2;IAR-93B
+a_7e_thailand_shop;▄A-7E
+a_7e_thailand_0;▄A-7E Corsair II
+a_7e_thailand_1;▄A-7E
+a_7e_thailand_2;▄A-7E
+ah_64d_netherlands_shop;◘AH-64D
+ah_64d_netherlands_0;◘AH-64D Apache
+ah_64d_netherlands_1;◘AH-64D
+ah_64d_netherlands_2;◘AH-64D
+alpha_jet_a_thailand_shop;▄Alpha Jet A
+alpha_jet_a_thailand_0;▄Alpha Jet A
+alpha_jet_a_thailand_1;▄Alpha Jet A
+alpha_jet_a_thailand_2;▄Alpha Jet A
+alpha_jet_th_phase_1_shop;▄Alpha Jet TH
+alpha_jet_th_phase_1_0;▄Alpha Jet TH (Phase 1)
+alpha_jet_th_phase_1_1;▄Alpha Jet TH
+alpha_jet_th_phase_1_2;▄Alpha Jet TH
+av_8s_late_thailand_shop;▄AV-8S [L]
+av_8s_late_thailand_0;▄AV-8S Matador [Late]
+av_8s_late_thailand_1;▄AV-8S [L]
+av_8s_late_thailand_2;▄AV-8S [L]
+ef_2000_block_10_shop;◄EF-2000
+ef_2000_block_10_0;◄EF-2000 Typhoon (Block 10 T2)
+ef_2000_block_10_1;◄EF-2000
+ef_2000_block_10_2;◄EF-2000
+ef_2000_fgr4_shop;Typhoon FGR.4
+ef_2000_fgr4_0;EF-2000 Typhoon FGR.4
+ef_2000_fgr4_1;Typhoon FGR.4
+ef_2000_fgr4_2;Typhoon FGR.4
+ef_2000a_shop;▄F-2000A
+ef_2000a_0;▄F-2000A Typhoon
+ef_2000a_1;▄F-2000A
+ef_2000a_2;▄F-2000A
+f_16a_block_15_ocu_thailand_shop;▄F-16A OCU
+f_16a_block_15_ocu_thailand_0;▄F-16A Block 15 OCU Fighting Falcon
+f_16a_block_15_ocu_thailand_1;▄F-16A OCU
+f_16a_block_15_ocu_thailand_2;▄F-16A OCU
+f-5a_thailand_shop;▄F-5A
+f-5a_thailand_0;▄F-5A Freedom Fighter
+f-5a_thailand_1;▄F-5A
+f-5a_thailand_2;▄F-5A
+f-5t_thailand_shop;▄F-5T
+f-5t_thailand_0;▄F-5T Tigris SCU
+f-5t_thailand_1;▄F-5T
+f-5t_thailand_2;▄F-5T
+f-84g_thailand_shop;▄F-84G-21
+f-84g_thailand_0;▄F-84G-21-RE Thunderjet
+f-84g_thailand_1;▄F-84G-21
+f-84g_thailand_2;▄F-84G-21
+fr_m44_shop;▄M44
+fr_m44_0;▄Howitzer, Self-propelled, Full Tracked: 155-mm, M44
+fr_m44_1;▄M44
+fr_m44_2;▄M44
+fr_vbci_shop;VBCI
+fr_vbci_0;VBCI
+fr_vbci_1;VBCI
+fr_vbci_2;VBCI
+germ_9a35_m_shop;◊Strela-10M
+germ_9a35_m_0;◊9A35M "Strela-10M"
+germ_9a35_m_1;◊Strela-10M
+germ_9a35_m_2;◊Strela-10M
+germ_destroyer_fletcher_zerstorer4_shop;Z4 Zerstörer
+germ_destroyer_fletcher_zerstorer4_0;Z1-class, Z4 Zerstörer (D 178), 1960
+germ_destroyer_fletcher_zerstorer4_1;Z4 Zerstörer
+germ_destroyer_fletcher_zerstorer4_2;Z4 Zerstörer
+germ_m44_shop;M44
+germ_m44_0;Panzerhaubitze M44
+germ_m44_1;M44
+germ_m44_2;M44
+germ_pzh_2000_shop;PzH 2000
+germ_pzh_2000_0;PzH 2000
+germ_pzh_2000_1;PzH 2000
+germ_pzh_2000_2;PzH 2000
+it_9a35_m_shop;▄Strela-10M
+it_9a35_m_0;▄9A35M "Strela-10M"
+it_9a35_m_1;▄Strela-10M
+it_9a35_m_2;▄Strela-10M
+it_ciclone_class_ghibli_shop;RN Ghibli
+it_ciclone_class_ghibli_0;Ciclone-class, RN Ghibli
+it_ciclone_class_ghibli_1;RN Ghibli
+it_ciclone_class_ghibli_2;RN Ghibli
+it_m44_shop;▄M44
+it_m44_0;▄Semovente M44 da 155/23
+it_m44_1;▄M44
+it_m44_2;▄M44
+it_pzh_2000_hu_shop;◐PzH 2000HU
+it_pzh_2000_hu_0;◐PzH 2000HU
+it_pzh_2000_hu_1;◐PzH 2000HU
+it_pzh_2000_hu_2;◐PzH 2000HU
+jp_m44_shop;▅M44
+jp_m44_0;▅Howitzer, Self-propelled, Full Tracked: 155-mm, M44
+jp_m44_1;▅M44
+jp_m44_2;▅M44
+rafale_c_f3_shop;Rafale C
+rafale_c_f3_0;Rafale C F3-R
+rafale_c_f3_1;Rafale C
+rafale_c_f3_2;Rafale C
+saab_jas39c_thailand_shop;▄JAS39C
+saab_jas39c_thailand_0;▄JAS39C Gripen
+saab_jas39c_thailand_1;▄JAS39C
+saab_jas39c_thailand_2;▄JAS39C
+shop/group/fr_arl_jumbo_group;ARL/M4A3E2
+shop/group/fr_auf_acra_group;AuF/ACRA
+shop/group/germ_dicker_sturer_group;Max/Emil
+shop/group/germ_flak_m44_group;Flak Sfl./M44
+shop/group/germ_flakpanzer_4_group;Ostwind/Wirbelwind
+shop/group/il_rochev_tager_group;Rochev/Tager
+shop/group/it_9a33_35_group;Osa/Strela
+shop/group/uk_9a33_35_group;Osa/Strela
+su_33_shop;Su-33
+su_33_0;Su-33 "Flanker-D"
+su_33_1;Su-33
+su_33_2;Su-33
+sw_cv_90_mk4_shop;CV90 Mk. IV
+sw_cv_90_mk4_0;Combat Vehicle 90 Mk. IV
+sw_cv_90_mk4_1;CV90 Mk. IV
+sw_cv_90_mk4_2;CV90 Mk. IV
+uk_9a35_m_shop;▄Strela-10M
+uk_9a35_m_0;▄9A35M "Strela-10M"
+uk_9a35_m_1;▄Strela-10M
+uk_9a35_m_2;▄Strela-10M
+uk_m44_shop;▄M44
+uk_m44_0;▄Howitzer, Self-propelled, Full Tracked: 155-mm, M44
+uk_m44_1;▄M44
+uk_m44_2;▄M44
+us_m44_shop;M44
+us_m44_0;Howitzer, Self-propelled, Full Tracked: 155-mm, M44
+us_m44_1;M44
+us_m44_2;M44
+us_rdf_lt_shop;RDF/LT
+us_rdf_lt_0;Rapid Deployment Force Light Tank
+us_rdf_lt_1;RDF/LT
+us_rdf_lt_2;RDF/LT
+ussr_battleship_arhangelsk_shop;Archangelsk
+ussr_battleship_arhangelsk_0;Revenge-class, Archangelsk, 1944
+ussr_battleship_arhangelsk_1;Archangelsk
+ussr_battleship_arhangelsk_2;Archangelsk
+ussr_bmd_4m_shop;BMD-4M
+ussr_bmd_4m_0;BMD-4M
+ussr_bmd_4m_1;BMD-4M
+ussr_bmd_4m_2;BMD-4M
