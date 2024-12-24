@@ -1,4 +1,4 @@
-<ID|readonly|noverify>;<English>▃USA▀GER▂USSR▄UK▅JP☀ROC␗PRC▄IT▄FRISR⚜FR◊GDR◄FRG◐HUN◗NLD◘NLD
+<ID|readonly|noverify>;<English>▃USA▀GER▂USSR▄UK▅JP☀ROC␗PRC▄IT▄FRISR⚜FR◊GDR◄FRG◐HUN◔HUN◗NLD◘NLD
 ships/uss_cv_immortal_0;Carrier
 ships/uss_cv_immortal_1;Carrier
 ships/uss_cv_immortal_2;Carrier
@@ -8330,7 +8330,7 @@ cn_type_86_0;ZBD86
 cn_type_86_1;ZBD86
 cn_type_86_2;ZBD86
 cn_t_26_1940_shop;☀T-26
-cn_t_26_1940_0;☀T-26 mod. 1939
+cn_t_26_1940_0;☀T-26 mod. 1937
 cn_t_26_1940_1;☀T-26
 cn_t_26_1940_2;☀T-26
 cn_bt_5_shop;BT-5
@@ -13596,7 +13596,7 @@ fr_m44_0;▄Howitzer, Self-propelled, Full Tracked: 155-mm, M44
 fr_m44_1;▄M44
 fr_m44_2;▄M44
 fr_vbci_shop;VBCI
-fr_vbci_0;VBCI
+fr_vbci_0;VBCI (VCI)
 fr_vbci_1;VBCI
 fr_vbci_2;VBCI
 germ_9a35_m_shop;◊Strela-10M
@@ -13615,10 +13615,10 @@ germ_pzh_2000_shop;PzH 2000
 germ_pzh_2000_0;PzH 2000
 germ_pzh_2000_1;PzH 2000
 germ_pzh_2000_2;PzH 2000
-it_9a35_m_shop;▄Strela-10M
-it_9a35_m_0;▄9A35M "Strela-10M"
-it_9a35_m_1;▄Strela-10M
-it_9a35_m_2;▄Strela-10M
+it_9a35_m_shop;◔Strela-10M
+it_9a35_m_0;◔9A35M "Strela-10M"
+it_9a35_m_1;◔Strela-10M
+it_9a35_m_2;◔Strela-10M
 it_ciclone_class_ghibli_shop;RN Ghibli
 it_ciclone_class_ghibli_0;Ciclone-class, RN Ghibli
 it_ciclone_class_ghibli_1;RN Ghibli
@@ -13627,10 +13627,10 @@ it_m44_shop;▄M44
 it_m44_0;▄Semovente M44 da 155/23
 it_m44_1;▄M44
 it_m44_2;▄M44
-it_pzh_2000_hu_shop;◐PzH 2000HU
-it_pzh_2000_hu_0;◐PzH 2000HU
-it_pzh_2000_hu_1;◐PzH 2000HU
-it_pzh_2000_hu_2;◐PzH 2000HU
+it_pzh_2000_hu_shop;◔PzH 2000HU
+it_pzh_2000_hu_0;◔PzH 2000HU
+it_pzh_2000_hu_1;◔PzH 2000HU
+it_pzh_2000_hu_2;◔PzH 2000HU
 jp_m44_shop;▅M44
 jp_m44_0;▅Howitzer, Self-propelled, Full Tracked: 155-mm, M44
 jp_m44_1;▅M44
@@ -13675,11 +13675,61 @@ us_rdf_lt_shop;RDF/LT
 us_rdf_lt_0;Rapid Deployment Force Light Tank
 us_rdf_lt_1;RDF/LT
 us_rdf_lt_2;RDF/LT
-ussr_battleship_arhangelsk_shop;Archangelsk
-ussr_battleship_arhangelsk_0;Revenge-class, Archangelsk, 1944
-ussr_battleship_arhangelsk_1;Archangelsk
-ussr_battleship_arhangelsk_2;Archangelsk
+ussr_battleship_arhangelsk_shop;Arkhangelsk
+ussr_battleship_arhangelsk_0;Revenge-class, Arkhangelsk, 1944
+ussr_battleship_arhangelsk_1;Arkhangelsk
+ussr_battleship_arhangelsk_2;Arkhangelsk
 ussr_bmd_4m_shop;BMD-4M
 ussr_bmd_4m_0;BMD-4M
 ussr_bmd_4m_1;BMD-4M
 ussr_bmd_4m_2;BMD-4M
+germ_pzkpfw_VI_ausf_h1_tiger_east_shop;Tiger Ost
+germ_pzkpfw_VI_ausf_h1_tiger_east_0;Kpfw. VI Tiger Ausf. H1 Ostfront
+germ_pzkpfw_VI_ausf_h1_tiger_east_1;Tiger Ost
+germ_pzkpfw_VI_ausf_h1_tiger_east_2;Tiger Ost
+germ_pzkpfw_VI_ausf_h1_tiger_west_shop;Tiger West
+germ_pzkpfw_VI_ausf_h1_tiger_west_0;Pz.Kpfw. VI Tiger Ausf. H1 Westfront
+germ_pzkpfw_VI_ausf_h1_tiger_west_1;Tiger West
+germ_pzkpfw_VI_ausf_h1_tiger_west_2;Tiger West
+shop/group/germ_tiger_east_west_group;Two Fronts
+shop/group/cn_tor_hq_group;Tor/HQ
+germ_flakpanzer_IV_Ostwind_2_net_shop;Ostwind Ost
+germ_flakpanzer_IV_Ostwind_2_net_0;Flakpanzer IV Ostwind II Ostfront
+germ_flakpanzer_IV_Ostwind_2_net_1;Ostwind Ost
+germ_flakpanzer_IV_Ostwind_2_net_2;Ostwind Ost
+germ_battlecruiser_ersatz_yorck_shop;Ersatz Yorck
+germ_battlecruiser_ersatz_yorck_0;Mackensen-class, Ersatz Yorck, 1915
+germ_battlecruiser_ersatz_yorck_1;Ersatz Yorck
+germ_battlecruiser_ersatz_yorck_2;Ersatz Yorck
+kfir_c10_colombia_shop;◡Kfir C.10
+kfir_c10_colombia_0;◡Kfir C.10 Block 60
+kfir_c10_colombia_1;◡Kfir C.10
+kfir_c10_colombia_2;◡Kfir C.10
+mb_151c1_shop;M.B.151C.1
+mb_151c1_0;M.B.151C.1
+mb_151c1_1;M.B.151C.1
+mb_151c1_2;M.B.151C.1
+cn_hq_17_shop;HQ17
+cn_hq_17_0;HQ17
+cn_hq_17_1;HQ17
+cn_hq_17_2;HQ17
+uk_battleship_rodney_shop;HMS Rodney
+uk_battleship_rodney_0;Nelson-class, HMS Rodney (29), 1940
+uk_battleship_rodney_1;HMS Rodney
+uk_battleship_rodney_2;HMS Rodney
+jp_battlecruiser_kirishima_shop;IJN Kirishima
+jp_battlecruiser_kirishima_0;Kongo-class, IJN Kirishima, 1942
+jp_battlecruiser_kirishima_1;IJN Kirishima
+jp_battlecruiser_kirishima_2;IJN Kirishima
+fr_cruiser_la_galissoniere_class_la_galissoniere_shop;La Galissonnière
+fr_cruiser_la_galissoniere_class_la_galissoniere_0;La Galissonnière-class, La Galissonnière, 1941
+fr_cruiser_la_galissoniere_class_la_galissoniere_1;La Galissonnière
+fr_cruiser_la_galissoniere_class_la_galissoniere_2;La Galissonnière
+cn_t_80ud_478be_shop;T-80UD/BE
+cn_t_80ud_478be_0;T-80UD/Object 478BE
+cn_t_80ud_478be_1;T-80UD/BE
+cn_t_80ud_478be_2;T-80UD/BE
+il_namer_tsrikhon_shop;Namer Tsrikhon
+il_namer_tsrikhon_0;Namer Tsrikhon
+il_namer_tsrikhon_1;Namer Tsrikhon
+il_namer_tsrikhon_2;Namer Tsrikhon
