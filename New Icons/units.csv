@@ -11621,10 +11621,10 @@ ussr_m53_59_shop;M53/59
 ussr_m53_59_0;M53/59
 ussr_m53_59_1;M53/59
 ussr_m53_59_2;M53/59
-germ_kpz_t72m1_shop;T-72M1
-germ_kpz_t72m1_0;KPz T-72M1
-germ_kpz_t72m1_1;T-72M1
-germ_kpz_t72m1_2;T-72M1
+germ_kpz_t72m1_shop;◊T-72M1
+germ_kpz_t72m1_0;◊KPz T-72M1
+germ_kpz_t72m1_1;◊T-72M1
+germ_kpz_t72m1_2;◊T-72M1
 il_merkava_mk_4_lic_shop;Merkava Mk.4 LIC
 il_merkava_mk_4_lic_0;Merkava Siman 4 LIC
 il_merkava_mk_4_lic_1;Merkava Mk.4 LIC
@@ -13745,3 +13745,7 @@ sb2c_5_thailand_shop;▄SB2C-5
 sb2c_5_thailand_0;▄SB2C-5 Helldiver
 sb2c_5_thailand_1;▄SB2C-5
 sb2c_5_thailand_2;▄SB2C-5
+f-5ag_norway_shop;◢F-5A(G)
+f-5ag_norway_0;◢F-5A(G) Tiger-PAWS
+f-5ag_norway_1;◢F-5A(G)
+f-5ag_norway_2;◢F-5A(G)
