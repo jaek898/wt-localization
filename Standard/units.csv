@@ -1609,10 +1609,10 @@ ussr_type_65_aa_shop;▂Phòng không T-34
 ussr_type_65_aa_0;▂Xe tăng phòng không 37 mm
 ussr_type_65_aa_1;▂Phòng không T-34
 ussr_type_65_aa_2;▂Phòng không T-34
-ussr_zsu_23_4_shop;ZSU-23-4
-ussr_zsu_23_4_0;ZSU-23-4 "Shilka"
-ussr_zsu_23_4_1;ZSU-23-4
-ussr_zsu_23_4_2;ZSU-23-4
+ussr_zsu_23_4_shop;ZSU-23-4V
+ussr_zsu_23_4_0;ZSU-23-4V "Shilka"
+ussr_zsu_23_4_1;ZSU-23-4V
+ussr_zsu_23_4_2;ZSU-23-4V
 ussr_zprk_2s6_shop;2S6
 ussr_zprk_2s6_0;ZPRK 2S6 "Tunguska"
 ussr_zprk_2s6_1;2S6
@@ -6790,10 +6790,10 @@ v_156_f_shop;V-156-F
 v_156_f_0;V-156-F
 v_156_f_1;V-156-F
 v_156_f_2;V-156-F
-v_156_b1_shop;V-156-B1
-v_156_b1_0;V-156-B1
-v_156_b1_1;V-156-B1
-v_156_b1_2;V-156-B1
+v_156_b1_shop;Chesapeake Mk I
+v_156_b1_0;Chesapeake Mk I
+v_156_b1_1;Chesapeake Mk I
+v_156_b1_2;Chesapeake Mk I
 whirlwind_mk1_shop;Whirlwind Mk I
 whirlwind_mk1_0;Whirlwind Mk I
 whirlwind_mk1_1;Whirlwind Mk I
@@ -8747,10 +8747,10 @@ jp_type_4_chi_to_shop;Chi-To
 jp_type_4_chi_to_0;Type 4 Chi-To
 jp_type_4_chi_to_1;Chi-To
 jp_type_4_chi_to_2;Chi-To
-jp_type_5_chi_ri_shop;Chi-Ri II
-jp_type_5_chi_ri_0;Type 5 Chi-Ri II
-jp_type_5_chi_ri_1;Chi-Ri II
-jp_type_5_chi_ri_2;Chi-Ri II
+jp_type_5_chi_ri_shop;Chi-Ri
+jp_type_5_chi_ri_0;Type 5 Chi-Ri
+jp_type_5_chi_ri_1;Chi-Ri
+jp_type_5_chi_ri_2;Chi-Ri
 jp_type_5_ho_ri_prototype_shop;Ho-Ri Prototype
 jp_type_5_ho_ri_prototype_0;Type 5 Ho-Ri Prototype
 jp_type_5_ho_ri_prototype_1;Ho-Ri Prototype
@@ -11346,10 +11346,10 @@ us_lcm_zippo_shop;LCM(6) Zippo
 us_lcm_zippo_0;Landing Craft Support (Flamethrower) Zippo
 us_lcm_zippo_1;LCM(6) Zippo
 us_lcm_zippo_2;LCM(6) Zippo
-il_zsu_23_4_shop;ZSU-23-4
-il_zsu_23_4_0;ZSU-23-4
-il_zsu_23_4_1;ZSU-23-4
-il_zsu_23_4_2;ZSU-23-4
+il_zsu_23_4_shop;ZSU-23-4V
+il_zsu_23_4_0;ZSU-23-4V
+il_zsu_23_4_1;ZSU-23-4V
+il_zsu_23_4_2;ZSU-23-4V
 germ_leichter_ladungstrager_303a_shop;Goliath 303a
 germ_leichter_ladungstrager_303a_0;Leichter Ladungsträger Sd.Kfz.303a
 germ_leichter_ladungstrager_303a_1;Goliath 303a
@@ -11881,10 +11881,10 @@ il_magach_6_rocket_shop;Magach Hydra
 il_magach_6_rocket_0;Magach 6R Hydra
 il_magach_6_rocket_1;Magach Hydra
 il_magach_6_rocket_2;Magach Hydra
-it_freccia_shop;Freccia
+it_freccia_shop;VBM Freccia C/C
 it_freccia_0;Veicolo Blindato Medio 8x8 Freccia, Combat c/c Spike
-it_freccia_1;Freccia
-it_freccia_2;Freccia
+it_freccia_1;VBM Freccia C/C
+it_freccia_2;VBM Freccia C/C
 jp_type_87_rcv_prot_shop;Type 87 RCV (P)
 jp_type_87_rcv_prot_0;Type 87 RCV (P)
 jp_type_87_rcv_prot_1;Type 87 RCV (P)
@@ -13725,10 +13725,10 @@ fr_cruiser_la_galissoniere_class_la_galissoniere_shop;La Galissonnière
 fr_cruiser_la_galissoniere_class_la_galissoniere_0;La Galissonnière-class, La Galissonnière, 1941
 fr_cruiser_la_galissoniere_class_la_galissoniere_1;La Galissonnière
 fr_cruiser_la_galissoniere_class_la_galissoniere_2;La Galissonnière
-cn_t_80ud_478be_shop;T-80UD/BE
-cn_t_80ud_478be_0;T-80UD/Object 478BE
-cn_t_80ud_478be_1;T-80UD/BE
-cn_t_80ud_478be_2;T-80UD/BE
+cn_t_80ud_478be_shop;T-80UD/DU1
+cn_t_80ud_478be_0;T-80UD/DU1 (Object 478DU1)
+cn_t_80ud_478be_1;T-80UD/DU1
+cn_t_80ud_478be_2;T-80UD/DU1
 il_namer_tsrikhon_shop;Namer Tsrikhon
 il_namer_tsrikhon_0;Namer Tsrikhon
 il_namer_tsrikhon_1;Namer Tsrikhon
@@ -13749,3 +13749,127 @@ f-5ag_norway_shop;◢F-5A(G)
 f-5ag_norway_0;◢F-5A(G) Tiger-PAWS
 f-5ag_norway_1;◢F-5A(G)
 f-5ag_norway_2;◢F-5A(G)
+fr_battleship_strasbourg_shop;Strasbourg
+fr_battleship_strasbourg_0;Dunkerque-class, Strasbourg, 1942
+fr_battleship_strasbourg_1;Strasbourg
+fr_battleship_strasbourg_2;Strasbourg
+germ_amd_35_kwk39_shop;Pz.Sp.Wg.P204(f) PaK
+germ_amd_35_kwk39_0;Pz.Sp.Wg.P204(f) PaK
+germ_amd_35_kwk39_1;Pz.Sp.Wg.P204(f) PaK
+germ_amd_35_kwk39_2;Pz.Sp.Wg.P204(f) PaK
+uk_a25_mk_8_shop;Harry Hopkins I
+uk_a25_mk_8_0;Tank, Light Mk VIII, Harry Hopkins Mk.I (A25)
+uk_a25_mk_8_1;Harry Hopkins I
+uk_a25_mk_8_2;Harry Hopkins I
+fr_amd_35_kwk39_shop;AMD.35 (PaK)
+fr_amd_35_kwk39_0;AMD.35 (PaK)
+fr_amd_35_kwk39_1;AMD.35 (PaK)
+fr_amd_35_kwk39_2;AMD.35 (PaK)
+j_11b_shop;J-11B
+j_11b_0;J-11B "Flanker-L"
+j_11b_1;J-11B
+j_11b_2;J-11B
+us_xm246_shop;XM246
+us_xm246_0;Gun, Air Defence Artillery, Self-Propelled, 35-mm, XM246
+us_xm246_1;XM246
+us_xm246_2;XM246
+uk_tracked_rapier_shop;Rapier
+uk_tracked_rapier_0;Tracked Rapier Launch Vehicle RCM 748
+uk_tracked_rapier_1;Rapier
+uk_tracked_rapier_2;Rapier
+it_c1_ariete_certezza_shop;Ariete Сertezza
+it_c1_ariete_certezza_0;C1 Ariete Сertezza
+it_c1_ariete_certezza_1;Ariete Сertezza
+it_c1_ariete_certezza_2;Ariete Сertezza
+su_30sm_shop;Su-30SM
+su_30sm_0;Su-30SM "Flanker-H"
+su_30sm_1;Su-30SM
+su_30sm_2;Su-30SM
+fa_18a_shop;F/A-18A
+fa_18a_0;F/A-18A Hornet
+fa_18a_1;F/A-18A
+fa_18a_2;F/A-18A
+fa_18c_early_shop;F/A-18C [E]
+fa_18c_early_0;F/A-18C Hornet Early
+fa_18c_early_1;F/A-18C [E]
+fa_18c_early_2;F/A-18C [E]
+fa_18c_finland_shop;▄F-18C
+fa_18c_finland_0;▄F-18C Hornet
+fa_18c_finland_1;▄F-18C
+fa_18c_finland_2;▄F-18C
+fa_18c_late_shop;F/A-18C [L]
+fa_18c_late_0;F/A-18C Hornet Late
+fa_18c_late_1;F/A-18C [L]
+fa_18c_late_2;F/A-18C [L]
+f_16a_block_10_netz_mod_shop;Netz '87
+f_16a_block_10_netz_mod_0;F-16A Block 10 Netz
+f_16a_block_10_netz_mod_1;Netz
+f_16a_block_10_netz_mod_2;Netz
+tiger_had_spain_shop;▄Tiger HAD
+tiger_had_spain_0;▄EC-665 Tiger HAD
+tiger_had_spain_1;▄Tiger HAD
+tiger_had_spain_2;▄Tiger HAD
+tiger_hac_france_shop;EC-665 Tiger HAC
+tiger_hac_france_0;EC-665 Tiger HAC
+tiger_hac_france_1;EC-665 Tiger HAC
+tiger_hac_france_2;EC-665 Tiger HAC
+tornado_ids_it_ret8_shop;▄Tornado IDS MLU
+tornado_ids_it_ret8_0;▄Tornado IDS MLU (RET 8)
+tornado_ids_it_ret8_1;▄Tornado IDS MLU
+tornado_ids_it_ret8_2;▄Tornado IDS MLU
+germ_marder_clovis_shop;CLOVIS
+germ_marder_clovis_0;Marder, CLOVIS, FL 20, 105 mm
+germ_marder_clovis_1;CLOVIS
+germ_marder_clovis_2;CLOVIS
+fr_marder_clovis_shop;▄CLOVIS
+fr_marder_clovis_0;▄Marder, CLOVIS, FL 20, 105 mm
+fr_marder_clovis_1;▄CLOVIS
+fr_marder_clovis_2;▄CLOVIS
+fr_marne_class_marne_shop;Marne
+fr_marne_class_marne_0;Marne-class, Marne
+fr_marne_class_marne_1;Marne
+fr_marne_class_marne_2;Marne
+fr_flower_class_aconit_shop;Aconit
+fr_flower_class_aconit_0;Flower-class, Aconit (K58)
+fr_flower_class_aconit_1;Aconit
+fr_flower_class_aconit_2;Aconit
+jp_destroyer_matsu_shop;IJN Matsu
+jp_destroyer_matsu_0;Matsu-class, IJN Matsu, 1944
+jp_destroyer_matsu_1;IJN Matsu
+jp_destroyer_matsu_2;IJN Matsu
+uk_battleship_q_elizabet_class_warspite_shop;HMS Warspite
+uk_battleship_q_elizabet_class_warspite_0;Queen Elizabeth-class, HMS Warspite (03), 1942
+uk_battleship_q_elizabet_class_warspite_1;HMS Warspite
+uk_battleship_q_elizabet_class_warspite_2;HMS Warspite
+it_destroyer_maestrale_class_grecale_shop;Grecale
+it_destroyer_maestrale_class_grecale_0;Maestrale-class, Grecale, 1949
+it_destroyer_maestrale_class_grecale_1;Grecale
+it_destroyer_maestrale_class_grecale_2;Grecale
+uk_mtb35_vosper_shop;MTB-35
+uk_mtb35_vosper_0;MTB Vosper 1 series, MTB-35
+uk_mtb35_vosper_1;MTB-35
+uk_mtb35_vosper_2;MTB-35
+fr_vtb12_mod_shop;VTB-12
+fr_vtb12_mod_0;VTB-12
+fr_vtb12_mod_1;VTB-12
+fr_vtb12_mod_2;VTB-12
+fr_vtb18_shop;VTB-18
+fr_vtb18_0;VTB-18
+fr_vtb18_1;VTB-18
+fr_vtb18_2;VTB-18
+jp_t14_class_mod02_shop;Type T-14 (mod. 2)
+jp_t14_class_mod02_0;Type T-14 (mod. 2)
+jp_t14_class_mod02_1;Type T-14 (mod. 2)
+jp_t14_class_mod02_2;Type T-14 (mod. 2)
+ussr_pr_103_sm4_shop;SM-4
+ussr_pr_103_sm4_0;Pr.103, SM-4-class
+ussr_pr_103_sm4_1;SM-4
+ussr_pr_103_sm4_2;SM-4
+ussr_2s19_m1_shop;2S19M1
+ussr_2s19_m1_0;2S19M1
+ussr_2s19_m1_1;2S19M1
+ussr_2s19_m1_2;2S19M1
+ussr_2s19_m2_shop;2S19M2
+ussr_2s19_m2_0;2S19M2
+ussr_2s19_m2_1;2S19M2
+ussr_2s19_m2_2;2S19M2
