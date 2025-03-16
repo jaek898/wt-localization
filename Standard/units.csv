@@ -8826,10 +8826,10 @@ germ_wiesel_1_mk20_shop;Wiesel 1A4
 germ_wiesel_1_mk20_0;Waffenträger Wiesel 1A4 MK
 germ_wiesel_1_mk20_1;Wiesel 1A4
 germ_wiesel_1_mk20_2;Wiesel 1A4
-germ_marder_df_105_shop;DF105
-germ_marder_df_105_0;DF105
-germ_marder_df_105_1;DF105
-germ_marder_df_105_2;DF105
+germ_marder_df_105_shop;◄DF105
+germ_marder_df_105_0;◄DF105
+germ_marder_df_105_1;◄DF105
+germ_marder_df_105_2;◄DF105
 germ_marder_1a1_shop;Marder A1-
 germ_marder_1a1_0;SPz Marder A1-
 germ_marder_1a1_1;Marder A1-
@@ -11449,10 +11449,10 @@ f_16a_block_10_shop;F-16A
 f_16a_block_10_0;F-16A Block 10 Fighting Falcon
 f_16a_block_10_1;F-16A
 f_16a_block_10_2;F-16A
-f_16a_block_10_iaf_shop;F-16A
-f_16a_block_10_iaf_0;F-16A Block 10 Netz
-f_16a_block_10_iaf_1;F-16A
-f_16a_block_10_iaf_2;F-16A
+f_16a_block_10_iaf_shop;F-16A [E]
+f_16a_block_10_iaf_0;F-16A Block 10 Netz Early
+f_16a_block_10_iaf_1;F-16A [E]
+f_16a_block_10_iaf_2;F-16A [E]
 tornado_gr1_shop;Tornado GR.1
 tornado_gr1_0;Tornado GR.1
 tornado_gr1_1;Tornado GR.1
@@ -13801,20 +13801,20 @@ fa_18c_late_shop;F/A-18C [L]
 fa_18c_late_0;F/A-18C Hornet Late
 fa_18c_late_1;F/A-18C [L]
 fa_18c_late_2;F/A-18C [L]
-f_16a_block_10_netz_mod_shop;Netz '87
-f_16a_block_10_netz_mod_0;F-16A Block 10 Netz
-f_16a_block_10_netz_mod_1;Netz
-f_16a_block_10_netz_mod_2;Netz
-tiger_had_spain_shop;▄Tiger HAD
-tiger_had_spain_0;▄EC-665 Tiger HAD
-tiger_had_spain_1;▄Tiger HAD
-tiger_had_spain_2;▄Tiger HAD
+f_16a_block_10_netz_mod_shop;F-16A [L]
+f_16a_block_10_netz_mod_0;F-16A Block 10 Netz Late
+f_16a_block_10_netz_mod_1;F-16A [L]
+f_16a_block_10_netz_mod_2;F-16A [L]
+tiger_had_spain_shop;▄Tigre HAD-E
+tiger_had_spain_0;▄EC-665 Tigre HAD-E
+tiger_had_spain_1;▄Tigre HAD-E
+tiger_had_spain_2;▄Tigre HAD-E
 tiger_hac_france_shop;EC-665 Tiger HAC
 tiger_hac_france_0;EC-665 Tiger HAC
 tiger_hac_france_1;EC-665 Tiger HAC
 tiger_hac_france_2;EC-665 Tiger HAC
 tornado_ids_it_ret8_shop;▄Tornado IDS MLU
-tornado_ids_it_ret8_0;▄Tornado IDS MLU (RET 8)
+tornado_ids_it_ret8_0;▄Tornado IDS MLU (RET.8)
 tornado_ids_it_ret8_1;▄Tornado IDS MLU
 tornado_ids_it_ret8_2;▄Tornado IDS MLU
 germ_marder_clovis_shop;CLOVIS
@@ -13873,3 +13873,37 @@ ussr_2s19_m2_shop;2S19M2
 ussr_2s19_m2_0;2S19M2
 ussr_2s19_m2_1;2S19M2
 ussr_2s19_m2_2;2S19M2
+shop/group/fr_aml_amx_group;AML/AMX
+shop/group/j_11_group;J-11
+it_fiat_6614_firos_shop;FIROS 6
+it_fiat_6614_firos_0;FIAT 6614 FIROS 6
+it_fiat_6614_firos_1;FIROS 6
+it_fiat_6614_firos_2;FIROS 6
+shop/group/f_14_group;F-14
+shop/group/tiger_group;Tiger HAD/Tiger HAC
+shop/group/tornado_ids_it_group;Tornado IDS
+harrier_t10_shop;Harrier T.10
+harrier_t10_0;Harrier T.10
+harrier_t10_1;Harrier T.10
+harrier_t10_2;Harrier T.10
+cn_vt_5_shop;VT5
+cn_vt_5_0;VT5
+cn_vt_5_1;VT5
+cn_vt_5_2;VT5
+jp_type_74_red_star_shop;Type 74 Red Star
+jp_type_74_red_star_0;Type 74 (C) Red Star
+jp_type_74_red_star_1;Type 74 Red Star
+jp_type_74_red_star_2;Type 74 Red Star
+fr_marder_df_105_shop;▄DF105
+fr_marder_df_105_0;▄DF105
+fr_marder_df_105_1;▄DF105
+fr_marder_df_105_2;▄DF105
+shop/group/fr_vtb_group;VTB-8/11/14
+germ_schutze_class_shop;Schütze
+germ_schutze_class_0;Schütze-class, Schütze (M1062)
+germ_schutze_class_1;Schütze
+germ_schutze_class_2;Schütze
+us_battleship_colorado_class_colorado_shop;USS Colorado
+us_battleship_colorado_class_colorado_0;Colorado-class, USS Colorado (BB-45), 1942
+us_battleship_colorado_class_colorado_1;USS Colorado
+us_battleship_colorado_class_colorado_2;USS Colorado
