@@ -13907,3 +13907,84 @@ us_battleship_colorado_class_colorado_shop;USS Colorado
 us_battleship_colorado_class_colorado_0;Colorado-class, USS Colorado (BB-45), 1942
 us_battleship_colorado_class_colorado_1;USS Colorado
 us_battleship_colorado_class_colorado_2;USS Colorado
+structures/203mm_artillery_event_0;Artillery
+shop/group/fr_hotchkiss_fcm_group;AMC/H.35/FCM
+ussr_garford_putilov_shop;Garford
+ussr_garford_putilov_0;Armoured Car ""Garford""
+ussr_garford_putilov_1;Garford
+ussr_garford_putilov_2;Light tank
+uk_garford_putilov_shop;Garford
+uk_garford_putilov_0;Armoured Car ""Garford""
+uk_garford_putilov_1;Garford
+uk_garford_putilov_2;Light tank
+germ_garford_putilov_shop;Garford-Beute
+germ_garford_putilov_0;Schwerer Panzerwagen ""Garford""
+germ_garford_putilov_1;Garford-Beute
+germ_garford_putilov_2;Light tank
+germ_garford_putilov_event_shop;Garford-Beute
+germ_garford_putilov_event_0;Schwerer Panzerwagen ""Garford""
+germ_garford_putilov_event_1;Garford-Beute
+germ_garford_putilov_event_2;Light tank
+germ_beutepanzer_mk_iv_event_shop;Beutepanzer IV
+germ_beutepanzer_mk_iv_event_0;Schwerer Kampfwagen (Beute) Mk.IV
+germ_beutepanzer_mk_iv_event_1;Beutepanzer IV
+germ_beutepanzer_mk_iv_event_2;SPG
+germ_a7v_event_shop;A7V
+germ_a7v_event_0;A7V-Sturmpanzerwagen
+germ_a7v_event_1;A7V
+germ_a7v_event_2;SPG
+uk_mark_v_event_shop;Mark V
+uk_mark_v_event_0;Machine Mark V, Male
+uk_mark_v_event_1;Mark V
+uk_mark_v_event_2;SPG
+uk_saint_chamond_event_shop;St-Chamond
+uk_saint_chamond_event_0;Char d'assaut ""Saint-Chamond""
+uk_saint_chamond_event_1;St-Chamond
+uk_saint_chamond_event_2;SPG
+uk_garford_putilov_event_shop;Garford
+uk_garford_putilov_event_0;Armoured Car ""Garford""
+uk_garford_putilov_event_1;Garford
+uk_garford_putilov_event_2;Light tank
+uk_mark_v_shop;Mark V
+uk_mark_v_0;Machine Mark V, Male
+uk_mark_v_1;Mark V
+uk_mark_v_2;SPG
+fr_saint_chamond_shop;St-Chamond
+fr_saint_chamond_0;Char d'assaut ""Saint-Chamond""
+fr_saint_chamond_1;St-Chamond
+fr_saint_chamond_2;SPG
+uk_saint_chamond_shop;St-Chamond
+uk_saint_chamond_0;Char d'assaut ""Saint-Chamond""
+uk_saint_chamond_1;St-Chamond
+uk_saint_chamond_2;SPG
+germ_a7v_shop;A7V
+germ_a7v_0;A7V-Sturmpanzerwagen
+germ_a7v_1;A7V
+germ_a7v_2;SPG
+germ_beutepanzer_mk_iv_shop;Beutepanzer IV
+germ_beutepanzer_mk_iv_0;Schwerer Kampfwagen (Beute) Mk.IV
+germ_beutepanzer_mk_iv_1;Beutepanzer IV
+germ_beutepanzer_mk_iv_2;SPG
+fokker_d7_shop;Fokker D.VII
+fokker_d7_0;Fokker D.VII
+fokker_d7_1;Fokker D.VII
+fokker_d7_2;Fokker
+zeppelin_shop;Zeppelin
+zeppelin_0;Zeppelin LZ 62 (L 30) R
+zeppelin_1;Zeppelin
+zeppelin_2;Zeppelin
+spad_13_shop;SPAD S.XIII
+spad_13_0;SPAD S.XIII
+spad_13_1;SPAD S.XIII
+spad_13_2;SPAD
+hp_12_shop;H.P.12
+hp_12_0;H.P.12
+hp_12_1;H.P.12
+hp_12_2;H.P.12
+germ_machinegun_mg_08_0;MG08
+germ_machinegun_mg_08_1;MG08
+germ_machinegun_mg_08_2;Machine Gun
+uk_machinegun_hotchkiss_mle_1914_0;Hotchkiss Mle 1909
+uk_machinegun_hotchkiss_mle_1914_1;Hotchkiss Mle 1909
+uk_machinegun_hotchkiss_mle_1914_2;Machine Gun
+soldier;Soldier
