@@ -13988,3 +13988,36 @@ uk_machinegun_hotchkiss_mle_1914_0;Hotchkiss Mle 1909
 uk_machinegun_hotchkiss_mle_1914_1;Hotchkiss Mle 1909
 uk_machinegun_hotchkiss_mle_1914_2;Hotchkiss Mle 1909
 soldier;Soldier
+ussr_t_44_po_shop;T-44(FM)
+ussr_t_44_po_0;T-44 First Modification
+ussr_t_44_po_1;T-44(FM)
+ussr_t_44_po_2;T-44(FM)
+meteor_frmk9_iaf_shop;Meteor FR.9
+meteor_frmk9_iaf_0;Meteor FR.9
+meteor_frmk9_iaf_1;Meteor FR.9
+meteor_frmk9_iaf_2;Meteor FR.9
+ah_1f_event_shop;AH-1F
+ah_1f_event_0;AH-1F
+ah_1f_event_1;AH-1F
+ah_1f_event_2;AH-1F
+mig-21_bis_event_shop;MiG-21bis
+mig-21_bis_event_0;MiG-21bis
+mig-21_bis_event_1;MiG-21bis
+mig-21_bis_event_2;MiG-21bis
+f_4e_event_shop;F-4E
+f_4e_event_0;F-4E Phantom II
+f_4e_event_1;F-4E
+f_4e_event_2;F-4E
+fr_arras_class_amiens_shop;Amiens
+fr_arras_class_amiens_0;Arras-class, Amiens
+fr_arras_class_amiens_1;Amiens
+fr_arras_class_amiens_2;Amiens
+ussr_ai_sam_launcher_s_75_0;SM-90 SAM S-75 launcher
+ussr_ai_sam_launcher_s_75_1;SM-90 Launcher
+ussr_ai_sam_launcher_s_75_2;SM-90 Launcher
+ussr_ai_sam_radar_p_12_0;P-12 SAM S-75 Acquisition Radar
+ussr_ai_sam_radar_p_12_1;P-12 [TT]
+ussr_ai_sam_radar_p_12_2;P-12 [TT]
+ussr_ai_sam_radar_snr_75_0;SNR-75 SAM S-75 Target Tracking Radar
+ussr_ai_sam_radar_snr_75_1;SNR-75 [TA]
+ussr_ai_sam_radar_snr_75_2;SNR-75 [TA]
