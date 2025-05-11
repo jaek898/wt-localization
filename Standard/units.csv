@@ -12022,10 +12022,10 @@ it_mc_485_shop;MC 485
 it_mc_485_0;S 26-class, MC 485
 it_mc_485_1;MC 485
 it_mc_485_2;MC 485
-germ_amd_35_kwk_shop;Pz.Sp.Wg.P204(f) KwK
-germ_amd_35_kwk_0;Pz.Sp.Wg.P204(f) KwK
-germ_amd_35_kwk_1;Pz.Sp.Wg.P204(f) KwK
-germ_amd_35_kwk_2;Pz.Sp.Wg.P204(f) KwK
+germ_amd_35_kwk_shop;Pz.Sp.Wg.P204(f) KwK 38
+germ_amd_35_kwk_0;Pz.Sp.Wg.P204(f) KwK 38
+germ_amd_35_kwk_1;Pz.Sp.Wg.P204(f) KwK 38
+germ_amd_35_kwk_2;Pz.Sp.Wg.P204(f) KwK 38
 su_25_558arz_shop;Su-25BM
 su_25_558arz_0;Su-25BM 558 ARZ "Frogfoot-A"
 su_25_558arz_1;Su-25BM
@@ -13753,10 +13753,10 @@ fr_battleship_strasbourg_shop;Strasbourg
 fr_battleship_strasbourg_0;Dunkerque-class, Strasbourg, 1942
 fr_battleship_strasbourg_1;Strasbourg
 fr_battleship_strasbourg_2;Strasbourg
-germ_amd_35_kwk39_shop;Pz.Sp.Wg.P204(f) PaK
-germ_amd_35_kwk39_0;Pz.Sp.Wg.P204(f) PaK
-germ_amd_35_kwk39_1;Pz.Sp.Wg.P204(f) PaK
-germ_amd_35_kwk39_2;Pz.Sp.Wg.P204(f) PaK
+germ_amd_35_kwk39_shop;Pz.Sp.Wg.P204(f) KwK 39/1
+germ_amd_35_kwk39_0;Pz.Sp.Wg.P204(f) KwK 39/1
+germ_amd_35_kwk39_1;Pz.Sp.Wg.P204(f) KwK 39/1
+germ_amd_35_kwk39_2;Pz.Sp.Wg.P204(f) KwK 39/1
 uk_a25_mk_8_shop;Harry Hopkins I
 uk_a25_mk_8_0;Tank, Light Mk VIII, Harry Hopkins Mk.I (A25)
 uk_a25_mk_8_1;Harry Hopkins I
@@ -14021,3 +14021,7 @@ ussr_ai_sam_radar_p_12_2;P-12 [TT]
 ussr_ai_sam_radar_snr_75_0;SNR-75 SAM S-75 Target Tracking Radar
 ussr_ai_sam_radar_snr_75_1;SNR-75 [TA]
 ussr_ai_sam_radar_snr_75_2;SNR-75 [TA]
+ussr_t_34_85_zis_53_v80_shop;T-34-85 "Partisan";
+ussr_t_34_85_zis_53_v80_0;T-34-85 "Partisan";
+ussr_t_34_85_zis_53_v80_1;T-34-85 "Partisan";
+ussr_t_34_85_zis_53_v80_2;T-34-85 "Partisan";
