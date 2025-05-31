@@ -9753,10 +9753,10 @@ uk_71ft_mgb_shop;MGB-75
 uk_71ft_mgb_0;71 ft MGB-75
 uk_71ft_mgb_1;MGB-75
 uk_71ft_mgb_2;MGB-75
-jp_karotei_type4_shop;Type 4 (Mod 4)
-jp_karotei_type4_0;Type 4 (Mod 4), Kuchiku-Tei Ka-Ro
-jp_karotei_type4_1;Type 4 (Mod 4)
-jp_karotei_type4_2;Type 4 (Mod 4)
+jp_karotei_type4_shop;Type 4 (mod 4)
+jp_karotei_type4_0;Type 4 (mod 4), Kuchiku-Tei Ka-Ro
+jp_karotei_type4_1;Type 4 (mod 4)
+jp_karotei_type4_2;Type 4 (mod 4)
 ussr_mbk_161_1943_shop;MBK-161 [E]
 ussr_mbk_161_1943_0;MBK-161 early modifications
 ussr_mbk_161_1943_1;MBK-161 [E]
@@ -12018,10 +12018,10 @@ b7a2_homare_23_shop;B7A2 (Homare 23)
 b7a2_homare_23_0;B7A2 (Homare 23) Ryusei
 b7a2_homare_23_1;B7A2 (Homare 23)
 b7a2_homare_23_2;B7A2 (Homare 23)
-it_mc_485_shop;MC 485
+it_mc_485_shop;MC-485
 it_mc_485_0;S 26-class, MC 485
-it_mc_485_1;MC 485
-it_mc_485_2;MC 485
+it_mc_485_1;MC-485
+it_mc_485_2;MC-485
 germ_amd_35_kwk_shop;Pz.Sp.Wg.P204(f) KwK 38
 germ_amd_35_kwk_0;Pz.Sp.Wg.P204(f) KwK 38
 germ_amd_35_kwk_1;Pz.Sp.Wg.P204(f) KwK 38
@@ -12079,8 +12079,8 @@ shop/group/germ_panzerjager_tiger_group;Ferdinand/Jagdtiger
 shop/group/ussr_t_34_40_41_group;T-34 (40/41)
 shop/group/ussr_t_34_42_group;T-34 (42/E)
 shop/group/ussr_t_54_group;T-54 (47/49/51)
-shop/group/ussr_t_55_group;T-55 (A/AMD-1)
-shop/group/ussr_t_62_group;T-62/62М-1
+shop/group/ussr_t_55_group;T-55/62
+shop/group/ussr_t_62_group;T-55AMD/62М-1
 shop/group/ussr_t_72b_group;T-72B/72B(89)
 shop/group/ussr_kv_1_2_group;KV-1/2(39)
 shop/group/ussr_kv_1_85_group;KV-1/85
@@ -13988,10 +13988,10 @@ uk_machinegun_hotchkiss_mle_1914_0;Hotchkiss Mle 1909
 uk_machinegun_hotchkiss_mle_1914_1;Hotchkiss Mle 1909
 uk_machinegun_hotchkiss_mle_1914_2;Hotchkiss Mle 1909
 soldier;Soldier
-ussr_t_44_po_shop;T-44(FM)
+ussr_t_44_po_shop;T-44 (FM)
 ussr_t_44_po_0;T-44 First Modification
-ussr_t_44_po_1;T-44(FM)
-ussr_t_44_po_2;T-44(FM)
+ussr_t_44_po_1;T-44 (FM)
+ussr_t_44_po_2;T-44 (FM)
 meteor_frmk9_iaf_shop;Meteor FR.9
 meteor_frmk9_iaf_0;Meteor FR.9
 meteor_frmk9_iaf_1;Meteor FR.9
@@ -14021,7 +14021,188 @@ ussr_ai_sam_radar_p_12_2;P-12 [TT]
 ussr_ai_sam_radar_snr_75_0;SNR-75 SAM S-75 Target Tracking Radar
 ussr_ai_sam_radar_snr_75_1;SNR-75 [TA]
 ussr_ai_sam_radar_snr_75_2;SNR-75 [TA]
-ussr_t_34_85_zis_53_v80_shop;T-34-85 "Partisan";
-ussr_t_34_85_zis_53_v80_0;T-34-85 "Partisan";
-ussr_t_34_85_zis_53_v80_1;T-34-85 "Partisan";
-ussr_t_34_85_zis_53_v80_2;T-34-85 "Partisan";
+ussr_t_34_85_zis_53_v80_shop;T-34-85 "Partisan"
+ussr_t_34_85_zis_53_v80_0;T-34-85 "Partisan"
+ussr_t_34_85_zis_53_v80_1;T-34-85 "Partisan"
+ussr_t_34_85_zis_53_v80_2;T-34-85 "Partisan"
+jp_type_81_tansam_fcs_shop;Tan-SAM kai [TADS]
+jp_type_81_tansam_fcs_0;Tan-SAM kai [Target Acquisition and Designation System]
+jp_type_81_tansam_fcs_1;Tan-SAM kai [TADS]
+jp_type_81_tansam_fcs_2;Tan-SAM kai [TADS]
+jp_type_81_tansam_launcher_shop;Tan-SAM kai [TEL]
+jp_type_81_tansam_launcher_0;Tan-SAM kai [Transporter Erector Launcher]
+jp_type_81_tansam_launcher_1;Tan-SAM kai [TEL]
+jp_type_81_tansam_launcher_2;Tan-SAM kai [TEL]
+shop/group/us_kit_3rank_group;Hell on Wheels
+shop/group/ussr_kit_3rank_group;In May 1945
+shop/group/uk_kit_3rank_group;Echoes of Overlord
+shop/group/uk_scimitar_fox_group;Scimitar/Fox
+shop/group/it_of_leo_group;OF/Leopard
+us_m4a3e8_76w_sherman_kit_3rank_shop;M4A3 (76) W (Hell)
+us_m4a3e8_76w_sherman_kit_3rank_0;Medium Tank M4A3 (76) W HVSS Sherman (Hell)
+us_m4a3e8_76w_sherman_kit_3rank_1;M4A3 (76) W (Hell)
+us_m4a3e8_76w_sherman_kit_3rank_2;M4A3 (76) W (Hell)
+us_m18_hellcat_kit_3rank_shop;M18 GMC (Hell)
+us_m18_hellcat_kit_3rank_0;M18 Gun Motor Carriage (Hell)
+us_m18_hellcat_kit_3rank_1;M18 GMC (Hell)
+us_m18_hellcat_kit_3rank_2;M18 GMC (Hell)
+ussr_t_34_85_zis_53_kit_3rank_shop;T-34-85 ('45)
+ussr_t_34_85_zis_53_kit_3rank_0;T-34-85 ('45)
+ussr_t_34_85_zis_53_kit_3rank_1;T-34-85 ('45)
+ussr_t_34_85_zis_53_kit_3rank_2;T-34-85 ('45)
+ussr_is_1_kit_3rank_shop;IS-1 ('45)
+ussr_is_1_kit_3rank_0;IS-1 ('45)
+ussr_is_1_kit_3rank_1;IS-1 ('45)
+ussr_is_1_kit_3rank_2;IS-1 ('45)
+ussr_sdkfz_251_21_kit_3rank_shop;Hanomag ('45)
+ussr_sdkfz_251_21_kit_3rank_0;Hanomag ('45)
+ussr_sdkfz_251_21_kit_3rank_1;Hanomag ('45)
+ussr_sdkfz_251_21_kit_3rank_2;Hanomag ('45)
+uk_a30_sp_avenger_kit_3rank_shop;Avenger (Overlord)
+uk_a30_sp_avenger_kit_3rank_0;Self Propelled 17pdr, A30 ""Avenger"" (Overlord)
+uk_a30_sp_avenger_kit_3rank_1;Avenger (Overlord)
+uk_a30_sp_avenger_kit_3rank_2;Avenger (Overlord)
+uk_crusader_aa_mk_2_kit_3rank_shop;Crusader AA (Overlord)
+uk_crusader_aa_mk_2_kit_3rank_0;Tank, Cruiser, Crusader III, AA Mk II (Overlord)
+uk_crusader_aa_mk_2_kit_3rank_1;Crusader AA (Overlord)
+uk_crusader_aa_mk_2_kit_3rank_2;Crusader AA (Overlord)
+uk_sherman_vc_firefly_kit_3rank_shop;Firefly (Overlord)
+uk_sherman_vc_firefly_kit_3rank_0;Sherman VC Firefly (Overlord)
+uk_sherman_vc_firefly_kit_3rank_1;Firefly (Overlord)
+uk_sherman_vc_firefly_kit_3rank_2;Firefly (Overlord)
+us_skink_aa_kit_3rank_shop;▃Skink (Hell)
+us_skink_aa_kit_3rank_0;▃Skink, Tank, Anti-Aircraft, 20 mm, Quad (Hell)
+us_skink_aa_kit_3rank_1;▃Skink (Hell)
+us_skink_aa_kit_3rank_2;▃Skink (Hell)
+germ_iris_slm_launcher_shop;IRIS-T SLM [TEL]
+germ_iris_slm_launcher_0;IRIS-T SLM [Transporter Erector Launcher]
+germ_iris_slm_launcher_1;IRIS-T SLM [TEL]
+germ_iris_slm_launcher_2;IRIS-T SLM [TEL]
+germ_iris_slm_fcs_shop;IRIS-T SLM [TADS]
+germ_iris_slm_fcs_0;IRIS-T SLM [Target Acquisition and Designation System]
+germ_iris_slm_fcs_1;IRIS-T SLM [TADS]
+germ_iris_slm_fcs_2;IRIS-T SLM [TADS]
+sc_1_shop;SC-1
+sc_1_0;SC-1 Seahawk
+sc_1_1;SC-1
+sc_1_2;SC-1
+l_39za_shop;▂L-39ZA
+l_39za_0;▂L-39ZA Albatros
+l_39za_1;▂L-39ZA
+l_39za_2;▂L-39ZA
+hunter_f58a_1971_switzerland_shop;◌Hunter F.58A
+hunter_f58a_1971_switzerland_0;◌Hunter F.58A (1971)
+hunter_f58a_1971_switzerland_1;◌Hunter F.58A
+hunter_f58a_1971_switzerland_2;◌Hunter F.58A
+f-5e_switzerland_shop;◌F-5E
+f-5e_switzerland_0;◌F-5E Tiger II
+f-5e_switzerland_1;◌F-5E
+f-5e_switzerland_2;◌F-5E
+nf_5a_netherlands_shop;◘NF-5A
+nf_5a_netherlands_0;◘NF-5A Freedom Fighter
+nf_5a_netherlands_1;◘NF-5A
+nf_5a_netherlands_2;◘NF-5A
+mirage_3s_c70_switzerland_shop;◌Mirage IIIS
+mirage_3s_c70_switzerland_0;◌Mirage IIIS C.70
+mirage_3s_c70_switzerland_1;◌Mirage IIIS
+mirage_3s_c70_switzerland_2;◌Mirage IIIS
+fokker_d21_netherlands_shop;◗Fokker D.XXI
+fokker_d21_netherlands_0;◗Fokker D.XXI
+fokker_d21_netherlands_1;◗Fokker D.XXI
+fokker_d21_netherlands_2;◗Fokker D.XXI
+fr_leopard_2a4nl_les_shop;Leopard 2 LES
+fr_leopard_2a4nl_les_0;Leopard 2A4NL LES
+fr_leopard_2a4nl_les_1;Leopard 2 LES
+fr_leopard_2a4nl_les_2;Leopard 2 LES
+ussr_t_72b3_arena_m_shop;T-72B3M
+ussr_t_72b3_arena_m_0;T-72B3M Arena-M
+ussr_t_72b3_arena_m_1;T-72B3M
+ussr_t_72b3_arena_m_2;T-72B3M
+marut_mk1_shop;▄HF-24
+marut_mk1_0;▄HF-24 Marut
+marut_mk1_1;▄HF-24
+marut_mk1_2;▄HF-24
+fa_18c_mlu_2_finland_shop;▄F/A-18C MLU 2
+fa_18c_mlu_2_finland_0;▄F/A-18C MLU 2 Hornet
+fa_18c_mlu_2_finland_1;▄F/A-18C MLU 2
+fa_18c_mlu_2_finland_2;▄F/A-18C MLU 2
+fa_18c_switzerland_shop;◌F/A-18C [E]
+fa_18c_switzerland_0;◌F/A-18C Hornet Early
+fa_18c_switzerland_1;◌F/A-18C [E]
+fa_18c_switzerland_2;◌F/A-18C [E]
+fa_18c_late_switzerland_shop;◌F/A-18C [L]
+fa_18c_late_switzerland_0;◌F/A-18C Hornet Late
+fa_18c_late_switzerland_1;◌F/A-18C [L]
+fa_18c_late_switzerland_2;◌F/A-18C [L]
+f_2a_shop;F-2A
+f_2a_0;F-2A
+f_2a_1;F-2A
+f_2a_2;F-2A
+f_2a_adtw_shop;F-2A ADTW
+f_2a_adtw_0;F-2A ADTW
+f_2a_adtw_1;F-2A ADTW
+f_2a_adtw_2;F-2A ADTW
+rah_66_shop;RAH-66
+rah_66_0;RAH-66 Comanche
+rah_66_1;RAH-66
+rah_66_2;RAH-66
+ussr_battleship_pr23_sovetskij_soyuz_shop;Sovetsky Soyuz
+ussr_battleship_pr23_sovetskij_soyuz_0;Project 23, Sovetsky Soyuz, project
+ussr_battleship_pr23_sovetskij_soyuz_1;Sovetsky Soyuz
+ussr_battleship_pr23_sovetskij_soyuz_2;Sovetsky Soyuz
+ussr_battlecruiser_sevastopol_shop;Sevastopol
+ussr_battlecruiser_sevastopol_0;Project 69I, Sevastopol, project
+ussr_battlecruiser_sevastopol_1;Sevastopol
+ussr_battlecruiser_sevastopol_2;Sevastopol
+us_battleship_iowa_class_iowa_shop;USS Iowa
+us_battleship_iowa_class_iowa_0;Iowa-class, USS Iowa (BB-61), 1944
+us_battleship_iowa_class_iowa_1;USS Iowa
+us_battleship_iowa_class_iowa_2;USS Iowa
+germ_battleship_gneisenau_380mm_shop;Gneisenau
+germ_battleship_gneisenau_380mm_0;Scharnhorst-class, Gneisenau, project
+germ_battleship_gneisenau_380mm_1;Gneisenau
+germ_battleship_gneisenau_380mm_2;Gneisenau
+uk_battleship_vanguard_shop;HMS Vanguard
+uk_battleship_vanguard_0;Vanguard-class, HMS Vanguard (23), 1946
+uk_battleship_vanguard_1;HMS Vanguard
+uk_battleship_vanguard_2;HMS Vanguard
+fr_battleship_richelieu_class_richelieu_shop;Richelieu
+fr_battleship_richelieu_class_richelieu_0;Richelieu-class, Richelieu, 1943
+fr_battleship_richelieu_class_richelieu_1;Richelieu
+fr_battleship_richelieu_class_richelieu_2;Richelieu
+jp_battleship_yamato_shop;IJN Yamato
+jp_battleship_yamato_0;Yamato-class, IJN Yamato, 1944
+jp_battleship_yamato_1;IJN Yamato
+jp_battleship_yamato_2;IJN Yamato
+jp_battleship_bismarck_shop;Bismarck
+jp_battleship_bismarck_0;Bismarck-class, Bismarck, 1941
+jp_battleship_bismarck_1;Bismarck
+jp_battleship_bismarck_2;Bismarck
+uk_badger_shop;Badger
+uk_badger_0;Badger ICV
+uk_badger_1;Badger
+uk_badger_2;Badger
+cn_pgz_625_fb10_shop;CS/SA5
+cn_pgz_625_fb10_0;CS/SA5
+cn_pgz_625_fb10_1;CS/SA5
+cn_pgz_625_fb10_2;CS/SA5
+sw_eldenhet_98_shop;EldE 98
+sw_eldenhet_98_0;EldEnhet 98
+sw_eldenhet_98_1;EldE 98
+sw_eldenhet_98_2;EldE 98
+it_leopard_1a2_shop;▄Leopard 1A2
+it_leopard_1a2_0;▄Leopard 1A2
+it_leopard_1a2_1;▄Leopard 1A2
+it_leopard_1a2_2;▄Leopard 1A2
+sw_m24_chaffee_dk_shop;M24DK
+sw_m24_chaffee_dk_0;Light Tank M24 Chaffee Denmark
+sw_m24_chaffee_dk_1;M24DK
+sw_m24_chaffee_dk_2;M24DK
+us_huckins_78ft_pt95_shop;PT-95
+us_huckins_78ft_pt95_0;Huckins PT-95
+us_huckins_78ft_pt95_1;PT-95
+us_huckins_78ft_pt95_2;PT-95
+it_battleship_littorio_class_roma_shop;RN Roma
+it_battleship_littorio_class_roma_0;Littorio-class, RN Roma, 1943
+it_battleship_littorio_class_roma_1;RN Roma
+it_battleship_littorio_class_roma_2;RN Roma
