@@ -11820,7 +11820,7 @@ ussr_bm_31_12_shop;BM-31-12
 ussr_bm_31_12_0;BM-31-12
 ussr_bm_31_12_1;BM-31-12
 ussr_bm_31_12_2;BM-31-12
-shop/group/il_magach_6_group;Magach 6 B/R/Hydra
+shop/group/il_magach_6_group;Magach 6 R/B/Hydra
 us_m4_t26_shop;M4/T26
 us_m4_t26_0;M4/T26
 us_m4_t26_1;M4/T26
@@ -12450,7 +12450,7 @@ shop/group/ki_27_group;Ki-27/Ki-43
 shop/group/i-153_group;I-15bis/I-153 M-62
 ships/cargo_ship_norbris;Cargo ship
 shop/group/saab_t18b_group;T18B
-shop/group/uk_cruiser_kent_norfolk_group;HMS Kent/HMS Norfolk
+shop/group/uk_cruiser_kent_norfolk_group;County-class
 shop/group/uk_destroyer_daring_group;HMS Diana/HMS Daring
 shop/group/uk_destroyer_battle_group;HMAS Tobruk/HMS Armada
 shop/group/us_cruiser_fargo_brooklyn_group;USS Fargo/USS Brooklyn
@@ -14025,14 +14025,14 @@ ussr_t_34_85_zis_53_v80_shop;T-34-85 "Partisan"
 ussr_t_34_85_zis_53_v80_0;T-34-85 "Partisan"
 ussr_t_34_85_zis_53_v80_1;T-34-85 "Partisan"
 ussr_t_34_85_zis_53_v80_2;T-34-85 "Partisan"
-jp_type_81_tansam_fcs_shop;Tan-SAM kai [TADS]
-jp_type_81_tansam_fcs_0;Tan-SAM kai [Target Acquisition and Designation System]
-jp_type_81_tansam_fcs_1;Tan-SAM kai [TADS]
-jp_type_81_tansam_fcs_2;Tan-SAM kai [TADS]
-jp_type_81_tansam_launcher_shop;Tan-SAM kai [TEL]
-jp_type_81_tansam_launcher_0;Tan-SAM kai [Transporter Erector Launcher]
-jp_type_81_tansam_launcher_1;Tan-SAM kai [TEL]
-jp_type_81_tansam_launcher_2;Tan-SAM kai [TEL]
+jp_type_81_tansam_fcs_shop;Tan-SAM Kai [TADS]
+jp_type_81_tansam_fcs_0;Tan-SAM Kai [Target Acquisition and Designation System]
+jp_type_81_tansam_fcs_1;Tan-SAM Kai [TADS]
+jp_type_81_tansam_fcs_2;Tan-SAM Kai [TADS]
+jp_type_81_tansam_launcher_shop;Tan-SAM Kai [TEL]
+jp_type_81_tansam_launcher_0;Tan-SAM Kai [Transporter Erector Launcher]
+jp_type_81_tansam_launcher_1;Tan-SAM Kai [TEL]
+jp_type_81_tansam_launcher_2;Tan-SAM Kai [TEL]
 shop/group/us_kit_3rank_group;Hell on Wheels
 shop/group/ussr_kit_3rank_group;In May 1945
 shop/group/uk_kit_3rank_group;Echoes of Overlord
@@ -14110,14 +14110,14 @@ fokker_d21_netherlands_shop;◗Fokker D.XXI
 fokker_d21_netherlands_0;◗Fokker D.XXI
 fokker_d21_netherlands_1;◗Fokker D.XXI
 fokker_d21_netherlands_2;◗Fokker D.XXI
-fr_leopard_2a4nl_les_shop;Leopard 2 LES
-fr_leopard_2a4nl_les_0;Leopard 2A4NL LES
-fr_leopard_2a4nl_les_1;Leopard 2 LES
-fr_leopard_2a4nl_les_2;Leopard 2 LES
-ussr_t_72b3_arena_m_shop;T-72B3M
-ussr_t_72b3_arena_m_0;T-72B3M Arena-M
-ussr_t_72b3_arena_m_1;T-72B3M
-ussr_t_72b3_arena_m_2;T-72B3M
+fr_leopard_2a4nl_les_shop;Leopard 2 (OTCo)
+fr_leopard_2a4nl_les_0;Leopard 2A4NL Opleidings- en Trainingscommando
+fr_leopard_2a4nl_les_1;Leopard 2 (OTCo)
+fr_leopard_2a4nl_les_2;Leopard 2 (OTCo)
+ussr_t_72b3_arena_m_shop;T-72B3A
+ussr_t_72b3_arena_m_0;T-72B3A Arena-M
+ussr_t_72b3_arena_m_1;T-72B3A
+ussr_t_72b3_arena_m_2;T-72B3A
 marut_mk1_shop;▄HF-24
 marut_mk1_0;▄HF-24 Marut
 marut_mk1_1;▄HF-24
@@ -14155,7 +14155,7 @@ ussr_battlecruiser_sevastopol_0;Project 69I, Sevastopol, project
 ussr_battlecruiser_sevastopol_1;Sevastopol
 ussr_battlecruiser_sevastopol_2;Sevastopol
 us_battleship_iowa_class_iowa_shop;USS Iowa
-us_battleship_iowa_class_iowa_0;Iowa-class, USS Iowa (BB-61), 1944
+us_battleship_iowa_class_iowa_0;Iowa-class, USS Iowa (BB-61), 1945
 us_battleship_iowa_class_iowa_1;USS Iowa
 us_battleship_iowa_class_iowa_2;USS Iowa
 germ_battleship_gneisenau_380mm_shop;Gneisenau
@@ -14171,13 +14171,9 @@ fr_battleship_richelieu_class_richelieu_0;Richelieu-class, Richelieu, 1943
 fr_battleship_richelieu_class_richelieu_1;Richelieu
 fr_battleship_richelieu_class_richelieu_2;Richelieu
 jp_battleship_yamato_shop;IJN Yamato
-jp_battleship_yamato_0;Yamato-class, IJN Yamato, 1944
+jp_battleship_yamato_0;Yamato-class, IJN Yamato, 1945
 jp_battleship_yamato_1;IJN Yamato
 jp_battleship_yamato_2;IJN Yamato
-jp_battleship_bismarck_shop;Bismarck
-jp_battleship_bismarck_0;Bismarck-class, Bismarck, 1941
-jp_battleship_bismarck_1;Bismarck
-jp_battleship_bismarck_2;Bismarck
 uk_badger_shop;Badger
 uk_badger_0;Badger ICV
 uk_badger_1;Badger
@@ -14206,3 +14202,80 @@ it_battleship_littorio_class_roma_shop;RN Roma
 it_battleship_littorio_class_roma_0;Littorio-class, RN Roma, 1943
 it_battleship_littorio_class_roma_1;RN Roma
 it_battleship_littorio_class_roma_2;RN Roma
+ships/ussr_aircraftcarrier_admiral_kuznetsov_0;Carrier
+ships/ussr_aircraftcarrier_admiral_kuznetsov_1;Carrier
+ships/ussr_aircraftcarrier_admiral_kuznetsov_2;Carrier
+ships/jp_aircraftcarrier_shokaku_0;Carrier
+ships/jp_aircraftcarrier_shokaku_1;Carrier
+ships/jp_aircraftcarrier_shokaku_2;Carrier
+shop/group/us_sl_amraam_fcs_group;CLAWS
+shop/group/germ_iris_slm_fcs_group;IRIS-T SLM
+shop/group/jp_type_81_tansam_fcs_group;Tan-SAM Kai
+us_t86_shop;T86
+us_t86_0;T86 Amphibious Gun Motor Carriage
+us_t86_1;T86
+us_t86_2;T86
+fr_msc_shop;MSC
+fr_msc_0;Mulet Systéme Complet
+fr_msc_1;MSC
+fr_msc_2;MSC
+c_3604_shop;◌С-3604
+c_3604_0;◌С-3604
+c_3604_1;◌С-3604
+c_3604_2;◌С-3604
+z_10a_shop;Z-10A
+z_10a_0;Z-10A
+z_10a_1;Z-10A
+z_10a_2;Z-10A
+z_10me_shop;Z-10ME
+z_10me_0;Z-10ME
+z_10me_1;Z-10ME
+z_10me_2;Z-10ME
+us_sl_amraam_fcs_shop;CLAWS [TADS]
+us_sl_amraam_fcs_0;M1097A2 CLAWS [Target Acquisition and Designation System]
+us_sl_amraam_fcs_1;CLAWS [TADS]
+us_sl_amraam_fcs_2;CLAWS [TADS]
+us_sl_amraam_launcher_shop;CLAWS [TEL]
+us_sl_amraam_launcher_0;M1097A2 CLAWS [Transporter Erector Launcher]
+us_sl_amraam_launcher_1;CLAWS [TEL]
+us_sl_amraam_launcher_2;CLAWS [TEL]
+mig_29_9_12_sniper_shop;MiG-29 Sniper;
+mig_29_9_12_sniper_0;MiG-29 Sniper;
+mig_29_9_12_sniper_1;MiG-29 Sniper;
+mig_29_9_12_sniper_2;MiG-29 Sniper;
+saab_f35_wdns_shop;F-35
+saab_f35_wdns_0;F-35 Draken
+saab_f35_wdns_1;F-35
+saab_f35_wdns_2;F-35
+ussr_aircraftcarrier_admiral_kuznetsov_shop;Admiral Kuznetsov
+ussr_aircraftcarrier_admiral_kuznetsov_0;Admiral Kuznetsov
+ussr_aircraftcarrier_admiral_kuznetsov_1;Admiral Kuznetsov
+ussr_aircraftcarrier_admiral_kuznetsov_2;Admiral Kuznetsov
+jp_aircraftcarrier_shokaku_shop;IJN Shokaku
+jp_aircraftcarrier_shokaku_0;Shokaku-class,IJN Shokaku
+jp_aircraftcarrier_shokaku_1;IJN Shokaku
+jp_aircraftcarrier_shokaku_2;IJN Shokaku
+shop/group/germ_cruiser_leipzig_nurnberg_group;Leipzig/Nurnberg
+shop/group/us_cruiser_northampton_pensacola_group;USS Northampton/Portland/Pensacola
+shop/group/ussr_cruiser_chapaev_kutuzov_group;Project 68
+shop/group/jp_cruiser_furutaka_aoba_group;IJN Furutaka/Aoba
+germ_battleship_bismarck_shop;Bismarck
+germ_battleship_bismarck_0;Bismarck-class, Bismarck, 1941
+germ_battleship_bismarck_1;Bismarck
+germ_battleship_bismarck_2;Bismarck
+il_spyder_aio_shop;SPYDER
+il_spyder_aio_0;SPYDER AIO
+il_spyder_aio_1;SPYDER
+il_spyder_aio_2;SPYDER
+jp_destroyer_yukikaze_shop;IJN Yukikaze
+jp_destroyer_yukikaze_0;Kagero-class, IJN Yukikaze, 1945
+jp_destroyer_yukikaze_1;IJN Yukikaze
+jp_destroyer_yukikaze_2;IJN Yukikaze
+fr_vtb10_shop;VTB-10
+fr_vtb10_0;VTB-10
+fr_vtb10_1;VTB-10
+fr_vtb10_2;VTB-10
+uk_71ft_mtb460_shop;MTB-460
+uk_71ft_mtb460_0;71 ft MTB-460
+uk_71ft_mtb460_1;MTB-460
+uk_71ft_mtb460_2;MTB-460
