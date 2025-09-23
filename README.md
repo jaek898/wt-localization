@@ -70,7 +70,7 @@ Switching languages is faster and more convenient than restarting the game. As p
 
 </details>
 
-# To Uninstall
+## To Uninstall
 
 - Disable the "custom localization" option in the hangar.
   - If that does not work, close the game, delete the lang folder entirely, and then remove the testLocalization:b=yes line from config.blk. Save the file and launch the game.
