@@ -12697,10 +12697,10 @@ fr_destroyer_vauquelin_class_vauquelin_shop;Vauquelin
 fr_destroyer_vauquelin_class_vauquelin_0;Vauquelin-class, Vauquelin, 1941
 fr_destroyer_vauquelin_class_vauquelin_1;Vauquelin
 fr_destroyer_vauquelin_class_vauquelin_2;Vauquelin
-saab_jas39c_south_africa_shop;▄JAS39C
+saab_jas39c_south_africa_shop;▄JAS39C [SAAF]
 saab_jas39c_south_africa_0;▄JAS39C Gripen
-saab_jas39c_south_africa_1;▄JAS39C
-saab_jas39c_south_africa_2;▄JAS39C
+saab_jas39c_south_africa_1;▄JAS39C [SAAF]
+saab_jas39c_south_africa_2;▄JAS39C [SAAF]
 mirage_2000c_s4_shop;Mirage 2000C-S4
 mirage_2000c_s4_0;Mirage 2000C-S4
 mirage_2000c_s4_1;Mirage 2000C-S4
@@ -13575,10 +13575,10 @@ ef_2000a_shop;╏F-2000A
 ef_2000a_0;╏F-2000A Typhoon
 ef_2000a_1;╏F-2000A
 ef_2000a_2;╏F-2000A
-f_16a_block_15_ocu_thailand_shop;▄F-16A OCU
+f_16a_block_15_ocu_thailand_shop;▄F-16A OCU [RTAF]
 f_16a_block_15_ocu_thailand_0;▄F-16A Block 15 OCU Fighting Falcon
-f_16a_block_15_ocu_thailand_1;▄F-16A OCU
-f_16a_block_15_ocu_thailand_2;▄F-16A OCU
+f_16a_block_15_ocu_thailand_1;▄F-16A OCU [RTAF]
+f_16a_block_15_ocu_thailand_2;▄F-16A OCU [RTAF]
 f-5a_thailand_shop;▄F-5A
 f-5a_thailand_0;▄F-5A Freedom Fighter
 f-5a_thailand_1;▄F-5A
@@ -13639,10 +13639,10 @@ rafale_c_f3_shop;Rafale C
 rafale_c_f3_0;Rafale C F3-R
 rafale_c_f3_1;Rafale C
 rafale_c_f3_2;Rafale C
-saab_jas39c_thailand_shop;▄JAS39C
+saab_jas39c_thailand_shop;▄JAS39C [RTAF]
 saab_jas39c_thailand_0;▄JAS39C Gripen
-saab_jas39c_thailand_1;▄JAS39C
-saab_jas39c_thailand_2;▄JAS39C
+saab_jas39c_thailand_1;▄JAS39C [RTAF]
+saab_jas39c_thailand_2;▄JAS39C [RTAF]
 shop/group/fr_arl_jumbo_group;ARL/M4A3E2
 shop/group/fr_auf_acra_group;AuF/ACRA
 shop/group/germ_dicker_sturer_group;Max/Emil
@@ -14426,10 +14426,10 @@ cf_188a_canada_shop;CF-188A
 cf_188a_canada_0;CF-188A
 cf_188a_canada_1;CF-188A
 cf_188a_canada_2;CF-188A
-f_16a_block_15_ocu_belgium_shop;▄F-16A OCU
+f_16a_block_15_ocu_belgium_shop;▄F-16A OCU [BAF]
 f_16a_block_15_ocu_belgium_0;▄F-16A Block 15 OCU Fighting Falcon
-f_16a_block_15_ocu_belgium_1;▄F-16A OCU
-f_16a_block_15_ocu_belgium_2;▄F-16A OCU
+f_16a_block_15_ocu_belgium_1;▄F-16A OCU [BAF]
+f_16a_block_15_ocu_belgium_2;▄F-16A OCU [BAF]
 f_16i_sufa_shop;F-16I
 f_16i_sufa_0;F-16I Sufa
 f_16i_sufa_1;F-16I
