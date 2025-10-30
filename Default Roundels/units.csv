@@ -8894,10 +8894,10 @@ sw_strv_121_shop;Strv 121
 sw_strv_121_0;Stridsvagn 121
 sw_strv_121_1;Strv 121
 sw_strv_121_2;Strv 121
-sw_cv_90120_shop;CV 90120
-sw_cv_90120_0;Combat Vehicle 90120
-sw_cv_90120_1;CV 90120
-sw_cv_90120_2;CV 90120
+sw_cv_90120_shop;CV 90120-T
+sw_cv_90120_0;Combat Vehicle 90120-T
+sw_cv_90120_1;CV 90120-T
+sw_cv_90120_2;CV 90120-T
 sw_strv_122b_plss_shop;Strv 122B PLSS
 sw_strv_122b_plss_0;Stridsvagn 122B PLSS
 sw_strv_122b_plss_1;Strv 122B PLSS
@@ -13180,10 +13180,10 @@ pbm_5a_shop;PBM-5A
 pbm_5a_0;PBM-5A Mariner
 pbm_5a_1;PBM-5A
 pbm_5a_2;PBM-5A
-f_14a_iriaf_shop;▄F-14A
-f_14a_iriaf_0;▄F-14A Tomcat IRIAF
-f_14a_iriaf_1;▄F-14A
-f_14a_iriaf_2;▄F-14A
+f_14a_iriaf_shop;☫F-14A
+f_14a_iriaf_0;☫F-14A Tomcat IRIAF
+f_14a_iriaf_1;☫F-14A
+f_14a_iriaf_2;☫F-14A
 a_10c_shop;A-10C
 a_10c_0;A-10C Thunderbolt II
 a_10c_1;A-10C
@@ -13268,10 +13268,10 @@ jf_17_shop;JF-17
 jf_17_0;JF-17 Thunder
 jf_17_1;JF-17
 jf_17_2;JF-17
-jp_icv_prototype_shop;RCV (P)
-jp_icv_prototype_0;Common Tactical Wheeled Vehicle, RCV
-jp_icv_prototype_1;RCV (P)
-jp_icv_prototype_2;RCV (P)
+jp_icv_prototype_shop;Type 25 RCV (P)
+jp_icv_prototype_0;Type 25 RCV (P)
+jp_icv_prototype_1;Type 25 RCV (P)
+jp_icv_prototype_2;Type 25 RCV (P)
 jp_type1_pt2_shop;PT-802
 jp_type1_pt2_0;Type 1, PT-802
 jp_type1_pt2_1;PT-802
@@ -13496,10 +13496,10 @@ jp_destroyer_murasame_shop;JDS Murasame (DD-107)
 jp_destroyer_murasame_0;Murasame-class, JDS Murasame  (DD-107), 1976
 jp_destroyer_murasame_1;JDS Murasame (DD-107)
 jp_destroyer_murasame_2;JDS Murasame (DD-107)
-jp_icv_ifv_prototype_shop;ICV (P)
-jp_icv_ifv_prototype_0;Common Tactical Wheeled Vehicle, ICV
-jp_icv_ifv_prototype_1;ICV (P)
-jp_icv_ifv_prototype_2;ICV (P)
+jp_icv_ifv_prototype_shop;Type 24 ICV (P)
+jp_icv_ifv_prototype_0;Type 24 ICV (P)
+jp_icv_ifv_prototype_1;Type 24 ICV (P)
+jp_icv_ifv_prototype_2;Type 24 ICV (P)
 mi_35m_pakistan_shop;▄Mi-35M
 mi_35m_pakistan_0;▄Mi-35M "Hind-E"
 mi_35m_pakistan_1;▄Mi-35M
@@ -13739,7 +13739,7 @@ uk_shir_2_1;FV4030/3
 uk_shir_2_2;FV4030/3
 fr_m46_patton_shop;▄M46
 fr_m46_patton_0;▄Char Moyen Type ""Patton"" M46
-fr_m46_patton_1;vM46
+fr_m46_patton_1;▄M46
 fr_m46_patton_2;▄M46
 sb2c_5_thailand_shop;▄SB2C-5
 sb2c_5_thailand_0;▄SB2C-5 Helldiver
@@ -14495,7 +14495,7 @@ fr_adroit_class_0;Adroit-class, L'Intrépide (P630)
 fr_adroit_class_1;L'Intrépide
 fr_adroit_class_2;L'Intrépide
 it_mc492_baleno_shop;Baleno MC-492
-it_mc492_baleno_0;MC-491,Baleno MC-492
+it_mc492_baleno_0;MC-491, Baleno MC-492
 it_mc492_baleno_1;Baleno MC-492
 it_mc492_baleno_2;Baleno MC-492
 us_destroyer_cf_adams_class_cf_adams_shop;USS Charles F. Adams
@@ -14558,3 +14558,196 @@ germ_destroyer_class1942_z51_shop;Z51
 germ_destroyer_class1942_z51_0;Type 1942, Z51, project
 germ_destroyer_class1942_z51_1;Z51
 germ_destroyer_class1942_z51_2;Z51
+structures/oil_storage_tank;Oil Storage Tank
+structures/building;Building
+structures/industrial_building;Industrial Building
+structures/chemical_processing_unit;Processing Unit
+structures/cooling_tower;Cooling Tower
+structures/fan_cooling_tower;Fan Cooling Tower
+structures/chimney;Chimney
+shop/group/us_m56_m50_group;M56/M50
+shop/group/us_m247_mim72_group;M247/Chaparral
+shop/group/germ_raketen_group;Raketenautomat/RakJPz
+shop/group/ussr_9a33_35_group;Osa/Strela
+shop/group/ussr_it_9p149_group;IT/Shturm
+shop/group/ussr_su_object_group;SU/Object
+shop/group/uk_stormer_9a33_group;Stormer/Osa
+shop/group/uk_stormer_9a35_group;Stormer/Strela
+shop/group/uk_fv_m109_group;FV/M109
+shop/group/uk_vickers_olifant_group;Vickers/Olifant
+shop/group/uk_vickers_rooikat_group;Vickers/Rooikat
+shop/group/uk_vfm_mttd_group;VFM/MTTD
+shop/group/fr_foch_acra_group;Foch/ACRA
+shop/group/uk_cromwell_sherman_group;Cromwell/Sherman
+us_efv_p1_shop;EFV
+us_efv_p1_0;Expeditionary Fighting Vehicle EFV
+us_efv_p1_1;EFV
+us_efv_p1_2;EFV
+ussr_t_34_85_stp_s53_shop;T-34-85 (STP)
+ussr_t_34_85_stp_s53_0;T-34-85 STP-S-53
+ussr_t_34_85_stp_s53_1;T-34-85 (STP)
+ussr_t_34_85_stp_s53_2;T-34-85 (STP)
+uk_chieftain_900_shop;Chieftain 900
+uk_chieftain_900_0;Chieftain 900
+uk_chieftain_900_1;Chieftain 900
+uk_chieftain_900_2;Chieftain 900
+fr_jaguar_ebrc_shop;EBRC Jaguar
+fr_jaguar_ebrc_0;EBRC Jaguar
+fr_jaguar_ebrc_1;EBRC Jaguar
+fr_jaguar_ebrc_2;EBRC Jaguar
+yak_1_litvyak_shop;Yak-1 Litvyak
+yak_1_litvyak_0;Yak-1 Litvyak
+yak_1_litvyak_1;Yak-1 Litvyak
+yak_1_litvyak_2;Yak-1 Litvyak
+jh_7_shop;JH-7
+jh_7_0;JH-7 Block 02 "Flounder"
+jh_7_1;JH-7
+jh_7_2;JH-7
+jh_7a_prototype_shop;JH-7A [P]
+jh_7a_prototype_0;JH-7A Prototype
+jh_7a_prototype_1;JH-7A [P]
+jh_7a_prototype_2;JH-7A [P]
+xf5u_1_shop;XF5U-1
+xf5u_1_0;XF5U-1 Flying Flapjack
+xf5u_1_1;XF5U-1
+xf5u_1_2;XF5U-1
+mb_326k_shop;MB-326K
+mb_326k_0;MB-326K
+mb_326k_1;MB-326K
+mb_326k_2;MB-326K
+re_2005_vdm_shop;Re.2005 (VDM)
+re_2005_vdm_0;Re.2005 MM.495 (VDM)
+re_2005_vdm_1;Re.2005 (VDM)
+re_2005_vdm_2;Re.2005 (VDM)
+ussr_btr_82at_shop;BTR-82AT
+ussr_btr_82at_0;BTR-82AT
+ussr_btr_82at_1;BTR-82AT
+ussr_btr_82at_2;BTR-82AT
+md_450b_ouragan_iaf_29_shop;M.D.450B (29)
+md_450b_ouragan_iaf_29_0;M.D.450B Ouragan (29)
+md_450b_ouragan_iaf_29_1;M.D.450B (29)
+md_450b_ouragan_iaf_29_2;M.D.450B (29)
+fokker_d23_shop;◗Fokker D.XXIII
+fokker_d23_0;◗Fokker D.XXIII
+fokker_d23_1;◗Fokker D.XXIII
+fokker_d23_2;◗Fokker D.XXIII
+germ_leopard_2a4m_can_sm_shop;◍Leopard 2A4M
+germ_leopard_2a4m_can_sm_0;◍Leopard 2A4M CAN
+germ_leopard_2a4m_can_sm_1;◍Leopard 2A4M
+germ_leopard_2a4m_can_sm_2;◍Leopard 2A4M
+il_m113_hvms_shop;Bardelas/60mm HVMS
+il_m113_hvms_0;Bardelas/60mm HVMS
+il_m113_hvms_1;Bardelas/60mm HVMS
+il_m113_hvms_2;Bardelas/60mm HVMS
+ussr_t_80ue1_sm_shop;◍Т-80U-Е1
+ussr_t_80ue1_sm_0;◍Т-80U-Е1
+ussr_t_80ue1_sm_1;◍Т-80U-Е1
+ussr_t_80ue1_sm_2;◍Т-80U-Е1
+it_c13_tua_shop;C13/TUA
+it_c13_tua_0;OTO C13/TUA
+it_c13_tua_1;C13/TUA
+it_c13_tua_2;C13/TUA
+su_30mk2v_venezuela_shop;Su-30MK2 AMV
+su_30mk2v_venezuela_0;Su-30MK2 AMV "Flanker-H"
+su_30mk2v_venezuela_1;Su-30MK2 AMV
+su_30mk2v_venezuela_2;Su-30MK2 AMV
+f_15c_golden_eagle_shop;F-15C Golden Eagle
+f_15c_golden_eagle_0;F-15C Golden Eagle
+f_15c_golden_eagle_1;F-15C Golden Eagle
+f_15c_golden_eagle_2;F-15C Golden Eagle
+tornado_ids_de_assta3_sle_shop;◄Tornado IDS ASSTA 3.1
+tornado_ids_de_assta3_sle_0;◄Tornado IDS ASSTA1 3.1 SEL
+tornado_ids_de_assta3_sle_1;◄Tornado IDS ASSTA 3.1
+tornado_ids_de_assta3_sle_2;◄Tornado IDS ASSTA 3.1
+hawk_200_shop;Hawk 200
+hawk_200_0;Hawk 200
+hawk_200_1;Hawk 200
+hawk_200_2;Hawk 200
+ah_64e_china_shop;␗AH-64E
+ah_64e_china_0;␗AH-64E
+ah_64e_china_1;␗AH-64E
+ah_64e_china_2;␗AH-64E
+ah_64e_indonesia_shop;◥AH-64E
+ah_64e_indonesia_0;◥AH-64E
+ah_64e_indonesia_1;◥AH-64E
+ah_64e_indonesia_2;◥AH-64E
+ah_64e_netherlands_shop;◘AH-64E
+ah_64e_netherlands_0;◘AH-64E
+ah_64e_netherlands_1;◘AH-64E
+ah_64e_netherlands_2;◘AH-64E
+ah_64e_britain_shop;▄AH-64E
+ah_64e_britain_0;▄AH-64E
+ah_64e_britain_1;▄AH-64E
+ah_64e_britain_2;▄AH-64E
+ah_56a_shop;AH-56A
+ah_56a_0;AH-56A Cheynne
+ah_56a_1;AH-56A
+ah_56a_2;AH-56A
+cn_oplot_t_shop;Oplot-P
+cn_oplot_t_0;Oplot-P
+cn_oplot_t_1;Oplot-P
+cn_oplot_t_2;Oplot-P
+us_m1a1_hc_usmc_sm_shop;◍M1A1 HC
+us_m1a1_hc_usmc_sm_0;◍Tank, Combat, Full Tracked, 120-mm Gun M1A1 HC
+us_m1a1_hc_usmc_sm_1;◍M1A1 HC
+us_m1a1_hc_usmc_sm_2;◍M1A1 HC
+shop/group/germ_westfalen_helgoland_group;SMS Westfalen/Helgoland
+uk_ai_sam_rapier_0;Rapier SAM system
+uk_ai_sam_rapier_1;Rapier
+uk_ai_sam_rapier_2;Rapier
+jp_battleship_nagato_shop;IJN Nagato
+jp_battleship_nagato_0;Nagato-class, IJN Nagato, 1944
+jp_battleship_nagato_1;IJN Nagato
+jp_battleship_nagato_2;IJN Nagato
+germ_battleship_konig_shop;SMS König
+germ_battleship_konig_0;König-class, SMS König, 1916
+germ_battleship_konig_1;SMS König
+germ_battleship_konig_2;SMS König
+us_cruiser_oregon_class_shop;USS Oregon City
+us_cruiser_oregon_class_0;Oregon City-class,USS Oregon City (CA-122), 1946
+us_cruiser_oregon_class_1;USS Oregon City
+us_cruiser_oregon_class_2;USS Oregon City
+it_cruiser_cadorna_class_cadorna_shop;RN Luigi Cadorna
+it_cruiser_cadorna_class_cadorna_0;Luigi Cadorna-class, RN Luigi Cadorna, 1944
+it_cruiser_cadorna_class_cadorna_1;RN Luigi Cadorna
+it_cruiser_cadorna_class_cadorna_2;RN Luigi Cadorna
+fr_frigate_corse_class_brestois_shop;La Brestois
+fr_frigate_corse_class_brestois_0;Corse-class, La Brestois (F762)
+fr_frigate_corse_class_brestois_1;La Brestois
+fr_frigate_corse_class_brestois_2;La Brestois
+fr_elan_class_commandant_domine_shop;Commandant Dominé
+fr_elan_class_commandant_domine_0;Elan-class, Commandant Dominé
+fr_elan_class_commandant_domine_1;Commandant Dominé
+fr_elan_class_commandant_domine_2;Commandant Dominé
+ussr_destroyer_pr48k_erevan_shop;Erevan
+ussr_destroyer_pr48k_erevan_0;Pr.48-K, Erevan, project
+ussr_destroyer_pr48k_erevan_1;Erevan
+ussr_destroyer_pr48k_erevan_2;Erevan
+jp_battleship_musashi_shop;IJN Musashi
+jp_battleship_musashi_0;Yamato-class, IJN Musashi, 1943
+jp_battleship_musashi_1;IJN Musashi
+jp_battleship_musashi_2;IJN Musashi
+fr_battleship_richelieu_class_clemenceau_shop;Clemenceau
+fr_battleship_richelieu_class_clemenceau_0;Richelieu-class, Clemenceau, project
+fr_battleship_richelieu_class_clemenceau_1;Clemenceau
+fr_battleship_richelieu_class_clemenceau_2;Clemenceau
+jp_pc301_kari_class_shop;Kari
+jp_pc301_kari_class_0;Kari-class, Кari (PC-301)
+jp_pc301_kari_class_1;Kari
+jp_pc301_kari_class_2;Kari
+us_pgm_9_class_shop;PGM-9
+us_pgm_9_class_0;PGM-9-class, PGM-9
+us_pgm_9_class_1;PGM-9
+us_pgm_9_class_2;PGM-9
+it_battleship_littorio_class_littorio_shop;RN Littorio
+it_battleship_littorio_class_littorio_0;Littorio-class, RN Littorio, 1943
+it_battleship_littorio_class_littorio_1;RN Littorio
+it_battleship_littorio_class_littorio_2;RN Littorio
+us_huckins_78ft_pt262_shop;PT-262
+us_huckins_78ft_pt262_0;Huckins 78 ft PT-262
+us_huckins_78ft_pt262_1;PT-262
+us_huckins_78ft_pt262_2;PT-262
+cn_cm_34_shop;CM34
+cn_cm_34_0;CM34
+cn_cm_34_1;CM34
+cn_cm_34_2;CM34
