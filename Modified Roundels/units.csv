@@ -1,4 +1,4 @@
-<ID|readonly|noverify>;<English>▃USA▀GER▂USSR▄UK▅JP☀ROC␗PRC╏IT☨FRISR⚜FR◊GDR◄FRG◐HUN◔HUN◗NLD◘NLD
+<ID|readonly|noverify>;<English>▃USA▀GER▂USSR▄UK▅JP☀ROC␗PRC╏IT☨FR☫IRANISR⚜FR◊GDR◄FRG◐HUN◔HUN◗NLD◘NLD
 ships/uss_cv_immortal_0;Carrier
 ships/uss_cv_immortal_1;Carrier
 ships/uss_cv_immortal_2;Carrier
@@ -4016,7 +4016,7 @@ a_5c_0;A-5C "Fantan"
 a_5c_1;A-5C
 a_5c_2;A-5C
 yah_64_shop;YAH-64
-yah_64_0;YAH-64
+yah_64_0;YAH-64 Apache
 yah_64_1;YAH-64
 yah_64_2;YAH-64
 f-104g_italy_shop;╏F-104G
@@ -7525,11 +7525,11 @@ ah_1f_0;AH-1F
 ah_1f_1;AH-1F
 ah_1f_2;AH-1F
 uh_1c_shop;UH-1C
-uh_1c_0;UH-1C
+uh_1c_0;UH-1C Iroquois
 uh_1c_1;UH-1C
 uh_1c_2;UH-1C
 uh_1c_xm_30_shop;UH-1C XM-30
-uh_1c_xm_30_0;UH-1C XM-30
+uh_1c_xm_30_0;UH-1C XM-30 Iroquois
 uh_1c_xm_30_1;UH-1C XM-30
 uh_1c_xm_30_2;UH-1C
 mi_24a_shop;Mi-24A
@@ -7545,11 +7545,11 @@ mi_35m_0;Mi-35M "Hind-E"
 mi_35m_1;Mi-35M
 mi_35m_2;Mi-35M
 ah_1z_shop;AH-1Z
-ah_1z_0;AH-1Z
+ah_1z_0;AH-1Z Viper
 ah_1z_1;AH-1Z
 ah_1z_2;AH-1Z
 uh_1b_shop;UH-1B
-uh_1b_0;UH-1B
+uh_1b_0;UH-1B Iroquois
 uh_1b_1;UH-1B
 uh_1b_2;UH-1B
 uh_1b_japan_shop;▅UH-1B
@@ -7557,7 +7557,7 @@ uh_1b_japan_0;▅UH-1B Hiyodori
 uh_1b_japan_1;▅UH-1B
 uh_1b_japan_2;▅UH-1B
 ah_1g_shop;AH-1G
-ah_1g_0;AH-1G
+ah_1g_0;AH-1G Cobra
 ah_1g_1;AH-1G
 ah_1g_2;AH-1G
 ju-288c_shop;Ju 288 C
@@ -7705,7 +7705,7 @@ h_34_france_0;☨H-34
 h_34_france_1;☨H-34
 h_34_france_2;☨H-34
 h_34_shop;H-34
-h_34_0;H-34
+h_34_0;H-34 Choctaw
 h_34_1;H-34
 h_34_2;H-34
 b_48_firecrest_shop;Firecrest
@@ -8234,7 +8234,7 @@ j6k1_0;J6K1
 j6k1_1;J6K1
 j6k1_2;J6K1
 ah_64d_shop;AH-64D
-ah_64d_0;AH-64D
+ah_64d_0;AH-64D Apache Longbow
 ah_64d_1;AH-64D
 ah_64d_2;AH-64D
 ah_64d_japan_shop;AH-64DJP
@@ -8254,7 +8254,7 @@ ah_mk1_0;AH Mk.1 Apache
 ah_mk1_1;AH Mk.1
 ah_mk1_2;AH Mk.1
 ah_64a_shop;AH-64A
-ah_64a_0;AH-64A
+ah_64a_0;AH-64A Apache
 ah_64a_1;AH-64A
 ah_64a_2;AH-64A
 nesher_shop;Nesher
@@ -11295,7 +11295,7 @@ ussr_2s38_0;2S38 Derivatsiya-PVO
 ussr_2s38_1;2S38
 ussr_2s38_2;2S38
 ah_64a_greece_usa_shop;AH-64A (GR)
-ah_64a_greece_usa_0;AH-64A (GR)
+ah_64a_greece_usa_0;AH-64A (GR) Apache
 ah_64a_greece_usa_1;AH-64A (GR)
 ah_64a_greece_usa_2;AH-64A (GR)
 cn_tor_m1_shop;␗TOR-M1
@@ -12634,7 +12634,7 @@ germ_leopard_2a7v_0;Leopard 2A7V
 germ_leopard_2a7v_1;Leopard 2A7V
 germ_leopard_2a7v_2;Leopard 2A7V
 us_m1a2_sep2_abrams_shop;M1A2 SEP V2
-us_m1a2_sep2_abrams_0;Tank, Combat, Full Tracked, 120-mm Gun M1A2 SEP V2
+us_m1a2_sep2_abrams_0;Tank, Combat, Full Tracked, 120-mm Gun M1A2 System Enhancement Package V2
 us_m1a2_sep2_abrams_1;M1A2 SEP V2
 us_m1a2_sep2_abrams_2;M1A2 SEP V2
 il_m109a1_shop;M109A1
@@ -12776,7 +12776,7 @@ ah_1w_china_0;☀AH-1W
 ah_1w_china_1;☀AH-1W
 ah_1w_china_2;☀AH-1W
 ah_1w_shop;AH-1W
-ah_1w_0;AH-1W
+ah_1w_0;AH-1W Cobra
 ah_1w_1;AH-1W
 ah_1w_2;AH-1W
 ah_60_iaf_shop;AH-60
@@ -13997,7 +13997,7 @@ meteor_frmk9_iaf_0;Meteor FR.9
 meteor_frmk9_iaf_1;Meteor FR.9
 meteor_frmk9_iaf_2;Meteor FR.9
 ah_1f_event_shop;AH-1F
-ah_1f_event_0;AH-1F
+ah_1f_event_0;AH-1F Cobra
 ah_1f_event_1;AH-1F
 ah_1f_event_2;AH-1F
 mig-21_bis_event_shop;MiG-21bis
@@ -14455,7 +14455,7 @@ tornado_ids_de_assta1_britain_killstreak_0;☢Tornado IDS ASSTA1
 tornado_ids_de_assta1_britain_killstreak_1;☢Tornado IDS
 tornado_ids_de_assta1_britain_killstreak_2;☢Tornado IDS
 ah_64e_shop;AH-64E
-ah_64e_0;AH-64E Apache
+ah_64e_0;AH-64E Apache Guardian
 ah_64e_1;AH-64E
 ah_64e_2;AH-64E
 cn_vt_4_shop;VT4
@@ -14751,3 +14751,27 @@ cn_cm_34_shop;CM34
 cn_cm_34_0;CM34
 cn_cm_34_1;CM34
 cn_cm_34_2;CM34
+shop/group/ussr_t_34_85_group;T-34 (D-5T/S-53)
+shop/group/fr_m44_55_group;M44/55
+shop/group/uk_chieftain_mk_10_900_group;Chieftain 10/900
+us_lvt_a1_m24_shop;LVT(A)(1) (M24)
+us_lvt_a1_m24_0;LVT(A)(1) (M24)
+us_lvt_a1_m24_1;LVT(A)(1) (M24)
+us_lvt_a1_m24_2;LVT(A)(1) (M24)
+mosquito_b_mk16_shop;Mosquito B Mk XVI
+mosquito_b_mk16_0;Mosquito B Mk XVI
+mosquito_b_mk16_1;Mosquito B Mk XVI
+mosquito_b_mk16_2;Mosquito B Mk XVI
+shop/group/hawk_200_group;Hawk 200
+f_16am_block_20_mlu_norway_shop;◢F-16AM
+f_16am_block_20_mlu_norway_0;◢F-16AM Block 20 MLU Fighting Falcon
+f_16am_block_20_mlu_norway_1;◢F-16AM
+f_16am_block_20_mlu_norway_2;◢F-16AM
+hawk_200_rda_shop;Hawk 200 RDA
+hawk_200_rda_0;Hawk 200 RDA
+hawk_200_rda_1;Hawk 200 RDA
+hawk_200_rda_2;Hawk 200 RDA
+uk_battleship_centurion_shop;HMS Centurion
+uk_battleship_centurion_0;King George V-class, HMS Centurion (12), 1913
+uk_battleship_centurion_1;HMS Centurion
+uk_battleship_centurion_2;HMS Centurion
