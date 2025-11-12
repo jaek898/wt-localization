@@ -7981,14 +7981,14 @@ g_lynx_shop;G-LYNX
 g_lynx_0;G-LYNX
 g_lynx_1;G-LYNX
 g_lynx_2;G-LYNX
-lynx_ah_mk1_shop;Lynx AH.Mk.1
-lynx_ah_mk1_0;Lynx AH.Mk.1
-lynx_ah_mk1_1;Lynx AH.Mk.1
-lynx_ah_mk1_2;Lynx AH.Mk.1
-scout_ah_mk1_shop;Scout AH.Mk.1
-scout_ah_mk1_0;Scout AH.Mk.1
-scout_ah_mk1_1;Scout AH.Mk.1
-scout_ah_mk1_2;Scout AH.Mk.1
+lynx_ah_mk1_shop;Lynx AH.1
+lynx_ah_mk1_0;Lynx AH.1
+lynx_ah_mk1_1;Lynx AH.1
+lynx_ah_mk1_2;Lynx AH.1
+scout_ah_mk1_shop;Scout AH.1
+scout_ah_mk1_0;Scout AH.1
+scout_ah_mk1_1;Scout AH.1
+scout_ah_mk1_2;Scout AH.1
 tiger_hap_france_shop;EC-665 Tiger HAP
 tiger_hap_france_0;EC-665 Tiger HAP
 tiger_hap_france_1;EC-665 Tiger HAP
@@ -7997,10 +7997,10 @@ tiger_had_france_shop;EC-665 Tiger HAD
 tiger_had_france_0;EC-665 Tiger HAD
 tiger_had_france_1;EC-665 Tiger HAD
 tiger_had_france_2;EC-665 Tiger HAD
-wasp_has_mk1_shop;Wasp HAS.Mk.1
-wasp_has_mk1_0;Wasp HAS.Mk.1
-wasp_has_mk1_1;Wasp HAS.Mk.1
-wasp_has_mk1_2;Wasp HAS.Mk.1
+wasp_has_mk1_shop;Wasp HAS.1
+wasp_has_mk1_0;Wasp HAS.1
+wasp_has_mk1_1;Wasp HAS.1
+wasp_has_mk1_2;Wasp HAS.1
 tiger_uht_shop;EC-665 Tiger UHT
 tiger_uht_0;EC-665 Tiger UHT
 tiger_uht_1;EC-665 Tiger UHT
@@ -8249,10 +8249,10 @@ tis_ma_shop;TIS MA
 tis_ma_0;TIS MA
 tis_ma_1;TIS MA
 tis_ma_2;TIS MA
-ah_mk1_shop;AH Mk.1 Apache
-ah_mk1_0;AH Mk.1 Apache
-ah_mk1_1;AH Mk.1
-ah_mk1_2;AH Mk.1
+ah_mk1_shop;Apache AH.1
+ah_mk1_0;Apache AH.1
+ah_mk1_1;Apache AH.1
+ah_mk1_2;Apache AH.1
 ah_64a_shop;AH-64A
 ah_64a_0;AH-64A Apache
 ah_64a_1;AH-64A
@@ -13042,7 +13042,7 @@ it_leopard_2a7_hungary_1;◔Leopard 2A7HU
 it_leopard_2a7_hungary_2;◔Leopard 2A7HU
 j_11a_shop;J-11A
 j_11a_0;J-11A "Flanker B+"
-j_11a_1;J-11A 
+j_11a_1;J-11A
 j_11a_2;J-11A
 jp_cruiser_haguro_shop;IJN Haguro
 jp_cruiser_haguro_0;Myoko-class, IJN Haguro, 1944
@@ -13180,10 +13180,10 @@ pbm_5a_shop;PBM-5A
 pbm_5a_0;PBM-5A Mariner
 pbm_5a_1;PBM-5A
 pbm_5a_2;PBM-5A
-f_14a_iriaf_shop;☫F-14A
-f_14a_iriaf_0;☫F-14A Tomcat IRIAF
-f_14a_iriaf_1;☫F-14A
-f_14a_iriaf_2;☫F-14A
+f_14a_iriaf_shop;▄F-14A
+f_14a_iriaf_0;▄F-14A Tomcat IRIAF
+f_14a_iriaf_1;▄F-14A
+f_14a_iriaf_2;▄F-14A
 a_10c_shop;A-10C
 a_10c_0;A-10C Thunderbolt II
 a_10c_1;A-10C
@@ -13725,10 +13725,10 @@ fr_cruiser_la_galissoniere_class_la_galissoniere_shop;La Galissonnière
 fr_cruiser_la_galissoniere_class_la_galissoniere_0;La Galissonnière-class, La Galissonnière, 1941
 fr_cruiser_la_galissoniere_class_la_galissoniere_1;La Galissonnière
 fr_cruiser_la_galissoniere_class_la_galissoniere_2;La Galissonnière
-cn_t_80ud_478be_shop;T-80UD/DU1
-cn_t_80ud_478be_0;T-80UD/DU1 (Object 478DU1)
-cn_t_80ud_478be_1;T-80UD/DU1
-cn_t_80ud_478be_2;T-80UD/DU1
+cn_t_80ud_478be_shop;T-80UD/BE
+cn_t_80ud_478be_0;T-80UD/BE (Object 478BE)
+cn_t_80ud_478be_1;T-80UD/BE
+cn_t_80ud_478be_2;T-80UD/BE
 il_namer_tsrikhon_shop;Namer Tsrikhon
 il_namer_tsrikhon_0;Namer Tsrikhon
 il_namer_tsrikhon_1;Namer Tsrikhon
@@ -14577,7 +14577,7 @@ shop/group/uk_fv_m109_group;FV/M109
 shop/group/uk_vickers_olifant_group;Vickers/Olifant
 shop/group/uk_vickers_rooikat_group;Vickers/Rooikat
 shop/group/uk_vfm_mttd_group;VFM/MTTD
-shop/group/fr_foch_acra_group;Foch/ACRA
+shop/group/fr_foch_acra_group;Foch/AMX-10M
 shop/group/uk_cromwell_sherman_group;Cromwell/Sherman
 us_efv_p1_shop;EFV
 us_efv_p1_0;Expeditionary Fighting Vehicle EFV
@@ -14655,10 +14655,10 @@ f_15c_golden_eagle_shop;F-15C Golden Eagle
 f_15c_golden_eagle_0;F-15C Golden Eagle
 f_15c_golden_eagle_1;F-15C Golden Eagle
 f_15c_golden_eagle_2;F-15C Golden Eagle
-tornado_ids_de_assta3_sle_shop;◄Tornado IDS ASSTA 3.1
-tornado_ids_de_assta3_sle_0;◄Tornado IDS ASSTA1 3.1 SEL
-tornado_ids_de_assta3_sle_1;◄Tornado IDS ASSTA 3.1
-tornado_ids_de_assta3_sle_2;◄Tornado IDS ASSTA 3.1
+tornado_ids_de_assta3_sle_shop;◄Tornado IDS SLE
+tornado_ids_de_assta3_sle_0;◄Tornado IDS SLE
+tornado_ids_de_assta3_sle_1;◄Tornado IDS SLE
+tornado_ids_de_assta3_sle_2;◄Tornado IDS SLE
 hawk_200_shop;Hawk 200
 hawk_200_0;Hawk 200
 hawk_200_1;Hawk 200
@@ -14675,18 +14675,18 @@ ah_64e_netherlands_shop;◘AH-64E
 ah_64e_netherlands_0;◘AH-64E
 ah_64e_netherlands_1;◘AH-64E
 ah_64e_netherlands_2;◘AH-64E
-ah_64e_britain_shop;▄AH-64E
-ah_64e_britain_0;▄AH-64E
-ah_64e_britain_1;▄AH-64E
-ah_64e_britain_2;▄AH-64E
+ah_64e_britain_shop;Apache AH.2
+ah_64e_britain_0;Apache AH.2
+ah_64e_britain_1;Apache AH.2
+ah_64e_britain_2;Apache AH.2
 ah_56a_shop;AH-56A
 ah_56a_0;AH-56A Cheynne
 ah_56a_1;AH-56A
 ah_56a_2;AH-56A
-cn_oplot_t_shop;Oplot-P
-cn_oplot_t_0;Oplot-P
-cn_oplot_t_1;Oplot-P
-cn_oplot_t_2;Oplot-P
+cn_oplot_t_shop;Oplot-M
+cn_oplot_t_0;Oplot-M
+cn_oplot_t_1;Oplot-M
+cn_oplot_t_2;Oplot-M
 us_m1a1_hc_usmc_sm_shop;◍M1A1 HC
 us_m1a1_hc_usmc_sm_0;◍Tank, Combat, Full Tracked, 120-mm Gun M1A1 HC
 us_m1a1_hc_usmc_sm_1;◍M1A1 HC
@@ -14711,10 +14711,10 @@ it_cruiser_cadorna_class_cadorna_shop;RN Luigi Cadorna
 it_cruiser_cadorna_class_cadorna_0;Luigi Cadorna-class, RN Luigi Cadorna, 1944
 it_cruiser_cadorna_class_cadorna_1;RN Luigi Cadorna
 it_cruiser_cadorna_class_cadorna_2;RN Luigi Cadorna
-fr_frigate_corse_class_brestois_shop;La Brestois
-fr_frigate_corse_class_brestois_0;Corse-class, La Brestois (F762)
-fr_frigate_corse_class_brestois_1;La Brestois
-fr_frigate_corse_class_brestois_2;La Brestois
+fr_frigate_corse_class_brestois_shop;Le Brestois
+fr_frigate_corse_class_brestois_0;Corse-class, Le Brestois (F762)
+fr_frigate_corse_class_brestois_1;Le Brestois
+fr_frigate_corse_class_brestois_2;Le Brestois
 fr_elan_class_commandant_domine_shop;Commandant Dominé
 fr_elan_class_commandant_domine_0;Elan-class, Commandant Dominé
 fr_elan_class_commandant_domine_1;Commandant Dominé
@@ -14739,10 +14739,10 @@ us_pgm_9_class_shop;PGM-9
 us_pgm_9_class_0;PGM-9-class, PGM-9
 us_pgm_9_class_1;PGM-9
 us_pgm_9_class_2;PGM-9
-it_battleship_littorio_class_littorio_shop;RN Littorio
-it_battleship_littorio_class_littorio_0;Littorio-class, RN Littorio, 1943
-it_battleship_littorio_class_littorio_1;RN Littorio
-it_battleship_littorio_class_littorio_2;RN Littorio
+it_battleship_littorio_class_littorio_shop;RN Italia
+it_battleship_littorio_class_littorio_0;Littorio-class, RN Italia, 1943
+it_battleship_littorio_class_littorio_1;RN Italia
+it_battleship_littorio_class_littorio_2;RN Italia
 us_huckins_78ft_pt262_shop;PT-262
 us_huckins_78ft_pt262_0;Huckins 78 ft PT-262
 us_huckins_78ft_pt262_1;PT-262
@@ -14775,3 +14775,4 @@ uk_battleship_centurion_shop;HMS Centurion
 uk_battleship_centurion_0;King George V-class, HMS Centurion (12), 1913
 uk_battleship_centurion_1;HMS Centurion
 uk_battleship_centurion_2;HMS Centurion
+shop/group/us_m44_55_group;M44/55
