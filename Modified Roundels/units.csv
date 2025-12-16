@@ -4895,8 +4895,8 @@ h-75a-7_shop;Hawk H-75A-7
 h-75a-7_0;Hawk H-75A-7
 h-75a-7_1;H-75A-7
 h-75a-7_2;H-75A-7
-h-75m_shop;Hawk H-75M
-h-75m_0;Hawk H-75M
+h-75m_shop;H-75M
+h-75m_0;Hawk H-75M (H-75A-8)
 h-75m_1;H-75M
 h-75m_2;H-75M
 h-75n_shop;Hawk H-75N
@@ -7521,7 +7521,7 @@ mi_4av_0;Mi-4AV "Hound-A"
 mi_4av_1;Mi-4AV
 mi_4av_2;Mi-4AV
 ah_1f_shop;AH-1F
-ah_1f_0;AH-1F
+ah_1f_0;AH-1F Cobra
 ah_1f_1;AH-1F
 ah_1f_2;AH-1F
 uh_1c_shop;UH-1C
@@ -11385,10 +11385,10 @@ us_m728_shop;M728
 us_m728_0;Full tracked combat engineer vehicle M728
 us_m728_1;M728
 us_m728_2;M728
-ussr_9a35_m2_shop;Strela-10M2
-ussr_9a35_m2_0;"9A35M2 ""Strela-10M2"""
-ussr_9a35_m2_1;Strela-10M2
-ussr_9a35_m2_2;Strela-10M2
+ussr_9a35_m2_shop;◔Strela-10M2
+ussr_9a35_m2_0;"◔9A35M2 ""Strela-10M2"""
+ussr_9a35_m2_1;◔Strela-10M2
+ussr_9a35_m2_2;◔Strela-10M2
 uk_khalid_shop;Khalid
 uk_khalid_0;Khalid
 uk_khalid_1;Khalid
@@ -12952,10 +12952,10 @@ us_flagstaff_pgh1_shop;USS Flagstaff
 us_flagstaff_pgh1_0;USS Flagstaff (PGH-1)
 us_flagstaff_pgh1_1;USS Flagstaff
 us_flagstaff_pgh1_2;USS Flagstaff
-yak-3_eremin_shop;Yak-3
+yak-3_eremin_shop;Eremin's Yak-3
 yak-3_eremin_0;Eremin's Yak-3
-yak-3_eremin_1;Yak-3
-yak-3_eremin_2;Yak-3
+yak-3_eremin_1;Eremin's Yak-3
+yak-3_eremin_2;Eremin's Yak-3
 amx_a_1a_brazil_shop;AMX A-1A
 amx_a_1a_brazil_0;AMX A-1A Ghibli
 amx_a_1a_brazil_1;AMX A-1A
@@ -14776,3 +14776,211 @@ uk_battleship_centurion_0;King George V-class, HMS Centurion (12), 1913
 uk_battleship_centurion_1;HMS Centurion
 uk_battleship_centurion_2;HMS Centurion
 shop/group/us_m44_55_group;M44/55
+jp_type_03_chusam_launcher_shop;Type 03 [TEL]
+jp_type_03_chusam_launcher_0;Type 03 Chu-SAM [Transporter Erector Launcher]
+jp_type_03_chusam_launcher_1;Type 03 [TEL]
+jp_type_03_chusam_launcher_2;Type 03 [TEL]
+jp_type_03_chusam_fcs_shop;Type 03 [TADS]
+jp_type_03_chusam_fcs_0;Type 03 Chu-SAM [Target Acquisition and Designation System]
+jp_type_03_chusam_fcs_1;Type 03 [TADS]
+jp_type_03_chusam_fcs_2;Type 03 [TADS]
+us_m10_booker_late_shop;M10 Booker
+us_m10_booker_late_0;M10 Booker
+us_m10_booker_late_1;M10 Booker
+us_m10_booker_late_2;M10 Booker
+shop/group/us_nasams_fcs_group;NASAMS 3
+shop/group/sw_nasams_fcs_group;NASAMS 3
+shop/group/jp_type_03_chusam_fcs_group;Type 03
+shop/group/il_gimel_tiran_group;Sho't/Tiran
+ussr_tor_m1_shop;Tor-M1
+ussr_tor_m1_0;Tor-M1
+ussr_tor_m1_1;Tor-M1
+ussr_tor_m1_2;Tor-M1
+germ_jaguar_2_shop;Jaguar 2
+germ_jaguar_2_0;Raketenjagdpanzer Jaguar 2
+germ_jaguar_2_1;Jaguar 2
+germ_jaguar_2_2;Jaguar 2
+sw_nasams_launcher_shop;NASAMS 3 [TEL]
+sw_nasams_launcher_0;NASAMS 3 [Transporter Erector Launcher]
+sw_nasams_launcher_1;NASAMS 3 [TEL]
+sw_nasams_launcher_2;NASAMS 3 [TEL]
+sw_nasams_fcs_shop;NASAMS 3 [TADS]
+sw_nasams_fcs_0;NASAMS 3 [Target Acquisition and Designation System]
+sw_nasams_fcs_1;NASAMS 3 [TADS]
+sw_nasams_fcs_2;NASAMS 3 [TADS]
+us_nasams_launcher_shop;NASAMS 3 [TEL]
+us_nasams_launcher_0;NASAMS 3, Transporter erector launcher
+us_nasams_launcher_1;NASAMS 3 [TEL]
+us_nasams_launcher_2;NASAMS 3 [TEL]
+us_nasams_fcs_shop;NASAMS 3 [TADS]
+us_nasams_fcs_0;NASAMS 3, Target acquisition and designation system
+us_nasams_fcs_1;NASAMS 3 [TADS]
+us_nasams_fcs_2;NASAMS 3 [TADS]
+saab_jas39e_shop;JAS39E
+saab_jas39e_0;JAS39E Gripen
+saab_jas39e_1;JAS39E
+saab_jas39e_2;JAS39E
+j_10c_shop;J-10C
+j_10c_0;J-10C "Firebird"
+j_10c_1;J-10C
+j_10c_2;J-10C
+h-75m_china_shop;☀H-75M
+h-75m_china_0;☀H-75M (H-75A-8)
+h-75m_china_1;☀H-75M
+h-75m_china_2;☀H-75M
+fr_1_fireball_shop;FR-1
+fr_1_fireball_0;FR-1 Fireball
+fr_1_fireball_1;FR-1
+fr_1_fireball_2;FR-1
+mb_326b_shop;MB-326B
+mb_326b_0;MB-326B
+mb_326b_1;MB-326B
+mb_326b_2;MB-326B
+db_lk_shop;DB-LK
+db_lk_0;DB-LK
+db_lk_1;DB-LK
+db_lk_2;DB-LK
+rafale_m_f3r_shop;Rafale M
+rafale_m_f3r_0;Rafale M F3-R
+rafale_m_f3r_1;Rafale M
+rafale_m_f3r_2;Rafale M
+uk_ajax_shop;Ajax
+uk_ajax_0;AFV Ajax
+uk_ajax_1;Ajax
+uk_ajax_2;Ajax
+uk_boxer_crv_block2_shop;CRV Block 2
+uk_boxer_crv_block2_0;Boxer CRV Block 2
+uk_boxer_crv_block2_1;CRV Block 2
+uk_boxer_crv_block2_2;CRV Block 2
+ussr_bmpt_shop;BMPT
+ussr_bmpt_0;BMPT
+ussr_bmpt_1;BMPT
+ussr_bmpt_2;BMPT
+ussr_bmpt_72_shop;BMPT-72
+ussr_bmpt_72_0;BMPT-72
+ussr_bmpt_72_1;BMPT-72
+ussr_bmpt_72_2;BMPT-72
+germ_th_400_shop;R400
+germ_th_400_0;R400
+germ_th_400_1;R400
+germ_th_400_2;R400
+il_merkava_mk_1_shop;Merkava Mk.1
+il_merkava_mk_1_0;Merkava Siman 1
+il_merkava_mk_1_1;Merkava Mk.1
+il_merkava_mk_1_2;Merkava Mk.1
+it_freccia_hitfist_ows_shop;Freccia OWS 30
+it_freccia_hitfist_ows_0;Veicolo Blindato Medio 8x8 Freccia, HITFIST OWS 30
+it_freccia_hitfist_ows_1;Freccia OWS 30
+it_freccia_hitfist_ows_2;Freccia OWS 30
+mig_25pd_shop;MiG-25PD
+mig_25pd_0;MiG-25PD "Foxbat-E"
+mig_25pd_1;MiG-25PD
+mig_25pd_2;MiG-25PD
+mig_29n_shop;▄MiG-29N
+mig_29n_0;▄MiG-29N Izdeliye 9.12SD
+mig_29n_1;▄MiG-29N
+mig_29n_2;▄MiG-29N
+su_30mkm_shop;▄Su-30MKM
+su_30mkm_0;▄Su-30MKM "Flanker-H"
+su_30mkm_1;▄Su-30MKM
+su_30mkm_2;▄Su-30MKM
+su_30mkk_shop;␗Su-30MKK
+su_30mkk_0;␗Su-30MKK "Flanker-G"
+su_30mkk_1;␗Su-30MKK
+su_30mkk_2;␗Su-30MKK
+su_30sm2_shop;Su-30SM2
+su_30sm2_0;Su-30SM2 "Flanker-H"
+su_30sm2_1;Su-30SM2
+su_30sm2_2;Su-30SM2
+fa_18d_late_malaysia_shop;▄F/A-18D
+fa_18d_late_malaysia_0;▄F/A-18D Hornet
+fa_18d_late_malaysia_1;▄F/A-18D
+fa_18d_late_malaysia_2;▄F/A-18D
+fa_18e_block_2_shop;F/A-18E
+fa_18e_block_2_0;F/A-18E (Block 2) Super Hornet
+fa_18e_block_2_1;F/A-18E
+fa_18e_block_2_2;F/A-18E
+ef_2000_aesa_shop;◄EF-2000 [AESA]
+ef_2000_aesa_0;◄EF-2000 [AESA] Typhoon
+ef_2000_aesa_1;◄EF-2000 [AESA]
+ef_2000_aesa_2;◄EF-2000 [AESA]
+ef_2000a_aesa_shop;╏F-2000A [AESA]
+ef_2000a_aesa_0;╏F-2000A [AESA] Typhoon
+ef_2000a_aesa_1;╏F-2000A [AESA]
+ef_2000a_aesa_2;╏F-2000A [AESA]
+ef_2000_typhoon_aesa_shop;Typhoon FGR.4 [AESA]
+ef_2000_typhoon_aesa_0;Typhoon FGR.4 [AESA]
+ef_2000_typhoon_aesa_1;Typhoon FGR.4 [AESA]
+ef_2000_typhoon_aesa_2;Typhoon FGR.4 [AESA]
+hawk_209_indonesia_shop;◥Hawk 209
+hawk_209_indonesia_0;◥Hawk 209
+hawk_209_indonesia_1;◥Hawk 209
+hawk_209_indonesia_2;◥Hawk 209
+cn_hq_11_shop;HQ11
+cn_hq_11_0;HQ11
+cn_hq_11_1;HQ11
+cn_hq_11_2;HQ11
+cn_m1a2t_shop;☀M1A2T
+cn_m1a2t_0;☀M1A2T
+cn_m1a2t_1;☀M1A2T
+cn_m1a2t_2;☀M1A2T
+jp_type_61_mod_shop;Type 61 (B)
+jp_type_61_mod_0;Type 61 (B)
+jp_type_61_mod_1;Type 61 (B)
+jp_type_61_mod_2;Type 61 (B)
+germ_pr1331_shop;Parchim
+germ_pr1331_0;KSS-3.Ranges Pr.1331, Parchim
+germ_pr1331_1;Parchim
+germ_pr1331_2;Parchim
+ussr_pr_205pe_k225_shop;AK-225
+ussr_pr_205pe_k225_0;Pr.205PE, AK-225
+ussr_pr_205pe_k225_1;AK-225
+ussr_pr_205pe_k225_2;AK-225
+ussr_battlecruiser_stalingrad_shop;Stalingrad
+ussr_battlecruiser_stalingrad_0;Project 82, Stalingrad, project
+ussr_battlecruiser_stalingrad_1;Stalingrad
+ussr_battlecruiser_stalingrad_2;Stalingrad
+us_battleship_south_dakota_shop;USS South Dakota
+us_battleship_south_dakota_0;South Dakota-class, USS South Dakota (BB-61), 1945
+us_battleship_south_dakota_1;USS South Dakota
+us_battleship_south_dakota_2;USS South Dakota
+fr_frigate_corse_class_corse_shop;Le Corse
+fr_frigate_corse_class_corse_0;Corse-class, Le Corse (F761)
+fr_frigate_corse_class_corse_1;Le Corse
+fr_frigate_corse_class_corse_2;Le Corse
+fr_cruiser_suffren_class_suffren_shop;Suffren
+fr_cruiser_suffren_class_suffren_0;Suffren-class, Suffren, 1945
+fr_cruiser_suffren_class_suffren_1;Suffren
+fr_cruiser_suffren_class_suffren_2;Suffren
+germ_destroyer_lutjens_class_lutjens_shop;Lütjens
+germ_destroyer_lutjens_class_lutjens_0;Lütjens-class, Lütjens (D185), 1969
+germ_destroyer_lutjens_class_lutjens_1;Lütjens
+germ_destroyer_lutjens_class_lutjens_2;Lütjens
+it_cruiser_cadorna_class_diaz_shop;RN Armando Diaz
+it_cruiser_cadorna_class_diaz_0;Luigi Cadorna-class, RN Armando Diaz, 1938
+it_cruiser_cadorna_class_diaz_1;RN Armando Diaz
+it_cruiser_cadorna_class_diaz_2;RN Armando Diaz
+uk_battleship_prince_of_wales_shop;HMS Prince of Wales
+uk_battleship_prince_of_wales_0;King George V-class, HMS Prince of Wales (53), 1941
+uk_battleship_prince_of_wales_1;HMS Prince of Wales
+uk_battleship_prince_of_wales_2;HMS Prince of Wales
+it_cassiopea_p401_shop;Cassiopea
+it_cassiopea_p401_0;Cassiopea-class, Cassiopea P401
+it_cassiopea_p401_1;Cassiopea
+it_cassiopea_p401_2;Cassiopea
+uk_cruiser_fiji_class_fiji_shop;HMS Fiji
+uk_cruiser_fiji_class_fiji_0;Colony-class, HMS Fiji (C83), 1941
+uk_cruiser_fiji_class_fiji_1;Fiji
+uk_cruiser_fiji_class_fiji_2;Fiji
+us_destroyer_forrestsherman_class_shop;USS Forrest Sherman
+us_destroyer_forrestsherman_class_0;Forrest Sherman-class, USS Forrest Sherman (DD-931), 1956
+us_destroyer_forrestsherman_class_1;USS Forrest Sherman
+us_destroyer_forrestsherman_class_2;USS Forrest Sherman
+jp_battleship_tosa_shop;IJN Tosa
+jp_battleship_tosa_0;Tosa-class, IJN Tosa, project
+jp_battleship_tosa_1;IJN Tosa
+jp_battleship_tosa_2;IJN Tosa
+jp_cruiser_oyodo_shop;IJN Oyodo
+jp_cruiser_oyodo_0;Oyodo-class, IJN Oyodo, 1944
+jp_cruiser_oyodo_1;IJN Oyodo
+jp_cruiser_oyodo_2;IJN Oyodo
