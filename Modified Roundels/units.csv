@@ -15180,10 +15180,119 @@ germ_s30_s61_0;S-30-class, S-61
 germ_s30_s61_1;S-61
 germ_s30_s61_2;S-61
 us_battleship_oklahoma_shop;USS Oklahoma
-us_battleship_oklahoma_0;Nevada-class, USS Oklahoma (BB-29), 1926
+us_battleship_oklahoma_0;Nevada-class, USS Oklahoma (BB-37), 1926
 us_battleship_oklahoma_1;USS Oklahoma
 us_battleship_oklahoma_2;USS Oklahoma
 us_m8_scott_snowball_shop;Snowballer
 us_m8_scott_snowball_0;Snowballer
 us_m8_scott_snowball_1;Snowballer
 us_m8_scott_snowball_2;Snowballer
+structures/fuel_storage;Fuel Depot
+structures/ammo_storage;Ammo Depot
+structures/tank_storage;Armored Vehicle Depot
+shop/group/uk_g6_tortoise_group;G6/Tortoise
+wheeled_vehicles/ussr_kamaz_4310_awning_ammo_carrier_0;KAMAZ-4310
+wheeled_vehicles/ussr_kamaz_4310_awning_ammo_carrier_1;KAMAZ-4310
+wheeled_vehicles/ussr_kamaz_4310_awning_ammo_carrier_2;KAMAZ-4310
+wheeled_vehicles/us_m939_awning_ammo_carrier_0;M939
+wheeled_vehicles/us_m939_awning_ammo_carrier_1;M939
+wheeled_vehicles/us_m939_awning_ammo_carrier_2;M939
+wheeled_vehicles/us_m978_fuel_carrier_0;M978
+wheeled_vehicles/us_m978_fuel_carrier_1;M978
+wheeled_vehicles/us_m978_fuel_carrier_2;M978
+nt_a_10a_early_shop;A-10A
+nt_a_10a_early_0;A-10A Thunderbolt II (Early)
+nt_a_10a_early_1;A-10A
+nt_a_10a_early_2;A-10A
+tu_95m_shop;Tu-95M
+tu_95m_0;Tu-95M "Bear-A"
+tu_95m_1;Tu-95M
+tu_95m_2;Tu-95M
+b_52h_shop;B-52H
+b_52h_0;B-52H Stratofortress
+b_52h_1;B-52H
+b_52h_2;B-52H
+nt_tu_95m_shop;Tu-95M
+nt_tu_95m_0;Tu-95M
+nt_tu_95m_1;Tu-95M
+nt_tu_95m_2;Tu-95M;
+nt_mig_23mld_shop;MiG-23MLD
+nt_mig_23mld_0;MiG-23MLD
+nt_mig_23mld_1;MiG-23MLD
+nt_mig_23mld_2;MiG-23MLD
+nt_b_52h_shop;B-52H
+nt_b_52h_0;B-52H
+nt_b_52h_1;B-52H
+nt_b_52h_2;B-52H
+nt_f_4e_shop;F-4E
+nt_f_4e_0;F-4E Phantom II
+nt_f_4e_1;F-4E
+nt_f_4e_2;F-4E
+nt_su_24m_shop;Su-24M
+nt_su_24m_0;Su-24M
+nt_su_24m_1;Su-24M
+nt_su_24m_2;Su-24M
+nt_su_25t_shop;Su-25T
+nt_su_25t_0;Su-25T
+nt_su_25t_1;Su-25T
+nt_su_25t_2;Su-25T
+nt_a_7e_shop;A-7E
+nt_a_7e_0;A-7E Corsair II
+nt_a_7e_1;A-7E
+nt_a_7e_2;A-7E
+nt_a_6e_tram_shop;A-6E TRAM
+nt_a_6e_tram_0;A-6E TRAM Intruder
+nt_a_6e_tram_1;A-6E TRAM
+nt_a_6e_tram_2;A-6E TRAM
+sw_t_50_fin_shop;▄T-50
+sw_t_50_fin_0;▄T-50
+sw_t_50_fin_1;▄T-50
+sw_t_50_fin_2;▄T-50
+us_ai_aew_radar_tps_59_0;AN/TPS-59 [TA]
+us_ai_aew_radar_tps_59_1;AN/TPS-59 [TA]
+us_ai_aew_radar_tps_59_2;AN/TPS-59 [TA]
+us_ai_sam_radar_cwar_0;CWAR [Hawk TA]
+us_ai_sam_radar_cwar_1;CWAR [Hawk TA]
+us_ai_sam_radar_cwar_2;CWAR [Hawk TA]
+us_ai_sam_radar_an_mpq_53_0;AN/MPQ-53 [Patriot TT]
+us_ai_sam_radar_an_mpq_53_1;AN/MPQ-53 [Patriot TT]
+us_ai_sam_radar_an_mpq_53_2;AN/MPQ-53 [Patriot TT]
+us_ai_sam_radar_an_mpq_46_0;AN/MPQ-46 [Hawk TT]
+us_ai_sam_radar_an_mpq_46_1;AN/MPQ-46 [Hawk TT]
+us_ai_sam_radar_an_mpq_46_2;AN/MPQ-46 [Hawk TT]
+ussr_ai_aew_radar_55j6_0;55Zh6 [TA]
+ussr_ai_aew_radar_55j6_1;55Zh6 [TA]
+ussr_ai_aew_radar_55j6_2;55Zh6 [TA]
+ussr_ai_sam_radar_5n64s_0;5N64S [S-300 TA]
+ussr_ai_sam_radar_5n64s_1;5N64S [S-300 TA]
+ussr_ai_sam_radar_5n64s_2;5N64S [S-300 TA]
+ussr_ai_sam_radar_5n63s_0;5N63S [S-300 TT]
+ussr_ai_sam_radar_5n63s_1;5N63S [S-300 TT]
+ussr_ai_sam_radar_5n63s_2;5N63S [S-300 TT]
+ussr_ai_sam_radar_9s18_0;9S18 [BUK TADS]
+ussr_ai_sam_radar_9s18_1;9S18 [BUK TADS]
+ussr_ai_sam_radar_9s18_2;9S18 [BUK TADS]
+us_ai_mlrs_m270_0;M270 MLRS
+us_ai_mlrs_m270_1;M270 MLRS
+us_ai_mlrs_m270_2;M270 MLRS
+ussr_ai_mlrs_9a52_2_smerch_0;9A52-2 MLRS
+ussr_ai_mlrs_9a52_2_smerch_1;9A52-2 MLRS
+ussr_ai_mlrs_9a52_2_smerch_2;9A52-2 MLRS
+ussr_ai_tbm_9k79_tochka_0;9K79 TBM
+ussr_ai_tbm_9k79_tochka_1;9K79 TBM
+ussr_ai_tbm_9k79_tochka_2;9K79 TBM
+us_ai_tbm_m752_lance_0;MGM-52 TBM
+us_ai_tbm_m752_lance_1;MGM-52 TBM
+us_ai_tbm_m752_lance;MGM-52 TBM
+us_ai_sam_launcher_m901_0;M901 [Patriot TEL]
+us_ai_sam_launcher_m901_1;M901 [Patriot TEL]
+us_ai_sam_launcher_m901_2;M901 [Patriot TEL]
+us_ai_sam_launcher_m192_0;M192 [Hawk TEL]
+us_ai_sam_launcher_m192_1;M192 [Hawk TEL]
+us_ai_sam_launcher_m192_2;M192 [Hawk TEL]
+ussr_ai_sam_launcher_5p85se_0;S-300 [TEL]
+ussr_ai_sam_launcher_5p85se_1;S-300 [TEL]
+ussr_ai_sam_launcher_5p85se_2;S-300 [TEL]
+ussr_ai_sam_launcher_9a310_0;9A310 [BUK TELAR]
+ussr_ai_sam_launcher_9a310_1;9A310 [BUK TELAR]
+ussr_ai_sam_launcher_9a310_2;9A310 [BUK TELAR]
