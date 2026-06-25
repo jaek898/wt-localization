@@ -3725,10 +3725,10 @@ b-29_sweden_killstreak_shop;☢B-29A
 b-29_sweden_killstreak_0;☢B-29A-BN Superfortress
 b-29_sweden_killstreak_1;☢B-29A
 b-29_sweden_killstreak_2;☢B-29A
-b-29_uk_killstreak_shop;☢B-29A
-b-29_uk_killstreak_0;☢B-29A-BN Superfortress
-b-29_uk_killstreak_1;☢B-29A
-b-29_uk_killstreak_2;☢B-29A
+b-29_uk_killstreak_shop;☢Washington B Mk I
+b-29_uk_killstreak_0;☢Washington B Mk I Superfortress
+b-29_uk_killstreak_1;☢Washington B Mk I
+b-29_uk_killstreak_2;☢Washington B Mk I
 b-29_italy_killstreak_shop;☢B-29A
 b-29_italy_killstreak_0;☢B-29A-BN Superfortress
 b-29_italy_killstreak_1;☢B-29A
@@ -10590,10 +10590,10 @@ cn_ztz_88a_shop;ZTZ88A
 cn_ztz_88a_0;ZTZ88A
 cn_ztz_88a_1;ZTZ88A
 cn_ztz_88a_2;ZTZ88A
-germ_schutzenpanzer_puma_shop;PUMA
-germ_schutzenpanzer_puma_0;Schützenpanzer PUMA
-germ_schutzenpanzer_puma_1;PUMA
-germ_schutzenpanzer_puma_2;PUMA
+germ_schutzenpanzer_puma_shop;Puma
+germ_schutzenpanzer_puma_0;Schützenpanzer Puma
+germ_schutzenpanzer_puma_1;Puma
+germ_schutzenpanzer_puma_2;Puma
 germ_erprobungstrager_3_achs_turm_shop;Turm III
 germ_erprobungstrager_3_achs_turm_0;Erprobungsträger mit 3-achs-stabilisiertem Turm
 germ_erprobungstrager_3_achs_turm_1;Turm III
@@ -11857,10 +11857,10 @@ su_25tm_shop;Su-39
 su_25tm_0;Su-39 "Frogfoot"
 su_25tm_1;Su-39
 su_25tm_2;Su-39
-saab_ajs37_shop;AJS37
-saab_ajs37_0;AJS37 Viggen
-saab_ajs37_1;AJS37
-saab_ajs37_2;AJS37
+saab_ajs37_shop;AJS37 [L]
+saab_ajs37_0;AJS37 Viggen Late
+saab_ajs37_1;AJS37 [L]
+saab_ajs37_2;AJS37 [L]
 j_8f_shop;J-8F
 j_8f_0;J-8F "Finback-C"
 j_8f_1;J-8F
@@ -12266,10 +12266,10 @@ f_16d_block_40_barak_2_shop;F-16D
 f_16d_block_40_barak_2_0;F-16D Block 40 Barak II
 f_16d_block_40_barak_2_1;F-16D
 f_16d_block_40_barak_2_2;F-16D
-f_16c_block_50_shop;F-16C
-f_16c_block_50_0;F-16C Block 50 Fighting Falcon
-f_16c_block_50_1;F-16C
-f_16c_block_50_2;F-16C
+f_16c_block_50_shop;F-16CM
+f_16c_block_50_0;F-16CM Block 50 Fighting Falcon
+f_16c_block_50_1;F-16CM
+f_16c_block_50_2;F-16CM
 harrier_frs1_early_shop;Sea Harrier FRS.1 [E]
 harrier_frs1_early_0;Sea Harrier FRS.1 [Early]
 harrier_frs1_early_1;Sea Harrier FRS.1 [E]
@@ -13348,10 +13348,10 @@ fr_destroyer_mogador_class_mogador_shop;Mogador
 fr_destroyer_mogador_class_mogador_0;Mogador-class, Mogador, 1940
 fr_destroyer_mogador_class_mogador_1;Mogador
 fr_destroyer_mogador_class_mogador_2;Mogador
-germ_schutzenpanzer_puma_vjtf_shop;PUMA VJTF
-germ_schutzenpanzer_puma_vjtf_0;Schützenpanzer PUMA VJTF
-germ_schutzenpanzer_puma_vjtf_1;PUMA VJTF
-germ_schutzenpanzer_puma_vjtf_2;PUMA VJTF
+germ_schutzenpanzer_puma_vjtf_shop;Puma VJTF
+germ_schutzenpanzer_puma_vjtf_0;Schützenpanzer Puma VJTF
+germ_schutzenpanzer_puma_vjtf_1;Puma VJTF
+germ_schutzenpanzer_puma_vjtf_2;Puma VJTF
 jp_battlecruiser_amagi_shop;IJN Amagi
 jp_battlecruiser_amagi_0;Amagi-class, IJN Amagi, project
 jp_battlecruiser_amagi_1;IJN Amagi
@@ -14423,7 +14423,7 @@ fa_18a_hug_2_raaf_0;▄AF/A-18A (HUG 2.4) Hornet
 fa_18a_hug_2_raaf_1;▄AF/A-18A
 fa_18a_hug_2_raaf_2;▄AF/A-18A
 cf_188a_canada_shop;CF-188A
-cf_188a_canada_0;CF-188A
+cf_188a_canada_0;CF-188A Hornet
 cf_188a_canada_1;CF-188A
 cf_188a_canada_2;CF-188A
 f_16a_block_15_ocu_belgium_shop;▄F-16A OCU [BAF]
@@ -15296,3 +15296,217 @@ ussr_ai_sam_launcher_5p85se_2;S-300 [TEL]
 ussr_ai_sam_launcher_9a310_0;9A310 [BUK TELAR]
 ussr_ai_sam_launcher_9a310_1;9A310 [BUK TELAR]
 ussr_ai_sam_launcher_9a310_2;9A310 [BUK TELAR]
+shop/group/sw_eldenhet_nomads_group;EldE 98/NOMADS
+shop/group/germ_m44_55_group;M44/55
+ussr_kv_8_shop;KV-8
+ussr_kv_8_0;KV-8
+ussr_kv_8_1;KV-8
+ussr_kv_8_2;KV-8
+germ_hummel_shop;Hummel
+germ_hummel_0;s.FH 18/1 (Sf.) auf GW III/IV, Hummel
+germ_hummel_1;Hummel
+germ_hummel_2;Hummel
+spitfire_lf_mk9c_cw_greece_shop;▃Spitfire LF Mk IXc (CW)
+spitfire_lf_mk9c_cw_greece_0;▃Spitfire LF Mk IXc (CW)
+spitfire_lf_mk9c_cw_greece_1;▃Spitfire LF Mk IXc (CW)
+spitfire_lf_mk9c_cw_greece_2;▃Spitfire LF Mk IXc (CW)
+welkin_fmk1_shop;Welkin F Mk I
+welkin_fmk1_0;Welkin F Mk I
+welkin_fmk1_1;Welkin F Mk I
+welkin_fmk1_2;Welkin F Mk I
+spitfire_mk5b_float_shop;Spitfire Mk Vb (Float)
+spitfire_mk5b_float_0;Spitfire Mk Vb (Float)
+spitfire_mk5b_float_1;Spitfire Mk Vb (Float)
+spitfire_mk5b_float_2;Spitfire Mk Vb (Float)
+washington_b1_shop;Washington B Mk I
+washington_b1_0;Washington B Mk I
+washington_b1_1;Washington B Mk I
+washington_b1_2;Washington B Mk I
+saab_ajs37_early_shop;AJS37 [E]
+saab_ajs37_early_0;AJS37 Viggen Early
+saab_ajs3_early7_1;AJS37 [E]
+saab_ajs37_early_2;AJS37 [E]
+jh_7a_killstreak_shop;☢JH-7A
+jh_7a_killstreak_0;☢JH-7A Flying Leopard
+jh_7a_killstreak_1;☢JH-7A
+jh_7a_killstreak_2;☢JH-7A
+jh_7a2_shop;JH-7A2
+jh_7a2_0;JH-7A2 "Flounder"
+jh_7a2_1;JH-7A2
+jh_7a2_2;JH-7A2
+j_22m1a_shop;J-22M1A
+j_22m1a_0;J-22M1A Orao
+j_22m1a_1;J-22M1A
+j_22m1a_2;J-22M1A
+l_39za_art_thailand_shop;▄L-39ZA/ART
+l_39za_art_thailand_0;▄L-39ZA/ART Albatros
+l_39za_art_thailand_1;▄L-39ZA/ART
+l_39za_art_thailand_2;▄L-39ZA/ART
+fw_189c_0_shop;Fw 189 C
+fw_189c_0_0;Fw 189 C
+fw_189c_0_1;Fw 189 C
+fw_189c_0_2;Fw 189 C
+yak_130_early_shop;Yak-130
+yak_130_early_0;Yak-130 "Mitten"
+yak_130_early_1;Yak-130
+yak_130_early_2;Yak-130
+us_m60a1_rise_mod_shop;M60A1 Predator
+us_m60a1_rise_mod_0;Tank, Combat, Full-Tracked 105-mm Gun M60A1 RISE (Passive) Predator
+us_m60a1_rise_mod_1;M60A1 Predator
+us_m60a1_rise_mod_2;M60A1 Predator
+f_101c_shop;F-101C
+f_101c_0;F-101C Voodoo
+f_101c_1;F-101C
+f_101c_2;F-101C
+mig_21_2000_iaf_shop;MiG-21 2000
+mig_21_2000_iaf_0;MiG-21 2000
+mig_21_2000_iaf_1;MiG-21 2000
+mig_21_2000_iaf_2;MiG-21 2000
+fr_leopard_1a5be_shop;Leopard 1A5BE
+fr_leopard_1a5be_0;Leopard 1A5BE
+fr_leopard_1a5be_1;Leopard 1A5BE
+fr_leopard_1a5be_2;Leopard 1A5BE
+us_m1a2_sep2_abrams_trophy_shop;M1A2 (Trophy-HV)
+us_m1a2_sep2_abrams_trophy_0;Tank, Combat, Full Tracked, 120-mm Gun M1A2 SEPV2 (Trophy-HV)
+us_m1a2_sep2_abrams_trophy_1;M1A2 (Trophy-HV)
+us_m1a2_sep2_abrams_trophy_2;M1A2 (Trophy-HV)
+us_m1a2_sep3_abrams_shop;M1A2 SEP V3
+us_m1a2_sep3_abrams_0;Tank, Combat, Full Tracked, 120-mm Gun M1A2 SEP V3
+us_m1a2_sep3_abrams_1;M1A2 SEP V3
+us_m1a2_sep3_abrams_2;M1A2 SEP V3
+uk_m1a2_sep3_abrams_shop;▄M1A2
+uk_m1a2_sep3_abrams_0;▄Tank, Combat, Full Tracked, 120-mm Gun M1A2 SEPv3
+uk_m1a2_sep3_abrams_1;▄M1A2
+uk_m1a2_sep3_abrams_2;▄M1A2
+uk_m1a1_aim_abrams_shop;▄M1A1
+uk_m1a1_aim_abrams_0;▄Tank, Combat, Full Tracked, 120-mm Gun M1A1, AIM
+uk_m1a1_aim_abrams_1;▄M1A1
+uk_m1a1_aim_abrams_2;▄M1A1
+il_hunter_afv_shop;Hunter AFV
+il_hunter_afv_0;Hunter AFV
+il_hunter_afv_1;Hunter AFV
+il_hunter_afv_2;Hunter AFV
+it_palmaria_shop;Palmaria
+it_palmaria_0;Semovente d'artiglieria Otobreda Palmaria 155mm
+it_palmaria_1;Palmaria
+it_palmaria_2;Palmaria
+ussr_t_90m_arena_m_shop;T-90M (Arena-M)
+ussr_t_90m_arena_m_0;T-90M (Arena-M)
+ussr_t_90m_arena_m_1;T-90M (Arena-M)
+ussr_t_90m_arena_m_2;T-90M (Arena-M)
+mi_24d_german_shop;◊Mi-24D
+mi_24d_german_0;◊Mi-24D
+mi_24d_german_1;◊Mi-24D
+mi_24d_german_2;◊Mi-24D
+mig_29kr_9_41r_shop;MiG-29KR
+mig_29kr_9_41r_0;MiG-29KR Izdeliye 9-41R "Fulcrum-D"
+mig_29kr_9_41r_1;MiG-29KR
+mig_29kr_9_41r_2;MiG-29KR
+f_14d_shop;F-14D
+f_14d_0;F-14D Super Tomcat
+f_14d_1;F-14D
+f_14d_2;F-14D
+f_16am_block_20_mlu_netherlands_shop;◘F-16AM
+f_16am_block_20_mlu_netherlands_0;◘F-16AM Block 20 MLU Fighting Falcon
+f_16am_block_20_mlu_netherlands_1;◘F-16AM
+f_16am_block_20_mlu_netherlands_2;◘F-16AM
+f_16a_block_72v_china_shop;☀F-16V
+f_16a_block_72v_china_0;☀F-16V Block 72 Fighting Falcon
+f_16a_block_72v_china_1;☀F-16V
+f_16a_block_72v_china_2;☀F-16V
+m_346fa_shop;M-346FA
+m_346fa_0;M-346FA Master
+m_346fa_1;M-346FA
+m_346fa_2;M-346FA
+mi_28n_killstreak_shop;Mi-28N
+mi_28n_killstreak_0;Mi-28N
+mi_28n_killstreak_1;Mi-28N
+mi_28n_killstreak_2;Mi-28N
+cn_pgz_88_shop;PGZ88
+cn_pgz_88_0;PGZ88
+cn_pgz_88_1;PGZ88
+cn_pgz_88_2;PGZ88
+jp_leopard_2ri_shop;Leopard 2RI
+jp_leopard_2ri_0;Leopard 2RI
+jp_leopard_2ri_1;Leopard 2RI
+jp_leopard_2ri_2;Leopard 2RI
+germ_schutzenpanzer_puma_vjtf_mod_shop;Puma u14
+germ_schutzenpanzer_puma_vjtf_mod_0;Schützenpanzer Puma VJTF u14
+germ_schutzenpanzer_puma_vjtf_mod_1;Puma u14
+germ_schutzenpanzer_puma_vjtf_mod_2;Puma u14
+sw_nomads_shop;NOMADS
+sw_nomads_0;National Manoeuvre Air Defence System
+sw_nomads_1;NOMADS
+sw_nomads_2;NOMADS
+jp_destroyer_suzutsuki_shop;IJN Suzutsuki
+jp_destroyer_suzutsuki_0;Akizuki-class, IJN Suzutsuki, 1945
+jp_destroyer_suzutsuki_1;IJN Suzutsuki
+jp_destroyer_suzutsuki_2;IJN Suzutsuki
+fr_trident_class_glaive_p671_shop;Glaive
+fr_trident_class_glaive_p671_0;Trident-class, Glaive (P671)
+fr_trident_class_glaive_p671_1;Glaive
+fr_trident_class_glaive_p671_2;Glaive
+fr_battleship_richelieu_class_jean_bart_shop;Jean Bart
+fr_battleship_richelieu_class_jean_bart_0;Richelieu-class, Jean Bart, 1955
+fr_battleship_richelieu_class_jean_bart_1;Jean Bart
+fr_battleship_richelieu_class_jean_bart_2;Jean Bart
+us_battleship_north_carolina_class_shop;USS North Carolina
+us_battleship_north_carolina_class_0;North Carolina-class, USS North Carolina (BB-55), 1942
+us_battleship_north_carolina_class_1;USS North Carolina
+us_battleship_north_carolina_class_2;USS North Carolina
+it_mas_classe429_shop;MAS 429
+it_mas_classe429_0;Velocissimo Classe 427, MAS 429
+it_mas_classe429_1;MAS 429
+it_mas_classe429_2;MAS 429
+us_destroyer_gridley_shop;USS Gridley
+us_destroyer_gridley_0;Gridley-class, USS Gridley (DD-380), 1943
+us_destroyer_gridley_1;USS Gridley
+us_destroyer_gridley_2;USS Gridley
+germ_cruiser_admiral_scheer_shop;Admiral Scheer
+germ_cruiser_admiral_scheer_0;Deutschland-class, Admiral Scheer, 1945
+germ_cruiser_admiral_scheer_1;Admiral Scheer
+germ_cruiser_admiral_scheer_2;Admiral Scheer
+uk_73ft_vosper_type2_shop;MTB-523
+uk_73ft_vosper_type2_0;73 ft Vosper(2) MTB-523
+uk_73ft_vosper_type2_1;MTB-523
+uk_73ft_vosper_type2_2;MTB-523
+jp_ujishima_msc_shop;JDS Ujishima (MSC-655)
+jp_ujishima_msc_0;YMS-1-class, JDS Ujishima (MSC-655)
+jp_ujishima_msc_1;JDS Ujishima
+jp_ujishima_msc_2;JDS Ujishima
+uk_egret_class_shop;HMS Egret
+uk_egret_class_0;Egret-class, HMS Egret (L75), 1943
+uk_egret_class_1;HMS Egret
+uk_egret_class_2;HMS Egret
+germ_kanonenboot_k4_lorelei_shop;Lorelei
+germ_kanonenboot_k4_lorelei_0;K4-class, Lorelei, 1944
+germ_kanonenboot_k4_lorelei_1;Lorelei
+germ_kanonenboot_k4_lorelei_2;Lorelei
+ussr_cruiser_chervona_ukraina_shop;Chervona Ukraina
+ussr_cruiser_chervona_ukraina_0;Svetlana-class, Chervona Ukraina, 1941
+ussr_cruiser_chervona_ukraina_1;Chervona Ukraina
+ussr_cruiser_chervona_ukraina_2;Chervona Ukraina
+ussr_destroyer_pr56_bravy_ec_0;Pr. 56-K, Bravy, 1967
+ussr_destroyer_pr56_bravy_ec_1;Bravy
+ussr_destroyer_pr56_bravy_ec_2;Bravy
+us_destroyer_cf_adams_class_cf_adams_ec_0;Charles F. Adams-class, USS Charles F. Adams (DDG-2), 1961
+us_destroyer_cf_adams_class_cf_adams_ec_1;USS Charles F. Adams
+us_destroyer_cf_adams_class_cf_adams_ec_2;USS Charles F. Adams
+ussr_destroyer_rckt_pr956_0;Project 956
+ussr_destroyer_rckt_pr956_1;Project 956
+ussr_destroyer_rckt_pr956_2;Project 956
+us_cruiser_rckt_california_0;USS California
+us_cruiser_rckt_california_1;USS California
+us_cruiser_rckt_california_2;USS California
+cn_mbt2000_sm_shop;◍MBT-2000
+cn_mbt2000_sm_0;◍MBT-2000
+cn_mbt2000_sm_1;◍MBT-2000
+cn_mbt2000_sm_2;◍MBT-2000
+uk_challenger_2_megatron_sm_shop;◍Challenger 2 OES
+uk_challenger_2_megatron_sm_0;◍Challenger 2 TES (OES)
+uk_challenger_2_megatron_sm_1;◍Challenger 2 OES
+uk_challenger_2_megatron_sm_2;◍Challenger 2 OES
+jp_type_90b_sm_shop;◍Type 90 (B)
+jp_type_90b_sm_0;◍Type 90 (B)
+jp_type_90b_sm_1;◍Type 90 (B)
+jp_type_90b_sm_2;◍Type 90 (B)
