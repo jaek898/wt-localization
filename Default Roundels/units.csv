@@ -6512,10 +6512,10 @@ so_4050_vautour_2a_shop;Vautour IIA
 so_4050_vautour_2a_0;S.O.4050 Vautour IIA
 so_4050_vautour_2a_1;Vautour IIA
 so_4050_vautour_2a_2;Vautour IIA
-so_4050_vautour_2n_shop;Vautour IIN [E]
-so_4050_vautour_2n_0;S.O.4050 Vautour IIN Early
-so_4050_vautour_2n_1;Vautour IIN [E]
-so_4050_vautour_2n_2;Vautour IIN [E]
+so_4050_vautour_2n_shop;Vautour IIN(C)
+so_4050_vautour_2n_0;S.O.4050 Vautour IIN Classique
+so_4050_vautour_2n_1;Vautour IIN(C)
+so_4050_vautour_2n_2;Vautour IIN(C)
 so_4050_vautour_2a_iaf_shop;Vautour IIA IAF
 so_4050_vautour_2a_iaf_0;S.O.4050 Vautour IIA IAF
 so_4050_vautour_2a_iaf_1;Vautour IIA IAF
@@ -6524,10 +6524,10 @@ so_4050_vautour_2a_israel_iaf_shop;Vautour IIA
 so_4050_vautour_2a_israel_iaf_0;S.O.4050 Vautour IIA
 so_4050_vautour_2a_israel_iaf_1;Vautour IIA
 so_4050_vautour_2a_israel_iaf_2;Vautour IIA
-so_4050_vautour_2n_iaf_shop;Vautour IIN
-so_4050_vautour_2n_iaf_0;S.O.4050 Vautour IIN
-so_4050_vautour_2n_iaf_1;Vautour IIN
-so_4050_vautour_2n_iaf_2;Vautour IIN
+so_4050_vautour_2n_iaf_shop;Vautour IIN(C)
+so_4050_vautour_2n_iaf_0;S.O.4050 Vautour IIN Classique
+so_4050_vautour_2n_iaf_1;Vautour IIN(C)
+so_4050_vautour_2n_iaf_2;Vautour IIN(C)
 f-84f_iaf_shop;▄F-84F IAF
 f-84f_iaf_0;▄F-84F Thunderstreak IAF
 f-84f_iaf_1;▄F-84F IAF
@@ -8357,7 +8357,7 @@ cn_m5a1_stuart_shop;☀M5A1
 cn_m5a1_stuart_0;☀Light Tank M5A1 Stuart
 cn_m5a1_stuart_1;☀M5A1
 cn_m5a1_stuart_2;☀M5A1
-shop/group/cn_m3_m5_stuart_group;␗M3/M5
+shop/group/cn_m3_m5_stuart_group;☀M3/M5
 cn_lvt_4_zis_2_shop;␗LVT(A)(4) (ZiS-2)
 cn_lvt_4_zis_2_0;␗LVT(A)(4) (ZiS-2)
 cn_lvt_4_zis_2_1;␗LVT(A)(4) (ZiS-2)
@@ -10933,10 +10933,10 @@ fiat_g91_y_shop;G.91 Y
 fiat_g91_y_0;G.91 Y
 fiat_g91_y_1;G.91 Y
 fiat_g91_y_2;G.91 Y
-so_4050_vautour_2n_late_shop;Vautour IIN [L]
-so_4050_vautour_2n_late_0;S.O.4050 Vautour IIN Late
-so_4050_vautour_2n_late_1;Vautour IIN [L]
-so_4050_vautour_2n_late_2;Vautour IIN [L]
+so_4050_vautour_2n_late_shop;Vautour IIN(M)
+so_4050_vautour_2n_late_0;S.O.4050 Vautour IIN Monobloc
+so_4050_vautour_2n_late_1;Vautour IIN(M)
+so_4050_vautour_2n_late_2;Vautour IIN(M)
 mirage_2000c_s5_shop;Mirage 2000C-S5
 mirage_2000c_s5_0;Mirage 2000C-S5
 mirage_2000c_s5_1;Mirage 2000C-S5
@@ -13396,18 +13396,18 @@ fr_battleship_dunkerque_shop;Dunkerque
 fr_battleship_dunkerque_0;Dunkerque-class, Dunkerque, 1939
 fr_battleship_dunkerque_1;Dunkerque
 fr_battleship_dunkerque_2;Dunkerque
-fr_leopard_2a4nl_shop;▄Leopard 2A4NL
-fr_leopard_2a4nl_0;▄Leopard 2A4NL
-fr_leopard_2a4nl_1;▄Leopard 2A4NL
-fr_leopard_2a4nl_2;▄Leopard 2A4NL
-fr_leopard_2a5nl_shop;▄Leopard 2A5NL
-fr_leopard_2a5nl_0;▄Leopard 2A5NL
-fr_leopard_2a5nl_1;▄Leopard 2A5NL
-fr_leopard_2a5nl_2;▄Leopard 2A5NL
-fr_leopard_2a6nl_shop;▄Leopard 2A6NL
-fr_leopard_2a6nl_0;▄Leopard 2A6NL
-fr_leopard_2a6nl_1;▄Leopard 2A6NL
-fr_leopard_2a6nl_2;▄Leopard 2A6NL
+fr_leopard_2a4nl_shop;◘Leopard 2A4NL
+fr_leopard_2a4nl_0;◘Leopard 2A4NL
+fr_leopard_2a4nl_1;◘Leopard 2A4NL
+fr_leopard_2a4nl_2;◘Leopard 2A4NL
+fr_leopard_2a5nl_shop;◘Leopard 2A5NL
+fr_leopard_2a5nl_0;◘Leopard 2A5NL
+fr_leopard_2a5nl_1;◘Leopard 2A5NL
+fr_leopard_2a5nl_2;◘Leopard 2A5NL
+fr_leopard_2a6nl_shop;◘Leopard 2A6NL
+fr_leopard_2a6nl_0;◘Leopard 2A6NL
+fr_leopard_2a6nl_1;◘Leopard 2A6NL
+fr_leopard_2a6nl_2;◘Leopard 2A6NL
 germ_9a33bm3_shop;◊Osa-AK
 germ_9a33bm3_0;◊ZRK 9A33BM3 "Osa-AK"
 germ_9a33bm3_1;◊Osa-AK
@@ -14325,10 +14325,10 @@ germ_m55_shop;◄M55
 germ_m55_0;◄Howitzer, Self-propelled, Full Tracked: 203-mm, M55
 germ_m55_1;◄M55
 germ_m55_2;◄M55
-cn_m55_shop;␗M55
-cn_m55_0;␗Howitzer, Self-propelled, Full Tracked: 203-mm, M55
-cn_m55_1;␗M55
-cn_m55_2;␗M55
+cn_m55_shop;☀M55
+cn_m55_0;☀Howitzer, Self-propelled, Full Tracked: 203-mm, M55
+cn_m55_1;☀M55
+cn_m55_2;☀M55
 it_m55_shop;▄M55
 it_m55_0;▄Howitzer, Self-propelled, Full Tracked: 203-mm, M55
 it_m55_1;▄M55
@@ -14623,10 +14623,10 @@ ussr_btr_82at_shop;BTR-82AT
 ussr_btr_82at_0;BTR-82AT
 ussr_btr_82at_1;BTR-82AT
 ussr_btr_82at_2;BTR-82AT
-md_450b_ouragan_iaf_29_shop;M.D.450B (29)
+md_450b_ouragan_iaf_29_shop;Ouragan (29)
 md_450b_ouragan_iaf_29_0;M.D.450B Ouragan (29)
-md_450b_ouragan_iaf_29_1;M.D.450B (29)
-md_450b_ouragan_iaf_29_2;M.D.450B (29)
+md_450b_ouragan_iaf_29_1;Ouragan (29)
+md_450b_ouragan_iaf_29_2;Ouragan (29)
 fokker_d23_shop;◗Fokker D.XXIII
 fokker_d23_0;◗Fokker D.XXIII
 fokker_d23_1;◗Fokker D.XXIII
@@ -15094,7 +15094,7 @@ mig_29m_9_15_shop;MiG-29M
 mig_29m_9_15_0;MiG-29M Izdeliye 9-15 "Fulcrum-E"
 mig_29m_9_15_1;MiG-29M
 mig_29m_9_15_2;MiG-29M
-shop/group/f_4e_f_15_iaf_group;Kurnass/Baz
+shop/group/f_4e_f_15_iaf_group;F-4/F-15
 shop/group/f_15j_group;F-15J
 fa_18f_block_2_raaf_shop;▄F/A-18F
 fa_18f_block_2_raaf_0;▄F/A-18F Block 2 Super Hornet
@@ -15110,7 +15110,7 @@ f_16a_block_10_norway_shop;◢F-16A
 f_16a_block_10_norway_0;◢F-16A Block 10 Fighting Falcon
 f_16a_block_10_norway_1;◢F-16A
 f_16a_block_10_norway_2;◢F-16A
-shop/group/f_16d_iaf_group;Barak II/Sufa
+shop/group/f_16d_iaf_group;F-16
 f_16c_block_52_aesa_shop;F-16CM PoBIT
 f_16c_block_52_aesa_0;F-16CM Block 52 PoBIT Fighting Falcon
 f_16c_block_52_aesa_1;F-16CM PoBIT
@@ -15390,10 +15390,10 @@ it_palmaria_shop;Palmaria
 it_palmaria_0;Semovente d'artiglieria Otobreda Palmaria 155mm
 it_palmaria_1;Palmaria
 it_palmaria_2;Palmaria
-ussr_t_90m_arena_m_shop;T-90M (Arena-M)
-ussr_t_90m_arena_m_0;T-90M (Arena-M)
-ussr_t_90m_arena_m_1;T-90M (Arena-M)
-ussr_t_90m_arena_m_2;T-90M (Arena-M)
+ussr_t_90m_arena_m_shop;T-90M Arena-M
+ussr_t_90m_arena_m_0;T-90M Arena-M
+ussr_t_90m_arena_m_1;T-90M Arena-M
+ussr_t_90m_arena_m_2;T-90M Arena-M
 mi_24d_german_shop;◊Mi-24D
 mi_24d_german_0;◊Mi-24D
 mi_24d_german_1;◊Mi-24D
@@ -15510,3 +15510,117 @@ jp_type_90b_sm_shop;◍Type 90 (B)
 jp_type_90b_sm_0;◍Type 90 (B)
 jp_type_90b_sm_1;◍Type 90 (B)
 jp_type_90b_sm_2;◍Type 90 (B)
+wheeled_vehicles/ussr_zil_131_awning_0;ZiL-131
+wheeled_vehicles/ussr_zil_131_awning_1;ZiL-131
+wheeled_vehicles/ussr_zil_131_awning_2;ZiL-131
+wheeled_vehicles/ussr_zil_131_fuel_carrier_0;ZiL-131
+wheeled_vehicles/ussr_zil_131_fuel_carrier_1;ZiL-131
+wheeled_vehicles/ussr_zil_131_fuel_carrier_2;ZiL-131
+wheeled_vehicles/ussr_zil_131_awning_ammo_carrier_0;ZiL-131
+wheeled_vehicles/ussr_zil_131_awning_ammo_carrier_1;ZiL-131
+wheeled_vehicles/ussr_zil_131_awning_ammo_carrier_2;ZiL-131
+wheeled_vehicles/us_m35a2_awning_ammo_carrier_0;M35A2
+wheeled_vehicles/us_m35a2_awning_ammo_carrier_1;M35A2
+wheeled_vehicles/us_m35a2_awning_ammo_carrier_2;M35A2
+wheeled_vehicles/us_m35a2_awning_0;M35A2
+wheeled_vehicles/us_m35a2_awning_1;M35A2
+wheeled_vehicles/us_m35a2_awning_2;M35A2
+wheeled_vehicles/us_m35a2_fuel_carrier_0;M35A2
+wheeled_vehicles/us_m35a2_fuel_carrier_1;M35A2
+wheeled_vehicles/us_m35a2_fuel_carrier_2;M35A2
+su_17m4_killstreak_shop;☢Su-17M4
+su_17m4_killstreak_0;☢Su-17M4
+su_17m4_killstreak_1;☢Su-17M4
+su_17m4_killstreak_2;☢Su-17M4
+su_17m4_china_killstreak_shop;☢Su-17M4
+su_17m4_china_killstreak_0;☢Su-17M4
+su_17m4_china_killstreak_1;☢Su-17M4
+su_17m4_china_killstreak_2;☢Su-17M4
+shop/group/me_210_410_group;Me 210/Me 410
+j_10a_killstreak_shop;☢J-10A
+j_10a_killstreak_0;☢J-10A
+j_10a_killstreak_1;☢J-10A
+j_10a_killstreak_2;☢J-10A
+iar_81c_db_605_shop;IAR-81C (DB 605)
+iar_81c_db_605_0;IAR-81C (DB 605)
+iar_81c_db_605_1;IAR-81C (DB 605)
+iar_81c_db_605_2;IAR-81C (DB 605)
+f_105d_killstreak_shop;☢F-105D
+f_105d_killstreak_0;☢F-105D Thunderchief
+f_105d_killstreak_1;☢F-105D
+f_105d_killstreak_2;☢F-105D
+f_105d_japan_killstreak_shop;☢F-105D
+f_105d_japan_killstreak_0;☢F-105D Thunderchief
+f-105d_japan_killstreak_1;☢F-105D
+f-105d_japan_killstreak_2;☢F-105D
+b_57b_killstreak_shop;☢B-57B
+b_57b_killstreak_0;☢B-57B Canberra
+b_57b_killstreak_1;☢B-57B
+b_57b_killstreak_2;☢B-57B
+b_57b_japan_killstreak_shop;☢B-57B
+b_57b_japan_killstreak_0;☢B-57B Canberra
+b_57b_japan_killstreak_1;☢B-57B
+b_57b_japan_killstreak_2;☢B-57B
+mig_29smt_9_19_killstreak_shop;☢MiG-29SMT
+mig_29smt_9_19_killstreak_0;☢MiG-29SMT (9-19)
+mig_29smt_9_19_killstreak_1;☢MiG-29SMT
+mig_29smt_9_19_killstreak_2;☢MiG-29SMT
+f_16a_block_15_adf_killstreak_shop;☢F-16A ADF
+f_16a_block_15_adf_killstreak_0;☢F-16A Block 15 ADF Fighting Falcon
+f_16a_block_15_adf_killstreak_1;☢F-16A ADF
+f_16a_block_15_adf_killstreak_2;☢F-16A ADF
+f_16a_block_15_adf_italy_killstreak_shop;☢F-16A ADF
+f_16a_block_15_adf_italy_killstreak_0;☢F-16A Block 15 ADF Fighting Falcon
+f_16a_block_15_adf_italy_killstreak_1;☢F-16A ADF
+f_16a_block_15_adf_italy_killstreak_2;☢F-16A ADF
+f_16a_block_15_adf_germany_killstreak_shop;☢F-16A ADF
+f_16a_block_15_adf_germany_killstreak_0;☢F-16A Block 15 ADF Fighting Falcon
+f_16a_block_15_adf_germany_killstreak_1;☢F-16A ADF
+f_16a_block_15_adf_germany_killstreak_2;☢F-16A ADF
+f_16a_block_15_adf_britain_killstreak_shop;☢F-16A ADF
+f_16a_block_15_adf_britain_killstreak_0;☢F-16A Block 15 ADF Fighting Falcon
+f_16a_block_15_adf_britain_killstreak_1;☢F-16A
+f_16a_block_15_adf_britain_killstreak_2;☢F-16A ADF
+f_16a_block_15_adf_france_killstreak_shop;☢F-16A ADF
+f_16a_block_15_adf_france_killstreak_0;☢F-16A Block 15 ADF Fighting Falcon
+f_16a_block_15_adf_france_killstreak_1;☢F-16A ADF
+f_16a_block_15_adf_france_killstreak_2;☢F-16A ADF
+f_16a_block_15_adf_sweden_killstreak_shop;☢F-16A ADF
+f_16a_block_15_adf_sweden_killstreak_0;☢F-16A Block 15 ADF Fighting Falcon
+f_16a_block_15_adf_sweden_killstreak_1;☢F-16A ADF
+f_16a_block_15_adf_sweden_killstreak_2;☢F-16A ADF
+f_16a_block_20_mlu_killstreak_shop;☢F-16A MLU
+f_16a_block_20_mlu_killstreak_0;☢F-16A Block 20 MLU Fighting Falcon
+f_16a_block_20_mlu_killstreak_1;☢F-16A MLU
+f_16a_block_20_mlu_killstreak_2;☢F-16A MLU
+f_2a_killstreak_shop;☢F-2A
+f_2a_killstreak_0;☢F-2A
+f_2a_killstreak_1;☢F-2A
+f_2a_killstreak_2;☢F-2A
+f_16d_block_40_barak_2_killstreak_shop;☢F-16D Barak II
+f_16d_block_40_barak_2_killstreak_0;☢F-16D Block 40 Barak II
+f_16d_block_40_barak_2_killstreak_1;☢F-16D
+f_16d_block_40_barak_2_killstreak_2;☢F-16D
+f_16xl_shop;F-16XL
+f_16xl_0;F-16XL-1
+f_16xl_1;F-16XL
+f_16xl_2;F-16XL
+tornado_ids_it_mod95_killstreak_shop;☢Tornado IDS
+tornado_ids_it_mod95_killstreak_0;☢Tornado IDS (1995)
+tornado_ids_it_mod95_killstreak_1;☢Tornado IDS
+tornado_ids_it_mod95_killstreak_2;☢Tornado IDS
+ussr_battleship_oktyabrskaya_revolutsiya_shop;Oktyabrskaya Revolutsiya
+ussr_battleship_oktyabrskaya_revolutsiya_0;Sevastopol-class, Oktyabrskaya Revolutsiya, 1946
+ussr_battleship_oktyabrskaya_revolutsiya_1;Oktyabrskaya Revolutsiya
+ussr_battleship_oktyabrskaya_revolutsiya_2;Oktyabrskaya Revolutsiya
+ussr_mpk_pr_1124_ec_0;Pr.1124, MPK-33
+ussr_mpk_pr_1124_ec_1;MPK-33
+ussr_mpk_pr_1124_ec_2;MPK-33
+uk_fv107_scimitar_mk2_shop;Scimitar Mk.2
+uk_fv107_scimitar_mk2_0;FV107 Scimitar Mk.2
+uk_fv107_scimitar_mk2_1;Scimitar Mk.2
+uk_fv107_scimitar_mk2_2;Scimitar Mk.2
+it_fiat_6616_ub_shop;FIAT 6616UB
+it_fiat_6616_ub_0;FIAT Tipo 6616UB-16
+it_fiat_6616_ub_1;FIAT 6616UB
+it_fiat_6616_ub_2;FIAT 6616UB
