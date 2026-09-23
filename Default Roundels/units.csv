@@ -11294,10 +11294,10 @@ ussr_2s38_shop;2S38
 ussr_2s38_0;2S38 Derivatsiya-PVO
 ussr_2s38_1;2S38
 ussr_2s38_2;2S38
-ah_64a_greece_usa_shop;▃AH-64A (GR)
-ah_64a_greece_usa_0;▃AH-64A (GR) Apache
-ah_64a_greece_usa_1;▃AH-64A (GR)
-ah_64a_greece_usa_2;▃AH-64A (GR)
+ah_64a_greece_usa_shop;▃AH-64A
+ah_64a_greece_usa_0;▃AH-64A Apache
+ah_64a_greece_usa_1;▃AH-64A
+ah_64a_greece_usa_2;▃AH-64A
 cn_tor_m1_shop;␗TOR-M1
 cn_tor_m1_0;␗9K331 TOR-M1
 cn_tor_m1_1;␗TOR-M1
@@ -14118,10 +14118,10 @@ ussr_t_72b3_arena_m_shop;T-72B3A
 ussr_t_72b3_arena_m_0;T-72B3A Arena-M
 ussr_t_72b3_arena_m_1;T-72B3A
 ussr_t_72b3_arena_m_2;T-72B3A
-marut_mk1_shop;▄HF-24
-marut_mk1_0;▄HF-24 Marut
-marut_mk1_1;▄HF-24
-marut_mk1_2;▄HF-24
+marut_mk1_shop;HF-24
+marut_mk1_0;HF-24 Marut
+marut_mk1_1;HF-24
+marut_mk1_2;HF-24
 fa_18c_mlu_2_finland_shop;▄F/A-18C MLU 2
 fa_18c_mlu_2_finland_0;▄F/A-18C MLU 2 Hornet
 fa_18c_mlu_2_finland_1;▄F/A-18C MLU 2
@@ -15692,16 +15692,16 @@ a_7e_greece_1;◐A-7E
 a_7e_greece_2;◐A-7E
 f_86em_greece_shop;◐F-86E(M)
 f_86em_greece_0;◐F-86E(M)
-f_86em_greece_1;◐F-86E
-f_86em_greece_2;◐F-86
-ca_27_mk32_raaf_shop;▄CA-27 Mk.32
-ca_27_mk32_raaf_0;▄CA-27 Sabre Mk.32
-ca_27_mk32_raaf_1;▄CA-27 Sabre
-ca_27_mk32_raaf_2;▄CA-27
+f_86em_greece_1;◐F-86E(M)
+f_86em_greece_2;◐F-86E(M)
+ca_27_mk32_raaf_shop;CA-27 Mk.32
+ca_27_mk32_raaf_0;CA-27 Sabre Mk.32
+ca_27_mk32_raaf_1;CA-27 Mk.32
+ca_27_mk32_raaf_2;CA-27 Mk.32
 ca_27_mk32_malaysia_shop;▄CA-27 Mk.32
 ca_27_mk32_malaysia_0;▄CA-27 Sabre Mk.32
-ca_27_mk32_malaysia_1;▄CA-27 Sabre
-ca_27_mk32_malaysia_2;▄CA-27
+ca_27_mk32_malaysia_1;▄CA-27 Mk.32
+ca_27_mk32_malaysia_2;▄CA-27 Mk.32
 f_102a_late_shop;F-102A
 f_102a_late_0;F-102A Delta Dagger
 f_102a_late_1;F-102A
@@ -15871,3 +15871,7 @@ uk_arjun_mk1_shop;Arjun Mk 1
 uk_arjun_mk1_0;Arjun Mk 1
 uk_arjun_mk1_1;Arjun Mk 1
 uk_arjun_mk1_2;Arjun Mk 1
+f_6c_pakistan_shop;F-6C
+f_6c_pakistan_0;F-6C "Farmer-C"
+f_6c_pakistan_1;F-6C
+f_6c_pakistan_2;F-6C
