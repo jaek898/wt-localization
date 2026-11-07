@@ -13607,10 +13607,10 @@ germ_destroyer_fletcher_zerstorer4_shop;Z4 Zerstörer
 germ_destroyer_fletcher_zerstorer4_0;Z1-class, Z4 Zerstörer (D 178), 1960
 germ_destroyer_fletcher_zerstorer4_1;Z4 Zerstörer
 germ_destroyer_fletcher_zerstorer4_2;Z4 Zerstörer
-germ_m44_shop;M44
-germ_m44_0;Panzerhaubitze M44
-germ_m44_1;M44
-germ_m44_2;M44
+germ_m44_shop;◄M44
+germ_m44_0;◄Panzerhaubitze M44
+germ_m44_1;◄M44
+germ_m44_2;◄M44
 germ_pzh_2000_shop;PzH 2000
 germ_pzh_2000_0;PzH 2000
 germ_pzh_2000_1;PzH 2000
@@ -15875,3 +15875,220 @@ f_6c_pakistan_shop;F-6C
 f_6c_pakistan_0;F-6C "Farmer-C"
 f_6c_pakistan_1;F-6C
 f_6c_pakistan_2;F-6C
+us_m3a1_stuart_nvidia_shop;M3A1 TD
+us_m3a1_stuart_nvidia_0;Light Tank M3A1 Stuart TD
+us_m3a1_stuart_nvidia_1;M3A1 TD
+us_m3a1_stuart_nvidia_2;M3A1 TD
+us_stingray_2_shop;Stingray II
+us_stingray_2_0;Stingray II
+us_stingray_2_1;Stingray II
+us_stingray_2_2;Stingray II
+germ_panzerjager_panther_g2_shop;Jagdpanther G2
+germ_panzerjager_panther_g2_0;Jagdpanther, Panzerjaeger Panther (8.8cm) Ausf.G2
+germ_panzerjager_panther_g2_1;Jagdpanther G2
+germ_panzerjager_panther_g2_2;Jagdpanther G2
+uk_olifant_optimering_shop;Optimering
+uk_olifant_optimering_0;Olifant Mk.1B Optimering
+uk_olifant_optimering_1;Optimering
+uk_olifant_optimering_2;Optimering
+fr_prtl_shop;Cheetah PRTL
+fr_prtl_0;Cheetah PRTL
+fr_prtl_1;Cheetah PRTL
+fr_prtl_2;Cheetah PRTL
+bf-109e-3_tl_shop;◆Bf 109 E-3
+bf-109e-3_tl_0;◆Bf 109 E-3
+bf-109e-3_tl_1;◆Bf 109 E-3
+bf-109e-3_tl_2;◆Bf 109 E-3
+fw_190a_8_mistel_shop;Mistel 2
+fw_190a_8_mistel_0;Mistel 2
+fw_190a_8_mistel_1;Mistel 2
+fw_190a_8_mistel_2;Mistel 2
+ju_88g_1_mistel_shop;Mistel 2
+ju_88g_1_mistel_0;Mistel 2
+ju_88g_1_mistel_1;Mistel 2
+ju_88g_1_mistel_2;Mistel 2
+f2a-1_nvidia_shop;F2A-1 TD
+f2a-1_nvidia_0;F2A-1 Buffalo TD
+f2a-1_nvidia_1;F2A TD
+f2a-1_nvidia_2;F2A TD
+b_33_indonesia_shop;◥B-33
+b_33_indonesia_0;◥B-33
+b_33_indonesia_1;◥B-33
+b_33_indonesia_2;◥B-33
+su_15tm_shop;Su-15TM
+su_15tm_0;Su-15TM "Flagon-F"
+su_15tm_1;Su-15TM
+su_15tm_2;Su-15TM
+saab_jas39_pre_serie_shop;JAS39-5
+saab_jas39_pre_serie_0;JAS39 (39-5 pre-serie)
+saab_jas39_pre_serie_1;JAS39-5
+saab_jas39_pre_serie_2;JAS39-5
+q_5d_shop;Q-5D
+q_5d_0;Q-5D "Fantan"
+q_5d_1;Q-5D
+q_5d_2;Q-5D
+firefly_mk1_thailand_shop;▄Firefly F Mk I
+firefly_mk1_thailand_0;▄Firefly F Mk I
+firefly_mk1_thailand_1;▄Firefly F Mk I
+firefly_mk1_thailand_2;▄Firefly F Mk I
+fulmar_mk2_shop;Fulmar Mk II
+fulmar_mk2_0;Fulmar Mk II
+fulmar_mk2_1;Fulmar Mk II
+fulmar_mk2_2;Fulmar Mk II
+ussr_btr_90_2004_shop;BTR-90
+ussr_btr_90_2004_0;BTR-90
+ussr_btr_90_2004_1;BTR-90
+ussr_btr_90_2004_2;BTR-90
+germ_leopard_2a8_shop;Leopard 2A8
+germ_leopard_2a8_0;Leopard 2A8
+germ_leopard_2a8_1;Leopard 2A8
+germ_leopard_2a8_2;Leopard 2A8
+sw_leopard_2a8no_shop;◢Leopard 2A8NO
+sw_leopard_2a8no_0;◢Leopard 2A8NO
+sw_leopard_2a8no_1;◢Leopard 2A8NO
+sw_leopard_2a8no_2;◢Leopard 2A8NO
+it_v_4_straussler_shop;V-4/40
+it_v_4_straussler_0;Straussler V-4/40
+it_v_4_straussler_1;V-4/40
+it_v_4_straussler_2;V-4/40
+it_lancia_flak38_shop;Lancia 3Ro (Flak.)
+it_lancia_flak38_0;Lancia 3Ro (Flak.)
+it_lancia_flak38_1;Lancia 3Ro (Flak.)
+it_lancia_flak38_2;Lancia 3Ro (Flak.)
+mi_4av_killstreak_shop;Mi-4AV
+mi_4av_killstreak_0;Mi-4AV
+mi_4av_killstreak_1;Mi-4AV
+mi_4av_killstreak_2;Mi-4AV
+h_34_killstreak_shop;H-34
+h_34_killstreak_0;H-34
+h_34_killstreak_1;H-34
+h_34_killstreak_2;H-34
+jp_bmp_3f_shop;BMP-3F
+jp_bmp_3f_0;BMP-3F
+jp_bmp_3f_1;BMP-3F
+jp_bmp_3f_2;BMP-3F
+ussr_bt_7_m_816_shop;◆BT-7M
+ussr_bt_7_m_816_0;◆BT-7M
+ussr_bt_7_m_816_1;◆BT-7M
+ussr_bt_7_m_816_2;◆BT-7M
+f_15ex_shop;F-15EX
+f_15ex_0;F-15EX Eagle II
+f_15ex_1;F-15EX
+f_15ex_2;F-15EX
+f_15ia_shop;F-15IA
+f_15ia_0;F-15IA Ra’am II
+f_15ia_1;F-15IA
+f_15ia_2;F-15IA
+fa_18d_late_shop;F/A-18D
+fa_18d_late_0;F/A-18D Hornet
+fa_18d_late_1;F/A-18D
+fa_18d_late_2;F/A-18D
+aw_249_pre_serie_shop;AW249 Fenice
+aw_249_pre_serie_0;AW249 Fenice (pre-series)
+aw_249_pre_serie_1;AW249 Fenice
+aw_249_pre_serie_2;AW249 Fenice
+cn_zbd_04_shop;ZBD04
+cn_zbd_04_0;ZhuangJia BuBing LÜDai 04
+cn_zbd_04_1;ZBD04
+cn_zbd_04_2;ZBD04
+sw_pv_m39_shop;Pbil m/39
+sw_pv_m39_0;Pansarbil m/39
+sw_pv_m39_1;Pbil m/39
+sw_pv_m39_2;Pbil m/39
+sw_patria_bmp_3_shop;AMV (BMP-3)
+sw_patria_bmp_3_0;Patria AMV (BMP-3)
+sw_patria_bmp_3_1;AMV (BMP-3)
+sw_patria_bmp_3_2;AMV (BMP-3)
+us_aircraftcarrier_nimitz_shop;USS Nimitz
+us_aircraftcarrier_nimitz_0;USS Nimitz, CVN-68
+us_aircraftcarrier_nimitz_1;USS Nimitz
+us_aircraftcarrier_nimitz_2;USS Nimitz
+us_aircraftcarrier_nimitz_ai_shop;USS Nimitz
+us_aircraftcarrier_nimitz_ai_0;USS Nimitz, CVN-68
+us_aircraftcarrier_nimitz_ai_1;USS Nimitz
+us_aircraftcarrier_nimitz_ai_2;USS Nimitz
+us_destroyer_halsey_shop;USS Halsey
+us_destroyer_halsey_0;USS Halsey, DDG-97
+us_destroyer_halsey_1;USS Halsey
+us_destroyer_halsey_2;USS Halsey
+us_frigate_oliver_hazard_perry_shop;USS Oliver Hazard Perry
+us_frigate_oliver_hazard_perry_0;USS Oliver Hazard Perry, FFG-7
+us_frigate_oliver_hazard_perry_1;USS Oliver Hazard Perry
+us_frigate_oliver_hazard_perry_2;USS Oliver Hazard Perry
+us_aircraftcarrier_gerald_ford_shop;USS Gerald Ford
+us_aircraftcarrier_gerald_ford_0;USS Gerald Ford, CVN-78
+us_aircraftcarrier_gerald_ford_1;USS Gerald Ford
+us_aircraftcarrier_gerald_ford_2;USS Gerald Ford
+us_aircraftcarrier_gerald_ford_ai_shop;USS Gerald Ford
+us_aircraftcarrier_gerald_ford_ai_0;USS Gerald Ford, CVN-78
+us_aircraftcarrier_gerald_ford_ai_1;USS Gerald Ford
+us_aircraftcarrier_gerald_ford_ai_2;USS Gerald Ford
+cn_aircraftcarrier_fujian_shop;Fujian
+cn_aircraftcarrier_fujian_0;Fujian
+cn_aircraftcarrier_fujian_1;Fujian
+cn_aircraftcarrier_fujian_2;Fujian
+cn_aircraftcarrier_fujian_ai_shop;Fujian
+cn_aircraftcarrier_fujian_ai_0;Fujian
+cn_aircraftcarrier_fujian_ai_1;Fujian
+cn_aircraftcarrier_fujian_ai_2;Fujian
+cn_destroyer_type052d_shop;Type 052D
+cn_destroyer_type052d_0;Type 052D
+cn_destroyer_type052d_1;Type 052D
+cn_destroyer_type052d_2;Type 052D
+germ_s_700_s_706_shop;S-706
+germ_s_700_s_706_0;S-700-class, S-706
+germ_s_700_s_706_1;S-706
+germ_s_700_s_706_2;S-706
+ussr_destroyer_vifor_class_lyogkiy_shop;Lyogkiy
+ussr_destroyer_vifor_class_lyogkiy_0;Vifor-class, Lyogkiy, 1944
+ussr_destroyer_vifor_class_lyogkiy_1;Lyogkiy
+ussr_destroyer_vifor_class_lyogkiy_2;Lyogkiy
+uk_battleship_duke_of_york_shop;HMS Duke of York
+uk_battleship_duke_of_york_0;King George V-class, HMS Duke of York (17), 1943
+uk_battleship_duke_of_york_1;HMS Duke of York
+uk_battleship_duke_of_york_2;HMS Duke of York
+germ_battleship_pr_h39_shop;H-39
+germ_battleship_pr_h39_0;H-39-class, H-39, project
+germ_battleship_pr_h39_1;H-39
+germ_battleship_pr_h39_2;H-39
+us_erie_class_shop;Erie
+us_erie_class_0;Erie-class, Erie (PG-50), 1942
+us_erie_class_1;Erie
+us_erie_class_2;Erie
+ussr_battleship_imperator_nikolai_pervyi_shop;Nikolay Perviy
+ussr_battleship_imperator_nikolai_pervyi_0;Nikolay Perviy-class, Nikolay Perviy, project
+ussr_battleship_imperator_nikolai_pervyi_1;Nikolay Perviy
+ussr_battleship_imperator_nikolai_pervyi_2;Nikolay Perviy
+it_destroyer_audace_shop;Audace
+it_destroyer_audace_0;Audace-class, Audace D551, 1973
+it_destroyer_audace_1;Audace
+it_destroyer_audace_2;Audace
+fr_vc1_shop;VC-1
+fr_vc1_0;VC-1
+fr_vc1_1;VC-1
+fr_vc1_2;VC-1
+fr_destroyer_le_hardi_class_le_hardi_shop;Le Hardi
+fr_destroyer_le_hardi_class_le_hardi_0;Le Hardi-class, Le Hardi, 1941
+fr_destroyer_le_hardi_class_le_hardi_1;Le Hardi
+fr_destroyer_le_hardi_class_le_hardi_2;Le Hardi
+fr_l990_monitor_shop;L-990
+fr_l990_monitor_0;Chaland-class, L-990
+fr_l990_monitor_1;L-990
+fr_l990_monitor_2;L-990
+jp_cruiser_takao_shop;IJN Takao
+jp_cruiser_takao_0;Takao-class, IJN Takao, 1944
+jp_cruiser_takao_1;IJN Takao
+jp_cruiser_takao_2;IJN Takao
+uk_cruiser_danae_class_shop;HMS Danae
+uk_cruiser_danae_class_0;Danae-class, HMS Danae (D44), 1944
+uk_cruiser_danae_class_1;Danae
+uk_cruiser_danae_class_2;Danae
+us_ai_mlrs_atacms_m270_0;TBM MGM-140 ATACMS
+us_ai_mlrs_atacms_m270_1;TBM MGM-140 ATACMS
+us_ai_mlrs_atacms_m270_2;TBM MGM-140 ATACMS
+ussr_ai_tbm_9k720_m_iskander_0;TBM 9K720 "Iskander-M"
+ussr_ai_tbm_9k720_m_iskander_1;TBM 9K720 "Iskander-M"
+ussr_ai_tbm_9k720_m_iskander_2;TBM 9K720 "Iskander-M"
+ussr_ai_tbm_9k720_k_iskander_0;GLCM 9K720 "Iskander-K"
+ussr_ai_tbm_9k720_k_iskander_1;GLCM 9K720 "Iskander-K"
+ussr_ai_tbm_9k720_k_iskander_2;GLCM 9K720 "Iskander-K"
